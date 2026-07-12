@@ -1,0 +1,70 @@
+# Ignored directory used for storing raw data
+raw/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Claude
+CLAUDE.md
+.claude/
+
+# Cursor
+.cursor/
+.cursorrules
+.cursor-tutor/
+
+# GitHub Copilot
+.copilot/
+copilot-instructions.md
+
+# Windsurf / Codeium
+.windsurf/
+.windsurfrules
+.codeium/
+
+# Aider
+.aider*
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache.v3
+
+# Cody (Sourcegraph)
+.cody/
+
+# Continue.dev
+.continue/
+
+# Cline / Roo Code
+.clinerules
+.clinerules/
+.roo/
+.roorules
+
+# OpenAI Codex CLI
+.codex/
+AGENTS.md
+
+# Google Gemini CLI
+.gemini/
+GEMINI.md
+
+# Amazon Q Developer
+.amazonq/
+
+# JetBrains Junie
+.junie/
+
+# Qodo (formerly CodiumAI)
+.qodo/
+
+# Model Context Protocol (tool-agnostic config, still local/AI-adjacent)
+.mcp.json
+
+# Local-only scratch copy of API keys (real source is js/config.js — see CLAUDE.md)
+.env
