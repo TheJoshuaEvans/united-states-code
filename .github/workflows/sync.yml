@@ -1,0 +1,48 @@
+name: Sync USC mirror
+
+# Runs overnight Tue/Thu/Sat, catching whatever posted during the Mon/Wed/Fri workday.
+# 06:00 UTC = 1am EST / 2am EDT -- one fixed time lands in the 1-2am Eastern window on both
+# sides of the DST switch, so no timezone-conversion guard is needed.
+on:
+  schedule:
+    - cron: "0 6 * * 2,4,6"
+  workflow_dispatch: {}
+
+concurrency:
+  group: usc-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install package
+        run: pip install .
+
+      - name: Run sync
+        run: uscode-mirror-sync
+
+      - name: Commit and push if usc/ changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add usc/
+          if git diff --cached --quiet; then
+            echo "No changes to commit -- already current"
+          else
+            release_point="$(cat usc/.release-point)"
+            git commit -m "Sync USC mirror to release point ${release_point}"
+            git push
+          fi
