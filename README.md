@@ -25,7 +25,7 @@ All three formats represent the same underlying citation and are generated toget
 
 ## Directory layout
 
-Files are organized by title and citation path, with all three formats living as neighbors:
+Files are organized by title and section number, with all three formats living as neighbors:
 
 ```
 usc/{title}/{section}.xml
@@ -33,15 +33,34 @@ usc/{title}/{section}.json
 usc/{title}/{section}.txt
 ```
 
-For example, 26 U.S.C. § 501(c)(3):
+For example, 26 U.S.C. § 501 (including all of its subsections, such as (c)(3)):
 
 ```
-usc/26/501/c/3.xml
-usc/26/501/c/3.json
-usc/26/501/c/3.txt
+usc/26/501.xml
+usc/26/501.json
+usc/26/501.txt
 ```
 
-Chunking is at the whole-section level — a citation file contains its entire section, not just the specific subsection or paragraph requested.
+Chunking is at the whole-section level — a citation file contains its entire section, not just the specific subsection or paragraph requested. There is no subsection-level nesting in the path.
+
+## Duplicate section numbers
+
+Rarely, two different laws each claim the same "next available" section number within a title, and OLRC keeps both as distinct, currently-operative sections rather than silently dropping one — cross-referenced only by an editorial footnote (e.g. "Another section 130g is set out after this section."), not by a distinguishing identifier. When this happens, the first section in document order is mirrored normally (`usc/10/130g.xml`) and each subsequent one gets an underscore-numbered suffix (`usc/10/130g_2.xml`), not a hyphen — a hyphen is reserved for a section number that's genuinely part of the citation itself (e.g. `usc/42/2000e-1.xml`). This is not an official OLRC citation form; it's this mirror's own deterministic tie-break, applied in the order sections appear in the source file.
+
+## Live sections only
+
+Only sections currently in force are mirrored. OLRC marks a section as dead — repealed, omitted, transferred, renumbered, vacant, or reserved — with a `status` attribute in the source USLM; any section carrying one, regardless of its value, is intentionally excluded here. A citation pointing at a dead section will 404 against this mirror. Consumers should treat that 404 as "not currently in force," not as a fetch failure — the section may well appear elsewhere in the U.S. Code's own history, just not as live text.
+
+## Appendix titles are whole-file, not per-citation
+
+Four titles — 5A, 11A, 18A, and 28A — are "Appendix" titles rather than ordinary codified titles: they hold Presidential Reorganization Plans and the Federal Rules of Bankruptcy/Civil/Criminal/Appellate Procedure and Evidence, none of which went through the ordinary codification process (court rules are promulgated by the Supreme Court under the Rules Enabling Act, not enacted by Congress; reorganization plans restructure agencies, not the Code's topic hierarchy). Their content isn't shaped like `<section>` citations at all, and none of it is the target of ordinary "Section X of title Y is amended" bill language. Rather than per-citation chunking, each is mirrored as a single whole-title file:
+
+```
+usc/5a/full.xml
+usc/11a/full.xml
+usc/18a/full.xml
+usc/28a/full.xml
+```
 
 ## Freshness and provenance
 

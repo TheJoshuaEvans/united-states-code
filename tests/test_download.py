@@ -6,6 +6,7 @@ from pathlib import Path
 import pytest
 
 from uscode_mirror.download import (
+    ReservedTitleError,
     UnexpectedZipContentsError,
     download_zip,
     extract_xml,
@@ -14,6 +15,7 @@ from uscode_mirror.download import (
 )
 
 SAMPLE_XML = b'<?xml version="1.0"?><uscDoc><main>Title 51 content</main></uscDoc>'
+RESERVED_TITLE_HTML = b"<html><body>The page you requested cannot be found.</body></html>"
 
 
 def _build_zip(members: dict[str, bytes]) -> bytes:
@@ -87,6 +89,17 @@ def test_extract_xml_raises_on_multiple_xml_members(tmp_path: Path) -> None:
         extract_xml(zip_path, tmp_path)
 
 
+def test_extract_xml_raises_reserved_title_error_on_non_zip_contents(caplog: pytest.LogCaptureFixture, tmp_path: Path) -> None:
+    zip_path = tmp_path / "xml_usc53@119-99.zip"
+    zip_path.write_bytes(RESERVED_TITLE_HTML)
+
+    with caplog.at_level(logging.WARNING, logger="uscode_mirror.download"):
+        with pytest.raises(ReservedTitleError):
+            extract_xml(zip_path, tmp_path)
+
+    assert any(record.levelno == logging.WARNING for record in caplog.records)
+
+
 def test_fetch_title_xml_downloads_and_extracts_leaving_both_files_in_raw_dir(
     monkeypatch: pytest.MonkeyPatch, tmp_path: Path
 ) -> None:
@@ -123,3 +136,23 @@ def test_fetch_all_titles_processes_every_url_in_order(monkeypatch: pytest.Monke
     assert xml_paths == [tmp_path / "usc01.xml", tmp_path / "usc02.xml"]
     assert (tmp_path / "usc01.xml").read_bytes() == b"title 1"
     assert (tmp_path / "usc02.xml").read_bytes() == b"title 2"
+
+
+def test_fetch_all_titles_skips_reserved_titles_and_continues(
+    caplog: pytest.LogCaptureFixture, monkeypatch: pytest.MonkeyPatch, tmp_path: Path
+) -> None:
+    zips_by_url = {
+        "https://uscode.house.gov/.../xml_usc52@119-99.zip": _build_zip({"usc52.xml": b"title 52"}),
+        "https://uscode.house.gov/.../xml_usc53@119-99.zip": RESERVED_TITLE_HTML,
+        "https://uscode.house.gov/.../xml_usc54@119-99.zip": _build_zip({"usc54.xml": b"title 54"}),
+    }
+    monkeypatch.setattr(
+        "uscode_mirror.download.urllib.request.urlopen",
+        lambda url: _FakeResponse(zips_by_url[url]),
+    )
+
+    with caplog.at_level(logging.INFO, logger="uscode_mirror.download"):
+        xml_paths = fetch_all_titles(list(zips_by_url), tmp_path)
+
+    assert xml_paths == [tmp_path / "usc52.xml", tmp_path / "usc54.xml"]
+    assert any("usc53" in record.message for record in caplog.records)

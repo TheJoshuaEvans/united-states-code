@@ -20,6 +20,16 @@ class UnexpectedZipContentsError(RuntimeError):
     """A downloaded zip didn't contain exactly one XML member, as every USLM title zip should."""
 
 
+class ReservedTitleError(RuntimeError):
+    """A title's download URL didn't return a real zip archive.
+
+    OLRC's release-point pages list `[XML]` download links for every title number, including
+    titles that are formally "[Reserved]" in the Code (e.g. Title 53, held open for future use)
+    and have no content published. Those links 200 with an HTML error page instead of a zip, so
+    this is an expected outcome to route around, not a fetch failure.
+    """
+
+
 def download_zip(url: str, raw_dir: Path) -> Path:
     """Stream a title zip from `url` into `raw_dir`, named after the URL's own filename."""
     raw_dir.mkdir(parents=True, exist_ok=True)
@@ -31,6 +41,9 @@ def download_zip(url: str, raw_dir: Path) -> Path:
 
 def extract_xml(zip_path: Path, raw_dir: Path) -> Path:
     """Unpack the single XML member of a title zip into `raw_dir`."""
+    if not zipfile.is_zipfile(zip_path):
+        logger.warning("%s is not a real zip archive -- likely a reserved title with no published content", zip_path)
+        raise ReservedTitleError(f"{zip_path} is not a real zip archive (likely a reserved title)")
     with zipfile.ZipFile(zip_path) as archive:
         xml_names = [name for name in archive.namelist() if name.endswith(".xml")]
         if len(xml_names) != 1:
@@ -47,5 +60,15 @@ def fetch_title_xml(url: str, raw_dir: Path) -> Path:
 
 
 def fetch_all_titles(urls: Sequence[str], raw_dir: Path) -> list[Path]:
-    """Download and unpack every given title zip, one at a time, returning their XML paths."""
-    return [fetch_title_xml(url, raw_dir) for url in urls]
+    """Download and unpack every given title zip, one at a time, returning their XML paths.
+
+    Reserved titles (no content published at this release point) are skipped rather than
+    aborting the whole batch -- see `ReservedTitleError`.
+    """
+    xml_paths = []
+    for url in urls:
+        try:
+            xml_paths.append(fetch_title_xml(url, raw_dir))
+        except ReservedTitleError:
+            logger.info("Skipping %s: reserved title, no content to extract", url)
+    return xml_paths
