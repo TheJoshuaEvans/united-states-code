@@ -11,6 +11,9 @@ requires-python = ">=3.13"
 license = { file = "LICENSE" }
 dependencies = []
 
+[project.scripts]
+uscode-mirror-sync = "uscode_mirror.sync:main"
+
 [project.optional-dependencies]
 dev = [
     "pip-tools",

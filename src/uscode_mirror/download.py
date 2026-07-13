@@ -36,6 +36,7 @@ def download_zip(url: str, raw_dir: Path) -> Path:
     dest_path = raw_dir / url.rsplit("/", 1)[-1]
     with urllib.request.urlopen(url) as response, dest_path.open("wb") as out_file:
         shutil.copyfileobj(response, out_file)
+    logger.info("Downloaded %s -> %s", url, dest_path)
     return dest_path
 
 
@@ -50,7 +51,9 @@ def extract_xml(zip_path: Path, raw_dir: Path) -> Path:
             logger.error("Expected exactly one .xml member in %s, found %s", zip_path, xml_names)
             raise UnexpectedZipContentsError(f"Expected exactly one .xml member in {zip_path}, found {xml_names}")
         raw_dir.mkdir(parents=True, exist_ok=True)
-        return Path(archive.extract(xml_names[0], raw_dir))
+        extracted_path = Path(archive.extract(xml_names[0], raw_dir))
+        logger.info("Extracted %s -> %s", zip_path, extracted_path)
+        return extracted_path
 
 
 def fetch_title_xml(url: str, raw_dir: Path) -> Path:

@@ -1,4 +1,4 @@
-# united-states-code
+# United States Code
 
 A CORS-accessible, static mirror of the current United States Code, chunked to one file per citation and published in three formats.
 
@@ -88,6 +88,16 @@ python3.13 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
 ```
+
+Running the sync end to end (download -> chunk -> render):
+
+```sh
+uscode-mirror-sync
+```
+
+Discovers OLRC's latest release point and, if `usc/` isn't already synced to it (tracked via the
+`usc/.release-point` marker file), wipes and fully rebuilds `raw/` and `usc/` from scratch —
+otherwise it's a no-op. Pass `--force` to rebuild even when already current.
 
 Layout:
 

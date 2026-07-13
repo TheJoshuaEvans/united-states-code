@@ -60,6 +60,17 @@ def test_download_zip_streams_body_to_a_file_named_after_the_url(monkeypatch: py
     assert dest_path.read_bytes() == zip_bytes
 
 
+def test_download_zip_logs_on_success(monkeypatch: pytest.MonkeyPatch, tmp_path: Path, caplog: pytest.LogCaptureFixture) -> None:
+    zip_bytes = _build_zip({"usc51.xml": SAMPLE_XML})
+    monkeypatch.setattr("uscode_mirror.download.urllib.request.urlopen", lambda url: _FakeResponse(zip_bytes))
+    url = "https://uscode.house.gov/download/releasepoints/us/pl/119/99/xml_usc51@119-99.zip"
+
+    with caplog.at_level(logging.INFO, logger="uscode_mirror.download"):
+        dest_path = download_zip(url, tmp_path)
+
+    assert any(url in record.getMessage() and str(dest_path) in record.getMessage() for record in caplog.records)
+
+
 def test_extract_xml_unpacks_the_single_xml_member(tmp_path: Path) -> None:
     zip_path = tmp_path / "xml_usc51@119-99.zip"
     zip_path.write_bytes(_build_zip({"usc51.xml": SAMPLE_XML}))
@@ -68,6 +79,16 @@ def test_extract_xml_unpacks_the_single_xml_member(tmp_path: Path) -> None:
 
     assert xml_path == tmp_path / "usc51.xml"
     assert xml_path.read_bytes() == SAMPLE_XML
+
+
+def test_extract_xml_logs_on_success(caplog: pytest.LogCaptureFixture, tmp_path: Path) -> None:
+    zip_path = tmp_path / "xml_usc51@119-99.zip"
+    zip_path.write_bytes(_build_zip({"usc51.xml": SAMPLE_XML}))
+
+    with caplog.at_level(logging.INFO, logger="uscode_mirror.download"):
+        xml_path = extract_xml(zip_path, tmp_path)
+
+    assert any(str(zip_path) in record.getMessage() and str(xml_path) in record.getMessage() for record in caplog.records)
 
 
 def test_extract_xml_raises_on_zero_xml_members(caplog: pytest.LogCaptureFixture, tmp_path: Path) -> None:

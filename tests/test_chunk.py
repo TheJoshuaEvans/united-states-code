@@ -191,6 +191,17 @@ def test_chunk_title_disambiguates_two_distinct_live_sections_sharing_one_number
     assert any(record.levelno == logging.WARNING for record in caplog.records)
 
 
+def test_chunk_title_logs_completion_for_a_normal_title(caplog: pytest.LogCaptureFixture, tmp_path: Path) -> None:
+    xml_path = tmp_path / "usc51.xml"
+    xml_path.write_text(_title_xml("USCTitle", "51", LIVE_SECTION + SECOND_LIVE_SECTION))
+    usc_dir = tmp_path / "usc"
+
+    with caplog.at_level(logging.INFO, logger="uscode_mirror.chunk"):
+        chunk_title(xml_path, usc_dir)
+
+    assert any("51" in record.getMessage() and "2" in record.getMessage() for record in caplog.records)
+
+
 def test_chunk_title_skips_a_status_bearing_section_entirely(tmp_path: Path) -> None:
     xml_path = tmp_path / "usc51.xml"
     xml_path.write_text(_title_xml("USCTitle", "51", LIVE_SECTION + DEAD_SECTION))
@@ -252,6 +263,17 @@ def test_chunk_title_copies_appendix_titles_whole_byte_for_byte(tmp_path: Path) 
 
     assert written == [usc_dir / "11a" / "full.xml"]
     assert (usc_dir / "11a" / "full.xml").read_bytes() == xml_bytes
+
+
+def test_chunk_title_logs_completion_for_an_appendix_title(caplog: pytest.LogCaptureFixture, tmp_path: Path) -> None:
+    xml_path = tmp_path / "usc11a.xml"
+    xml_path.write_bytes(_title_xml("USCTitleAppendix", "11a", '<courtRule identifier="/us/usc/rule1001"/>').encode())
+    usc_dir = tmp_path / "usc"
+
+    with caplog.at_level(logging.INFO, logger="uscode_mirror.chunk"):
+        chunk_title(xml_path, usc_dir)
+
+    assert any("11a" in record.getMessage() for record in caplog.records)
 
 
 def test_chunk_title_raises_on_a_live_section_with_an_unexpected_identifier_shape(

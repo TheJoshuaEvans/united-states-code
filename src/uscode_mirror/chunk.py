@@ -156,6 +156,7 @@ def chunk_title(xml_path: Path, usc_dir: Path) -> list[Path]:
     if meta.is_appendix:
         dest = title_dir / "full.xml"
         shutil.copyfile(xml_path, dest)
+        logger.info("Processed title %s (appendix): wrote %s", meta.title_code, dest)
         return [dest]
 
     written: list[Path] = []
@@ -190,6 +191,7 @@ def chunk_title(xml_path: Path, usc_dir: Path) -> list[Path]:
         dest = title_dir / filename
         dest.write_bytes(serialize_section(section))
         written.append(dest)
+    logger.info("Processed title %s: wrote %d section file(s)", meta.title_code, len(written))
     return written
 
 
