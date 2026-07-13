@@ -18,10 +18,10 @@ There is no server, proxy, or API. Every file in `usc/` is static and pre-genera
 Each citation is published in three independent, parallel formats:
 
 - **`.xml`** — the official USLM markup for that citation, sliced from the full title file. The USLM namespace is re-declared on the extracted root so the file is valid standalone XML; the content itself is unmodified.
-- **`.json`** — a structured translation of the citation, including OLRC's editorial notes, source-credit, and cross-reference metadata (tagged separately from the operative text).
+- **`.json`** — a structural mirror of that citation's `.xml`: every element, in its original document order, with its exact tag/text — including OLRC's editorial notes, source-credit, and cross-reference metadata (tagged separately from the operative text, the same way the XML tags them). Not a curated or semantic re-modeling of the legal hierarchy. The one deliberate departure from 1:1: `style`/`class` attributes (OLRC's presentational markup — USLM's internal style codes, CSS-like classes) are stripped, since they carry no legal-structure or cross-reference meaning; every other attribute is kept. Anyone who wants the official styling has the `.xml`.
 - **`.txt`** — the operative legal text only, plain and readable. No notes, no source credit, no cross-reference annotations.
 
-All three formats represent the same underlying citation and are generated together, so they never disagree with each other.
+All three formats represent the same underlying citation and never disagree with each other. `.json` is derived deterministically from the already-published `.xml` for that same citation (a separate rendering pass, not a shared in-memory parse), so it can't drift from it.
 
 ## Directory layout
 
