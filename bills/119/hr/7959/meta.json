@@ -1,0 +1,182 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-606",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/606?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 48 (Tuesday, March 17, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KELLY of Pennsylvania:\nH.R. 7959.\nCongress has the power to enact this legislation pursuant\nto the following:\nSixteenth Amendment provides Congress with the power to\n``lay and collect taxes on incomes.''\n[Page H2551]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-17",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7959",
+    "number": "7959",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000376",
+        "district": 16,
+        "firstName": "Mike",
+        "fullName": "Rep. Kelly, Mike [R-PA-16]",
+        "isByRequest": "N",
+        "lastName": "Kelly",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/K000376?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/text?format=json"
+    },
+    "title": "IRS Whistleblower Program Improvement Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7959/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T21:14:31Z",
+    "updateDateIncludingText": "2026-07-13T01:09:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000460",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Thompson, Mike [D-CA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "D",
+      "sponsorshipDate": "2026-03-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000460?format=json"
+    },
+    {
+      "bioguideId": "M001205",
+      "district": 1,
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001205?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    },
+    {
+      "bioguideId": "M001224",
+      "district": 1,
+      "firstName": "Nathaniel",
+      "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001224?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:20:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-09T16:09:35Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-25T15:08:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-17T14:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>IRS Whistleblower Program Improvement Act</strong></p><p>This bill modifies provisions of the Internal Revenue Code relating to whistleblower awards and protections.</p><p>Specifically, the bill</p><ul><li>revises the standard for review of whistleblower awards in the Tax Court to require a<em> de novo</em> review (rather than the current&nbsp;abuse of discretion review) based on the administrative record established at the time of the whistleblower award determination and any new or previously unavailable evidence,</li><li>allows whistleblowers anonymity in proceedings before the Tax Court&nbsp;(unless a societal interest in disclosing a whistleblower's identity outweighs potential harm to the whistleblower),</li><li>modifies the Internal Revenue Service (IRS) whistleblower report to require inclusion of a list and description of up to 10 of the top tax avoidance schemes disclosed by whistleblowers, and</li><li>requires payment of interest on mandatory whistleblower awards if the IRS fails to provide timely notice to a whistleblower of an award&nbsp;recommendation.</li></ul><p>The bill also allows payments of the attorney fees of whistleblowers to be deducted when calculating adjusted gross income for tax purposes&nbsp;regardless of whether the whistleblower award was paid through the mandatory or the discretionary whistleblower award program. (Under current law, the deduction is limited to attorney fees paid in connection with mandatory awards.)</p>",
+      "updateDate": "2026-04-22T15:51:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

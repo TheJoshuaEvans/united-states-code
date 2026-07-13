@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/469/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-04",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "actionTime": "17:12:04",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/469",
+    "number": "469",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/469/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/469/text?format=json"
+    },
+    "title": "Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/469/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:54:31Z",
+    "updateDateIncludingText": "2026-07-11T20:54:31Z"
+  }
+}

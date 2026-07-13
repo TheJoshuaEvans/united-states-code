@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/979/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "actionTime": "12:10:35",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/979",
+    "number": "979",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/979/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/979/text?format=json"
+    },
+    "title": "Electing a Member to a certain standing committee of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/979/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:09:47Z",
+    "updateDateIncludingText": "2026-07-11T20:09:47Z"
+  }
+}

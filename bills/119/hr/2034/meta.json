@@ -1,0 +1,171 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-08-01T17:42:00Z",
+        "title": "H.R. 2034, Edith Nourse Rogers STEM Scholarship Opportunity Act",
+        "url": "https://www.cbo.gov/publication/61595"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-256",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/256?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BUDZINSKI:\nH.R. 2034.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H1151]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2034",
+    "number": "2034",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001315",
+        "district": 13,
+        "firstName": "Nikki",
+        "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+        "isByRequest": "N",
+        "lastName": "Budzinski",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/B001315?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/text?format=json"
+    },
+    "title": "Edith Nourse Rogers STEM Scholarship Opportunity Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2034/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:13:21Z",
+    "updateDateIncludingText": "2026-07-12T14:51:49Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham [R-AZ-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    },
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2025-06-10",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-16T20:46:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T14:30:32Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:41:50Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-03T17:26:53Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-11T14:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-31T18:06:15Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Edith Nourse Rogers STEM Scholarship Opportunity Act</strong></p><p>This bill expands eligibility for and modifies administration of the Edith&nbsp;Nourse Rogers STEM Scholarship. The scholarship allows individuals who are entitled to Post-9/11 GI Bill educational assistance and are pursuing eligible degrees in science, technology, engineering, mathematics, or health care to receive up to nine additional months of benefits (capped at $30,000).</p><p>The bill eliminates the requirement that an individual must have less than 180 days of remaining educational assistance entitlement (or no entitlement remaining) to be eligible for the scholarship.</p><p>Additionally, the bill reduces by 25% the number of credits an individual must have completed in order to be eligible for the scholarship.</p><p>In situations where there are insufficient funds available in a fiscal year, the bill authorizes the Department of Veterans Affairs to give priority to individuals who have used the most months of their educational assistance entitlement and those who are using their entitlement to pursue a program of post-secondary education in specified fields (e.g., engineering).</p><p>The bill specifies that individuals who receive the scholarship benefit may only use the benefit after they have used all of their educational assistance entitlement under the Post-9/11 GI Bill.</p>",
+      "updateDate": "2025-09-11T14:08:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

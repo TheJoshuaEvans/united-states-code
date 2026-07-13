@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-581",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/581?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. FEDORCHAK:\nH.R. 2252.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 2 of Section 3 of Article IV of the Constitution\n[Page H1189]\n</pre>",
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2252",
+    "number": "2252",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000482",
+        "firstName": "Julie",
+        "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+        "isByRequest": "N",
+        "lastName": "Fedorchak",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/F000482?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/text?format=json"
+    },
+    "title": "North Dakota Trust Lands Completion Act of 2026",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2252/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:26Z",
+    "updateDateIncludingText": "2026-07-12T14:53:31Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T17:18:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-02T13:27:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-05T17:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-21T20:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-02",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>North Dakota Trust Lands Completion Act of 2026</strong></p><p>This bill allows North Dakota to exchange certain state land grant parcels (e.g., lands&nbsp;granted to North Dakota by Congress when it became a state) located wholly or partially within an Indian reservation for certain federal land of substantially equivalent value. North Dakota manages oil, gas, and agriculture leases on state land grant parcels to generate revenue for education and other public benefits. However, tribal reservations were created on state land grant parcels and reduced the amount of land available for revenue generation. </p><p>Specifically, the bill allows the North Dakota Board of University and School Lands to exchange with the Department of the&nbsp;Interior state land grant parcels located wholly or partially within tribal reservations for certain public land in North Dakota administered by the Bureau of Land Management.&nbsp;Upon the request of a tribe, Interior must hold exchanged land within the tribe's reservation in trust on behalf of the tribe.</p><p>Further, the bill provides for the continuation of active&nbsp;grazing operations on land exchanged under this bill.</p>",
+      "updateDate": "2026-05-15T20:57:41Z",
+      "versionCode": "07"
+    }
+  ]
+}

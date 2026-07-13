@@ -1,0 +1,171 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-10-07T18:31:00Z",
+        "title": "H.R. 3123, Ernest Peltz Accrued Veterans Benefits Act",
+        "url": "https://www.cbo.gov/publication/61806"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-339",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/339?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 72 (Wednesday, April 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. STEFANIK:\nH.R. 3123.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution.\n[Page H1776]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2026-02-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3123",
+    "number": "3123",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001196",
+        "district": 21,
+        "firstName": "Elise",
+        "fullName": "Rep. Stefanik, Elise M. [R-NY-21]",
+        "isByRequest": "N",
+        "lastName": "Stefanik",
+        "middleName": "M.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S001196?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/text?format=json"
+    },
+    "title": "Ernest Peltz Accrued Veterans Benefits Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3123/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-05T04:23:16Z",
+    "updateDateIncludingText": "2026-07-12T15:00:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000389",
+      "district": 17,
+      "firstName": "Ro",
+      "fullName": "Rep. Khanna, Ro [D-CA-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Khanna",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000389?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-09-30",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-03T20:34:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-10-08T19:26:02Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T20:29:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T20:28:43Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-04-30T14:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-24T17:12:15Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-05-15T17:12:03Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Ernest Peltz Accrued Veterans Benefits Act</strong></p><p>This bill establishes procedures for the Department of Veterans Affairs (VA) to issue a pension that was due but unpaid at the time of a veteran\u2019s death. Specifically, if the VA issues a decision awarding entitlement to a pension to a veteran prior to the veteran\u2019s death but issues the payment after the veteran dies, the pension must be paid to the first available recipient on the following list:&nbsp;(1) the veteran\u2019s living spouse; (2) the veteran\u2019s living children; (3) the veteran\u2019s living dependent parents; or (4) the estate of the veteran, unless the estate will escheat&nbsp;(i.e., transfer to the state).&nbsp;To be eligible for such pension payments, a claimant of accrued benefits must file an application within one year after the veteran's death.</p><p>If no application for accrued benefits is filed within one year following the death of the veteran, the pension must be paid to the veteran\u2019s estate unless the estate will escheat.</p>",
+      "updateDate": "2026-01-15T14:41:43Z",
+      "versionCode": "00"
+    }
+  ]
+}

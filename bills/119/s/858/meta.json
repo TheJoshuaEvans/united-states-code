@@ -1,0 +1,277 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on December 17, 2025",
+        "pubDate": "2026-02-13T17:34:00Z",
+        "title": "S. 858, Hershel \u2018Woody\u2019 Williams National Medal of Honor Monument Location Act",
+        "url": "https://www.cbo.gov/publication/62121"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2026-03-27",
+      "actionTime": "09:09:06",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/858",
+    "number": "858",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000312",
+        "firstName": "James",
+        "fullName": "Sen. Justice, James C. [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Justice",
+        "middleName": "C.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/J000312?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/text?format=json"
+    },
+    "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/858/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-31T08:05:25Z",
+    "updateDateIncludingText": "2026-07-12T15:05:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/R000584?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    },
+    {
+      "bioguideId": "C001095",
+      "firstName": "Tom",
+      "fullName": "Sen. Cotton, Tom [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cotton",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001095?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-03-12",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "H001079",
+      "firstName": "Cindy",
+      "fullName": "Sen. Hyde-Smith, Cindy [R-MS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hyde-Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/H001079?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-04-07",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2025-05-07",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-09-04",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2026-01-06",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-25T21:56:51Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-12-17T14:30:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-17T14:30:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-05T17:08:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-12-09T18:12:51Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "National Parks Subcommittee",
+          "systemCode": "sseg04",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg04?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-05",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Hershel \"Woody\" Williams National Medal of Honor Monument Location Act</strong></p><p>This bill requires the authorized monument&nbsp;honoring Medal of Honor recipients to be located within the Reserve (the great cross-axis of the National Mall, which generally extends from the Capitol to the Lincoln Memorial and from the White House to the Jefferson Memorial).</p>",
+      "updateDate": "2025-06-30T19:44:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

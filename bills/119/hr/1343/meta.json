@@ -1,0 +1,170 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on February 4, 2026",
+        "pubDate": "2026-02-17T16:04:00Z",
+        "title": "H.R. 1343, Federal Broadband Deployment Tracking Act",
+        "url": "https://www.cbo.gov/publication/62134"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-485",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/485?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PFLUGER:\nH.R. 1343.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H711]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2026-04-21",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1343",
+    "number": "1343",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000048",
+        "district": 11,
+        "firstName": "August",
+        "fullName": "Rep. Pfluger, August [R-TX-11]",
+        "isByRequest": "N",
+        "lastName": "Pfluger",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/P000048?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/text?format=json"
+    },
+    "title": "Federal Broadband Deployment Tracking Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1343/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:34Z",
+    "updateDateIncludingText": "2026-07-13T19:43:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2025-02-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": 1,
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000601?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-21T19:04:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T17:50:54Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-03T21:46:13Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-13T14:00:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-11-18T15:39:04Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-11-18T15:38:33Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-02-13T15:37:41Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Communications and Technology Subcommittee",
+          "systemCode": "hsif16",
+          "url": "https://api.congress.gov/v3/committee/house/hsif16?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Broadband Deployment Tracking Act</strong></p><p>This bill requires the National Telecommunications and Information Administration to submit a plan to Congress for tracking the acceptance, processing, and disposition of applications for communications use authorizations. (These are requests for easements, rights-of-way, leases, licenses, or other authorizations to locate or modify a transmitting device, support structure, or other communications facility on public lands or National Forest System land.)&nbsp;</p>",
+      "updateDate": "2025-06-13T15:30:40Z",
+      "versionCode": "00"
+    }
+  ]
+}

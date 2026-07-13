@@ -1,0 +1,83 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9640/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9640/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 112 (Thursday, July 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WITTMAN:\nH.R. 9640.\nArticle 1 Section 8 of the United States Constitution\n[Page H4381]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9640/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9640",
+    "number": "9640",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "W000804",
+        "district": 1,
+        "firstName": "Robert",
+        "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+        "isByRequest": "N",
+        "lastName": "Wittman",
+        "middleName": "J.",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000804?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9640/text?format=json"
+    },
+    "title": "Earth MRI Reauthorization Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9640/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-12T13:49:30Z",
+    "updateDateIncludingText": "2026-07-12T13:49:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

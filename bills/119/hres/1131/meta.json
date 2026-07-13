@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-570",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/570?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-24",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "actionTime": "14:06:39",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1131",
+    "number": "1131",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the resolution (H. Res. 1128) expressing the support of the House of Representatives for the Department of Homeland Security; providing for consideration of the bill (H.R. 5103) to establish a program to Beautify the District of Columbia and establish the District of Columbia Safe and Beautiful Commission; providing for consideration of the bill (H.R. 7084) to amend title 46, United States Code, with respect to the types of vessels that may enter or operate in navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States, and for other purposes; and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1131/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:54:20Z",
+    "updateDateIncludingText": "2026-07-11T21:54:20Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-24T23:55:43Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-24",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the resolution (H. Res. 1128) expressing the support of the House of Representatives for the Department of Homeland Security; providing for consideration of the bill (H.R. 5103) to establish a program to Beautify the District of Columbia and establish the District of Columbia Safe and Beautiful Commission; providing for consideration of the bill (H.R. 7084) to amend title 46, United States Code, with respect to the types of vessels that may enter or operate in navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States, and for other purposes; and for other purposes.",
+      "updateDate": "2026-03-25T17:19:31Z",
+      "versionCode": "07"
+    }
+  ]
+}

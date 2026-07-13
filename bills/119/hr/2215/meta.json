@@ -1,0 +1,117 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 50 (Tuesday, March 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOULTON:\nH.R. 2215.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1172]\n</pre>",
+    "introducedDate": "2025-03-18",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Became Public Law No: 119-25."
+    },
+    "laws": [
+      {
+        "number": "119-25",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2215",
+    "number": "2215",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001196",
+        "district": 6,
+        "firstName": "Seth",
+        "fullName": "Rep. Moulton, Seth [D-MA-6]",
+        "isByRequest": "N",
+        "lastName": "Moulton",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M001196?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/text?format=json"
+    },
+    "title": "Salem Maritime National Historical Park Redesignation and Boundary Study Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2215/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:38:22Z",
+    "updateDateIncludingText": "2026-07-12T14:53:07Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-18T20:24:20Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-15T15:36:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-18T16:05:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-18",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Salem Maritime National Historical Park Redesignation and Boundary Study Act</strong></p><p>This bill redesignates the Salem Maritime National Historic Site in Massachusetts as the Salem Maritime National Historical Park. In addition, the bill directs the Department of the Interior to conduct and report on a boundary study. The study must evaluate the suitability and feasibility of including in the National Park System, as part of the Salem Maritime National Historical Park, sites and resources in the study area associated with its maritime history, coastal defenses, and military history.</p>",
+      "updateDate": "2025-05-08T22:25:48Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-07-15",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Salem Maritime National Historical Park Redesignation and Boundary Study Act</strong></p><p>This act redesignates the Salem Maritime National Historic Site in Massachusetts as the Salem Maritime National Historical Park. In addition, the act directs the Department of the Interior to conduct and report on a boundary study. The study must evaluate the suitability and feasibility of including in the National Park System, as part of the Salem Maritime National Historical Park, sites and resources in the study area associated with its maritime history, coastal defenses, and military history.</p>",
+      "updateDate": "2026-06-15T15:25:57Z",
+      "versionCode": "49"
+    }
+  ]
+}

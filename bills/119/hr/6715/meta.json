@@ -1,0 +1,123 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 211 (Monday, December 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARRIS of North Carolina:\nH.R. 6715.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8.\n[Page H5899]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-15",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6715",
+    "number": "6715",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001102",
+        "district": 8,
+        "firstName": "Mark",
+        "fullName": "Rep. Harris, Mark [R-NC-8]",
+        "isByRequest": "N",
+        "lastName": "Harris",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/H001102?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/text?format=json"
+    },
+    "title": "Child Predators Accountability Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6715/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-15T16:34:00Z",
+    "updateDateIncludingText": "2026-07-13T19:09:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2026-01-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-13T20:25:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-18T17:04:43Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-15T17:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Child Predators Accountability Act of 2025</strong></p><p>This bill broadens the scope of prohibited conduct under two federal criminal statutes related to the production of child pornography.&nbsp;</p><p>Under current law, both statutes prohibit employing, using, persuading, inducing, enticing, or coercing a minor to engage in sexually explicit conduct for the purpose of producing a visual depiction or transmitting a live visual depiction of the conduct.&nbsp;</p><p>This bill expands prohibited conduct to include employing, using, persuading, inducing, enticing, or coercing a minor to be depicted engaging in sexually explicit conduct. The bill also defines the term&nbsp;<em>engage in</em> to include a minor's presence in a such a depiction regardless of whether or not the minor is participating in the sexually explicit conduct.&nbsp;</p>",
+      "updateDate": "2026-01-12T19:43:38Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/983/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/983/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VAN ORDEN:\nH.R. 983.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\nArticle I, Section 8, clause 14\n[Page H505]\n</pre>",
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-12-12",
+      "text": "Became Public Law No: 119-55."
+    },
+    "laws": [
+      {
+        "number": "119-55",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/983",
+    "number": "983",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000135",
+        "district": 3,
+        "firstName": "Derrick",
+        "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+        "isByRequest": "N",
+        "lastName": "Van Orden",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/V000135?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/983/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/983/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/983/text?format=json"
+    },
+    "title": "Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/983/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:21Z",
+    "updateDateIncludingText": "2026-07-11T22:08:21Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-02-05T15:07:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-07T22:44:39Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-02-05T15:07:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T21:48:06Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-08T16:32:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025</strong></p><p>This bill requires that the Department of Veterans Affairs disapprove courses of education provided by educational institutions that charge higher than in-state tuition for individuals utilizing the Montgomery GI Bill-Selected Reserve education benefits while living in the state where the education is located, regardless of the individual\u2019s state of residence.</p>",
+      "updateDate": "2025-03-24T17:24:51Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-12",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025</strong></p><p>This act requires that the Department of Veterans Affairs disapprove courses of education provided by educational institutions that charge higher than in-state tuition for individuals utilizing the Montgomery GI Bill-Selected Reserve education benefits while living in the state where the education is located, regardless of the individual\u2019s state of residence.</p>",
+      "updateDate": "2026-04-10T12:43:35Z",
+      "versionCode": "49"
+    }
+  ]
+}

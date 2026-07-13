@@ -1,0 +1,144 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 31 (Friday, February 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEGICH:\nH.R. 1368.\nCongress has the power to enact this legislation pursuant\nto the following:\nAmong other powers, those vested in Congress pursuant to\nArticle I, Section 8 to: Provide for the. common defense and\ngeneral welfare of the United States; Regulate commerce, and\nMake all laws which shall be necessary and proper for\ncarrying Into execution Congress's other powers as provided\nunder that Article.\n[Page H715]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-14",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1368",
+    "number": "1368",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001323",
+        "firstName": "Nicholas",
+        "fullName": "Rep. Begich, Nicholas [R-AK-At Large]",
+        "isByRequest": "N",
+        "lastName": "Begich",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/B001323?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/text?format=json"
+    },
+    "title": "DOE and NASA Interagency Research Coordination Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1368/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:43:22Z",
+    "updateDateIncludingText": "2026-07-12T14:29:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000403",
+      "district": 3,
+      "firstName": "Mike",
+      "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-02-14",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/K000403?format=json"
+    },
+    {
+      "bioguideId": "W000830",
+      "district": 27,
+      "firstName": "George",
+      "fullName": "Rep. Whitesides, George [D-CA-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitesides",
+      "party": "D",
+      "sponsorshipDate": "2025-02-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/W000830?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-08-26",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-25T18:34:13Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-03-25T17:24:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-14T18:30:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><b>DOE and NASA Interagency Research Coordination Act</b></p><p>This bill provides statutory authority for a research and development partnership between the Department of Energy (DOE) and the National Aeronautics and Space Administration (NASA). </p> <p>Specifically, the bill authorizes DOE and NASA to enter into a memorandum of understanding to support cross-cutting and collaborative research and development that furthers the missions of both agencies. Through the partnership, DOE and NASA may conduct research in a variety of focus areas (e.g., dark matter), develop ways to support large voluntary data sets on space and aeronautical information, promote multi-agency data sharing, and support NASA's access to DOE research infrastructure.</p> <p>DOE and NASA must jointly report on their collaboration. </p>",
+      "updateDate": "2025-03-19T19:56:05Z",
+      "versionCode": "00"
+    }
+  ]
+}

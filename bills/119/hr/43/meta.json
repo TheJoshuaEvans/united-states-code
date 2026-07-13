@@ -1,0 +1,96 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/43/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/43/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEGICH:\nH.R. 43.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\nThe single subject of this legislation is:\nTo amend the Alaska Native Claims Settlement Act to provide\nthat Village Corporations shall not be required to convey\nland in trust to the State of Alaska for the establishment of\nMunicipal Corporations.\n[Page H37]\n</pre>",
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-07-07",
+      "text": "Became Public Law No: 119-23."
+    },
+    "laws": [
+      {
+        "number": "119-23",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/43",
+    "number": "43",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001323",
+        "firstName": "Nicholas",
+        "fullName": "Rep. Begich, Nicholas [R-AK-At Large]",
+        "isByRequest": "N",
+        "lastName": "Begich",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/B001323?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/43/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/43/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/43/text?format=json"
+    },
+    "title": "Alaska Native Village Municipal Lands Restoration Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/43/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T16:53:22Z",
+    "updateDateIncludingText": "2026-07-13T18:44:50Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:28:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Alaska Native Village Municipal Lands Restoration Act of 2025</strong></p><p>This bill removes the requirement that Alaska Native village corporations must convey lands to Alaska to be held in trust for future municipal governments.&nbsp;</p><p>The Alaska Native Claims Settlement Act (ANCSA) requires all Alaska Native village corporations that receive land under the ANCSA to convey certain lands to the existing municipality in the village or, if no municipality exists, to Alaska in trust for any municipality that may be established in the future. This bill removes the requirement for conveyance. Additionally, the bill allows village corporations to regain title to the lands held in trust by dissolving the trust through formal resolution by the village corporation and the residents of the Native village.</p>",
+      "updateDate": "2025-02-03T15:11:44Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-07-07",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Alaska Native Village Municipal Lands Restoration Act of 2025</strong></p><p>This act removes the requirement that Alaska Native village corporations must convey lands to Alaska to be held in trust for future municipal governments.&nbsp;</p><p>The Alaska Native Claims Settlement Act (ANCSA) requires all Alaska Native village corporations that receive land under the ANCSA to convey certain lands to the existing municipality in the village or, if no municipality exists, to Alaska in trust for any municipality that may be established in the future. This act removes the requirement for conveyance. Additionally, the act allows village corporations to regain title to the lands held in trust by dissolving the trust through formal resolution by the village corporation and the residents of the Native village.</p>",
+      "updateDate": "2026-06-22T15:34:53Z",
+      "versionCode": "49"
+    }
+  ]
+}

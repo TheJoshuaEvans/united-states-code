@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9536/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9536/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TIFFANY:\nH.R. 9536.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the US constitution\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9536/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9536",
+    "number": "9536",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000165",
+        "district": 7,
+        "firstName": "Thomas",
+        "fullName": "Rep. Tiffany, Thomas P. [R-WI-7]",
+        "isByRequest": "N",
+        "lastName": "Tiffany",
+        "middleName": "P.",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/T000165?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9536/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9536/text?format=json"
+    },
+    "title": "FEES Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9536/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:51:16Z",
+    "updateDateIncludingText": "2026-07-13T18:51:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001096",
+      "district": 0,
+      "firstName": "Harriet",
+      "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hageman",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/H001096?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:06:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

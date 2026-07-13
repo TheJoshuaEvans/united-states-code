@@ -1,0 +1,168 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on June 3, 2026",
+        "pubDate": "2026-06-16T17:22:00Z",
+        "title": "H.R. 826, COVID Fraud Transparency Act of 2026",
+        "url": "https://www.cbo.gov/publication/62526"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-677",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/677?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILLIAMS of Texas:\nH.R. 826.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution of the United\nStates.\n[Page H408]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/826",
+    "number": "826",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000816",
+        "district": 25,
+        "firstName": "Roger",
+        "fullName": "Rep. Williams, Roger [R-TX-25]",
+        "isByRequest": "N",
+        "lastName": "Williams",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/W000816?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/text?format=json"
+    },
+    "title": "COVID Fraud Transparency Act of 2026",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/826/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-02T20:54:51Z",
+    "updateDateIncludingText": "2026-07-13T17:14:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "B001314",
+      "district": 4,
+      "firstName": "Aaron",
+      "fullName": "Rep. Bean, Aaron [R-FL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bean",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001314?format=json"
+    },
+    {
+      "bioguideId": "M000687",
+      "district": 7,
+      "firstName": "Kweisi",
+      "fullName": "Rep. Mfume, Kweisi [D-MD-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mfume",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M000687?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T19:10:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T17:55:21Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-20T21:44:10Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-28T16:11:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>COVID Fraud Transparency Act of 2025</strong></p><p>This bill requires the Small Business Administration's Office of Inspector General to report quarterly about fraud cases involving certain COVID-19 loans (e.g., Paycheck Protection Program loans).</p>",
+      "updateDate": "2026-02-25T16:53:42Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-06-03",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>COVID Fraud Transparency Act of 2026</strong></p><p>This bill requires the Small Business Administration's Office of Inspector General to report quarterly to Congress about fraud cases involving certain COVID-19 loans (e.g., Paycheck Protection Program loans).</p><p>The report must include the</p><ul><li>number and total dollar amount of such loans,</li><li>number of new cases of fraud and suspected fraud,</li><li>number of fraud cases resolved, and</li><li>types of such cases of fraud.</li></ul><p>The reporting requirements terminate two years after this bill is enacted.</p>",
+      "updateDate": "2026-06-17T17:54:19Z",
+      "versionCode": "07"
+    }
+  ]
+}

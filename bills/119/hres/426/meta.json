@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-105",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/105?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-19",
+    "latestAction": {
+      "actionDate": "2025-05-20",
+      "actionTime": "14:05:24",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/426",
+    "number": "426",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/text?format=json"
+    },
+    "title": "Providing for consideration of the joint resolution (S.J. Res. 13) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act; providing for consideration of the joint resolution (S.J. Res. 31) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\"; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/426/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:59:09Z",
+    "updateDateIncludingText": "2026-07-11T20:59:09Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-19T23:20:30Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-19",
+      "actionDesc": "Reported to House",
+      "text": "<p>This resolution provides for the consideration of&nbsp;S.J. Res. 13 and S.J. Res. 31, which nullify specified agency rules, and certain resolutions related to establishing budgetary levels for&nbsp;FY2025 through FY2034.&nbsp;</p><p>The resolution waives all points of order against the consideration of&nbsp;S.J. Res. 13, which nullifies the final rule issued by the Department of the Treasury\u2019s Office of the Comptroller of the Currency titled <em>Business Combinations Under the Bank Merger Act</em>, and S.J. Res. 31, which nullifies the Environmental Protection Agency rule titled <em>Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act.</em></p><p>The resolution also waives a House rule requiring a two-thirds vote to consider a report&nbsp;from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of May 23, 2025, relating to Title II of&nbsp;H.Con. Res. 14.&nbsp;Title II&nbsp;sets forth instructions to House and Senate committees to develop legislation related to budgetary levels for&nbsp;FY2025&nbsp;through FY2034.</p>",
+      "updateDate": "2026-07-07T21:08:16Z",
+      "versionCode": "07"
+    }
+  ]
+}

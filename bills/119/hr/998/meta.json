@@ -1,0 +1,159 @@
+{
+  "status": {
+    "actions": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on March 31, 2025",
+        "pubDate": "2025-04-01T15:17:00Z",
+        "title": "H.R. 998, Internal Revenue Service Math and Taxpayer Help Act",
+        "url": "https://www.cbo.gov/publication/61284"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-42",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/42?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FEENSTRA:\nH.R. 998.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 1 (Taxing and Spending Clause)\n[Page H505]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-11-25",
+      "text": "Became Public Law No: 119-39."
+    },
+    "laws": [
+      {
+        "number": "119-39",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/998",
+    "number": "998",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000446",
+        "district": 4,
+        "firstName": "Randy",
+        "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+        "isByRequest": "N",
+        "lastName": "Feenstra",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/F000446?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/text?format=json"
+    },
+    "title": "Internal Revenue Service Math and Taxpayer Help Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/998/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:22Z",
+    "updateDateIncludingText": "2026-07-11T22:08:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-02-05",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-20T22:30:44Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-01T16:12:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-27T15:14:09Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T16:06:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-05T15:05:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Internal Revenue Service Math and Taxpayer Help Act</strong></p><p>This bill requires the Internal Revenue Service (IRS) to provide specific information on a notice related to a math or clerical error, send a notice related to an abatement of taxes assessed due to a math or clerical error, provide procedures for requesting such an abatement, and implement a pilot program for sending notices of a math or clerical error.</p><p>Under the bill, a notice sent by the IRS regarding&nbsp;a math or clerical error must include</p><ul><li>a clear description of the error, including the type of error and the specific federal tax return line on which the error was made;</li><li>an itemized computation of adjustments required to correct the error;</li><li>the telephone number for the automated transcript service; and</li><li>the deadline for requesting an abatement of any tax assessed due to the error.</li></ul><p>Further, the bill requires the IRS to send a notice related to an abatement of tax assessed due to a math or clerical error that clearly describes the abatement and includes an itemized computation of adjustments to be made to the items described in the notice of the&nbsp;error.</p><p>This bill also requires the IRS to</p><ul><li>provide procedures for requesting in writing, electronically, by phone, or in person an abatement of tax assessed due to a math or clerical error;</li><li>implement a pilot program to send notices of a math or clerical error by certified or registered mail; and</li><li>report to Congress certain information about the pilot program.</li></ul>",
+      "updateDate": "2025-03-28T17:52:21Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-11-25",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Internal Revenue Service Math and Taxpayer Help Act</strong></p><p>This act requires the Internal Revenue Service (IRS) to provide specific information on a notice related to a math or clerical error, send a notice related to an abatement of taxes assessed due to a math or clerical error, provide procedures for requesting such an abatement, and implement a pilot program for sending notices of a math or clerical error.</p><p>Under the act, a notice sent by the IRS regarding&nbsp;a math or clerical error must include</p><ul><li>a clear description of the error, including the type of error and the specific federal tax return line on which the error was made;</li><li>an itemized computation of adjustments required to correct the error;</li><li>the telephone number for the automated transcript service; and</li><li>the deadline for requesting an abatement of any tax assessed due to the error.</li></ul><p>Further, the act requires the IRS to send a notice related to an abatement of tax assessed due to a math or clerical error that clearly describes the abatement and includes an itemized computation of adjustments to be made to the items described in the notice of the&nbsp;error.</p><p>This act also requires the IRS to</p><ul><li>provide procedures for requesting in writing, electronically, by phone, or in person an abatement of tax assessed due to a math or clerical error;</li><li>implement a pilot program to send notices of a math or clerical error by certified or registered mail; and</li><li>report to Congress certain information about the pilot program.</li></ul>",
+      "updateDate": "2026-06-17T16:23:48Z",
+      "versionCode": "49"
+    }
+  ]
+}

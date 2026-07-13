@@ -1,0 +1,153 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-06-20T14:17:00Z",
+        "title": "H.R. 1721, Critical Infrastructure Manufacturing Feasibility Act",
+        "url": "https://www.cbo.gov/publication/61499"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-76",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/76?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. MILLER-MEEKS:\nH.R. 1721.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H920]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1721",
+    "number": "1721",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001215",
+        "district": 1,
+        "firstName": "Mariannette",
+        "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+        "isByRequest": "N",
+        "lastName": "Miller-Meeks",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/M001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/text?format=json"
+    },
+    "title": "Critical Infrastructure Manufacturing Feasibility Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1721/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:21Z",
+    "updateDateIncludingText": "2026-07-13T19:47:00Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001216",
+      "district": 8,
+      "firstName": "Kim",
+      "fullName": "Rep. Schrier, Kim [D-WA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schrier",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S001216?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-29T16:02:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:59:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T16:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:15:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Critical Infrastructure Manufacturing Feasibility Act</strong></p> <p>This bill requires the Department of Commerce to study and report on products that are in high demand across the critical infrastructure sectors. Critical infrastructure sectors are those whose assets, systems, and networks are vital to national security, the economy, public health or safety, or any combination of those matters.</p> <p>The study must (1) identify the products in high demand across those sectors that are being imported due to manufacturing, material, or supply chain constraints; and (2) analyze the costs, benefits, and feasibility of manufacturing those products in the United States.</p>",
+      "updateDate": "2025-04-23T14:11:51Z",
+      "versionCode": "00"
+    }
+  ]
+}

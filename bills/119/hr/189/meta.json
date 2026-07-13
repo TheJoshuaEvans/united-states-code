@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/189/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/189/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. NORTON:\nH.R. 189.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 18 of section 8 of article 1 of the Constitution\nThe single subject of this legislation is:\n[Page H42]\n</pre>",
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/189",
+    "number": "189",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000147",
+        "firstName": "Eleanor",
+        "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+        "isByRequest": "N",
+        "lastName": "Norton",
+        "middleName": "Holmes",
+        "party": "D",
+        "state": "DC",
+        "url": "https://api.congress.gov/v3/member/N000147?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/189/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/189/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/189/text?format=json"
+    },
+    "title": "Securities and Exchange Commission Real Estate Leasing Authority Revocation Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/189/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:28:26Z",
+    "updateDateIncludingText": "2026-07-12T14:34:23Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-14T17:28:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:24:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-04T14:21:39Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Securities and Exchange Commission Real Estate Leasing Authority Revocation Act </strong></p><p>This bill revokes the authority of the Securities and Exchange Commission (SEC) to lease general purpose office space and instead provides for the General Services Administration to lease such space for the SEC. The bill's provisions do not affect those leases entered into by the SEC before this bill's enactment.</p><p>The Government Accountability Office must (1) complete a review under which it shall update a 2016 report with respect to independent leasing authorities, and (2) report to Congress on the review.</p>",
+      "updateDate": "2025-01-30T16:49:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

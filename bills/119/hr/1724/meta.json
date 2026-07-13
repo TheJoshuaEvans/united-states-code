@@ -1,0 +1,96 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1724/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1724/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MORAN:\nH.R. 1724.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H920]\n</pre>",
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1724",
+    "number": "1724",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001224",
+        "district": 1,
+        "firstName": "Nathaniel",
+        "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+        "isByRequest": "N",
+        "lastName": "Moran",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/M001224?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1724/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1724/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1724/text?format=json"
+    },
+    "title": "No Dollars to Uyghur Forced Labor Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1724/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:21Z",
+    "updateDateIncludingText": "2026-07-12T14:32:36Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-06T19:11:59Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T14:05:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>No Dollars to Uyghur Forced Labor Act</strong></p><p>This bill prohibits the Department of State and the U.S. Agency for International Development from spending funds on a policy, program, or contract that knowingly uses goods from China's Xinjiang Uyghur Autonomous Region (XUAR) or produced by entities associated with forced labor in XUAR.</p><p>This prohibition includes goods from (1) the XUAR; (2) entities that source materials from the XUAR; or (3) entities involved with forced labor from the XUAR, such as entities in the XUAR that manufacture goods with forced labor or entities working with the XUAR government to transport forced laborers.</p><p>The State Department may waive this prohibition, after notifying Congress, if it obtains written assurance that the relevant program partner (1) will not use goods produced in the XUAR for the program, and (2) will develop a system to ensure compliance with the bill's prohibitions.</p>",
+      "updateDate": "2025-05-01T13:25:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

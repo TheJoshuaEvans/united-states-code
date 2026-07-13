@@ -1,0 +1,88 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "actionTime": "15:28:48",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1275",
+    "number": "1275",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000568",
+        "district": 9,
+        "firstName": "H.",
+        "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "isByRequest": "N",
+        "lastName": "Griffith",
+        "middleName": "Morgan",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/G000568?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 5625) to direct the Attorney General to make publicly available a list of each State and unit of local government that permits cashless bail, and for other purposes; providing for consideration of the bill (H.R. 6260) to amend title 18, United States Code, to prohibit fraud in connection with posting bail; providing for consideration of the bill (H.R. 8365) to provide for conditions on the appointment of monitors by courts, and for other purposes; providing for consideration of the concurrent resolution (H. Con. Res. 96) expressing support for law enforcement officers; and providing for consideration of the bill (H.R. 8469) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1275/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:39:32Z",
+    "updateDateIncludingText": "2026-07-11T21:39:32Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-12T23:51:10Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-12",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 5625) to direct the Attorney General to make publicly available a list of each State and unit of local government that permits cashless bail, and for other purposes; providing for consideration of the bill (H.R. 6260) to amend title 18, United States Code, to prohibit fraud in connection with posting bail; providing for consideration of the bill (H.R. 8365) to provide for conditions on the appointment of monitors by courts, and for other purposes; providing for consideration of the concurrent resolution (H. Con. Res. 96) expressing support for law enforcement officers; and providing for consideration of the bill (H.R. 8469) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
+      "updateDate": "2026-05-13T09:04:57Z",
+      "versionCode": "07"
+    }
+  ]
+}

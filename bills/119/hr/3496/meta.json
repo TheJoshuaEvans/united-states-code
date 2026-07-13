@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-402",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/402?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 84 (Monday, May 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. KING-HINDS:\nH.R. 3496.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution\n[Page H2147]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-19",
+    "latestAction": {
+      "actionDate": "2026-01-26",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3496",
+    "number": "3496",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000404",
+        "firstName": "Kimberlyn",
+        "fullName": "Del. King-Hinds, Kimberlyn [R-MP-At Large]",
+        "isByRequest": "N",
+        "lastName": "King-Hinds",
+        "party": "R",
+        "state": "MP",
+        "url": "https://api.congress.gov/v3/member/K000404?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/text?format=json"
+    },
+    "title": "Northern Mariana Islands Small Business Access Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:19Z",
+    "updateDateIncludingText": "2026-07-12T15:03:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001136",
+      "district": 3,
+      "firstName": "Herbert",
+      "fullName": "Rep. Conaway, Herbert C. [D-NJ-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Conaway",
+      "middleName": "C.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/C001136?format=json"
+    },
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray [D-CA-31]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2025-11-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-11-25",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-26T21:10:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-12T15:19:29Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-11-18T17:53:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-19T16:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-12",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Northern Mariana Islands Small Business Access Act</strong></p><p>This bill expands eligibility for the Small Business Administration microloan program to include entities in the Commonwealth of the Northern Mariana Islands.</p><p>The microloan program provides loans up to $50,000 for small businesses and certain nonprofit childcare centers.</p>",
+      "updateDate": "2026-01-16T15:22:23Z",
+      "versionCode": "07"
+    }
+  ]
+}

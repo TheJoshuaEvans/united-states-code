@@ -1,0 +1,165 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives",
+        "pubDate": "2025-06-27T19:16:00Z",
+        "title": "H.R. 2444, Promoting Resilient Supply Chains Act of 2025",
+        "url": "https://www.cbo.gov/publication/61526"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-68",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/68?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. JAMES:\nH.R. 2444.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3\n[Page H1339]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 62."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2444",
+    "number": "2444",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000307",
+        "district": 10,
+        "firstName": "John",
+        "fullName": "Rep. James, John [R-MI-10]",
+        "isByRequest": "N",
+        "lastName": "James",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/J000307?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/text?format=json"
+    },
+    "title": "Promoting Resilient Supply Chains Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2444/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:08:26Z",
+    "updateDateIncludingText": "2026-07-12T14:55:08Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-27",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-03-27",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "K000385",
+      "district": 2,
+      "firstName": "Robin",
+      "fullName": "Rep. Kelly, Robin L. [D-IL-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-27",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000385?format=json"
+    },
+    {
+      "bioguideId": "R000579",
+      "district": 18,
+      "firstName": "Patrick",
+      "fullName": "Rep. Ryan, Patrick [D-NY-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ryan",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000579?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:46:11Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:24:39Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-27T13:11:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting Resilient Supply Chains Act of 2025</strong></p><p>This bill requires the Industry and Analysis office of the International Trade Administration of the Department of Commerce to monitor and respond to disruptions in critical industries and supply chains.</p><p>Specifically, the office must (1) establish the Supply Chain Resilience Working Group; (2) assess,&nbsp;map, and model critical supply chains; (3) identify high-priority supply chain gaps and vulnerabilities in critical industries; (4) identify and evaluate the effect of potential supply chain disruptions on market stability; and (5) collaborate with other governmental bodies and key international partners to identify opportunities to reduce supply chain gaps and vulnerabilities.</p><p>Additionally, the office, in consultation with the working group and specified nongovernmental entities, must&nbsp;make recommendations and implement a strategy to improve the security and resiliency of manufacturing capacity and supply chains for critical industries (including critical industries for emerging technologies).</p><p>The bill includes various reporting requirements.</p>",
+      "updateDate": "2025-04-25T16:55:40Z",
+      "versionCode": "00"
+    }
+  ]
+}

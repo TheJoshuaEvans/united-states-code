@@ -1,0 +1,472 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on July 23, 2025",
+        "pubDate": "2025-10-22T18:23:00Z",
+        "title": "H.R. 2294, a bill to reauthorize the Integrated Coastal and Ocean Observation System Act of 2009",
+        "url": "https://www.cbo.gov/publication/61825"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-489",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/489?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EZELL:\nH.R. 2294.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1219]\n</pre>",
+    "cosponsors": {
+      "count": 25,
+      "countIncludingWithdrawnCosponsors": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2294",
+    "number": "2294",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000235",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Ezell, Mike [R-MS-4]",
+        "isByRequest": "N",
+        "lastName": "Ezell",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/E000235?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/text?format=json"
+    },
+    "title": "To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2294/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:24:25Z",
+    "updateDateIncludingText": "2026-07-12T14:53:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "W000814",
+      "district": 14,
+      "firstName": "Randy",
+      "fullName": "Rep. Weber, Randy K. Sr. [R-TX-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Weber",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000814?format=json"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "R000600",
+      "district": 0,
+      "firstName": "Aumua Amata",
+      "fullName": "Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Radewagen",
+      "middleName": "Coleman",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "AS",
+      "url": "https://api.congress.gov/v3/member/R000600?format=json"
+    },
+    {
+      "bioguideId": "D000096",
+      "district": 7,
+      "firstName": "Danny",
+      "fullName": "Rep. Davis, Danny K. [D-IL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davis",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000096?format=json"
+    },
+    {
+      "bioguideId": "H001090",
+      "district": 9,
+      "firstName": "Josh",
+      "fullName": "Rep. Harder, Josh [D-CA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harder",
+      "party": "D",
+      "sponsorshipDate": "2025-03-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001090?format=json"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": 6,
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-03-25",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/C001117?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2025-03-25",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    },
+    {
+      "bioguideId": "S000510",
+      "district": 9,
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-03-25",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S000510?format=json"
+    },
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "P000034",
+      "district": 6,
+      "firstName": "Frank",
+      "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pallone",
+      "party": "D",
+      "sponsorshipDate": "2025-04-07",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000034?format=json"
+    },
+    {
+      "bioguideId": "P000597",
+      "district": 1,
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/P000597?format=json"
+    },
+    {
+      "bioguideId": "S001215",
+      "district": 11,
+      "firstName": "Haley",
+      "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stevens",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001215?format=json"
+    },
+    {
+      "bioguideId": "C001066",
+      "district": 14,
+      "firstName": "Kathy",
+      "fullName": "Rep. Castor, Kathy [D-FL-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Castor",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001066?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-05-06",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "E000301",
+      "district": 3,
+      "firstName": "Sarah",
+      "fullName": "Rep. Elfreth, Sarah [D-MD-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Elfreth",
+      "party": "D",
+      "sponsorshipDate": "2025-05-29",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/E000301?format=json"
+    },
+    {
+      "bioguideId": "D000617",
+      "district": 1,
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-03",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/D000617?format=json"
+    },
+    {
+      "bioguideId": "M001223",
+      "district": 2,
+      "firstName": "Seth",
+      "fullName": "Rep. Magaziner, Seth [D-RI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Magaziner",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/M001223?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-08-29",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-17T19:29:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-09T20:38:17Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-24T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-09T20:38:01Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:50:34Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T16:49:55Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-24T16:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-20T21:11:24Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-05-13T14:56:22Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-09",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill reauthorizes and modifies the National Oceanic and Atmospheric Administration's&nbsp;Integrated Ocean Observation System (IOOS).&nbsp;(The IOOS is made up of radar, gliders, buoys, vessels, and different models and forecasts that collect data points to monitor and report on conditions along the nation's coasts and in marine waters.)</p><p>Specifically, the bill reauthorizes the IOOS through FY2030. The bill also&nbsp;directs the Interagency Ocean Observation Committee (which coordinates interagency planning, budgeting, and assessments for the system) to develop requirements and processes&nbsp;for regional offices and federally funded projects of the agencies of the committee to collaborate with the regional coastal observing systems for data sharing at regional levels.&nbsp;</p>",
+      "updateDate": "2026-03-16T10:52:50Z",
+      "versionCode": "07"
+    }
+  ]
+}

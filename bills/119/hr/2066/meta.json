@@ -1,0 +1,238 @@
+{
+  "status": {
+    "actions": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-227",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/227?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MEUSER:\nH.R. 2066.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution.\n[Page H1152]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2026-05-19",
+      "text": "Became Public Law No: 119-92."
+    },
+    "laws": [
+      {
+        "number": "119-92",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2066",
+    "number": "2066",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001204",
+        "district": 9,
+        "firstName": "Daniel",
+        "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+        "isByRequest": "N",
+        "lastName": "Meuser",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001204?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/text?format=json"
+    },
+    "title": "Investing in All of America Act of 2025",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2066/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-29T20:45:09Z",
+    "updateDateIncludingText": "2026-07-12T14:52:05Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001221",
+      "district": 3,
+      "firstName": "Hillary",
+      "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scholten",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-11",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001221?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "K000404",
+      "district": 0,
+      "firstName": "Kimberlyn",
+      "fullName": "Del. King-Hinds, Kimberlyn [R-MP-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "King-Hinds",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "MP",
+      "url": "https://api.congress.gov/v3/member/K000404?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-04-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-07-25",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-16T02:00:45Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-12-02T23:18:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-08-15T16:43:17Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T16:08:19Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-11T14:08:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-08-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Investing in All of America Act of 2025</strong></p><p>This bill modifies the limit on the amount of financing available to a&nbsp;Small Business Investment Company (SBIC)&nbsp;from the Small Business Administration (SBA). It also expands the definition of private capital with respect to SBICs.</p><p>Specifically, the bill reduces the&nbsp;maximum outstanding financing available to an SBIC from 300% to 200% of the SBIC's private capital.&nbsp;The bill increases from $350 million to $475 million the maximum financing available to two or more commonly controlled SBICs that make quarterly or semiannual interest payments.</p><p>The bill also&nbsp;expands the amounts that may be excluded from the calculation of the&nbsp;financing limit to include the amounts an SBIC invests in (1) rural areas, (2)&nbsp;certain technology categories, or (3) small manufacturers. The bill revises the&nbsp;cap on such excluded amounts&nbsp;to&nbsp;the lesser of $125 million or the aggregate of 50% of the private capital of the SBIC.</p><p>Additionally, the bill expands what is considered the private capital of an&nbsp;SBIC to include funds obtained from the business revenue of additional government-sponsored corporations and funds invested by the trust or endowment of a college or university.</p>",
+      "updateDate": "2026-06-29T20:44:57Z",
+      "versionCode": "07"
+    },
+    {
+      "actionDate": "2026-05-19",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Investing in All of America Act of 2025</strong></p><p>This act modifies the limit on the amount of financing available to a&nbsp;Small Business Investment Company (SBIC)&nbsp;from the Small Business Administration (SBA). It also expands the definition of private capital with respect to SBICs.</p><p>Specifically, the act reduces the&nbsp;maximum outstanding financing available to an SBIC from 300% to 200% of the SBIC's private capital.&nbsp;The act increases from $350 million to $475 million the maximum financing available to two or more commonly controlled SBICs that make quarterly or semiannual interest payments.</p><p>The act also&nbsp;expands the amounts that may be excluded from the calculation of the&nbsp;financing limit to include the amounts an SBIC invests in (1) rural areas, (2)&nbsp;certain technology categories, or (3) small manufacturers. The act revises the&nbsp;cap on such excluded amounts&nbsp;to&nbsp;the lesser of $125 million or the aggregate of 50% of the private capital of the SBIC.</p><p>Additionally, the act expands what is considered the private capital of an&nbsp;SBIC to include funds obtained from the business revenue of additional government-sponsored corporations and funds invested by the trust or endowment of a college or university.</p>",
+      "updateDate": "2026-06-29T20:37:29Z",
+      "versionCode": "49"
+    }
+  ]
+}

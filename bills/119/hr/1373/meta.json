@@ -1,0 +1,158 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-140",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/140?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 31 (Friday, February 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BURCHETT:\nH.R. 1373.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H715]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-14",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1373",
+    "number": "1373",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001309",
+        "district": 2,
+        "firstName": "Tim",
+        "fullName": "Rep. Burchett, Tim [R-TN-2]",
+        "isByRequest": "N",
+        "lastName": "Burchett",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001309?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/text?format=json"
+    },
+    "title": "Tennessee Valley Authority Transparency Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1373/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:43:22Z",
+    "updateDateIncludingText": "2026-07-13T19:44:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001068",
+      "district": 9,
+      "firstName": "Steve",
+      "fullName": "Rep. Cohen, Steve [D-TN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cohen",
+      "party": "D",
+      "sponsorshipDate": "2025-02-14",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/C001068?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-10T19:50:19Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-05T17:01:44Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-02T15:10:38Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-02T15:10:32Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-02-14T18:32:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-14T22:20:22Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02",
+          "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Tennessee Valley Authority Transparency Act of 2025</strong></p><p>This bill revises the duties of the Tennessee Valley Authority (TVA) Board of Directors to include holding public meetings at least four times each year. The board must provide public notice at least six days before such a meeting, unless the meeting is designated as an emergency.  TVA,&nbsp;a federally owned electric utility corporation, provides low-cost electricity in Alabama, Georgia, Kentucky, Mississippi, North Carolina, Tennessee, and Virginia. It also provides flood control, navigation, and land management for the Tennessee River system.&nbsp;</p>",
+      "updateDate": "2025-06-05T16:06:39Z",
+      "versionCode": "00"
+    }
+  ]
+}

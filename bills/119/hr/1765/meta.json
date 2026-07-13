@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-06-20T14:17:00Z",
+        "title": "H.R. 1765, Promoting United States Wireless Leadership Act of 2025",
+        "url": "https://www.cbo.gov/publication/61501"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-196",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/196?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KEAN:\nH.R. 1765.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe U.S. Constitution: Article 1, Section 8, Clause 3\n[Page H945]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1765",
+    "number": "1765",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000398",
+        "district": 7,
+        "firstName": "Thomas",
+        "fullName": "Rep. Kean, Thomas H. [R-NJ-7]",
+        "isByRequest": "N",
+        "lastName": "Kean",
+        "middleName": "H.",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/K000398?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/text?format=json"
+    },
+    "title": "Promoting United States Wireless Leadership Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1765/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:23Z",
+    "updateDateIncludingText": "2026-07-12T14:32:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "W000798",
+      "district": 5,
+      "firstName": "Tim",
+      "fullName": "Rep. Walberg, Tim [R-MI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Walberg",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/W000798?format=json"
+    },
+    {
+      "bioguideId": "C001067",
+      "district": 9,
+      "firstName": "Yvette",
+      "fullName": "Rep. Clarke, Yvette D. [D-NY-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Clarke",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/C001067?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-07-10T15:44:56Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-03T17:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:12:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:44:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T15:56:15Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-03T17:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting United States Wireless Leadership Act of 2025</strong></p><p>This bill requires the National Telecommunications and Information Administration (NTIA) to encourage companies and other relevant stakeholders to participate in organizations that set standards for wireless communications networks and equipment. NTIA must also offer technical assistance to facilitate such participation.&nbsp;</p><p>NTIA may not encourage or facilitate participation by companies and stakeholders determined to pose a threat to U.S. national security.&nbsp;</p><p></p>",
+      "updateDate": "2025-04-03T16:56:16Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-239",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/239?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 82 (Thursday, May 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KENNEDY of Utah:\nH.R. 3425.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H2104]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-15",
+    "latestAction": {
+      "actionDate": "2025-09-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3425",
+    "number": "3425",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000403",
+        "district": 3,
+        "firstName": "Mike",
+        "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/K000403?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/text?format=json"
+    },
+    "title": "Personnel Oversight and Shift Tracking Act of 2025",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:28Z",
+    "updateDateIncludingText": "2026-07-12T15:03:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000481",
+      "district": 2,
+      "firstName": "Shomari",
+      "fullName": "Rep. Figures, Shomari [D-AL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Figures",
+      "party": "D",
+      "sponsorshipDate": "2025-06-06",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/F000481?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T18:54:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:24:06Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-11T14:36:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T14:35:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-05-15T14:03:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-16T16:16:39Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Personnel Oversight and Shift Tracking Act of 2025 or the POST Act of 2025</strong></p><p>The bill directs the Federal Protective Service (FPS) to improve the performance of security personnel contracted to protect federal buildings and to report on such efforts to Congress.</p><p>Within one year after the bill's enactment, FPS must establish performance testing and improvement protocols for contract security personnel. Specifically, FPS shall (1) establish standards for the collection, maintenance, and analysis of covert testing data; (2) conduct quarterly analytical reviews of covert testing data to identify trends and opportunities for operational improvement; (3) establish a mandatory, cause-specific corrective training and performance improvement plan for any individual who fails a covert test; and (4) update security training guidance to address failed covert tests, emerging threats, and best practices. FPS must&nbsp;report to Congress about implementation upon&nbsp;completion and annually thereafter.&nbsp;</p><p>Within&nbsp;180 days after the bill\u2019s enactment, FPS must assess whether to replace or upgrade its tracking system for managing and monitoring the deployment availability of contract security personnel. FPS must&nbsp;develop (1) an implementation plan that includes a timeline for the replacement or update;&nbsp;and (2) procedures to ensure timely and accurate communication to building tenants regarding contract security personnel absences or other gaps in coverage.&nbsp;FPS must report to Congress on the assessment within one year after the bill's enactment&nbsp;and annually for the next three years.</p>",
+      "updateDate": "2025-09-08T14:01:44Z",
+      "versionCode": "00"
+    }
+  ]
+}

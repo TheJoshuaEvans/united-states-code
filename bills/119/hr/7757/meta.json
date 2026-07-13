@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 40 (Tuesday, March 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GUTHRIE:\nH.R. 7757.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution.\n[Page H2369]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-03",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "actionTime": "19:02:09",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7757",
+    "number": "7757",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000558",
+        "district": 2,
+        "firstName": "Brett",
+        "fullName": "Rep. Guthrie, Brett [R-KY-2]",
+        "isByRequest": "N",
+        "lastName": "Guthrie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/G000558?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/text?format=json"
+    },
+    "title": "KIDS Act",
+    "titles": {
+      "count": 35,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7757/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-01T08:06:49Z",
+    "updateDateIncludingText": "2026-07-13T01:07:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000034",
+      "district": 6,
+      "firstName": "Frank",
+      "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pallone",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000034?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-03T17:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-03T17:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Kids Internet and Digital Safety Act or the KIDS Act</strong></p><p>This bill requires specified online platforms to establish safeguards for minors. The safeguards include (1) limiting access to specified sexual material, (2) providing parental controls on social media and online video game platforms, and (3) requiring artificial intelligence (AI)&nbsp;chatbots to disclose certain information to users who are minors.</p><p>First, publicly available online platforms on which more than one-third of the content is considered sexual material harmful to minors under the bill&nbsp;must adopt technology to identify minors and prevent them from accessing such material.</p><p>Next,&nbsp;social media platforms must (1) implement default settings for minors that limit compulsive usage features and the ability of other users to communicate with minors, and (2) provide tools for parents to manage the privacy and account settings of a minor. Social media platforms may not allow ephemeral messaging features for minors.</p><p>The bill also requires online video game platforms to provide tools that allow parents to (1) limit communication between a minor and other users of the platform, and (2) restrict purchases by a minor on the platform.&nbsp;</p><p>Further, providers of AI chatbots must disclose to users who are minors (1) that the chatbot is an AI system and not a human, and (2) suicide and crisis intervention hotline information.</p><p>Finally, the bill requires specified studies and reports about the effects of social media platforms on minors and provides for enforcement of the bill's requirements by the Federal Trade Commission and state attorneys general.</p>",
+      "updateDate": "2026-06-26T13:36:37Z",
+      "versionCode": "00"
+    }
+  ]
+}

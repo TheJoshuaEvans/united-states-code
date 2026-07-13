@@ -1,0 +1,240 @@
+{
+  "status": {
+    "actions": {
+      "count": 45,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/actions?format=json"
+    },
+    "amendments": {
+      "count": 386,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on July 30, 2025",
+        "pubDate": "2025-09-16T16:11:00Z",
+        "title": "S. 1383, Veterans Accessibility Advisory Committee Act of 2025",
+        "url": "https://www.cbo.gov/publication/61745"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-09",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Considered by Senate (Message from the House considered). (consideration: CR S1647)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1383",
+    "number": "1383",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001217",
+        "firstName": "Rick",
+        "fullName": "Sen. Scott, Rick [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001217?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/text?format=json"
+    },
+    "title": "Veterans Accessibility Advisory Committee Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/1383/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-11T19:24:57Z",
+    "updateDateIncludingText": "2026-07-11T19:24:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-09",
+      "sponsorshipWithdrawnDate": "2026-02-25",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-04-09",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-04-09",
+      "sponsorshipWithdrawnDate": "2026-02-25",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "sponsorshipWithdrawnDate": "2025-07-14",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-07-28",
+      "sponsorshipWithdrawnDate": "2026-02-25",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-07-30",
+      "sponsorshipWithdrawnDate": "2026-02-25",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-09-18",
+      "sponsorshipWithdrawnDate": "2026-02-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T23:36:39Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-02-11T19:16:30Z",
+          "name": "Unknown"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T19:43:33Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T20:00:30Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-21T20:00:30Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-05-21T20:00:30Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-04-09T19:37:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-09",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Veterans Accessibility Advisory Committee Act of 2025</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to establish the Veterans Advisory Committee on Equal Access to address the accessibility of the VA for individuals with disabilities. Prior to establishing the advisory committee, the VA must take action to abolish or consolidate advisory committees that are currently inactive.</p>",
+      "updateDate": "2025-06-13T20:20:32Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-02-11",
+      "actionDesc": "Passed House",
+      "text": "<p><strong>Safeguard American Voter Eligibility Act or the SAVE America Act</strong></p><p>This bill requires individuals to provide documentary proof of U.S. citizenship when registering to vote, and requires photo identification to vote,&nbsp;in federal elections.</p><p>Specifically, the bill prohibits states from accepting and processing an application to register to vote in a federal election unless the applicant presents documentary proof of U.S. citizenship.&nbsp;The bill specifies what documents are considered acceptable proof of U.S. citizenship, such as&nbsp;identification that complies with the REAL ID Act of 2005 that indicates U.S. citizenship, a valid U.S. passport, or a valid government-issued photo identification card that shows the applicant's place of birth was in the United States.</p><p>Further, the bill (1) requires states to accept and process a voter registration application in the event of a name discrepancy in the applicant's documentation, as long as the applicant provides additional documentation;&nbsp;and (2) requires states to establish an alternative process to demonstrate U.S. citizenship.</p><p>Within 30 days of the bill's enactment, each state must take affirmative steps on an ongoing basis to ensure that only U.S. citizens are registered to vote, which shall include establishing a program to identify individuals who are not U.S. citizens using information supplied by certain sources. Further, each&nbsp;state must submit its complete official list of eligible voters to the Department of Homeland Security for comparison with the&nbsp;Systematic Alien Verification for Entitlements system, which is used to verify immigration status. Individuals who are identified as noncitizens must be given the opportunity to provide documentary proof of U.S. citizenship.</p><p>Additionally, states must remove noncitizens from their official lists of eligible voters.</p><p>The bill (1) provides&nbsp;for a private right of action for certain violations, and (2) establishes criminal penalties for certain offenses.</p><p>The bill prohibits a state or local election official from providing a ballot for a federal election to an individual who does not present valid physical photo identification.</p><p>An individual who does not present the required identification must be permitted to cast a provisional ballot. However, an election official may not determine that the individual is eligible under state law to vote in the election unless, not later than three days after casting the provisional ballot, the individual presents (1) the identification required, or (2) an affidavit attesting that the individual does not possess the identification because of a religious objection to being photographed.</p><p>Further, an election official may not allow for voting methods other than in-person voting unless the individual submits the ballot with (1) a copy of their photo identification, or (2) the last four digits of their Social Security number with an affidavit attesting that the individual is unable to obtain a copy of a valid photo identification after making reasonable efforts to obtain a copy. This prohibition shall not apply to overseas military voters or individuals provided the right to vote other than in person under the Voting Accessibility for the Elderly and Handicapped Act.</p><p>State and local government officials must provide, to the extent practicable, public access to a digital imaging device for the purpose of allowing individuals to use the device at no cost to make a copy of their valid photo identification.</p>",
+      "updateDate": "2026-02-24T02:03:03Z",
+      "versionCode": "53"
+    }
+  ]
+}

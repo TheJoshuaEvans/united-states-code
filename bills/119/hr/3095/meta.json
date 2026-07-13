@@ -1,0 +1,516 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 72 (Wednesday, April 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BOEBERT:\nH.R. 3095.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8: The Congress shall have power to lay\nand collect taxes, duties, imposts, and excises, to pay the\ndebts and provide for the common defence and general welfare\nof the United States; but all duties, imposts and excises\nshall be uniform throughout the United States.\n[Page H1776]\n</pre>",
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3095",
+    "number": "3095",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000825",
+        "district": 4,
+        "firstName": "Lauren",
+        "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+        "isByRequest": "N",
+        "lastName": "Boebert",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/B000825?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/text?format=json"
+    },
+    "title": "To direct the United States Postal Service to designate single, unique ZIP Codes for certain communities, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3095/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:54:09Z",
+    "updateDateIncludingText": "2026-07-12T15:00:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000397",
+      "district": 40,
+      "firstName": "Young",
+      "fullName": "Rep. Kim, Young [R-CA-40]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kim",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "C001121",
+      "district": 6,
+      "firstName": "Jason",
+      "fullName": "Rep. Crow, Jason [D-CO-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crow",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001121?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "C001069",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Courtney, Joe [D-CT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Courtney",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/C001069?format=json"
+    },
+    {
+      "bioguideId": "D000032",
+      "district": 19,
+      "firstName": "Byron",
+      "fullName": "Rep. Donalds, Byron [R-FL-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Donalds",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000032?format=json"
+    },
+    {
+      "bioguideId": "S001207",
+      "district": 11,
+      "firstName": "Mikie",
+      "fullName": "Rep. Sherrill, Mikie [D-NJ-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sherrill",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S001207?format=json"
+    },
+    {
+      "bioguideId": "M000194",
+      "district": 1,
+      "firstName": "Nancy",
+      "fullName": "Rep. Mace, Nancy [R-SC-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mace",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/M000194?format=json"
+    },
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "S001224",
+      "district": 3,
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S001224?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "G000568",
+      "district": 9,
+      "firstName": "H.",
+      "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Griffith",
+      "middleName": "Morgan",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/G000568?format=json"
+    },
+    {
+      "bioguideId": "S001213",
+      "district": 1,
+      "firstName": "Bryan",
+      "fullName": "Rep. Steil, Bryan [R-WI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steil",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/S001213?format=json"
+    },
+    {
+      "bioguideId": "M001160",
+      "district": 4,
+      "firstName": "Gwen",
+      "fullName": "Rep. Moore, Gwen [D-WI-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/M001160?format=json"
+    },
+    {
+      "bioguideId": "F000471",
+      "district": 5,
+      "firstName": "Scott",
+      "fullName": "Rep. Fitzgerald, Scott [R-WI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzgerald",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/F000471?format=json"
+    },
+    {
+      "bioguideId": "H001096",
+      "district": 0,
+      "firstName": "Harriet",
+      "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hageman",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/H001096?format=json"
+    },
+    {
+      "bioguideId": "S001223",
+      "district": 13,
+      "firstName": "Emilia",
+      "fullName": "Rep. Sykes, Emilia Strong [D-OH-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sykes",
+      "middleName": "Strong",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/S001223?format=json"
+    },
+    {
+      "bioguideId": "B001282",
+      "district": 6,
+      "firstName": "Andy",
+      "fullName": "Rep. Barr, Andy [R-KY-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barr",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/B001282?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "N000026",
+      "district": 22,
+      "firstName": "Troy",
+      "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nehls",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/N000026?format=json"
+    },
+    {
+      "bioguideId": "H001102",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Harris, Mark [R-NC-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001102?format=json"
+    },
+    {
+      "bioguideId": "F000246",
+      "district": 4,
+      "firstName": "Pat",
+      "fullName": "Rep. Fallon, Pat [R-TX-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fallon",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000246?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "A000369",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Amodei, Mark E. [R-NV-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Amodei",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/A000369?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": 6,
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/C001117?format=json"
+    },
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray [D-CA-31]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    },
+    {
+      "bioguideId": "S001156",
+      "district": 38,
+      "firstName": "Linda",
+      "fullName": "Rep. S\u00e1nchez, Linda T. [D-CA-38]",
+      "isOriginalCosponsor": false,
+      "lastName": "S\u00e1nchez",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001156?format=json"
+    },
+    {
+      "bioguideId": "L000595",
+      "district": 5,
+      "firstName": "Julia",
+      "fullName": "Rep. Letlow, Julia [R-LA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Letlow",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/L000595?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "T000480",
+      "district": 4,
+      "firstName": "William",
+      "fullName": "Rep. Timmons, William R. [R-SC-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Timmons",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/T000480?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T16:23:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-21T14:15:54Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-30T14:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill requires the U.S Postal Service to designate a single, unique ZIP Code for each of the following 74 communities:</p><ul><li>Canyon Lake, California</li><li>Eastvale, California</li><li>Hidden Hills, California</li><li>Industry, California</li><li>North&nbsp;Tustin, California</li><li>Tehachapi, California</li><li>Castle Pines, Colorado</li><li>Centennial, Colorado</li><li>Cherry Hills Village, Colorado</li><li>Greenwood Village, Colorado</li><li>Highlands Ranch, Colorado</li><li>Keystone, Colorado</li><li>Lone Tree, Colorado</li><li>Mountain Village, Colorado</li><li>Mt Crested Butte, Colorado</li><li>Severance, Colorado</li><li>Silver Cliff, Colorado</li><li>Sterling Ranch, Colorado</li><li>Superior, Colorado</li><li>Telluride, Colorado</li><li>Scotland, Connecticut</li><li>Estero, Florida</li><li>Ft&nbsp;Myers, Florida</li><li>Hollywood, Florida</li><li>Oakland Park, Florida</li><li>Lighthouse Point, Florida</li><li>Coconut Creek, Florida</li><li>Parkland, Florida</li><li>Deerfield Beach, Florida</li><li>Wilton Manors, Florida</li><li>Burr Ridge, Illinois</li><li>Carmel, Indiana</li><li>Noblesville, Indiana</li><li>Westfield, Indiana</li><li>Zionsville, Indiana</li><li>Urbandale, Iowa</li><li>Louisiana State University, Baton Rouge, Louisiana</li><li>Montz, Louisiana</li><li>Springwater Township, Minnesota</li><li>Grass Valley, Nevada</li><li>Swanzey, New Hampshire</li><li>Kinnelon, New Jersey</li><li>Mendham Township, New Jersey</li><li>Flanders, New York</li><li>Glendale, New York</li><li>Riverside, New York</li><li>Pendelton, New York</li><li>Northampton, New York</li><li>Harnett County, North Carolina</li><li>Weddington, North Carolina</li><li>Goose Creek, South Carolina</li><li>Fairview, Texas</li><li>Fate, Texas</li><li>Heath, Texas</li><li>Murphy, Texas</li><li>Northlake, Texas</li><li>Parker, Texas</li><li>Sargent, Texas</li><li>Fairlawn, Virginia</li><li>Caledonia, Wisconsin</li><li>Franklin, Wisconsin</li><li>Glendale, Wisconsin</li><li>Greenfield, Wisconsin</li><li>Village of Mount Pleasant, Wisconsin</li><li>Village of&nbsp;Somers, Wisconsin</li><li>Village of Harrison, Wisconsin</li><li>Mills, Wyoming</li><li>Hochatown, Oklahoma</li><li>North Enid, Oklahoma</li><li>Green, Ohio</li><li>Rochester, Wisconsin</li><li>Quartzite Township, Minnesota</li><li>Frederick, Colorado</li><li>Camargo, Kentucky</li></ul>",
+      "updateDate": "2025-07-16T22:58:18Z",
+      "versionCode": "00"
+    }
+  ]
+}

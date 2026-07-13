@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/actions?format=json"
+    },
+    "committees": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MACKENZIE:\nH.R. 1800.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H946]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1800",
+    "number": "1800",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001230",
+        "district": 7,
+        "firstName": "Ryan",
+        "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+        "isByRequest": "N",
+        "lastName": "Mackenzie",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/text?format=json"
+    },
+    "title": "Solidify Iran Sanctions Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1800/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:43:24Z",
+    "updateDateIncludingText": "2026-07-12T14:33:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-06T19:12:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-03T17:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-03T17:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-03T17:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-03T17:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-03T17:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Solidify Iran Sanctions Act of 2025</strong></p><p>This bill eliminates a sunset clause in the Iran Sanctions Act of 1996, thereby making the act permanent.</p><p>The Iran Sanctions Act requires the President, with some exceptions, to impose sanctions on certain individuals or entities engaged in specified transactions related to Iran's energy sector or Iran's efforts to acquire or develop certain weapons (such as chemical, biological, or nuclear weapons).</p>",
+      "updateDate": "2025-05-02T19:53:54Z",
+      "versionCode": "00"
+    }
+  ]
+}

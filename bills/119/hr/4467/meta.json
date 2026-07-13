@@ -1,0 +1,162 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-452",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/452?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. THOMPSON of Mississippi:\nH.R. 4467.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, clause 2 (Property Clause)\nArticle IV, Section 3, clause 2, provides Congress with the\npower to ``dispose of and make all needful Rules and\nRegulations respecting the Territory and other Property\nbelonging to the United States.''\n[Page H3369]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4467",
+    "number": "4467",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000193",
+        "district": 2,
+        "firstName": "Bennie",
+        "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "middleName": "G.",
+        "party": "D",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/T000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/text?format=json"
+    },
+    "title": "Vicksburg National Military Park Boundary Modification Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4467/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:26Z",
+    "updateDateIncludingText": "2026-07-13T18:45:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000388",
+      "district": 1,
+      "firstName": "Trent",
+      "fullName": "Rep. Kelly, Trent [R-MS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/K000388?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2025-09-17",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-14T22:35:39Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-11-20T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-11-20T14:00:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-07-16T14:03:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-18T20:38:18Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-09-11T20:13:43Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-14",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Vicksburg National Military Park Boundary Modification Act</strong></p><p>This bill directs the Department of the Interior to convey approximately 7 acres of specified land (in two parcels) within the Vicksburg National Military Park to Mississippi for an interpretive center.</p><p>The conveyed land must&nbsp;facilitate public access to&nbsp;the park, may not be used in a manner that adversely impacts the park's resources or visitor experience, and remains subject to any use restriction&nbsp;that Interior determines is&nbsp;appropriate.</p><p>Interior must convey the land by quitclaim deed and without consideration, such as payment. Upon the conveyance of the land, Interior must modify the park's boundary to exclude the land.</p>",
+      "updateDate": "2026-03-11T15:47:12Z",
+      "versionCode": "07"
+    }
+  ]
+}

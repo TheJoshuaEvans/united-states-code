@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Homeland Security on April 9, 2025",
+        "pubDate": "2025-06-24T13:38:00Z",
+        "title": "H.R. 1327, Syria Terrorism Threat Assessment Act",
+        "url": "https://www.cbo.gov/publication/61496"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-198",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/198?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LUTTRELL:\nH.R. 1327.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8. To make laws which shall be necessary\nand proper for carrying into execution the foregoing powers,\nand all other powers vested by this Constitution in the\ngovernment of the United States, or in any department or\nofficer thereof.\n[Page H711]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1327",
+    "number": "1327",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000603",
+        "district": 8,
+        "firstName": "Morgan",
+        "fullName": "Rep. Luttrell, Morgan [R-TX-8]",
+        "isByRequest": "N",
+        "lastName": "Luttrell",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/L000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/text?format=json"
+    },
+    "title": "Syria Terrorism Threat Assessment Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1327/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-09T13:27:22Z",
+    "updateDateIncludingText": "2026-07-12T14:29:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000175",
+      "district": 5,
+      "firstName": "Andrew",
+      "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ogles",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/O000175?format=json"
+    },
+    {
+      "bioguideId": "P000048",
+      "district": 11,
+      "firstName": "August",
+      "fullName": "Rep. Pfluger, August [R-TX-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pfluger",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/P000048?format=json"
+    },
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": false,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2025-03-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T18:33:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:45:47Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T13:25:21Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-13T14:06:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-25T15:31:09Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-03-25T15:30:56Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-02-13T18:19:09Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-10",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Syria Terrorism Threat Assessment Act</strong></p><p>This bill requires the Department of Homeland Security to provide Congress with an assessment of terrorist threats to the United States posed by individuals in Syria affiliated with either a foreign terrorist organization or a specially designated global terrorist organization.</p>",
+      "updateDate": "2025-11-13T21:18:51Z",
+      "versionCode": "07"
+    }
+  ]
+}

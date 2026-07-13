@@ -1,0 +1,209 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-280",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/280?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KENNEDY of Utah:\nH.R. 1045.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H556]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-12-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1045",
+    "number": "1045",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000403",
+        "district": 3,
+        "firstName": "Mike",
+        "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/K000403?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/text?format=json"
+    },
+    "title": "Utah Wildfire Research Institute Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1045/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-13T19:41:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T19:18:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:14:24Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-06T15:08:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-14T20:36:13Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Forestry and Horticulture Subcommittee",
+          "systemCode": "hsag15",
+          "url": "https://api.congress.gov/v3/committee/house/hsag15?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:14:13Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:27:15Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T16:26:51Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-02-06T15:08:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-10T16:58:55Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-06-03T13:57:34Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Utah Wildfire Research Institute Act of 2025</strong></p><p>This bill requires the establishment of a Southwest Ecological Restoration Institute in Utah. Such institutes currently exist in Arizona, New Mexico, and Colorado and promote the use of adaptive ecosystem management to reduce the risk of wildfires and restore the health of forest and woodland ecosystems.</p>",
+      "updateDate": "2025-12-11T15:29:45Z",
+      "versionCode": "07"
+    }
+  ]
+}

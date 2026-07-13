@@ -1,0 +1,219 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KENNEDY of New York:\nH.R. 862.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 3, Section 8, Article 1 of the Constitution\n[Page H434]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/862",
+    "number": "862",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000402",
+        "district": 26,
+        "firstName": "Timothy",
+        "fullName": "Rep. Kennedy, Timothy M. [D-NY-26]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/K000402?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/text?format=json"
+    },
+    "title": "TSA Commuting Fairness Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/862/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T23:53:20Z",
+    "updateDateIncludingText": "2026-07-13T17:17:51Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "C001112",
+      "district": 24,
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001112?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "C001127",
+      "district": 20,
+      "firstName": "Sheila",
+      "fullName": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cherfilus-McCormick",
+      "party": "D",
+      "sponsorshipDate": "2025-02-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001127?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-03-06",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-03-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-11T18:48:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:05:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-31T18:09:35Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Transportation and Maritime Security Subcommittee",
+          "systemCode": "hshm07",
+          "url": "https://api.congress.gov/v3/committee/house/hshm07?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>TSA Commuting Fairness Act</strong></p><p>This bill directs the Transportation Security Administration (TSA) to submit to Congress a study on the feasibility of treating as on-duty hours the time TSA employees working at airport locations spend traveling between regular duty locations, airport parking lots,&nbsp;and bus and transit stops.</p>",
+      "updateDate": "2025-03-04T19:00:22Z",
+      "versionCode": "00"
+    }
+  ]
+}

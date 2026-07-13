@@ -1,0 +1,148 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-17",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3548",
+    "number": "3548",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001288",
+        "firstName": "Cory",
+        "fullName": "Sen. Booker, Cory A. [D-NJ]",
+        "isByRequest": "N",
+        "lastName": "Booker",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/B001288?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/text?format=json"
+    },
+    "title": "Fair Competition for Small Business Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3548/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-11T19:06:17Z",
+    "updateDateIncludingText": "2026-07-11T19:06:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "M001169",
+      "firstName": "Christopher",
+      "fullName": "Sen. Murphy, Christopher [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murphy",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/M001169?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-17T21:59:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

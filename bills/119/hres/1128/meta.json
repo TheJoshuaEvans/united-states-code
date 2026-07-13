@@ -1,0 +1,270 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-20",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "actionTime": "15:12:07",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1128",
+    "number": "1128",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001230",
+        "district": 7,
+        "firstName": "Ryan",
+        "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+        "isByRequest": "N",
+        "lastName": "Mackenzie",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/text?format=json"
+    },
+    "title": "Expressing the support of the House of Representatives for the Department of Homeland Security.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1128/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:54:20Z",
+    "updateDateIncludingText": "2026-07-11T21:54:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000484",
+      "district": 6,
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000484?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "V000139",
+      "district": 7,
+      "firstName": "Matt",
+      "fullName": "Rep. Van Epps, Matt [R-TN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Epps",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/V000139?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "H001095",
+      "district": 38,
+      "firstName": "Wesley",
+      "fullName": "Rep. Hunt, Wesley [R-TX-38]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hunt",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/H001095?format=json"
+    },
+    {
+      "bioguideId": "L000596",
+      "district": 13,
+      "firstName": "Anna Paulina",
+      "fullName": "Rep. Luna, Anna Paulina [R-FL-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luna",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/L000596?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "C001129",
+      "district": 10,
+      "firstName": "Mike",
+      "fullName": "Rep. Collins, Mike [R-GA-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "party": "R",
+      "sponsorshipDate": "2026-03-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001129?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-20T14:30:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-20",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution recognizes the importance of fully funding the Department of Homeland Security (DHS).</p><p>The resolution also (1) cautions that Americans are at greater risk each day&nbsp;DHS is subject to a lapse in appropriations, and (2) expresses gratitude to DHS employees for their commitment to protect the United States.&nbsp;</p>",
+      "updateDate": "2026-03-23T13:50:28Z",
+      "versionCode": "00"
+    }
+  ]
+}

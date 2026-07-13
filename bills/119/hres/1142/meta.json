@@ -1,0 +1,76 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1142/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-575",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/575?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1142/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-27",
+    "latestAction": {
+      "actionDate": "2026-03-27",
+      "actionTime": "23:26:23",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1142",
+    "number": "1142",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000470",
+        "district": 7,
+        "firstName": "Michelle",
+        "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+        "isByRequest": "N",
+        "lastName": "Fischbach",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000470?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1142/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1142/text?format=json"
+    },
+    "title": "Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1142/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:54:21Z",
+    "updateDateIncludingText": "2026-07-11T21:54:21Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-27T22:22:08Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

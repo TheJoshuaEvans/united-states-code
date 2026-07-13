@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SMITH of New Jersey:\nH.R. 1503.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H730]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-21",
+    "latestAction": {
+      "actionDate": "2025-05-08",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1503",
+    "number": "1503",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000522",
+        "district": 4,
+        "firstName": "Christopher",
+        "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "middleName": "H.",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/S000522?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/text?format=json"
+    },
+    "title": "Stop Forced Organ Harvesting Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1503/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:23:19Z",
+    "updateDateIncludingText": "2026-07-13T19:45:15Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000375",
+      "district": 9,
+      "firstName": "William",
+      "fullName": "Rep. Keating, William R. [D-MA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Keating",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/K000375?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-02-21T20:37:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-08T16:29:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-21T20:37:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Stop Forced Organ Harvesting Act of 2025</strong></p><p>This bill requires the President to impose sanctions on persons (individuals and entities) involved in forced organ trafficking and authorizes the Department of State to deny or revoke the passports of individuals convicted of certain crimes related to organ trafficking.</p><p>Specifically, the President must report to Congress a list of persons that facilitate (1) forced organ harvesting, or (2) trafficking in persons for organ harvesting. For each person on the list, the President must impose property- and visa-blocking sanctions.</p><p>Furthermore, the State Department may deny or revoke the passport of an individual who has been convicted of a federal crime of knowingly transferring any human organ for valuable consideration for use in human transplantation, if the individual (1) is subject to imprisonment or supervised release resulting from that conviction, and (2) used a passport or crossed an international border when committing that crime.</p>",
+      "updateDate": "2025-05-05T15:57:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McCORMICK:\nH.R. 1486.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 under Article I, Section 8 of the Constitution\n[Page H730]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-21",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1486",
+    "number": "1486",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001218",
+        "district": 7,
+        "firstName": "Richard",
+        "fullName": "Rep. McCormick, Richard [R-GA-7]",
+        "isByRequest": "N",
+        "lastName": "McCormick",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/M001218?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/text?format=json"
+    },
+    "title": "Economic Espionage Prevention Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1486/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:28:21Z",
+    "updateDateIncludingText": "2026-07-12T14:30:42Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-21",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-02-21T20:33:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-06T21:46:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-21T20:33:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Economic Espionage Prevention Act</strong></p><p>This bill authorizes the President to impose visa- and property-blocking sanctions on foreign adversary entities that knowingly engage in (1) economic and industrial espionage with respect to trade secrets and proprietary information owned by U.S. persons, (2) the provision of material support or services to a foreign adversaries' national security entities, or (3) the violation of U.S. export control laws. The bill cites regulations that define China, Russia, Iran, North Korea, Cuba, and the Maduro regime of Venezuela as foreign adversaries.<br/>&nbsp;<br/>The bill also limits certain&nbsp;exemptions from&nbsp;the President's authority under the International Emergency Economic Powers Act (IEEPA). IEEPA provides the President broad authority to regulate a variety of economic transactions following a declaration of national emergency, but&nbsp;exempts from this authority activities such as (1) the import or export of information or informational materials; (2) transactions ordinarily incident to international travel, such as the importation of personal baggage; and (3) personal communications, such as postal or telephonic communications, that do not transfer anything of value. Under the bill, the first two of these exemptions are not applicable if the President determines such imports and exports would seriously impair the ability to deal with a declared national emergency. Additionally, the bill specifies that the first and third exemptions listed above do not apply to bulk sensitive personal data or source code used in a connected software application.</p>",
+      "updateDate": "2025-05-02T18:03:47Z",
+      "versionCode": "00"
+    }
+  ]
+}

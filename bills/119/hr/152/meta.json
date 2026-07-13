@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EZELL:\nH.R. 152.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clauses 1 and 18 of the U.S.\nConstitution\nThe single subject of this legislation is:\nFEMA Study.\n[Page H41]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/152",
+    "number": "152",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000235",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Ezell, Mike [R-MS-4]",
+        "isByRequest": "N",
+        "lastName": "Ezell",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/E000235?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/text?format=json"
+    },
+    "title": "Federal Disaster Assistance Coordination Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/152/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:23:20Z",
+    "updateDateIncludingText": "2026-07-12T14:31:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001103",
+      "district": 0,
+      "firstName": "Pablo",
+      "fullName": "Rescom. Hern\u00e1ndez, Pablo [D-PR-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hern\u00e1ndez",
+      "middleName": "Jos\u00e9",
+      "party": "D",
+      "sponsorshipDate": "2025-01-13",
+      "state": "PR",
+      "url": "https://api.congress.gov/v3/member/H001103?format=json"
+    },
+    {
+      "bioguideId": "P000610",
+      "district": 0,
+      "firstName": "Stacey",
+      "fullName": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Plaskett",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-13",
+      "state": "VI",
+      "url": "https://api.congress.gov/v3/member/P000610?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-14T17:27:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:19:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-04T14:09:38Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Disaster Assistance Coordination Act</strong></p><p>This bill requires the Federal Emergency Management Agency (FEMA) to streamline disaster information collection, convene a working group on preliminary damage assessments, and provide a report to Congress.</p><p>FEMA must (1) conduct a study and develop a plan under which the collection of information from disaster assistance applicants and grantees will be made less burdensome, duplicative, and time consuming for applicants and grantees; and (2) develop a plan for the regular collection and reporting of information on federal disaster assistance awarded.</p><p>Additionally, not later than two years after enactment of the bill, FEMA must convene a working group on a regular basis to (1) identify potential areas of duplication or fragmentation in preliminary damage assessments after disaster declarations; (2)&nbsp;determine the applicability of having one federal agency make the assessments for all agencies; and (3) identify potential emerging technologies, such as unmanned aircraft systems (i.e., drones), to expedite the administration of preliminary damage assessments.</p><p>FEMA must submit a comprehensive report on the plans for streamlining and consolidating information collection and the findings and recommendations of the working group to Congress with a briefing. The report must be made available to the public and posted on FEMA's website.</p>",
+      "updateDate": "2025-03-05T21:57:39Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on December 1, 2025",
+        "pubDate": "2026-01-13T18:42:00Z",
+        "title": "H.R. 4429, Developing and Empowering our Aspiring Leaders Act of 2025",
+        "url": "https://www.cbo.gov/publication/62011"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-246",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/246?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. WAGNER:\nH.R. 4429.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution.\n[Page H3368]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4429",
+    "number": "4429",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000812",
+        "district": 2,
+        "firstName": "Ann",
+        "fullName": "Rep. Wagner, Ann [R-MO-2]",
+        "isByRequest": "N",
+        "lastName": "Wagner",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/W000812?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/text?format=json"
+    },
+    "title": "Developing and Empowering our Aspiring Leaders Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4429/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T04:26:31Z",
+    "updateDateIncludingText": "2026-07-13T18:45:04Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001117",
+      "district": 6,
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/C001117?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T23:19:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:54:19Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T15:40:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-16T14:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-16",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Developing and Empowering our Aspiring Leaders Act of 2025 </strong></p><p>This bill directs the Securities and Exchange Commission to revise venture capital investment regulations to allow additional types of investments to be considered as qualifying investments. Venture capital funds are exempt from certain regulations applicable to other investment firms, including those related to filings, audits, and restricted communications with investors. Under current regulations, non-qualifying investments\u2014which include secondary transactions and investments in other venture capital funds\u2014may comprise up to 20% of a venture capital fund.</p><p>The bill allows investments acquired through secondary transactions or investments in other venture capital funds to be considered as qualifying investments for venture capital funds. However, for a private fund to qualify as a venture capital fund, the fund's investments must predominately (1) be acquired directly, or (2) be investments in other venture capital funds.</p>",
+      "updateDate": "2025-11-26T19:24:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

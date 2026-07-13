@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GUEST:\nH.R. 1692.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-03-12",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1692",
+    "number": "1692",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000591",
+        "district": 3,
+        "firstName": "Michael",
+        "fullName": "Rep. Guest, Michael [R-MS-3]",
+        "isByRequest": "N",
+        "lastName": "Guest",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/G000591?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/text?format=json"
+    },
+    "title": "PATHS Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1692/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:58:19Z",
+    "updateDateIncludingText": "2026-07-12T14:32:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-12T17:00:31Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T14:07:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-27T18:44:12Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Emergency Management and Technology Subcommittee",
+          "systemCode": "hshm12",
+          "url": "https://api.congress.gov/v3/committee/house/hshm12?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Producing Advanced Technologies for Homeland Security Act or the PATHS Act</strong></p><p>This bill extends through FY2028 the authority of the Department of Homeland Security (DHS) to use other transactions (OT) to carry out research and prototype projects when the use of contracts, grants, and cooperative agreements is not feasible or appropriate. (OTs, in contrast to traditional procurement contracts, are exempt from many federal procurement laws and regulations.) DHS must notify Congress within 72 hours of using or extending this authority&nbsp;for research and development projects related to artificial intelligence technology and must offer to brief Congress on the rationale for such a decision.&nbsp;</p><p>The bill also lowers from $4 million to $1 million the minimum value of contract awards that DHS must publicly report on its website.</p>",
+      "updateDate": "2025-03-12T16:50:48Z",
+      "versionCode": "00"
+    }
+  ]
+}

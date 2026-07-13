@@ -1,0 +1,153 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on May 13, 2025",
+        "pubDate": "2025-05-27T19:53:00Z",
+        "title": "H.R. 1001, an act to provide for a memorandum of understanding to address the impacts of a certain record of decision on the Upper Colorado River Basin Fund",
+        "url": "https://www.cbo.gov/publication/61430"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-61",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/61?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. HAGEMAN:\nH.R. 1001.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, clause 2 (Property Clause)\n[Page H505]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1001",
+    "number": "1001",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001096",
+        "firstName": "Harriet",
+        "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+        "isByRequest": "N",
+        "lastName": "Hageman",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/H001096?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/text?format=json"
+    },
+    "title": "To provide for a memorandum of understanding to address the impacts of a certain record of decision on the Upper Colorado River Basin Fund.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1001/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T17:13:48Z",
+    "updateDateIncludingText": "2026-07-13T19:41:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T15:57:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-17T14:04:02Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T21:43:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-05T15:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill directs the Bureau of Reclamation and the Western Area Power Administration, in consultation with the Glen Canyon Dam Adaptive Management Work Group, to enter into a memorandum of understanding to explore and address the impact that the 2024 record of decision entitled <em>Supplement to the 2016 Glen Canyon Dam Long-Term Experimental and Management Plan Record of Decision </em>has on the Upper Colorado River Basin Fund. The memorandum of understanding must include a plan to (1) address the effects that the decision may have on the fund's obligations, (2) address the impact that the decision has on hydropower production at Glen Canyon Dam, and (3) identify impacts that the decision has had on species listed as threatened or endangered species.</p><p>By way of background, Reclamation published a Final Supplemental Environmental Impact Statement (SEIS) under the National Environmental Policy Act of 1969 for the Glen Canyon Dam Long-Term Experimental and Management Plan (LTEMP) in 2024. The SEIS revises the 2016 LTEMP Record of Decision to address two issues: (1) responding to the threat of the invasive smallmouth bass&nbsp;below Glen Canyon Dam, and (2) incorporating the latest sediment science to assess when high-flow experiments should be conducted in order to protect the endangered humpback&nbsp;chub.</p>",
+      "updateDate": "2025-05-12T17:05:13Z",
+      "versionCode": "00"
+    }
+  ]
+}

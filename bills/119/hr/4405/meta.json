@@ -1,0 +1,401 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 121 (Tuesday, July 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KHANNA:\nH.R. 4405.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3316]\n</pre>",
+    "cosponsors": {
+      "count": 24,
+      "countIncludingWithdrawnCosponsors": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-15",
+    "latestAction": {
+      "actionDate": "2025-11-19",
+      "text": "Became Public Law No: 119-38."
+    },
+    "laws": [
+      {
+        "number": "119-38",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4405",
+    "number": "4405",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000389",
+        "district": 17,
+        "firstName": "Ro",
+        "fullName": "Rep. Khanna, Ro [D-CA-17]",
+        "isByRequest": "N",
+        "lastName": "Khanna",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000389?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/text?format=json"
+    },
+    "title": "Epstein Files Transparency Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4405/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-02T20:04:33Z",
+    "updateDateIncludingText": "2026-07-13T18:44:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001184",
+      "district": 4,
+      "firstName": "Thomas",
+      "fullName": "Rep. Massie, Thomas [R-KY-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Massie",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/M001184?format=json"
+    },
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2025-07-16",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    },
+    {
+      "bioguideId": "L000562",
+      "district": 8,
+      "firstName": "Stephen",
+      "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lynch",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-16",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/L000562?format=json"
+    },
+    {
+      "bioguideId": "A000381",
+      "district": 3,
+      "firstName": "Yassamin",
+      "fullName": "Rep. Ansari, Yassamin [D-AZ-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ansari",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/A000381?format=json"
+    },
+    {
+      "bioguideId": "M000312",
+      "district": 2,
+      "firstName": "James",
+      "fullName": "Rep. McGovern, James P. [D-MA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGovern",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000312?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": 4,
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000288?format=json"
+    },
+    {
+      "bioguideId": "O000173",
+      "district": 5,
+      "firstName": "Ilhan",
+      "fullName": "Rep. Omar, Ilhan [D-MN-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Omar",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/O000173?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "B001324",
+      "district": 1,
+      "firstName": "Wesley",
+      "fullName": "Rep. Bell, Wesley [D-MO-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bell",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/B001324?format=json"
+    },
+    {
+      "bioguideId": "O000176",
+      "district": 2,
+      "firstName": "Johnny",
+      "fullName": "Rep. Olszewski, Johnny [D-MD-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Olszewski",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/O000176?format=json"
+    },
+    {
+      "bioguideId": "P000197",
+      "district": 11,
+      "firstName": "Nancy",
+      "fullName": "Rep. Pelosi, Nancy [D-CA-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pelosi",
+      "party": "D",
+      "sponsorshipDate": "2025-07-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000197?format=json"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": 17,
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-22",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000530?format=json"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2025-07-22",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "M000687",
+      "district": 7,
+      "firstName": "Kweisi",
+      "fullName": "Rep. Mfume, Kweisi [D-MD-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mfume",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M000687?format=json"
+    },
+    {
+      "bioguideId": "S000510",
+      "district": 9,
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S000510?format=json"
+    },
+    {
+      "bioguideId": "D000096",
+      "district": 7,
+      "firstName": "Danny",
+      "fullName": "Rep. Davis, Danny K. [D-IL-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000096?format=json"
+    },
+    {
+      "bioguideId": "S001205",
+      "district": 5,
+      "firstName": "Mary Gay",
+      "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scanlon",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001205?format=json"
+    },
+    {
+      "bioguideId": "F000481",
+      "district": 2,
+      "firstName": "Shomari",
+      "fullName": "Rep. Figures, Shomari [D-AL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Figures",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/F000481?format=json"
+    },
+    {
+      "bioguideId": "M001223",
+      "district": 2,
+      "firstName": "Seth",
+      "fullName": "Rep. Magaziner, Seth [D-RI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Magaziner",
+      "party": "D",
+      "sponsorshipDate": "2025-08-08",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/M001223?format=json"
+    },
+    {
+      "bioguideId": "D000635",
+      "district": 3,
+      "firstName": "Maxine",
+      "fullName": "Rep. Dexter, Maxine [D-OR-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dexter",
+      "party": "D",
+      "sponsorshipDate": "2025-08-22",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/D000635?format=json"
+    },
+    {
+      "bioguideId": "G000598",
+      "district": 42,
+      "firstName": "Robert",
+      "fullName": "Rep. Garcia, Robert [D-CA-42]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garcia",
+      "party": "D",
+      "sponsorshipDate": "2025-08-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000598?format=json"
+    },
+    {
+      "bioguideId": "H001090",
+      "district": 9,
+      "firstName": "Josh",
+      "fullName": "Rep. Harder, Josh [D-CA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harder",
+      "party": "D",
+      "sponsorshipDate": "2025-10-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001090?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T14:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Epstein Files Transparency Act</strong></p><p>This bill requires the Department of Justice (DOJ) to publish (in a searchable and downloadable format) all&nbsp;unclassified records, documents, communications, and investigative materials in DOJ's possession that relate to the investigation and prosecution of Jeffrey Epstein.</p><p>This includes (1) materials&nbsp;that relate to Ghislaine Maxwell, (2) flight logs and travel records, and (3) individuals named or referenced (including government officials) in connection with the investigation and prosecution of Jeffrey Epstein.</p><p>DOJ is permitted to withhold certain information such as the personal information of victims and materials that would jeopardize an active federal investigation.</p><p>Additionally, not later than 15 days after the required publication, DOJ must report to Congress (1) all categories of information released and withheld, (2) a summary of any redactions made, and (3) a list of all government officials and politically exposed individuals named or referenced in the published materials.</p>",
+      "updateDate": "2025-09-08T17:37:36Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-11-19",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Epstein Files Transparency Act</strong></p><p>This act requires the Department of Justice (DOJ) to publish (in a searchable and downloadable format) all&nbsp;unclassified records, documents, communications, and investigative materials in DOJ's possession that relate to the investigation and prosecution of Jeffrey Epstein.</p><p>This includes (1) materials&nbsp;that relate to Ghislaine Maxwell, (2) flight logs and travel records, and (3) individuals named or referenced (including government officials) in connection with the investigation and prosecution of Jeffrey Epstein.</p><p>DOJ is permitted to withhold certain information such as the personal information of victims and materials that would jeopardize an active federal investigation.</p><p>Additionally, not later than 15 days after the required publication, DOJ must report to Congress (1) all categories of information released and withheld, (2) a summary of any redactions made, and (3) a list of all government officials and politically exposed individuals named or referenced in the published materials.</p>",
+      "updateDate": "2026-06-02T20:03:43Z",
+      "versionCode": "49"
+    }
+  ]
+}

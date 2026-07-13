@@ -1,0 +1,134 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on February 4, 2026",
+        "pubDate": "2026-03-19T19:58:00Z",
+        "title": "S. 790, a bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \u2018\u2018Barbara L. Cubin National Historic Trails Interpretive Center\u2019\u2019",
+        "url": "https://www.cbo.gov/publication/62246"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "actionTime": "16:38:50",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/790",
+    "number": "790",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000571",
+        "firstName": "Cynthia",
+        "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+        "isByRequest": "N",
+        "lastName": "Lummis",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/L000571?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/text?format=json"
+    },
+    "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/790/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-22T14:39:42Z",
+    "updateDateIncludingText": "2026-07-12T15:05:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001261",
+      "firstName": "John",
+      "fullName": "Sen. Barrasso, John [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrasso",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T16:17:52Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-02-04T22:04:01Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T18:33:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-12-02T20:00:10Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This bill renames the National Historic Trails Interpretive Center located in Casper, Wyoming, as the Barbara L. Cubin National Historic Trails Interpretive Center.</p>",
+      "updateDate": "2026-02-09T15:26:49Z",
+      "versionCode": "00"
+    }
+  ]
+}

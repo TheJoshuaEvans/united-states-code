@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/981/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/981/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VAN ORDEN:\nH.R. 981.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt. I, Sec 8, Clause 18\n[Page H505]\n</pre>",
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/981",
+    "number": "981",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000135",
+        "district": 3,
+        "firstName": "Derrick",
+        "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+        "isByRequest": "N",
+        "lastName": "Van Orden",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/V000135?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/981/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/981/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/981/text?format=json"
+    },
+    "title": "VETT Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/981/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:21Z",
+    "updateDateIncludingText": "2026-07-11T22:08:21Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-10T18:13:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-05T15:06:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-07T22:44:17Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Veterans Education Transparency and Training Act or the VETT Act</strong></p><p>This bill modifies the approval process for certain courses of education for purposes of Department of Veterans Affairs (VA) educational assistance benefits.</p><p>Under current law, educational institutions must provide a personalized form to an individual with certain information (e.g., cost, financial aid, and graduation and job placement rates) prior to enrollment in a course, otherwise such institutions may be subject to certain disciplinary action from the VA or state approving agency. The bill provides that if an educational institution cannot provide the required personalized form to an individual prior to enrollment, the institution must provide notice that specifies which information in the form may be inaccurate or incomplete and the best estimate available for such information.</p><p>The bill requires the VA to establish and regularly update a website to serve as a central location for information about training for school certifying officials regarding VA educational benefits.</p>",
+      "updateDate": "2025-04-07T15:13:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

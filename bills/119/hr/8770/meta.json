@@ -1,0 +1,196 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-737",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/737?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 80 (Tuesday, May 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STRONG:\nH.R. 8770.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution of the United\nStates\n[Page H3394]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Placed on the Union Calendar, Calendar No. 641."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8770",
+    "number": "8770",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001220",
+        "district": 5,
+        "firstName": "Dale",
+        "fullName": "Rep. Strong, Dale W. [R-AL-5]",
+        "isByRequest": "N",
+        "lastName": "Strong",
+        "middleName": "W.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/S001220?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/text?format=json"
+    },
+    "title": "SAFEGUARDS Act of 2026",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8770/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T17:38:14Z",
+    "updateDateIncludingText": "2026-07-13T17:38:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000402",
+      "district": 26,
+      "firstName": "Timothy",
+      "fullName": "Rep. Kennedy, Timothy M. [D-NY-26]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/K000402?format=json"
+    },
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "M001230",
+      "district": 7,
+      "firstName": "Ryan",
+      "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mackenzie",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001230?format=json"
+    },
+    {
+      "bioguideId": "V000139",
+      "district": 7,
+      "firstName": "Matt",
+      "fullName": "Rep. Van Epps, Matt [R-TN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Epps",
+      "party": "R",
+      "sponsorshipDate": "2026-07-02",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/V000139?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T20:14:13Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T20:29:19Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-12T16:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-24T20:29:10Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-05-13T17:53:54Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Transportation and Maritime Security Subcommittee",
+          "systemCode": "hshm07",
+          "url": "https://api.congress.gov/v3/committee/house/hshm07?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Spending Aviation Fees for Equipment, Guaranteeing Upgraded and Advanced Risk Detection and Safety Act of 2026 or the SAFEGUARDS Act of 2026</strong></p><p>This bill allocates additional funding for the Transportation Security Administration (TSA) for aviation security, including checked baggage explosives detection equipment and security checkpoint technology.</p><p>As background, TSA collects passenger civil aviation security service fees (often referred to as the 9/11 security fee or passenger security fee) on air carrier passengers originating at airports in the United States. In general, these fees are deposited into the Department of the Treasury general fund and applied towards debt reduction. A portion of these fees are allocated to TSA for aviation security.</p><p>The bill requires that the first $500 million collected in each fiscal year from passenger security fees be deposited into the Aviation Security Capital Fund. This is an increase from the currently required $250 million. This fund provides for the costs associated with acquiring and installing in-line baggage screening systems (i.e., systems that use a conveyor belt infrastructure to automatically screen, sort, and track baggage) to accommodate checked baggage explosives detection equipment and for certain other airport security improvements.</p><p>The bill also requires that&nbsp;the next $250 million collected in each fiscal year from passenger security fees be deposited into a new Aviation Security Checkpoint Technology Fund for the costs associated with acquiring,&nbsp;installing, and sustaining&nbsp;aviation security checkpoint technology.</p>",
+      "updateDate": "2026-07-09T19:49:54Z",
+      "versionCode": "00"
+    }
+  ]
+}

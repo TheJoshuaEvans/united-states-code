@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:21:00Z",
+        "title": "H.R. 1804, 7(a) Loan Agent Oversight Act",
+        "url": "https://www.cbo.gov/publication/61319"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-33",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/33?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MEUSER:\nH.R. 1804.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H946]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1804",
+    "number": "1804",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001204",
+        "district": 9,
+        "firstName": "Daniel",
+        "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+        "isByRequest": "N",
+        "lastName": "Meuser",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001204?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/text?format=json"
+    },
+    "title": "7(a) Loan Agent Oversight Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1804/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:43:24Z",
+    "updateDateIncludingText": "2026-07-12T14:33:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001229",
+      "district": 10,
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001229?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:36:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T20:33:09Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:06:03Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-03T17:08:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>7(a) Loan Agent Oversight Act</strong></p><p>This bill requires the Small Business Administration (SBA) to submit an annual report containing specified information related to 7(a) loan agents. These agents provide fee-based referral and loan application services related to the SBA's 7(a) Program. Under the 7(a) Program, the SBA provides loans and loan guarantees to small business borrowers who cannot obtain credit elsewhere on reasonable terms and conditions.</p><p>The required report must include (1) the number and type of agents assisting applicants for 7(a) loans, (2) the number of fraudulent loans made for which an applicant used the services of a 7(a) agent, (3) the purchase rate of loans for which an applicant used the services of a 7(a) agent,&nbsp;and (4) the number and aggregate dollar value of referral fees paid to 7(a) agents.</p>",
+      "updateDate": "2025-05-30T21:19:16Z",
+      "versionCode": "00"
+    }
+  ]
+}

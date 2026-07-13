@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hres/436/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-113",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/113?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/436/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2025-05-22",
+      "actionTime": "02:39:48",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/436",
+    "number": "436",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/436/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/436/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/436/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 1) to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/436/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:59:09Z",
+    "updateDateIncludingText": "2026-07-11T20:59:09Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-22T03:45:55Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

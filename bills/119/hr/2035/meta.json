@@ -1,0 +1,151 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-147",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/147?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARBAJAL:\nH.R. 2035.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\n[Page H1151]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2035",
+    "number": "2035",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001112",
+        "district": 24,
+        "firstName": "Salud",
+        "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+        "isByRequest": "N",
+        "lastName": "Carbajal",
+        "middleName": "O.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001112?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/text?format=json"
+    },
+    "title": "American Cargo for American Ships Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:08:26Z",
+    "updateDateIncludingText": "2026-07-12T14:51:51Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-10T19:51:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-06T13:21:55Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-02T15:07:38Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-02T15:07:31Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-11T14:04:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-12T17:04:32Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Coast Guard and Maritime Transportation Subcommittee",
+          "systemCode": "hspw07",
+          "url": "https://api.congress.gov/v3/committee/house/hspw07?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>American Cargo for American Ships Act</strong></p><p>This bill requires 100% of equipment, materials, and commodities procured, furnished, or&nbsp;financed by the Department of Transportation (DOT) and transported on ocean vessels to be transported on U.S.-flagged commercial vessels. (Current <em>cargo preference </em>laws require that a minimum percentage&nbsp;of federally financed ocean cargo be transported on U.S.-flagged commercial vessels. For civilian agencies and agricultural cargo, the minimum is generally 50%.)</p><p>Specifically, the bill imposes the requirement on DOT (for cargo it contracts for or procures for itself) and recipients of DOT funding (for cargo DOT has financed with federal funds or advanced funds for the recipient to obtain). As under current cargo preference&nbsp;laws, the requirement applies to the extent those vessels are available at fair and reasonable rates for U.S.-flagged commercial vessels,&nbsp;in a manner that will ensure fair and reasonable participation of U.S.-flagged commercial vessels by geographic area.&nbsp;</p>",
+      "updateDate": "2025-06-06T19:29:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on September 19, 2025",
+        "pubDate": "2025-10-01T13:58:00Z",
+        "title": "H.R. 3628, State Planning for Reliability and Affordability Act",
+        "url": "https://www.cbo.gov/publication/61783"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-306",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/306?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EVANS of Colorado:\nH.R. 3628.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\n[Page H2377]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3628",
+    "number": "3628",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000300",
+        "district": 8,
+        "firstName": "Gabe",
+        "fullName": "Rep. Evans, Gabe [R-CO-8]",
+        "isByRequest": "N",
+        "lastName": "Evans",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/E000300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/text?format=json"
+    },
+    "title": "State Planning for Reliability and Affordability Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3628/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-12T00:46:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-15T21:02:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-19T16:28:40Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T16:10:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-29T15:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-05T20:17:00Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-06-05T20:16:00Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-06-03T20:15:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-19",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>State Planning for Reliability and Affordability Act</strong></p><p>This bill requires certain state authorities that regulate electric utilities to consider the establishment of measures regarding the reliable availability of electricity over specified time periods. These requirements would apply to electric utilities that use integrated resource plans\u2014plans that project future electricity use to ensure resource adequacy, as opposed to utilities that rely on capacity markets, which use price trends for resource planning.</p><p>Specifically, the state authorities must consider requiring the integrated resource plans of electric utilities to include measures to ensure the reliable availability of electric energy over a 10-year period to maintain the operation of reliable generation facilities or the procurement of electric energy from reliable generation facilities.</p><p>The bill defines <em>reliable generation facilities</em> as facilities that</p><ul><li>enable the generation of electric energy on a continuous basis over a period of not fewer than 30 days;&nbsp;</li><li>have adequate fuel or a continuously available energy source on-site to enable the continuous generation of electric energy for at least 30 days, or have contractual obligations that achieve the same;</li><li>have&nbsp;operational characteristics to enable the generation of electric energy during emergency and severe weather conditions; and</li><li>provide services such as frequency support and voltage support.</li></ul>",
+      "updateDate": "2025-12-08T19:53:24Z",
+      "versionCode": "07"
+    }
+  ]
+}

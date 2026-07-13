@@ -1,0 +1,308 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2210/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2210/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 50 (Tuesday, March 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LOFGREN:\nH.R. 2210.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, section 8 of the Constitution of the United\nStates.\n[Page H1172]\n</pre>",
+    "cosponsors": {
+      "count": 18,
+      "countIncludingWithdrawnCosponsors": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2210/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-18",
+    "latestAction": {
+      "actionDate": "2025-03-18",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2210",
+    "number": "2210",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000397",
+        "district": 18,
+        "firstName": "Zoe",
+        "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+        "isByRequest": "N",
+        "lastName": "Lofgren",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/L000397?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2210/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2210/text?format=json"
+    },
+    "title": "Saving NASA\u2019s Workforce Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2210/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-02T08:06:18Z",
+    "updateDateIncludingText": "2025-05-02T08:06:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000477",
+      "district": 4,
+      "firstName": "Valerie",
+      "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foushee",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-18",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000477?format=json"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "S001215",
+      "district": 11,
+      "firstName": "Haley",
+      "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stevens",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001215?format=json"
+    },
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "S001230",
+      "district": 10,
+      "firstName": "Suhas",
+      "fullName": "Rep. Subramanyam, Suhas [D-VA-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Subramanyam",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/S001230?format=json"
+    },
+    {
+      "bioguideId": "R000620",
+      "district": 29,
+      "firstName": "Luz",
+      "fullName": "Rep. Rivas, Luz [D-CA-29]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rivas",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/R000620?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "W000830",
+      "district": 27,
+      "firstName": "George",
+      "fullName": "Rep. Whitesides, George [D-CA-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Whitesides",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/W000830?format=json"
+    },
+    {
+      "bioguideId": "F000483",
+      "district": 30,
+      "firstName": "Laura",
+      "fullName": "Rep. Friedman, Laura [D-CA-30]",
+      "isOriginalCosponsor": false,
+      "lastName": "Friedman",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/F000483?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "T000469",
+      "district": 20,
+      "firstName": "Paul",
+      "fullName": "Rep. Tonko, Paul [D-NY-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tonko",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000469?format=json"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "M001227",
+      "district": 4,
+      "firstName": "Jennifer",
+      "fullName": "Rep. McClellan, Jennifer L. [D-VA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClellan",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001227?format=json"
+    },
+    {
+      "bioguideId": "F000468",
+      "district": 7,
+      "firstName": "Lizzie",
+      "fullName": "Rep. Fletcher, Lizzie [D-TX-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fletcher",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000468?format=json"
+    },
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-18T16:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-18",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Saving NASA\u2019s Workforce Act</strong></p><p>This bill prohibits the National Aeronautics and Space Administration (NASA) from initiating or implementing any reduction in its workforce until FY2026 full-year appropriations for NASA have been enacted. During this period, NASA is also prohibited from conducting involuntary separations for employees in the competitive service, career employees in the excepted service, and career appointees in the Senior Executive Service, except in cases of misconduct, delinquency, or inefficiency. &nbsp;</p><p>On January 20, 2025, President Donald Trump issued an executive order titled <em>Ending Radical and Wasteful Government DEI Programs and Preferencing</em>, which required executive branch agencies to terminate diversity, equity, and inclusion offices and positions. Further, on February 11, 2025, President Trump issued an executive order titled <em>Implementing the President\u2019s \u201cDepartment of Government Efficiency\u201d Workforce Optimization Initiative</em>, which required executive branch agencies to initiate large-scale reductions in force.</p><p>On March 10, 2025, NASA announced that it would close certain offices and lay off associated staff in compliance with these executive orders. NASA ultimately closed the Office of Technology, Policy, and Strategy; the Office of the Chief Scientist; and the Diversity, Equity, Inclusion, and Accessibility Branch of the Office of Diversity, Equity, and Inclusion.</p>",
+      "updateDate": "2026-07-13T19:39:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

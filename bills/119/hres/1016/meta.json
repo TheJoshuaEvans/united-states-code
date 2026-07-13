@@ -1,0 +1,55 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1016/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-22",
+    "latestAction": {
+      "actionDate": "2026-01-22",
+      "actionTime": "17:35:07",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1016",
+    "number": "1016",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1016/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001133",
+        "district": 6,
+        "firstName": "Juan",
+        "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+        "isByRequest": "N",
+        "lastName": "Ciscomani",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1016/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1016/text?format=json"
+    },
+    "title": "Directing the Clerk of the House of Representatives to make a correction in the engrossment of H.R. 7147.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1016/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T22:09:34Z",
+    "updateDateIncludingText": "2026-07-11T22:09:34Z"
+  }
+}

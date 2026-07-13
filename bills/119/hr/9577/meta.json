@@ -1,0 +1,70 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9577/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9577/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 110 (Thursday, July 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FULLER:\nH.R. 9577.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I\n[Page H4370]\n</pre>",
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on House Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9577",
+    "number": "9577",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000485",
+        "district": 14,
+        "firstName": "Clay",
+        "fullName": "Rep. Fuller, Clay [R-GA-14]",
+        "isByRequest": "N",
+        "lastName": "Fuller",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/F000485?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9577/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9577/text?format=json"
+    },
+    "title": "COCOA-VIP Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9577/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:39:24Z",
+    "updateDateIncludingText": "2026-07-13T18:39:24Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T13:04:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ]
+}

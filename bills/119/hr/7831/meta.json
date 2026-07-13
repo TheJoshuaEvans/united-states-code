@@ -1,0 +1,176 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-665",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/665?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 42 (Thursday, March 5, 2026)]\n[House]\n[Pages H2472-H2473]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KENNEDY of Utah:\nH.R. 7831.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18: [The Congress shall have\nPower . . . ] To make all\n[[Page H2473]]\nLaws which shall be necessary and proper for carrying into\nExecution the foregoing Powers, and all other Powers vested\nby this Constitution in the Government of the United States,\nor in any Department or Officer thereof.\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7831",
+    "number": "7831",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000403",
+        "district": 3,
+        "firstName": "Mike",
+        "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/K000403?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/text?format=json"
+    },
+    "title": "License to Drill Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7831/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-09T05:23:22Z",
+    "updateDateIncludingText": "2026-07-13T01:08:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "H001096",
+      "district": 0,
+      "firstName": "Harriet",
+      "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hageman",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/H001096?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T20:57:47Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T22:13:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-05T15:05:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-05-14T14:30:00Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-03-25T14:15:00Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2026-03-18T15:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-20",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>License to Drill Act</strong></p><p>This bill extends through FY2037 the Bureau of Land Management\u2019s (BLM\u2019s) authority to collect oil and gas permit processing fees. For each new permit application, BLM collects a fee that is transferred to the BLM Permit Processing Improvement Fund.&nbsp;(Under current law, the fees are authorized through FY2026.)</p>",
+      "updateDate": "2026-05-29T12:54:10Z",
+      "versionCode": "07"
+    }
+  ]
+}

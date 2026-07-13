@@ -1,0 +1,315 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 19,
+      "countIncludingWithdrawnCosponsors": 19,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "actionTime": "10:49:17",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/825",
+    "number": "825",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000386",
+        "firstName": "Chuck",
+        "fullName": "Sen. Grassley, Chuck [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Grassley",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/G000386?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/text?format=json"
+    },
+    "title": "Fighting Post-Traumatic Stress Disorder Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/825/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-10T17:41:46Z",
+    "updateDateIncludingText": "2026-07-12T15:05:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "G000359",
+      "firstName": "Lindsey",
+      "fullName": "Sen. Graham, Lindsey [R-SC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Graham",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/G000359?format=json"
+    },
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/C001113?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-14",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2026-05-18",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2026-05-18",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-18",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-05-18",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-05-18",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2026-05-18",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-19T18:51:55Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-14T17:58:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-04T15:30:43Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-03-04T15:30:43Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-04",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Fighting Post-Traumatic Stress Disorder Act of 2025&nbsp;</strong></p><p>This bill requires the Office of Community Oriented Policing Services within the Department of Justice (DOJ) to report on one or more proposed programs for providing mental health care to public safety officers and related personnel.</p><p>Under the bill, a proposed program must be administered by DOJ and&nbsp;must make treatment and preventative care available to public safety officers and public safety telecommunicators for job-related post-traumatic stress disorder or acute stress disorder.</p><p>The bill requires the report to also include draft legislative language related to each proposed program, as well as the estimated cost for administering each proposed program.</p>",
+      "updateDate": "2026-07-10T17:41:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

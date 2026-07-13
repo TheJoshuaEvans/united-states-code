@@ -1,0 +1,88 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1412/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1412/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1412/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1412",
+    "number": "1412",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001316",
+        "district": 7,
+        "firstName": "Eric",
+        "fullName": "Rep. Burlison, Eric [R-MO-7]",
+        "isByRequest": "N",
+        "lastName": "Burlison",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/B001316?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1412/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1412/text?format=json"
+    },
+    "title": "Expressing support for July, the month of America's birthday, to become \"National Fireworks Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1412/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-13T18:38:45Z",
+    "updateDateIncludingText": "2026-07-13T18:38:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2026-07-02",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T13:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-615",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/615?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 26 (Thursday, February 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DUNN of Florida:\nH.R. 7386.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 Clause 3 of the U.S. Constitution\n[Page H2041]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-05",
+    "latestAction": {
+      "actionDate": "2026-04-21",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7386",
+    "number": "7386",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000628",
+        "district": 2,
+        "firstName": "Neal",
+        "fullName": "Rep. Dunn, Neal P. [R-FL-2]",
+        "isByRequest": "N",
+        "lastName": "Dunn",
+        "middleName": "P.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/D000628?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/text?format=json"
+    },
+    "title": "First Responder Network Authority Reauthorization Act of 2026",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7386/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:32Z",
+    "updateDateIncludingText": "2026-07-13T19:19:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001227",
+      "district": 4,
+      "firstName": "Jennifer",
+      "fullName": "Rep. McClellan, Jennifer L. [D-VA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClellan",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-05",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001227?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-21T19:06:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-15T19:34:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-25T16:12:51Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-05T15:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-10T23:00:15Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-02-10T22:59:59Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-02-05T22:59:32Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Communications and Technology Subcommittee",
+          "systemCode": "hsif16",
+          "url": "https://api.congress.gov/v3/committee/house/hsif16?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>First Responder Network Authority Reauthorization Act of 2026</strong></p><p>This bill extends through FY2037 and modifies the management of the First Responder Network (FirstNet) Authority. (The FirstNet Authority oversees the development and operation of FirstNet, a nationwide, interoperable broadband network for first responders.) The bill also requires certain actions of the entity operating FirstNet.&nbsp;</p><p>Currently, the FirstNet Authority is an independent agency within the National Telecommunications and Information Administration (NTIA). The bill removes&nbsp;the FirstNet Authority\u2019s independent status and establishes an associate administrator in the NTIA to manage the FirstNet Authority\u2019s&nbsp;operations. The FirstNet Authority\u2019s actions must be subject to NTIA approval, with exceptions established by the NTIA. The FirstNet Authority\u2019s Board must&nbsp;include at least five (currently, three) individuals who have served as public safety professionals.</p><p>The entity contracted to develop and operate FirstNet (currently AT&amp;T) must notify the FirstNet Authority within 30 minutes of any network outage and provide users with a network status tool to monitor outages. Every five years, such entity must submit to the NTIA for approval a business continuity and disaster recovery plan to ensure rapid restoration of the network following disaster-caused outages. Annual audits of the FirstNet Authority must include an evaluation of such entity\u2019s performance.</p><p>The&nbsp;NTIA must brief Congress annually regarding FirstNet and provide annual reports relating to cybersecurity and network adoption rates.&nbsp;</p><p>Within seven years after the bill\u2019s enactment, the Government Accountability Office must report on what action Congress should take regarding the termination of&nbsp;the FirstNet Authority in 2037.</p>",
+      "updateDate": "2026-04-16T21:08:24Z",
+      "versionCode": "00"
+    }
+  ]
+}

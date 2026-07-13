@@ -1,0 +1,63 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/1/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-06",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/1",
+    "number": "1",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000470",
+        "district": 7,
+        "firstName": "Michelle",
+        "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+        "isByRequest": "N",
+        "lastName": "Fischbach",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000470?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/1/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/1/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/1/text?format=json"
+    },
+    "title": "Regarding consent to assemble outside the seat of government.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/1/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:13:23Z",
+    "updateDateIncludingText": "2026-07-13T18:34:11Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This concurrent resolution authorizes Congress to assemble at a place outside Washington, DC, during the 119th Congress if the Speaker of the House and the Senate Majority Leader agree that it is in the public interest.&nbsp;The concurrent resolution provides that&nbsp;the Speaker of the House and the Senate Majority Leader shall act jointly after consultation with the House and Senate Minority Leaders.</p>",
+      "updateDate": "2025-01-23T14:27:26Z",
+      "versionCode": "00"
+    }
+  ]
+}

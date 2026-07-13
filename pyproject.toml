@@ -13,6 +13,7 @@ dependencies = []
 
 [project.scripts]
 uscode-mirror-sync = "uscode_mirror.sync:main"
+congress-bills-sync = "congress_bills_mirror.sync:main"
 
 [project.optional-dependencies]
 dev = [

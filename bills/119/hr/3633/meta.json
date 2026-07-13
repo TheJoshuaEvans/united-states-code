@@ -1,0 +1,426 @@
+{
+  "status": {
+    "actions": {
+      "count": 28,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As posted on the website of the House Committee on Rules on July 2, 2025",
+        "pubDate": "2025-07-10T17:55:00Z",
+        "title": "Estimated Budgetary Effects of H.R. 3633, CLARITY Act of 2025",
+        "url": "https://www.cbo.gov/publication/61542"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-168,Part 1",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/168?format=json"
+      },
+      {
+        "citation": "H. Rept. 119-168,Part 2",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/168?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HILL of Arkansas:\nH.R. 3633.\nCongress has the power to enact this legislation pursuant\nto the following:\nRegulations with an Effect on Interstate Commerce Article\nI, Section 8, clause 3 (Commerce Clause)\n[Page H2377]\n</pre>",
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2026-06-01",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 423."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3633",
+    "number": "3633",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001072",
+        "district": 2,
+        "firstName": "J.",
+        "fullName": "Rep. Hill, J. French [R-AR-2]",
+        "isByRequest": "N",
+        "lastName": "Hill",
+        "middleName": "French",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/H001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/text?format=json"
+    },
+    "title": "Digital Asset Market Clarity Act",
+    "titles": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3633/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:23Z",
+    "updateDateIncludingText": "2026-07-12T00:46:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000467",
+      "district": 15,
+      "firstName": "Glenn",
+      "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/T000467?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2025-05-29",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "E000294",
+      "district": 6,
+      "firstName": "Tom",
+      "fullName": "Rep. Emmer, Tom [R-MN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Emmer",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/E000294?format=json"
+    },
+    {
+      "bioguideId": "J000301",
+      "district": 0,
+      "firstName": "Dusty",
+      "fullName": "Rep. Johnson, Dusty [R-SD-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/J000301?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-29",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "S001213",
+      "district": 1,
+      "firstName": "Bryan",
+      "fullName": "Rep. Steil, Bryan [R-WI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steil",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/S001213?format=json"
+    },
+    {
+      "bioguideId": "T000486",
+      "district": 15,
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2025-05-29",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000486?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "G000583",
+      "district": 5,
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2025-06-02",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/G000583?format=json"
+    },
+    {
+      "bioguideId": "H001058",
+      "district": 4,
+      "firstName": "Bill",
+      "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huizenga",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/H001058?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "M001235",
+      "district": 2,
+      "firstName": "Riley",
+      "fullName": "Rep. Moore, Riley M. [R-WV-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001235?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "M001237",
+      "district": 8,
+      "firstName": "Kristen",
+      "fullName": "Rep. McDonald Rivet, Kristen [D-MI-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "McDonald Rivet",
+      "party": "D",
+      "sponsorshipDate": "2025-06-20",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001237?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-06-20",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "M001233",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Messmer, Mark B. [R-IN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Messmer",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/M001233?format=json"
+    },
+    {
+      "bioguideId": "B001327",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Bresnahan, Robert P. [R-PA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bresnahan",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001327?format=json"
+    },
+    {
+      "bioguideId": "S001215",
+      "district": 11,
+      "firstName": "Haley",
+      "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stevens",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001215?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-01T22:09:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-14T18:18:55Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-18T19:20:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T00:51:06Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-10T17:12:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-29T15:07:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T00:50:46Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-10T17:05:41Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-29T15:07:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Digital Asset Market Clarity Act of 2025 or the CLARITY Act of 2025</strong></p><p>This bill establishes a regulatory framework for digital commodities, defined by the bill as digital assets that rely upon a&nbsp;blockchain for their value.</p><p>The Commodity Futures Trading Commission must generally regulate digital commodities transactions, including digital commodity exchanges, brokers, and dealers. To qualify for trade on an exchange (1) a digital commodity\u2019s blockchain must be mature, or on a blockchain system that has achieved decentralized control as defined by the bill; or (2) the issuer of the digital commodity must file certain reports. The bill establishes requirements for trade monitoring, recordkeeping, and the commingling of customer assets. &nbsp;</p><p>The bill exempts digital commodities on mature&nbsp;blockchains (and&nbsp;digital commodities on blockchains expected to mature within certain timeframes)&nbsp;from Securities and Exchange Commission (SEC) registration requirements if annual sales fall under a certain amount and other requirements are met. The bill provides the SEC with jurisdiction over digital commodity activities and transactions engaged in by certain brokers and dealers on alternative trading systems and by national securities exchanges.&nbsp;</p><p>Digital commodity exchanges, brokers, and dealers are subject to the Bank Secrecy Act for anti-money laundering and related purposes.</p><p>The bill also sets forth requirements for alternative trading systems, previously issued digital commodities, and provisional registration until the bill is implemented. &nbsp;</p><p>For more information on this bill, see <a href=\"https://www.congress.gov/crs-product/IN12583\">CRS Insight IN12583, Crypto Legislation: An Overview of H.R. 3633, the CLARITY Act</a>.</p>",
+      "updateDate": "2025-07-14T21:21:33Z",
+      "versionCode": "00"
+    }
+  ]
+}

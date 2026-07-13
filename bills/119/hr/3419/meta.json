@@ -1,0 +1,159 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on April 21, 2026",
+        "pubDate": "2026-05-29T18:17:00Z",
+        "title": "H.R. 3419, an act to amend the Public Health Service Act to reauthorize the telehealth network and telehealth resource centers grant programs",
+        "url": "https://www.cbo.gov/publication/62492"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-322",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/322?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 81 (Wednesday, May 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VALADAO:\nH.R. 3419.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2053]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3419",
+    "number": "3419",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000129",
+        "district": 22,
+        "firstName": "David",
+        "fullName": "Rep. Valadao, David G. [R-CA-22]",
+        "isByRequest": "N",
+        "lastName": "Valadao",
+        "middleName": "G.",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/V000129?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/text?format=json"
+    },
+    "title": "To amend the Public Health Service Act to reauthorize the telehealth network and telehealth resource centers grant programs.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3419/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:09:28Z",
+    "updateDateIncludingText": "2026-07-12T15:03:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000605",
+      "district": 13,
+      "firstName": "Adam",
+      "fullName": "Rep. Gray, Adam [D-CA-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gray",
+      "party": "D",
+      "sponsorshipDate": "2025-05-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-22T16:13:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-10-03T19:51:44Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-17T16:02:46Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T14:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-10T17:51:22Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-09-10T17:45:11Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-09-10T17:45:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsif14",
+          "url": "https://api.congress.gov/v3/committee/house/hsif14?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-03",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill reauthorizes through FY2030&nbsp;grant programs to support telehealth networks and telehealth resource centers, which are administered by the Office for the Advancement of Telehealth within the Health Resources and Services Administration. These programs provide grants to health care providers and related entities to establish telehealth networks that expand access to and improve the quality of health care services and information in rural and medically underserved areas and for medically underserved populations.</p>",
+      "updateDate": "2026-04-03T19:06:29Z",
+      "versionCode": "07"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9575/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9575/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 110 (Thursday, July 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FALLON:\nH.R. 9575.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4370]\n</pre>",
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9575",
+    "number": "9575",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000246",
+        "district": 4,
+        "firstName": "Pat",
+        "fullName": "Rep. Fallon, Pat [R-TX-4]",
+        "isByRequest": "N",
+        "lastName": "Fallon",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/F000246?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9575/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9575/text?format=json"
+    },
+    "title": "Hold Vandals Accountable Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9575/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T15:46:07Z",
+    "updateDateIncludingText": "2026-07-13T15:46:07Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T13:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

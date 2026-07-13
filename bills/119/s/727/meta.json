@@ -1,0 +1,144 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on July 30, 2025",
+        "pubDate": "2025-09-23T19:32:00Z",
+        "title": "S. 727, U.S. Customs and Border Protection Officer Retirement Technical Corrections Act",
+        "url": "https://www.cbo.gov/publication/61759"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-25",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:21:45",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/727",
+    "number": "727",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/text?format=json"
+    },
+    "title": "U.S. Customs and Border Protection Officer Retirement Technical Corrections Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/727/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-04T21:52:59Z",
+    "updateDateIncludingText": "2026-07-12T15:04:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2025-02-25",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-07-21",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-11-18",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-03T22:02:09Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-25T22:14:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-03",
+      "actionDesc": "Reported to Senate",
+      "text": "<p><strong>U.S. Customs and Border Protection Officer Retirement Technical Corrections Act</strong></p><p>This bill modifies the calculation of retirement benefits for certain U.S. Customs and Border Protection (CBP) officers.</p><p>Under current law, effective July 6, 2008, CBP officers are entitled to an enhanced retirement benefit, subject to certain mandatory retirement requirements. CBP officers who were employed as of July 6, 2008, are entitled to a transitional enhanced retirement benefit without the corresponding mandatory retirement requirements (i.e., proportional annuity).</p><p>The bill specifies that CBP officers who received a tentative offer of employment before July 6, 2008, and who started work on or after that date, are entitled to this proportional annuity. The Office of Personnel Management must correct annuity calculations for these officers, including retroactively, based on a list compiled by the Department of Homeland Security (DHS). DHS may also retroactively waive mandatory retirement requirements for these officers so that they may receive the proportional annuity.</p><p>The Government Accountability Office must report on CBP's policies and procedures related to enhanced retirement benefits.</p>",
+      "updateDate": "2026-04-08T21:35:58Z",
+      "versionCode": "25"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 17,
+      "countIncludingWithdrawnCosponsors": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2025-05-13",
+      "actionTime": "15:26:16",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/364",
+    "number": "364",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001204",
+        "district": 9,
+        "firstName": "Daniel",
+        "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+        "isByRequest": "N",
+        "lastName": "Meuser",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001204?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/text?format=json"
+    },
+    "title": "Calling upon local communities to support organizations that provide resources and aid Gold Shield Families in their time of need.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/364/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:09:29Z",
+    "updateDateIncludingText": "2026-07-11T21:09:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000467",
+      "district": 15,
+      "firstName": "Glenn",
+      "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thompson",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/T000467?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "F000246",
+      "district": 4,
+      "firstName": "Pat",
+      "fullName": "Rep. Fallon, Pat [R-TX-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fallon",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000246?format=json"
+    },
+    {
+      "bioguideId": "K000392",
+      "district": 8,
+      "firstName": "David",
+      "fullName": "Rep. Kustoff, David [R-TN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kustoff",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/K000392?format=json"
+    },
+    {
+      "bioguideId": "B001327",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Bresnahan, Robert P. [R-PA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bresnahan",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001327?format=json"
+    },
+    {
+      "bioguideId": "P000621",
+      "district": 9,
+      "firstName": "Nellie",
+      "fullName": "Rep. Pou, Nellie [D-NJ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pou",
+      "party": "D",
+      "sponsorshipDate": "2025-05-07",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000621?format=json"
+    },
+    {
+      "bioguideId": "M000871",
+      "district": 1,
+      "firstName": "Tracey",
+      "fullName": "Rep. Mann, Tracey [R-KS-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mann",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000871?format=json"
+    },
+    {
+      "bioguideId": "M001236",
+      "district": 14,
+      "firstName": "Tim",
+      "fullName": "Rep. Moore, Tim [R-NC-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001236?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "N000026",
+      "district": 22,
+      "firstName": "Troy",
+      "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nehls",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/N000026?format=json"
+    },
+    {
+      "bioguideId": "G000592",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Golden, Jared F. [D-ME-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Golden",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-13",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/G000592?format=json"
+    },
+    {
+      "bioguideId": "L000596",
+      "district": 13,
+      "firstName": "Anna Paulina",
+      "fullName": "Rep. Luna, Anna Paulina [R-FL-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luna",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/L000596?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-05-13",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "H001072",
+      "district": 2,
+      "firstName": "J.",
+      "fullName": "Rep. Hill, J. French [R-AR-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hill",
+      "middleName": "French",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/H001072?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-30T14:04:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-30T21:13:59Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution encourages local communities throughout the United States to support nonprofit organizations that provide resources to Gold Shield Families during their time of need. Gold Shield Families consist of the families of fallen police officers, firefighters, emergency medical technicians, correction officers, emergency dispatch officers, and emergency service providers.</p>",
+      "updateDate": "2025-05-08T22:21:38Z",
+      "versionCode": "00"
+    }
+  ]
+}

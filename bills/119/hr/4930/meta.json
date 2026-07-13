@@ -1,0 +1,197 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-415",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/415?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 136 (Friday, August 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of Utah:\nH.R. 4930.\nCongress has the power to enact this legislation pursuant\nto the following.\nArticle 1 Section 8\n[Page H3688]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-08",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4930",
+    "number": "4930",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001213",
+        "district": 1,
+        "firstName": "Blake",
+        "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "D.",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/M001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/text?format=json"
+    },
+    "title": "To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4930/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T16:10:05Z",
+    "updateDateIncludingText": "2026-07-13T18:49:00Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-08-08",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-11-07",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "M001205",
+      "district": 1,
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001205?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "K000392",
+      "district": 8,
+      "firstName": "David",
+      "fullName": "Rep. Kustoff, David [R-TN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kustoff",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/K000392?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:17:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-30T18:44:48Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-10T15:10:27Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-08-08T15:30:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-30",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill expands the authority of U.S. Customs and Border Protection (CBP) to provide information to&nbsp;certain persons (e.g., trademark or copyright owners) regarding suspected violations of intellectual property rights in trade.&nbsp;</p><p>Under current law, if&nbsp;CBP suspects that merchandise is being imported in violation of certain trademark and copyright laws,&nbsp;it may request assistance from specified persons when determining whether the merchandise is imported in violation of these laws. To permit the party to conduct examination and testing, CBP must provide them with specified information that appears on the merchandise and&nbsp;its packaging and labels.&nbsp;</p><p>This bill (1) expands the definition of <em>person</em> to allow CBP to request assistance from any other appropriate party with an interest in the imported merchandise, and (2) expands the scope of information that CBP is authorized to share with others to include information on and images of&nbsp;packing materials and containers.</p><p>The bill allows CBP to request this assistance if it has a reasonable suspicion (currently, suspects) that the merchandise being imported is in violation of certain trademark and copyright laws.</p><p>Additionally,&nbsp;CBP may provide a person with nonpublic information about the imported merchandise that was generated by an online marketplace or similar market platform, express&nbsp;consignment operator, freight forwarder, or any other entity that plays a role in the sale, importation, or facilitation&nbsp;of the merchandise&nbsp;into the United States and has been provided to, shared with, or obtained by CBP. CBP must&nbsp;provide the person with notification of the transmitted information.</p>",
+      "updateDate": "2026-04-23T13:58:11Z",
+      "versionCode": "07"
+    }
+  ]
+}

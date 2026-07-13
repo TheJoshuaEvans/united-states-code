@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/294/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-50",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/50?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/294/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-04-07",
+    "latestAction": {
+      "actionDate": "2025-04-08",
+      "actionTime": "15:23:14",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/294",
+    "number": "294",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/294/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/294/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/294/text?format=json"
+    },
+    "title": "Providing for consideration of the joint resolution (S.J. Res. 18) disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\"; providing for consideration of the joint resolution (S.J. Res. 28) disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\"; providing for consideration of the bill (H.R. 1526) to amend title 28, United States Code, to limit the authority of district courts to provide injunctive relief, and for other purposes; providing for consideration of the bill (H.R. 22) to amend the National Voter Registration Act of 1993 to require proof of United States citizenship to register an individual to vote in elections for Federal office, and for other purposes; and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/294/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:14:49Z",
+    "updateDateIncludingText": "2026-07-11T21:14:49Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-07T23:20:39Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

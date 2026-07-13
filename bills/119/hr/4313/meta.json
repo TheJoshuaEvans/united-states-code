@@ -1,0 +1,219 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-359",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/359?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 119 (Thursday, July 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BUCHANAN:\nH.R. 4313.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8\n[Page H3200]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4313",
+    "number": "4313",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001260",
+        "district": 16,
+        "firstName": "Vern",
+        "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+        "isByRequest": "N",
+        "lastName": "Buchanan",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001260?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/text?format=json"
+    },
+    "title": "Hospital Inpatient Services Modernization Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4313/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-05T17:34:22Z",
+    "updateDateIncludingText": "2026-07-13T18:44:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001199",
+      "district": 11,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smucker",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001199?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-08-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2025-08-15",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "S001148",
+      "district": 2,
+      "firstName": "Michael",
+      "fullName": "Rep. Simpson, Michael K. [R-ID-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Simpson",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/S001148?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-09-18",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-10-24",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-10-31",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T23:21:46Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-10-31T17:39:57Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-17T13:27:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-10T15:06:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Hospital Inpatient Services Modernization Act</strong></p><p>This bill extends the Acute Hospital Care at Home Program under Medicare and requires an additional study regarding the program. The program allows hospitals to treat certain patients from emergency departments or inpatient hospital beds at home.</p><p>Specifically, the bill extends the program through FY2030 and requires the Centers for Medicare &amp; Medicaid Services to conduct a study of the program with respect to several metrics, including the quality of care, incurred costs, types of services, and demographics of patients under the program compared to inpatient settings.</p>",
+      "updateDate": "2025-11-26T20:50:40Z",
+      "versionCode": "00"
+    }
+  ]
+}

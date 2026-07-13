@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. DAVIDS of Kansas:\nH.R. 828.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article 1, Section 8 of the United States\nConstitution.\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-02-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/828",
+    "number": "828",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000629",
+        "district": 3,
+        "firstName": "Sharice",
+        "fullName": "Rep. Davids, Sharice [D-KS-3]",
+        "isByRequest": "N",
+        "lastName": "Davids",
+        "party": "D",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/D000629?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/text?format=json"
+    },
+    "title": "SERV Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/828/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T10:38:25Z",
+    "updateDateIncludingText": "2026-07-13T17:15:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000379",
+      "district": 4,
+      "firstName": "Mark",
+      "fullName": "Rep. Alford, Mark [R-MO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Alford",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/A000379?format=json"
+    },
+    {
+      "bioguideId": "C001136",
+      "district": 3,
+      "firstName": "Herbert",
+      "fullName": "Rep. Conaway, Herbert [D-NJ-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Conaway",
+      "middleName": "C.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/C001136?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-25T17:47:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><b>Successful Entrepreneurship for Reservists and Veterans Act or the SERV Act</b></p> <p>This bill requires (1) the Small Business Administration to report on the veterans interagency task force; and (2) the Government Accountability Office to report on access to credit for small businesses owned and controlled by veterans, Reservists, or their spouses.</p>",
+      "updateDate": "2025-02-24T20:14:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

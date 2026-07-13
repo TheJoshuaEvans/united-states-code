@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BUCHANAN:\nH.R. 919.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8\n[Page H460]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-03-05",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/919",
+    "number": "919",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001260",
+        "district": 16,
+        "firstName": "Vern",
+        "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+        "isByRequest": "N",
+        "lastName": "Buchanan",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001260?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/text?format=json"
+    },
+    "title": "Chronic Disease Flexible Coverage Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/919/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:53:23Z",
+    "updateDateIncludingText": "2026-07-11T22:53:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-05T16:49:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-04T17:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Chronic Disease Flexible Coverage Act</strong></p><p>This bill provides statutory authority for guidance from the Internal Revenue Service (IRS) that expands the types of preventive care that may be offered under a high deductible health plan (HDHP) without requiring a deductible&nbsp;or with a deductible below the minimum threshold.</p><p>Under current law, to be considered health savings account-eligible, an HDHP must have a deductible above a certain minimum threshold amount, which is adjusted annually. However, an HDHP may cover certain types of preventive care without requiring a deductible or with a deductible below the minimum threshold.&nbsp;</p><p>The IRS issued guidance expanding the types of preventive care that may be covered by an HDHP without requiring a deductible or with a deductible below the minimum threshold to include</p><ul><li>angiotensin converting enzyme inhibitors for individuals with congestive heart failure, diabetes, or coronary artery disease;</li><li>anti-resorptive therapy for individuals with osteoporosis or&nbsp;osteopenia;</li><li>beta-blockers for individuals with congestive heart failure or coronary artery disease;</li><li>blood pressure monitors for individuals with hypertension;</li><li>inhaled&nbsp;corticosteroids and peak flow meters for individuals with asthma;</li><li>insulin and other glucose lowering agents, retinopathy screening,&nbsp;glucometers, and hemoglobin A1c testing for individuals with diabetes;</li><li>international normalized ratio testing for individuals with liver disease or bleeding disorders;</li><li>low-density lipoprotein testing for individuals with heart disease;</li><li>statins for individuals with heart disease or diabetes; and</li><li>selective&nbsp;serotonin reuptake inhibitors for individuals with depression.&nbsp;</li></ul><p>The bill provides statutory authority for the IRS's guidance.&nbsp;</p>",
+      "updateDate": "2025-03-07T14:03:51Z",
+      "versionCode": "00"
+    }
+  ]
+}

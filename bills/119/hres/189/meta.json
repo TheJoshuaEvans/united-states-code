@@ -1,0 +1,515 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 34,
+      "countIncludingWithdrawnCosponsors": 34,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2025-03-06",
+      "actionTime": "10:30:45",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/189",
+    "number": "189",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000189",
+        "district": 4,
+        "firstName": "Dan",
+        "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+        "isByRequest": "N",
+        "lastName": "Newhouse",
+        "party": "R",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/N000189?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/text?format=json"
+    },
+    "title": "Censuring Representative Al Green of Texas.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/189/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:27Z",
+    "updateDateIncludingText": "2026-07-11T21:24:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000612",
+      "district": 6,
+      "firstName": "John",
+      "fullName": "Rep. Rose, John W. [R-TN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rose",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/R000612?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas [R-AK-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "E000246",
+      "district": 11,
+      "firstName": "Chuck",
+      "fullName": "Rep. Edwards, Chuck [R-NC-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Edwards",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/E000246?format=json"
+    },
+    {
+      "bioguideId": "M001239",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. McGuire, John [R-VA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "McGuire",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001239?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "C001129",
+      "district": 10,
+      "firstName": "Mike",
+      "fullName": "Rep. Collins, Mike [R-GA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001129?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    },
+    {
+      "bioguideId": "W000816",
+      "district": 25,
+      "firstName": "Roger",
+      "fullName": "Rep. Williams, Roger [R-TX-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Williams",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000816?format=json"
+    },
+    {
+      "bioguideId": "G000589",
+      "district": 5,
+      "firstName": "Lance",
+      "fullName": "Rep. Gooden, Lance [R-TX-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gooden",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000589?format=json"
+    },
+    {
+      "bioguideId": "C001137",
+      "district": 5,
+      "firstName": "Jeff",
+      "fullName": "Rep. Crank, Jeff [R-CO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crank",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001137?format=json"
+    },
+    {
+      "bioguideId": "W000809",
+      "district": 3,
+      "firstName": "Steve",
+      "fullName": "Rep. Womack, Steve [R-AR-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Womack",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/W000809?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
+    },
+    {
+      "bioguideId": "T000480",
+      "district": 4,
+      "firstName": "William",
+      "fullName": "Rep. Timmons, William R. [R-SC-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Timmons",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/T000480?format=json"
+    },
+    {
+      "bioguideId": "Z000018",
+      "district": 1,
+      "firstName": "Ryan",
+      "fullName": "Rep. Zinke, Ryan K. [R-MT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Zinke",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/Z000018?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "B001327",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Bresnahan, Robert [R-PA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bresnahan",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001327?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    },
+    {
+      "bioguideId": "E000298",
+      "district": 4,
+      "firstName": "Ron",
+      "fullName": "Rep. Estes, Ron [R-KS-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Estes",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/E000298?format=json"
+    },
+    {
+      "bioguideId": "D000628",
+      "district": 2,
+      "firstName": "Neal",
+      "fullName": "Rep. Dunn, Neal P. [R-FL-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dunn",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000628?format=json"
+    },
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham [R-AZ-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    },
+    {
+      "bioguideId": "G000596",
+      "district": 14,
+      "firstName": "Marjorie",
+      "fullName": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Greene",
+      "middleName": "Taylor",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/G000596?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "O000177",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Onder, Robert [R-MO-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Onder",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/O000177?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "F000459",
+      "district": 3,
+      "firstName": "Charles",
+      "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fleischmann",
+      "middleName": "J. \"Chuck\"",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/F000459?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-05T15:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ethics Committee",
+      "systemCode": "hsso00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsso00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution censures Representative Al Green.</p>",
+      "updateDate": "2025-05-02T14:23:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2025-03-06",
+      "actionTime": "10:58:29",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/190",
+    "number": "190",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/text?format=json"
+    },
+    "title": "Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/190/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:27Z",
+    "updateDateIncludingText": "2026-07-11T21:24:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001206",
+      "district": 25,
+      "firstName": "Joseph",
+      "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Morelle",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001206?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-06T15:58:01Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-06T15:58:00Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-05T15:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects designated Members of the House of Representatives to the Joint Committee of Congress on the Library and the Joint Committee on Printing.</p>",
+      "updateDate": "2025-05-07T14:01:47Z",
+      "versionCode": "00"
+    }
+  ]
+}

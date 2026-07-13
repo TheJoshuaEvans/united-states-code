@@ -1,0 +1,150 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Small Business on July 22, 2025",
+        "pubDate": "2025-08-15T16:28:00Z",
+        "title": "H.R. 4549, Office of Rural Affairs Enhancement Act",
+        "url": "https://www.cbo.gov/publication/61683"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-225",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/225?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 124 (Monday, July 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. GOODLANDER:\nH.R. 4549.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution.\n[Page H3527]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-21",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 282."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4549",
+    "number": "4549",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000604",
+        "district": 2,
+        "firstName": "Maggie",
+        "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+        "isByRequest": "N",
+        "lastName": "Goodlander",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/G000604?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/text?format=json"
+    },
+    "title": "Office of Rural Affairs Enhancement Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4549/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T04:11:39Z",
+    "updateDateIncludingText": "2026-07-13T18:46:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-07-21",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "G000592",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Golden, Jared F. [D-ME-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Golden",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/G000592?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-08-15T16:42:30Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T16:10:37Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-21T16:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-08-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Office of Rural Affairs Enhancement Act</strong></p><p>This bill requires the Small Business Administration (SBA) to use a competitive hiring process to select an assistant administrator for the Office of Rural Affairs. The assistant administrator must have experience (1) with rural affairs and issues relating to small businesses, and (2) providing development assistance to rural small businesses.</p><p>Additionally, the bill requires the office to host webinars and regional outreach events for rural small businesses.</p><p>The SBA must report annually about the office's activities.</p>",
+      "updateDate": "2025-12-01T21:38:23Z",
+      "versionCode": "07"
+    }
+  ]
+}

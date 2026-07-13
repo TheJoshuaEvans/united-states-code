@@ -1,0 +1,181 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-150",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/150?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-14",
+    "latestAction": {
+      "actionDate": "2025-06-09",
+      "actionTime": "17:41:33",
+      "text": "The title of the measure was amended. Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/137",
+    "number": "137",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000032",
+        "district": 19,
+        "firstName": "Byron",
+        "fullName": "Rep. Donalds, Byron [R-FL-19]",
+        "isByRequest": "N",
+        "lastName": "Donalds",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/D000032?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/text?format=json"
+    },
+    "title": "Resolution designating the House Press Gallery (Rooms H-315, H-316, H-317, H-318, and H-319 in the United States Capitol) as the 'Frederick Douglass Press Gallery\u2019",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/137/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:28:22Z",
+    "updateDateIncludingText": "2026-07-11T21:28:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2025-02-14",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2025-02-14",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    },
+    {
+      "bioguideId": "H001095",
+      "district": 38,
+      "firstName": "Wesley",
+      "fullName": "Rep. Hunt, Wesley [R-TX-38]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hunt",
+      "party": "R",
+      "sponsorshipDate": "2025-02-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/H001095?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-02-14",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "J000307",
+      "district": 10,
+      "firstName": "John",
+      "fullName": "Rep. James, John [R-MI-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "James",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/J000307?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-06T13:26:12Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-02T15:11:13Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-02T15:11:05Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-02-14T18:31:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-14T22:20:05Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution designates the House of Representatives Press Gallery (rooms H-315, H-316, H-317, H-318, and H-319)&nbsp;as the Frederick Douglass Press Gallery.</p>",
+      "updateDate": "2025-06-05T21:58:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 5 (Thursday, January 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. HOULAHAN:\nH.R. 250.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto Article I, Section 8 of the Constitution of the United\nStates.\n[Page H92]\n</pre>",
+    "cosponsors": {
+      "count": 34,
+      "countIncludingWithdrawnCosponsors": 34,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-02-27",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/250",
+    "number": "250",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001085",
+        "district": 6,
+        "firstName": "Chrissy",
+        "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+        "isByRequest": "N",
+        "lastName": "Houlahan",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/H001085?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/text?format=json"
+    },
+    "title": "To direct the Joint Committee on the Library to procure a statue of Benjamin Franklin for placement in the Capitol.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/250/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:54:33Z",
+    "updateDateIncludingText": "2026-07-12T14:55:49Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "M001136",
+      "district": 9,
+      "firstName": "Lisa",
+      "fullName": "Rep. McClain, Lisa C. [R-MI-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClain",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001136?format=json"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "J000302",
+      "district": 13,
+      "firstName": "John",
+      "fullName": "Rep. Joyce, John [R-PA-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Joyce",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/J000302?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "K000389",
+      "district": 17,
+      "firstName": "Ro",
+      "fullName": "Rep. Khanna, Ro [D-CA-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Khanna",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000389?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    },
+    {
+      "bioguideId": "D000631",
+      "district": 4,
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000631?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "T000467",
+      "district": 15,
+      "firstName": "Glenn",
+      "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/T000467?format=json"
+    },
+    {
+      "bioguideId": "L000597",
+      "district": 15,
+      "firstName": "Laurel",
+      "fullName": "Rep. Lee, Laurel M. [R-FL-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/L000597?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "S001205",
+      "district": 5,
+      "firstName": "Mary",
+      "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scanlon",
+      "middleName": "Gay",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001205?format=json"
+    },
+    {
+      "bioguideId": "H001072",
+      "district": 2,
+      "firstName": "J.",
+      "fullName": "Rep. Hill, J. French [R-AR-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hill",
+      "middleName": "French",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/H001072?format=json"
+    },
+    {
+      "bioguideId": "C001068",
+      "district": 9,
+      "firstName": "Steve",
+      "fullName": "Rep. Cohen, Steve [D-TN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cohen",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/C001068?format=json"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": 17,
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000530?format=json"
+    },
+    {
+      "bioguideId": "M001230",
+      "district": 7,
+      "firstName": "Ryan",
+      "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mackenzie",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001230?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    },
+    {
+      "bioguideId": "L000585",
+      "district": 16,
+      "firstName": "Darin",
+      "fullName": "Rep. LaHood, Darin [R-IL-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaHood",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/L000585?format=json"
+    },
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": false,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    },
+    {
+      "bioguideId": "A000055",
+      "district": 4,
+      "firstName": "Robert",
+      "fullName": "Rep. Aderholt, Robert B. [R-AL-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Aderholt",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/A000055?format=json"
+    },
+    {
+      "bioguideId": "V000131",
+      "district": 33,
+      "firstName": "Marc",
+      "fullName": "Rep. Veasey, Marc A. [D-TX-33]",
+      "isOriginalCosponsor": false,
+      "lastName": "Veasey",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000131?format=json"
+    },
+    {
+      "bioguideId": "V000129",
+      "district": 22,
+      "firstName": "David",
+      "fullName": "Rep. Valadao, David G. [R-CA-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Valadao",
+      "middleName": "G.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000129?format=json"
+    },
+    {
+      "bioguideId": "K000376",
+      "district": 16,
+      "firstName": "Mike",
+      "fullName": "Rep. Kelly, Mike [R-PA-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/K000376?format=json"
+    },
+    {
+      "bioguideId": "L000566",
+      "district": 5,
+      "firstName": "Robert",
+      "fullName": "Rep. Latta, Robert E. [R-OH-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latta",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000566?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T17:08:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-09T14:31:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-09",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill requires the Joint Committee on the Library to contract for and place a&nbsp;statue of Benjamin Franklin in the Capitol.</p><p>The committee shall place the statue in a permanent public location&nbsp;where it is accessible during a guided tour provided by the Capitol Visitor Center.</p><p>The contract must be executed by December 31, 2025, and the&nbsp;statue must be placed by&nbsp;December 31, 2026.&nbsp;</p>",
+      "updateDate": "2025-02-10T20:20:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

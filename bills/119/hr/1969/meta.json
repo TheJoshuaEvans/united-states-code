@@ -1,0 +1,158 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on May 6, 2025",
+        "pubDate": "2025-05-16T15:52:00Z",
+        "title": "H.R. 1969, No Wrong Door for Veterans Act",
+        "url": "https://www.cbo.gov/publication/61413"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-103",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/103?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 44 (Monday, March 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. MILLER-MEEKS:\nH.R. 1969.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the US Constitution\n[Page H1067]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-10",
+    "latestAction": {
+      "actionDate": "2025-05-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1969",
+    "number": "1969",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001215",
+        "district": 1,
+        "firstName": "Mariannette",
+        "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+        "isByRequest": "N",
+        "lastName": "Miller-Meeks",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/M001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/text?format=json"
+    },
+    "title": "No Wrong Door for Veterans Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1969/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:23:33Z",
+    "updateDateIncludingText": "2026-07-12T14:35:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-22T17:25:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-19T16:09:12Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-06T14:15:36Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-10T16:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-25T18:17:42Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-03-25T18:16:17Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-03-10T21:42:07Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsvr03",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr03?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>No Wrong Door for Veterans Act</strong></p><p>This bill&nbsp;reauthorizes through FY2028 and modifies the Staff Sergeant Parker Gordon Fox Suicide Prevention Grant Program of the Department of Veterans Affairs (VA), which awards grants to eligible entities to provide or coordinate suicide prevention services for veterans and members of the Armed Forces and their families.</p><p>Among other elements, the bill</p><ul><li>adjusts the maximum amount for grants awarded under the program and provides for additional funding per individual who receives suicide prevention services provided or coordinated by a grantee;</li><li>requires the VA to provide briefings about the grant program at least once a year to certain personnel at each VA medical center located within 100 miles from the primary location of a grantee;</li><li>requires baseline mental health screenings for risk provided as suicide prevention services under the program to use a protocol selected by the VA; and</li><li>modifies eligibility requirements for entities seeking grants, including by authorizing applications from health care providers.</li></ul><p>In subsequent applications, grantees who have previously received funds under the program must include evidence that previously awarded funds served a significant number of veterans.</p><p>The bill requires grantees to notify (1) eligible individuals that they may receive emergent suicide care furnished or paid for by the VA, and (2) the VA if eligible individuals request emergent suicide care.</p>",
+      "updateDate": "2025-05-20T23:55:56Z",
+      "versionCode": "00"
+    }
+  ]
+}

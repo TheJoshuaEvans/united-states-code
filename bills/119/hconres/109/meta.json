@@ -1,0 +1,118 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/109/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/109/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/109/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-09",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/109",
+    "number": "109",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000168",
+        "district": 27,
+        "firstName": "Maria",
+        "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+        "isByRequest": "N",
+        "lastName": "Salazar",
+        "middleName": "Elvira",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S000168?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/109/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/109/text?format=json"
+    },
+    "title": "Allowing Emancipation Hall to be used for a ceremony to dedicate the Semiquincentennial Congressional Time Capsule on Wednesday, June 24, 2026.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/109/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-01T14:45:23Z",
+    "updateDateIncludingText": "2026-07-13T18:33:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "A000055",
+      "district": 4,
+      "firstName": "Robert",
+      "fullName": "Rep. Aderholt, Robert B. [R-AL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Aderholt",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/A000055?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T14:45:45Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-06-09T14:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ]
+}

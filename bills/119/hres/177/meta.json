@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-8",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/8?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "actionTime": "14:03:41",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/177",
+    "number": "177",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/text?format=json"
+    },
+    "title": "Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\"; providing for consideration of the joint resolution (H.J. Res. 61) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\"; and providing for consideration of the joint resolution (S.J. Res. 11) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/177/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:27Z",
+    "updateDateIncludingText": "2026-07-11T21:24:27Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T00:17:33Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides for the House of Representatives to consider the following measures:</p><ul><li>H.J. Res.42, Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to <em>Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment</em>;&nbsp;</li><li>H.J. Res. 61, Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to<em> National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing</em>; and</li><li>S.J. Res. 11, Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to <em>Protection of Marine Archaeological Resources</em>.</li></ul><p>Under the resolution, all points of order against consideration of each measure are waived; the measures shall be considered as read; and all points of order against provisions in the measures are waived. The resolution further provides that the previous question shall be considered as ordered on each measure (and any amendment thereto) to final passage without intervening motion except one hour of debate and one motion to recommit.</p>",
+      "updateDate": "2025-03-19T18:57:02Z",
+      "versionCode": "00"
+    }
+  ]
+}

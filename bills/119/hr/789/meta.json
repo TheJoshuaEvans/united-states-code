@@ -1,0 +1,161 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:16:00Z",
+        "title": "H.R. 789, Transparency and Predictability in Small Business Opportunities Act",
+        "url": "https://www.cbo.gov/publication/61314"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-35",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/35?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LATIMER:\nH.R. 789.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3 of the US Constitution\n[Page H407]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/789",
+    "number": "789",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000606",
+        "district": 16,
+        "firstName": "George",
+        "fullName": "Rep. Latimer, George [D-NY-16]",
+        "isByRequest": "N",
+        "lastName": "Latimer",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/text?format=json"
+    },
+    "title": "Transparency and Predictability in Small Business Opportunities Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/789/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T11:08:27Z",
+    "updateDateIncludingText": "2026-07-13T01:08:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000379",
+      "district": 4,
+      "firstName": "Mark",
+      "fullName": "Rep. Alford, Mark [R-MO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Alford",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/A000379?format=json"
+    },
+    {
+      "bioguideId": "M000687",
+      "district": 7,
+      "firstName": "Kweisi",
+      "fullName": "Rep. Mfume, Kweisi [D-MD-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mfume",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M000687?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:34:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T20:58:08Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:01:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-28T16:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Transparency and Predictability in Small Business Opportunities Act</strong></p><p>This bill requires the Small Business Administration (SBA) to issue rules for disclosing information about federal contract solicitations for which small businesses were eligible and that were issued and cancelled.</p><p>Under the rules for&nbsp;such a solicitation, an agency must provide&nbsp;(1) a justification for the cancellation,&nbsp;(2) information about any plans to reissue the solicitation and any associated&nbsp;time frames,&nbsp;and (3) information about any plans to include the requirements of the solicitation in another contract or task order of the agency.</p><p>Additionally, for such solicitations that an agency does not intend to reissue, the SBA must provide procedures for the agency to refer a small business that prepared a bid for such covered solicitation to the&nbsp;Office of Small and Disadvantaged Business Utilization for assistance in identifying similar contracting opportunities.</p>",
+      "updateDate": "2025-05-30T13:18:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

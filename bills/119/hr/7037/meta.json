@@ -1,0 +1,477 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 9 (Tuesday, January 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. KIM:\nH.R. 7037.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8.\n[Page H718]\n</pre>",
+    "cosponsors": {
+      "count": 30,
+      "countIncludingWithdrawnCosponsors": 30,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-13",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7037",
+    "number": "7037",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000397",
+        "district": 40,
+        "firstName": "Young",
+        "fullName": "Rep. Kim, Young [R-CA-40]",
+        "isByRequest": "N",
+        "lastName": "Kim",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000397?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/text?format=json"
+    },
+    "title": "Developing Overseas Mineral Investments and New Allied Networks for Critical Energies Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7037/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-17T17:56:28Z",
+    "updateDateIncludingText": "2026-07-13T19:13:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001287",
+      "district": 6,
+      "firstName": "Ami",
+      "fullName": "Rep. Bera, Ami [D-CA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bera",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    },
+    {
+      "bioguideId": "M001199",
+      "district": 21,
+      "firstName": "Brian",
+      "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mast",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001199?format=json"
+    },
+    {
+      "bioguideId": "H001058",
+      "district": 4,
+      "firstName": "Bill",
+      "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huizenga",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/H001058?format=json"
+    },
+    {
+      "bioguideId": "O000176",
+      "district": 2,
+      "firstName": "Johnny",
+      "fullName": "Rep. Olszewski, Johnny [D-MD-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Olszewski",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/O000176?format=json"
+    },
+    {
+      "bioguideId": "S001229",
+      "district": 6,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shreve",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001229?format=json"
+    },
+    {
+      "bioguideId": "W000804",
+      "district": 1,
+      "firstName": "Robert",
+      "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wittman",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000804?format=json"
+    },
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "M001236",
+      "district": 14,
+      "firstName": "Tim",
+      "fullName": "Rep. Moore, Tim [R-NC-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001236?format=json"
+    },
+    {
+      "bioguideId": "C001091",
+      "district": 20,
+      "firstName": "Joaquin",
+      "fullName": "Rep. Castro, Joaquin [D-TX-20]",
+      "isOriginalCosponsor": true,
+      "lastName": "Castro",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001091?format=json"
+    },
+    {
+      "bioguideId": "R000600",
+      "district": 0,
+      "firstName": "Aumua Amata",
+      "fullName": "Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Radewagen",
+      "middleName": "Coleman",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "AS",
+      "url": "https://api.congress.gov/v3/member/R000600?format=json"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2026-01-23",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    },
+    {
+      "bioguideId": "M001215",
+      "district": 1,
+      "firstName": "Mariannette",
+      "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller-Meeks",
+      "party": "R",
+      "sponsorshipDate": "2026-01-23",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/M001215?format=json"
+    },
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-04",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "F000480",
+      "district": 20,
+      "firstName": "Vince",
+      "fullName": "Rep. Fong, Vince [R-CA-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fong",
+      "party": "R",
+      "sponsorshipDate": "2026-02-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/F000480?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-02-09",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2026-02-10",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "B001282",
+      "district": 6,
+      "firstName": "Andy",
+      "fullName": "Rep. Barr, Andy [R-KY-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barr",
+      "party": "R",
+      "sponsorshipDate": "2026-02-11",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/B001282?format=json"
+    },
+    {
+      "bioguideId": "B001257",
+      "district": 12,
+      "firstName": "Gus",
+      "fullName": "Rep. Bilirakis, Gus M. [R-FL-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bilirakis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001257?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-13",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    },
+    {
+      "bioguideId": "M001222",
+      "district": 7,
+      "firstName": "Max",
+      "fullName": "Rep. Miller, Max L. [R-OH-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "L.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001222?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2026-05-11",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "M001230",
+      "district": 7,
+      "firstName": "Ryan",
+      "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mackenzie",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001230?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-09T20:36:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T15:37:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-13T15:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Developing Overseas Mineral Investments and New Allied Networks for Critical Energies Act or the DOMINANCE Act</strong></p><p>This bill establishes a Bureau of Energy Security and Diplomacy in the Department of State and authorizes several programs to address access to energy and critical minerals.</p><p>The bureau must formulate and implement policies related to international energy, energy technology, critical minerals, and related supply chains. An assistant secretary is authorized to lead the bureau.</p><p>The bill authorizes the State Department to establish multi-year energy security compacts with partner countries. The purpose of such compacts is to increase reliable access to energy, electricity, or critical minerals for both parties to the compact.</p><p>The bill also authorizes the State Department to lead U.S. participation in a Minerals Security Partnership (MSP), whose purpose includes supporting investment in critical mineral mining, processing, and refining projects that enable critical mineral supply chains. The United States must prioritize MSP projects that advance the national and economic security interests of the United States and U.S. allies and partners.</p><p>Fellowships are authorized to support (1) U.S. citizens attending foreign mining institutions in order to build the capacity of the U.S. mining workforce; and (2) foreign mining academics and professionals&nbsp;being placed at U.S. institutions to help&nbsp;advance research and development initiatives in the U.S. mining industry and expand U.S.&nbsp;mining&nbsp;education and workforce development programs.</p>",
+      "updateDate": "2026-06-05T16:49:48Z",
+      "versionCode": "00"
+    }
+  ]
+}

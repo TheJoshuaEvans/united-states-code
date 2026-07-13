@@ -1,0 +1,247 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-282",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/282?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DONALDS:\nH.R. 1676.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt. I, Sec. 8 of the U.S. Constitution\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1676",
+    "number": "1676",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000032",
+        "district": 19,
+        "firstName": "Byron",
+        "fullName": "Rep. Donalds, Byron [R-FL-19]",
+        "isByRequest": "N",
+        "lastName": "Donalds",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/D000032?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/text?format=json"
+    },
+    "title": "Make SWAPs Efficient Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1676/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:24Z",
+    "updateDateIncludingText": "2026-07-13T19:46:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    },
+    {
+      "bioguideId": "D000600",
+      "district": 26,
+      "firstName": "Mario",
+      "fullName": "Rep. Diaz-Balart, Mario [R-FL-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Diaz-Balart",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000600?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2025-03-14",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-18",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    },
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "J000307",
+      "district": 10,
+      "firstName": "John",
+      "fullName": "Rep. James, John [R-MI-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "James",
+      "party": "R",
+      "sponsorshipDate": "2025-06-03",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/J000307?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T20:34:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:22:59Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-15T21:20:11Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-15T21:19:50Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-02-27T14:03:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-24T17:38:52Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-06-23T16:44:26Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Make SWAPs Efficient Act of 2025 or the Make State Wildlife Action Plans Efficient Act of 2025</strong></p><p>This bill modifies the State Wildlife Grant Program (SWGP) to establish a deadline for the Department of the Interior to approve state wildlife conservation and restoration programs. Under the SWGP, Interior provides funding to state wildlife agencies to implement their comprehensive plans (commonly known as state wildlife action plans or&nbsp;SWAPs) for state wildlife conservation and restoration programs.</p><p>The bill directs Interior to approve a state wildlife conservation and restoration program within 180 days after the date on which the state submitted its SWAP if Interior finds that the SWAP complies with the requirements of the SWGP. If Interior misses the deadline, the bill requires (1) the SWAP to be automatically approved, and (2) Interior to set aside amounts under the&nbsp;Wildlife Conservation and Restoration Account for the state.</p>",
+      "updateDate": "2025-12-08T13:36:00Z",
+      "versionCode": "00"
+    }
+  ]
+}

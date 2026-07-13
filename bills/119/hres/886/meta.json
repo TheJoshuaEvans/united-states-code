@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/886/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "actionTime": "12:13:39",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/886",
+    "number": "886",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/886/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/886/text?format=json"
+    },
+    "title": "Electing a member to a certain standing committee of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/886/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:14:39Z",
+    "updateDateIncludingText": "2026-07-11T20:14:39Z"
+  }
+}

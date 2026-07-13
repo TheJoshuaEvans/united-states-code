@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/952/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/952/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MATSUI:\nH.R. 952.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution Article IV,\nSection 3, clause 2\n[Page H460]\n</pre>",
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/952",
+    "number": "952",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001163",
+        "district": 7,
+        "firstName": "Doris",
+        "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+        "isByRequest": "N",
+        "lastName": "Matsui",
+        "middleName": "O.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001163?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/952/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/952/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/952/text?format=json"
+    },
+    "title": "Reversionary Interest Conveyance Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/952/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:23:20Z",
+    "updateDateIncludingText": "2026-07-11T22:23:20Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-04T16:05:03Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T15:56:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-12T15:00:04Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-04T17:09:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Reversionary Interest Conveyance Act</strong></p><p>This bill directs the Bureau of Land Management (BLM) to&nbsp;offer to sell the reversionary interest of the United States in approximately 8.43 acres of land in Sacramento, California, as generally depicted on a specified map dated November 7, 2022.&nbsp;Within two years of receiving a request from the owner of the land, the BLM must offer the reversionary interest and convey the reversionary interest to the buyer upon payment. The payment must be&nbsp;in an amount that is at least the fair market value of the reversionary interest. The buyer must also pay all costs related to the applicable conveyance of the reversionary interest, including all surveys, appraisals, and other administrative costs.</p><p>The bill subjects the conveyance to valid existing rights.</p><p>The proceeds from the sale must be deposited into Federal Land Disposal Account.</p>",
+      "updateDate": "2025-05-08T19:13:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

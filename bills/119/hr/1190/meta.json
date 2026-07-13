@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-122",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/122?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 28 (Tuesday, February 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DOWNING:\nH.R. 1190.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H645]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-11",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1190",
+    "number": "1190",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000634",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Downing, Troy [R-MT-2]",
+        "isByRequest": "N",
+        "lastName": "Downing",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000634?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/text?format=json"
+    },
+    "title": "Expanding Access to Capital for Rural Job Creators Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1190/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:53:24Z",
+    "updateDateIncludingText": "2026-07-13T19:42:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle [D-OR-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T21:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:54:02Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:22:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-11T15:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Expanding Access to Capital for Rural Job Creators Act</strong></p><p>This bill requires the Office of the Advocate for Small Business Capital Formation within the Securities and Exchange Commission to report on issues encountered by rural-area small businesses.</p>",
+      "updateDate": "2025-06-09T18:27:44Z",
+      "versionCode": "00"
+    }
+  ]
+}

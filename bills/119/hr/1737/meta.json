@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-06-20T14:17:00Z",
+        "title": "H.R. 1737, a bill to direct the Secretary of Commerce to submit to Congress a report containing an assessment of the value, cost, and feasibility of a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria",
+        "url": "https://www.cbo.gov/publication/61500"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-155",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/155?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. PLASKETT:\nH.R. 1737.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H920]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1737",
+    "number": "1737",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000610",
+        "firstName": "Stacey",
+        "fullName": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+        "isByRequest": "N",
+        "lastName": "Plaskett",
+        "middleName": "E.",
+        "party": "D",
+        "state": "VI",
+        "url": "https://api.congress.gov/v3/member/P000610?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/text?format=json"
+    },
+    "title": "To direct the Secretary of Commerce to submit to Congress a report containing an assessment of the value, cost, and feasibility of a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1737/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:57Z",
+    "updateDateIncludingText": "2026-07-13T19:47:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T20:57:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-12T16:14:11Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T15:56:58Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:12:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill requires the National Telecommunications and Information Administration to submit a report to Congress that assesses the feasibility, value, cost, and security implications&nbsp;of a submarine fiber optic cable to connect the contiguous United States, the U.S. Virgin Islands, Ghana, and Nigeria.&nbsp;The report must include, among other topics, an assessment of the potential establishment of a data center and high-security cloud services facility in the U.S. Virgin Islands for certain national security communications.</p>",
+      "updateDate": "2025-06-17T14:57:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LaLOTA:\nH.R. 788.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H407]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-02-26",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/788",
+    "number": "788",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000598",
+        "district": 1,
+        "firstName": "Nick",
+        "fullName": "Rep. LaLota, Nick [R-NY-1]",
+        "isByRequest": "N",
+        "lastName": "LaLota",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000598?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/text?format=json"
+    },
+    "title": "DOE and SBA Research Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/788/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T11:08:25Z",
+    "updateDateIncludingText": "2026-07-13T01:08:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001234",
+      "district": 3,
+      "firstName": "Kelly",
+      "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Morrison",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/M001234?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-26T16:44:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>DOE and SBA Research Act</strong></p><p>This bill requires the Department of Energy and the Small Business Administration to enter into an agreement to collaborate on research and development activities. These activities must include, as appropriate, small businesses.</p><p>The agencies must report on any collaborative research achievements and potential opportunities to expand the technical capabilities of the agencies.</p>",
+      "updateDate": "2025-02-24T17:59:59Z",
+      "versionCode": "00"
+    }
+  ]
+}

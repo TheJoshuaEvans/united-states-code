@@ -1,0 +1,116 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KENNEDY of Utah:\nH.R. 1318.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18: The Congress shall have\npower to make all Laws which shall be necessary and proper\nfor carrying into Execution the foregoing Powers, and all\nother Powers vested by this Constitution in the Government of\nthe United States, or in any Department or Officer thereof.\n[Page H711]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1318",
+    "number": "1318",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000403",
+        "district": 3,
+        "firstName": "Mike",
+        "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/K000403?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/text?format=json"
+    },
+    "title": "United States Research Protection Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1318/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:38:24Z",
+    "updateDateIncludingText": "2026-07-13T19:43:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001215",
+      "district": 11,
+      "firstName": "Haley",
+      "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stevens",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001215?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-25T16:18:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-13T14:06:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>United States Research Protection Act</strong></p><p>This bill clarifies the definition of a&nbsp;<em>malign foreign talent recruitment program</em> under the Research and Development, Competition, and Innovation Act.<em>&nbsp;</em></p><p>The Research and Development, Competition, and Innovation Act, which was included in the CHIPS and Science Act, prohibits researchers who receive federal funds from participating in malign foreign talent recruitment programs, in which foreign countries incentivize or compensate researchers for activities that present a conflict&nbsp;of&nbsp;interest for the researcher or that are otherwise unauthorized (e.g., sharing proprietary information without proper authorization).</p><p>The bill clarifies that these restrictions apply to programs that are sponsored by a foreign country of concern, including China, Iran, North Korea, and Russia. The bill also clarifies that malign foreign talent recruitment programs may involve direct or indirect compensation or incentives from such&nbsp;countries.</p>",
+      "updateDate": "2025-03-19T19:51:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

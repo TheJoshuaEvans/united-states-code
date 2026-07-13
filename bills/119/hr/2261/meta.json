@@ -1,0 +1,171 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Homeland Security on September 3, 2025 ",
+        "pubDate": "2025-10-01T18:25:00Z",
+        "title": "H.R. 2261, Strengthening Oversight of DHS Intelligence Act",
+        "url": "https://www.cbo.gov/publication/61790"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-375",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/375?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HERNANDEZ:\nH.R. 2261.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1190]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2261",
+    "number": "2261",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001103",
+        "firstName": "Pablo",
+        "fullName": "Rescom. Hern\u00e1ndez, Pablo [D-PR-At Large]",
+        "isByRequest": "N",
+        "lastName": "Hern\u00e1ndez",
+        "middleName": "Jos\u00e9",
+        "party": "D",
+        "state": "PR",
+        "url": "https://api.congress.gov/v3/member/H001103?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/text?format=json"
+    },
+    "title": "Strengthening Oversight of DHS Intelligence Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2261/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-09T13:27:22Z",
+    "updateDateIncludingText": "2026-07-12T14:53:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000193",
+      "district": 2,
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/T000193?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T21:09:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-12T19:04:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-03T18:55:24Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-21T20:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-25T15:35:00Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-03-25T15:34:51Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-03-21T15:17:59Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-12",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Strengthening Oversight of DHS Intelligence Act</strong></p><p>This bill increases privacy protections associated with Department of Homeland Security (DHS) intelligence information.&nbsp;</p><p>Specifically, the bill requires designated DHS officials to ensure that certain intelligence information is shared, stored, and disseminated in a manner consistent with the protection of civil rights, civil liberties, and privacy rights.</p><p>The bill also provides statutory authority for requirements for DHS to train intelligence personnel on civil rights, civil liberties, privacy rights, and privacy-related regulations and information practices. Such training must focus on those who disseminate information analyzed by DHS or who review such information for dissemination.</p>",
+      "updateDate": "2025-11-17T11:34:58Z",
+      "versionCode": "07"
+    }
+  ]
+}

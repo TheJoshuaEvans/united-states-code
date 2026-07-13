@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/22/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-01-09",
+      "actionTime": "11:45:54",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/22",
+    "number": "22",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000191",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Neguse, Joe [D-CO-2]",
+        "isByRequest": "N",
+        "lastName": "Neguse",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/N000191?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/22/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/22/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/22/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/22/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:28Z",
+    "updateDateIncludingText": "2026-07-11T21:24:28Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-09",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Members to the Committees on Appropriations; Energy and Commerce; Financial Services; and&nbsp;Ways and Means.</p>",
+      "updateDate": "2025-02-03T20:48:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

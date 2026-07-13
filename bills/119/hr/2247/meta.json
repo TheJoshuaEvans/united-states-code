@@ -1,0 +1,158 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on January 21, 2026",
+        "pubDate": "2026-02-19T17:23:00Z",
+        "title": "H.R. 2247, Airmen Certificate Accessibility Act",
+        "url": "https://www.cbo.gov/publication/62142"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-551",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/551?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BURCHETT:\nH.R. 2247.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1189]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2247",
+    "number": "2247",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001309",
+        "district": 2,
+        "firstName": "Tim",
+        "fullName": "Rep. Burchett, Tim [R-TN-2]",
+        "isByRequest": "N",
+        "lastName": "Burchett",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001309?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/text?format=json"
+    },
+    "title": "Airmen Certificate Accessibility Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2247/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:28Z",
+    "updateDateIncludingText": "2026-07-12T14:53:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M000871",
+      "district": 1,
+      "firstName": "Tracey",
+      "fullName": "Rep. Mann, Tracey [R-KS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mann",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000871?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-25T18:52:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-16T17:39:03Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-01-21T16:18:05Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-21T16:17:48Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-21T20:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-21T20:47:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Aviation Subcommittee",
+          "systemCode": "hspw05",
+          "url": "https://api.congress.gov/v3/committee/house/hspw05?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Pilot Certificate Accessibility Act</strong></p><p>This bill allows a pilot to present a digital copy of certain certificates (e.g., an airman certificate or a&nbsp;medical certificate) when required to present such documentation by a&nbsp;Federal Aviation Administration (FAA) inspector.</p><p>Under current FAA regulations, a pilot must present for inspection a physical copy of an airman certificate and other paperwork upon a request from the FAA; a federal, state, or local law enforcement officer; or an authorized representative of the Transportation Security Administration or the National Transportation Safety Board. This bill allows a pilot to present a&nbsp;certificate such as an airman certificate or a medical&nbsp;certificate to an FAA inspector as (1) a physical, original copy; or (2) a digital copy stored on an electronic device or cloud storage platform.</p><p>The FAA must update current regulations to implement this change.</p>",
+      "updateDate": "2026-04-16T17:46:16Z",
+      "versionCode": "00"
+    }
+  ]
+}

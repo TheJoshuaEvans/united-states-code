@@ -1,0 +1,152 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LETLOW:\nH.R. 1011.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\n[Page H505]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1011",
+    "number": "1011",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000595",
+        "district": 5,
+        "firstName": "Julia",
+        "fullName": "Rep. Letlow, Julia [R-LA-5]",
+        "isByRequest": "N",
+        "lastName": "Letlow",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/L000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/text?format=json"
+    },
+    "title": "Emergency Conservation Program Improvement Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1011/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-16T10:56:33Z",
+    "updateDateIncludingText": "2026-07-12T14:26:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000600",
+      "district": 3,
+      "firstName": "Marie",
+      "fullName": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Perez",
+      "middleName": "Gluesenkamp",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/G000600?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2026-03-25",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-05T15:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-07T17:20:09Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Conservation, Research, and Biotechnology Subcommittee",
+          "systemCode": "hsag14",
+          "url": "https://api.congress.gov/v3/committee/house/hsag14?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Emergency Conservation Program Improvement Act of 2025</strong></p><p>This bill revises the Emergency Conservation Program (ECP) and the Emergency Forest Restoration Program (EFRP) to expand eligibility for payments to agricultural producers and owners of forest land impacted by natural disasters. The bill also&nbsp;provides additional options to receive an advance on cost-sharing payments before carrying out emergency measures.</p><p>The bill&nbsp;expands&nbsp;advance ECP payments to include payments for the rehabilitation of farmland or to repair or replace a farmland or conservation structure. Producers may receive an advance on cost-sharing payments for 75% of the cost of the replacement&nbsp;or rehabilitation and 50% of the cost of the repair. Current law limits advanced cost-sharing payments to 25% of the cost of the repair or replacement of fencing.</p><p>The bill also expands eligibility for payments under ECP to include emergency measures to address damages caused by a wildfire that is not caused naturally (including a wildfire that is caused by the federal government), if the damage is caused by the spread of the wildfire due to natural causes.</p><p>Under EFRP, the bill allows owners of nonindustrial private forest land impacted by a natural disaster to receive an advance on cost-sharing payments for up to 75% of the cost of the emergency measures.&nbsp;Recipients must use the funds within 180 days after the funds are disbursed. Currently, advance payments are not available under the program.</p>",
+      "updateDate": "2026-01-29T15:10:01Z",
+      "versionCode": "00"
+    }
+  ]
+}

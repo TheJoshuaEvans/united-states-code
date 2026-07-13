@@ -1,0 +1,144 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 36 (Monday, February 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COMER:\nH.R. 1515.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the U.S. Constitution,\nin that the legislation ``is necessary and proper for\ncarrying into Execution the . . . Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.''\n[Page H769]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-24",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1515",
+    "number": "1515",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001108",
+        "district": 1,
+        "firstName": "James",
+        "fullName": "Rep. Comer, James [R-KY-1]",
+        "isByRequest": "N",
+        "lastName": "Comer",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/C001108?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/text?format=json"
+    },
+    "title": "GOOD Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1515/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:23:19Z",
+    "updateDateIncludingText": "2026-07-13T19:45:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000389",
+      "district": 17,
+      "firstName": "Ro",
+      "fullName": "Rep. Khanna, Ro [D-CA-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Khanna",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000389?format=json"
+    },
+    {
+      "bioguideId": "K000401",
+      "district": 3,
+      "firstName": "Kevin",
+      "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiley",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000401?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T17:41:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-24T17:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Guidance Out Of Darkness Act or the GOOD Act</strong></p><p>This bill establishes requirements concerning the posting of agency guidance documents. Specifically, an agency must publish guidance documents online on the dates they are issued, publish all of its guidance documents that are in effect in a single location on a designated website, display a hyperlink on its website that provides access to the guidance documents on such website, and indicate on such website if a guidance document has been rescinded.</p><p>The documents must be categorized as guidance documents and further divided into subcategories.</p><p>No later than five years after the enactment of this bill, the Government Accountability Office must report on agency compliance with these requirements.</p>",
+      "updateDate": "2025-03-06T15:46:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

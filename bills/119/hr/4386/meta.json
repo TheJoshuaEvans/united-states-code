@@ -1,0 +1,167 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-450",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/450?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 120 (Monday, July 14, 2025)]\n[House]\n[Pages H3245-H3246]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALBERG:\nH.R. 4386.\n[[Page H3246]]\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto the following: Article I, Section 8, Clause 18\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-14",
+    "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4386",
+    "number": "4386",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000798",
+        "district": 5,
+        "firstName": "Tim",
+        "fullName": "Rep. Walberg, Tim [R-MI-5]",
+        "isByRequest": "N",
+        "lastName": "Walberg",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/W000798?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/text?format=json"
+    },
+    "title": "America the Beautiful Motorcycle Fairness Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4386/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:25Z",
+    "updateDateIncludingText": "2026-07-13T18:44:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2025-07-21",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-04T19:14:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-14T21:57:52Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-14T16:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-14T21:57:37Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-11-20T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-11-20T14:00:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-07-14T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-18T20:37:38Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-09-11T20:13:17Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-14",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>America the Beautiful Motorcycle Fairness Act</strong></p><p>This bill allows an additional motorcycle, including passengers, to accompany a motorcyclist with an America the Beautiful Annual Pass when visiting federal recreational lands and waters.&nbsp;</p><p>In 2024, the Department of the Interior limited the pass coverage to one motorcycle per pass rather than two. The bill specifies that the pass must cover the entrance fee and standard amenity recreation fee for the&nbsp;passholder and any passengers on the motorcycle along with one additional motorcycle with its passengers.</p><p>The bill also codifies current Interior policy that the pass covers&nbsp;the fees for a passholder and any accompanying passengers in a noncommercial vehicle.</p>",
+      "updateDate": "2026-02-27T16:13:27Z",
+      "versionCode": "07"
+    }
+  ]
+}

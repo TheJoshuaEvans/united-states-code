@@ -1,0 +1,150 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9567/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9567/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SELF:\nH.R. 9567.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9567/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9567",
+    "number": "9567",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001224",
+        "district": 3,
+        "firstName": "Keith",
+        "fullName": "Rep. Self, Keith [R-TX-3]",
+        "isByRequest": "N",
+        "lastName": "Self",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/S001224?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9567/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9567/text?format=json"
+    },
+    "title": "Preserving Our Constitution Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9567/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T11:48:15Z",
+    "updateDateIncludingText": "2026-07-13T11:48:15Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "P000605",
+      "district": 10,
+      "firstName": "Scott",
+      "fullName": "Rep. Perry, Scott [R-PA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Perry",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/P000605?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:04:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

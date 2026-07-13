@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-115",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/115?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 81 (Wednesday, May 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HILL of Arkansas:\nH.R. 3394.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution.\n[Page H2052]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3394",
+    "number": "3394",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001072",
+        "district": 2,
+        "firstName": "J.",
+        "fullName": "Rep. Hill, J. French [R-AR-2]",
+        "isByRequest": "N",
+        "lastName": "Hill",
+        "middleName": "French",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/H001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/text?format=json"
+    },
+    "title": "Fair Investment Opportunities for Professional Experts Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3394/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:25Z",
+    "updateDateIncludingText": "2026-07-12T15:02:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000130",
+      "district": 52,
+      "firstName": "Juan",
+      "fullName": "Rep. Vargas, Juan [D-CA-52]",
+      "isOriginalCosponsor": true,
+      "lastName": "Vargas",
+      "party": "D",
+      "sponsorshipDate": "2025-05-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000130?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T20:59:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:45:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T14:03:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Fair Investment Opportunities for Professional Experts Act</strong></p><p>This bill expands the eligibility criteria for an <em>accredited investor</em> for purposes of participating in private offerings of securities to include an individual determined by the Securities and Exchange Commission (SEC) to have qualifying professional knowledge through educational or professional experience. (Certain unregistered securities may only be offered to accredited investors.)</p><p>The bill also provides statutory authority for certain existing criteria for an accredited investor, including licensure or registration in good standing as a broker or investment adviser, specified annual salary, and specified net worth.</p><p>Further, the SEC is directed to revise the definition of <em>accredited investor</em> in Regulation D (which exempts certain offerings from SEC registration requirements) to conform to changes in this bill.</p>",
+      "updateDate": "2025-06-23T20:02:26Z",
+      "versionCode": "00"
+    }
+  ]
+}

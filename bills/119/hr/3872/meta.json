@@ -1,0 +1,179 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-357",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/357?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 99 (Tuesday, June 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FALLON:\nH.R. 3872.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 1\n[Page H2615]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3872",
+    "number": "3872",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000246",
+        "district": 4,
+        "firstName": "Pat",
+        "fullName": "Rep. Fallon, Pat [R-TX-4]",
+        "isByRequest": "N",
+        "lastName": "Fallon",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/F000246?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/text?format=json"
+    },
+    "title": "To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable to hardrock minerals.",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3872/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:14:01Z",
+    "updateDateIncludingText": "2026-07-13T18:36:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001224",
+      "district": 1,
+      "firstName": "Nathaniel",
+      "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-06-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001224?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T13:30:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-16T19:21:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-12T15:00:08Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-10-31T17:38:50Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-17T18:38:41Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-17T18:37:54Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-10T14:05:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-03T13:15:22Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-07-02T13:01:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-31",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill specifies that all federally acquired lands are eligible to be considered for&nbsp;hardrock mineral leasing under the Mineral Leasing Act for Acquired Lands (MLAAL). The bill defines the term&nbsp;<em>hardrock mineral</em> to (1) include deposits of minerals found in sedimentary or other rocks, base metals, precious metals,&nbsp;industrial minerals, and precious and semi-precious gemstones; and (2) exclude deposits of coal, oil, oil shale, gas, sodium, potassium, sulfur, or mineral materials subject to disposition under the Materials Act of 1947.</p><p>By way of background, hardrock minerals are not currently listed under the MLAAL as deposits subject to a lease, while mineral resources such as coal, phosphate, oil, gas, gilsonite, and sulfur are listed. As a result, federal lands may be leased for mining&nbsp;hardrock minerals only if the federal lands were acquired under a statute, such as the Weeks Act, that specifically authorizes the land to be used for hardrock mineral leasing.</p>",
+      "updateDate": "2025-12-12T15:45:00Z",
+      "versionCode": "07"
+    }
+  ]
+}

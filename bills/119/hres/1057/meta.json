@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-493",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/493?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-02-11",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "actionTime": "13:02:54",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1057",
+    "number": "1057",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000614",
+        "district": 21,
+        "firstName": "Chip",
+        "fullName": "Rep. Roy, Chip [R-TX-21]",
+        "isByRequest": "N",
+        "lastName": "Roy",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/R000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (S. 1383) to establish the Veterans Advisory Committee on Equal Access, and for other purposes; providing for consideration of the bill (H.R. 2189) to modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes; providing for consideration of the bill (H.R. 261) to amend the National Marine Sanctuaries Act to prohibit requiring an authorization for the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have previously been authorized by a Federal or State agency; providing for consideration of the bill (H.R. 3617) to amend the Department of Energy Organization Act to secure the supply of critical energy resources, including critical minerals and other materials, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1057/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:59:39Z",
+    "updateDateIncludingText": "2026-07-11T21:59:39Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T15:46:50Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-11",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (S. 1383) to establish the Veterans Advisory Committee on Equal Access, and for other purposes; providing for consideration of the bill (H.R. 2189) to modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes; providing for consideration of the bill (H.R. 261) to amend the National Marine Sanctuaries Act to prohibit requiring an authorization for the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have previously been authorized by a Federal or State agency; providing for consideration of the bill (H.R. 3617) to amend the Department of Energy Organization Act to secure the supply of critical energy resources, including critical minerals and other materials, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+      "updateDate": "2026-03-13T12:10:49Z",
+      "versionCode": "07"
+    }
+  ]
+}

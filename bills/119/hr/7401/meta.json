@@ -1,0 +1,125 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on February 20, 2026",
+        "pubDate": "2026-04-14T16:25:00Z",
+        "title": "H.R. 7401, Small Business Lending Fraud Prevention Act",
+        "url": "https://www.cbo.gov/publication/62337"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-500",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/500?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 26 (Thursday, February 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MEUSER:\nH.R. 7401.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H2041]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-05",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "actionTime": "17:06:13",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7401",
+    "number": "7401",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001204",
+        "district": 9,
+        "firstName": "Daniel",
+        "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+        "isByRequest": "N",
+        "lastName": "Meuser",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001204?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/text?format=json"
+    },
+    "title": "Small Business Lending Fraud Prevention Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7401/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-07T20:23:00Z",
+    "updateDateIncludingText": "2026-07-13T19:19:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2026-02-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-20T17:07:01Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-11T15:43:05Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-05T15:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-20",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Small Business Lending Fraud Prevention Act</strong></p><p>This bill requires Small Business Administration (SBA) employees who participate in the origination, review, or approval of&nbsp;SBA loans to certify in writing prior to such&nbsp;participation that the employee&nbsp;</p><ul><li>does not have any conflict of interest with respect to the loan,&nbsp;</li><li>will disclose any such conflict of interest arising after the certification is made, and</li><li>understands the requirements with respect to conflicts of interest applicable SBA employees.</li></ul><p>Under current law, federal employees must disclose financial conflicts of interest with respect to a particular matter and recuse themselves from such matter (with limited exceptions upon authorization from the employee's agency designee).</p><p>The SBA must issue regulations implementing the requirements of this bill.</p>",
+      "updateDate": "2026-06-17T17:40:27Z",
+      "versionCode": "07"
+    }
+  ]
+}

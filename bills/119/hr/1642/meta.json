@@ -1,0 +1,186 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:20:00Z",
+        "title": "H.R. 1642, Connecting Small Businesses with Career and Technical Education Graduates Act of 2025",
+        "url": "https://www.cbo.gov/publication/61317"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-36",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/36?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 38 (Wednesday, February 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILLIAMS of Texas:\nH.R. 1642.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution of the United\nStates.\n[Page H880]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1642",
+    "number": "1642",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000816",
+        "district": 25,
+        "firstName": "Roger",
+        "fullName": "Rep. Williams, Roger [R-TX-25]",
+        "isByRequest": "N",
+        "lastName": "Williams",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/W000816?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/text?format=json"
+    },
+    "title": "Connecting Small Businesses with Career and Technical Education Graduates Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1642/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:08:23Z",
+    "updateDateIncludingText": "2026-07-12T14:31:49Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000176",
+      "district": 2,
+      "firstName": "Johnny",
+      "fullName": "Rep. Olszewski, Johnny [D-MD-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Olszewski",
+      "party": "D",
+      "sponsorshipDate": "2025-02-26",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/O000176?format=json"
+    },
+    {
+      "bioguideId": "B001327",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Bresnahan, Robert [R-PA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bresnahan",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001327?format=json"
+    },
+    {
+      "bioguideId": "T000491",
+      "district": 45,
+      "firstName": "Derek",
+      "fullName": "Rep. Tran, Derek [D-CA-45]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tran",
+      "party": "D",
+      "sponsorshipDate": "2025-02-26",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000491?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:36:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T20:59:40Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:00:20Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-26T15:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Connecting Small Businesses with Career and Technical Education Graduates Act of 2025</strong></p><p>This bill requires Small Business Development Centers and Women's Business Centers to provide educational information to small businesses about hiring graduates of career and technical education programs.</p><p>This includes, as appropriate, connecting small businesses with career and technical education programs to assist students and graduates of such programs with identifying career opportunities.</p>",
+      "updateDate": "2025-05-30T21:37:30Z",
+      "versionCode": "00"
+    }
+  ]
+}

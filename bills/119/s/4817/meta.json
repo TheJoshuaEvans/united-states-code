@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4817/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4817/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/4817/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-17",
+    "latestAction": {
+      "actionDate": "2026-06-17",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4817",
+    "number": "4817",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "M001111",
+        "firstName": "Patty",
+        "fullName": "Sen. Murray, Patty [D-WA]",
+        "isByRequest": "N",
+        "lastName": "Murray",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/M001111?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4817/text?format=json"
+    },
+    "title": "CHILD Labor Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4817/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T13:57:53Z",
+    "updateDateIncludingText": "2026-07-13T13:57:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000479?format=json"
+    },
+    {
+      "bioguideId": "M000133",
+      "firstName": "Edward",
+      "fullName": "Sen. Markey, Edward J. [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Markey",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000133?format=json"
+    },
+    {
+      "bioguideId": "M001169",
+      "firstName": "Christopher",
+      "fullName": "Sen. Murphy, Christopher [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murphy",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/M001169?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "S000033",
+      "firstName": "Bernie",
+      "fullName": "Sen. Sanders, Bernard [I-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sanders",
+      "party": "I",
+      "sponsorshipDate": "2026-06-17",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/S000033?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-17T20:15:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-392",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/392?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. JOHNSON of South Dakota:\nH.R. 4503.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution of the United\nStates\n[Page H3476]\n</pre>",
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4503",
+    "number": "4503",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000301",
+        "firstName": "Dusty",
+        "fullName": "Rep. Johnson, Dusty [R-SD-At Large]",
+        "isByRequest": "N",
+        "lastName": "Johnson",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/J000301?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/text?format=json"
+    },
+    "title": "ePermit Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4503/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-27T18:56:04Z",
+    "updateDateIncludingText": "2026-07-13T18:45:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000608",
+      "district": 50,
+      "firstName": "Scott",
+      "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000608?format=json"
+    },
+    {
+      "bioguideId": "C001137",
+      "district": 5,
+      "firstName": "Jeff",
+      "fullName": "Rep. Crank, Jeff [R-CO-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crank",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001137?format=json"
+    },
+    {
+      "bioguideId": "M001223",
+      "district": 2,
+      "firstName": "Seth",
+      "fullName": "Rep. Magaziner, Seth [D-RI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Magaziner",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/M001223?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-09-10",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "G000605",
+      "district": 13,
+      "firstName": "Adam",
+      "fullName": "Rep. Gray, Adam [D-CA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gray",
+      "party": "D",
+      "sponsorshipDate": "2025-09-10",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000605?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2025-09-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "A000148",
+      "district": 4,
+      "firstName": "Jake",
+      "fullName": "Rep. Auchincloss, Jake [D-MA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Auchincloss",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/A000148?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-11-20",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-11-20",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T20:38:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-04T15:19:25Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-11-20T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-10T12:41:31Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-17T13:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>ePermit Act</strong></p><p>This bill establishes requirements related to digitizing environmental reviews conducted under the National Environmental Policy Act of 1969 (NEPA).</p><p>The Council on Environmental Quality (CEQ) must develop, publish, and iteratively update data standards for the collection and curation of certain data related to environmental reviews. CEQ must also design, test, and build prototype tools for environmental reviews.</p><p>Additionally, CEQ must publish guidance to assist relevant agencies in implementing such standards as well as certain minimum functional requirements, such as data sharing that enables automated transfer of relevant data among federal agencies. Federal agencies responsible for environmental reviews or authorizations must implement the data standards and such minimum functional requirements.</p><p>To the maximum extent practicable, CEQ and such agencies must iteratively develop and maintain a unified interagency data system consisting of interconnected federal agency systems and shared services for environmental reviews and authorizations, including a common interactive, digital, cloud-based authorization portal.</p><p>Within a year,&nbsp;CEQ must oversee a pilot of shared services for environmental reviews and authorizations, including the portal. To the maximum extent practicable, CEQ must develop and implement the unified interagency data system by December 1, 2027.</p>",
+      "updateDate": "2025-12-09T20:48:18Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-247",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/247?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STEIL:\nH.R. 4430.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, section 8, clause 3 of the US Constitution: ``To\nregulate commerce with foreign nations, and among the several\nstates, and with the Indian tribes.''\n[Page H3368]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4430",
+    "number": "4430",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/text?format=json"
+    },
+    "title": "Expanding WKSI Eligibility Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4430/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-26T18:22:38Z",
+    "updateDateIncludingText": "2026-07-13T18:45:05Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000110",
+      "district": 6,
+      "firstName": "Cleo",
+      "fullName": "Rep. Fields, Cleo [D-LA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fields",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/F000110?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-07-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "H001047",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Himes, James A. [D-CT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Himes",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-25",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001047?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T23:20:32Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:55:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T15:46:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-16T14:05:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-16",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill reduces the required aggregate market value of voting and non-voting common equity shares for an issuer of securities to qualify as a well-known seasoned issuer. A <em>well-known seasoned issuer</em> is allowed to make expedited public offerings of securities through automatic shelf registrations.</p>",
+      "updateDate": "2025-11-25T16:21:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

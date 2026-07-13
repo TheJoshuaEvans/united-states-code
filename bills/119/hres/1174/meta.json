@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-609",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/609?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-04-15",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "actionTime": "13:37:34",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1174",
+    "number": "1174",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regulations governing the review and handling of air quality monitoring data influenced by exceptional events or actions to mitigate wildfire risk; providing for consideration of the bill (H.R. 6398) to amend the Clean Air Act relating to review by the Environmental Protection Agency of proposed legislation; providing for consideration of the bill (H.R. 6409) to amend the Clean Air Act to clarify standards for emissions emanating from outside of the United States, and for other purposes; and providing for consideration of the resolution (H. Res. 1156) expressing support for tax policies that support working families.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1174/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-13T17:12:29Z",
+    "updateDateIncludingText": "2026-07-13T17:12:29Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-15T13:14:21Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-15",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regulations governing the review and handling of air quality monitoring data influenced by exceptional events or actions to mitigate wildfire risk; providing for consideration of the bill (H.R. 6398) to amend the Clean Air Act relating to review by the Environmental Protection Agency of proposed legislation; providing for consideration of the bill (H.R. 6409) to amend the Clean Air Act to clarify standards for emissions emanating from outside of the United States, and for other purposes; and providing for consideration of the resolution (H. Res. 1156) expressing support for tax policies that support working families.",
+      "updateDate": "2026-04-16T08:19:53Z",
+      "versionCode": "07"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 14 (Thursday, January 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEHLS:\nH.R. 695.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, of the U.S. Constitution\n[Page H389]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-12-01",
+      "text": "Became Public Law No: 119-43."
+    },
+    "laws": [
+      {
+        "number": "119-43",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/695",
+    "number": "695",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000026",
+        "district": 22,
+        "firstName": "Troy",
+        "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+        "isByRequest": "N",
+        "lastName": "Nehls",
+        "middleName": "E.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/N000026?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/text?format=json"
+    },
+    "title": "Medal of Honor Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/695/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T12:38:29Z",
+    "updateDateIncludingText": "2026-07-13T19:12:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "B000825",
+      "district": 4,
+      "firstName": "Lauren",
+      "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boebert",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B000825?format=json"
+    },
+    {
+      "bioguideId": "D000594",
+      "district": 15,
+      "firstName": "Monica",
+      "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "De La Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/D000594?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-07T18:43:56Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-27T17:08:57Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-23T15:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Medal of Honor Act</strong></p><p>This bill increases the monthly special pension for living Medal of Honor recipients from $1,406.73 to $8,333.33 and establishes a rate of $1,406.73 for the monthly special pension for surviving spouses of Medal of Honor recipients. Both amounts must be adjusted annually for inflation.</p>",
+      "updateDate": "2025-02-25T17:02:44Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-01",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Medal of Honor Act</strong></p><p>This act increases the monthly special pension for living Medal of Honor recipients. The act also prohibits the Department of Veterans Affairs from increasing the amount of the pension for inflation if the amount was already increased during such year.</p><p>Additionally, the act extends a limitation on the pension paid to veterans who reside in Medicaid nursing homes and have no spouse or child. Currently, such pensions are limited to $90 per month through November 30, 2031. The act extends this limitation through January 31, 2033.</p>",
+      "updateDate": "2026-07-07T19:44:43Z",
+      "versionCode": "49"
+    }
+  ]
+}

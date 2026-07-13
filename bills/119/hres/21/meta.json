@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/21/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-01-09",
+      "actionTime": "09:45:29",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/21",
+    "number": "21",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/21/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/21/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/21/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/21/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:28Z",
+    "updateDateIncludingText": "2026-07-11T21:24:28Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-09",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Members to the Committees on Appropriations; Energy and Commerce; Financial Services; and Ways and Means.</p>",
+      "updateDate": "2025-02-03T16:27:49Z",
+      "versionCode": "00"
+    }
+  ]
+}

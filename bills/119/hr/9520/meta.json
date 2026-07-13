@@ -1,0 +1,70 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9520/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9520/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LAWLER:\nH.R. 9520.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 Clause 18 of the U.S. Constitution\n[Page H4317]\n</pre>",
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9520",
+    "number": "9520",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000599",
+        "district": 17,
+        "firstName": "Michael",
+        "fullName": "Rep. Lawler, Michael [R-NY-17]",
+        "isByRequest": "N",
+        "lastName": "Lawler",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000599?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9520/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9520/text?format=json"
+    },
+    "title": "War Hazards Compensation Reform Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9520/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T16:02:34Z",
+    "updateDateIncludingText": "2026-07-13T16:02:34Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:03:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on April 8, 2025",
+        "pubDate": "2025-06-27T19:11:00Z",
+        "title": "H.R. 1717, Communications Security Act",
+        "url": "https://www.cbo.gov/publication/61522"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-194",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/194?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MENENDEZ:\nH.R. 1717.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\n[Page H920]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-07-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1717",
+    "number": "1717",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001226",
+        "district": 8,
+        "firstName": "Robert",
+        "fullName": "Rep. Menendez, Robert [D-NJ-8]",
+        "isByRequest": "N",
+        "lastName": "Menendez",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/M001226?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/text?format=json"
+    },
+    "title": "Communications Security Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1717/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:21Z",
+    "updateDateIncludingText": "2026-07-13T19:46:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "J000302",
+      "district": 13,
+      "firstName": "John",
+      "fullName": "Rep. Joyce, John [R-PA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Joyce",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/J000302?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-16T15:13:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:43:11Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:32:43Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:03:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Communications Security Act</strong></p><p>This bill provides statutory authority for a council established by the Federal Communications Commission (FCC) to provide advice regarding the security, reliability, and interoperability of communications networks. (This advice is currently provided by the FCC\u2019s Communications Security, Reliability, and Interoperability Council.)</p><p>The bill specifies that the FCC may designate an existing advisory committee to fulfill this role, provided the committee\u2019s membership is modified, as necessary, to comply with membership requirements set forth in the bill.&nbsp;</p><p>Specifically, the bill requires the council to include, to the extent practicable, representatives of companies in the communications industry; public interest organizations or academic institutions; and federal, state, tribal, and local governments (with at least one member representing each level of government). Members are to be selected by the FCC's chair&nbsp;and generally may not include representatives of entities owned or controlled by, or subject to the influence of, a foreign adversary, or otherwise deemed to pose a threat to U.S. national security.&nbsp;</p><p>Under current law, federal advisory committees&nbsp;must generally terminate after two years unless they are renewed or a statute specifies a different termination date. However, the bill exempts the council from this requirement.</p>",
+      "updateDate": "2025-04-02T14:57:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

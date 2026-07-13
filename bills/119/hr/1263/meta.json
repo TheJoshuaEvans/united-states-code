@@ -1,0 +1,164 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MEEKS:\nH.R. 1263.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution\n[Page H678]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-12",
+    "latestAction": {
+      "actionDate": "2025-05-20",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1263",
+    "number": "1263",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001137",
+        "district": 5,
+        "firstName": "Gregory",
+        "fullName": "Rep. Meeks, Gregory W. [D-NY-5]",
+        "isByRequest": "N",
+        "lastName": "Meeks",
+        "middleName": "W.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001137?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/text?format=json"
+    },
+    "title": "Strengthening the Quad Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1263/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:43:19Z",
+    "updateDateIncludingText": "2026-07-13T19:43:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000397",
+      "district": 40,
+      "firstName": "Young",
+      "fullName": "Rep. Kim, Young [R-CA-40]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kim",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "B001287",
+      "district": 6,
+      "firstName": "Ami",
+      "fullName": "Rep. Bera, Ami [D-CA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bera",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    },
+    {
+      "bioguideId": "H001058",
+      "district": 4,
+      "firstName": "Bill",
+      "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huizenga",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/H001058?format=json"
+    },
+    {
+      "bioguideId": "K000400",
+      "district": 37,
+      "firstName": "Sydney",
+      "fullName": "Rep. Kamlager-Dove, Sydney [D-CA-37]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kamlager-Dove",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000400?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-20T19:41:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-12T15:03:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Strengthening the Quad Act</strong></p><p>This bill directs the Department of State to seek to establish a working group with Japan, Australia, and India to facilitate closer cooperation on shared interests and values. (The Quadrilateral Security Dialogue, also known as the Quad, is a coalition comprised of the United States and these three countries.)</p><p>The bill also requires the State Department to report to Congress a strategy for bolstering engagement and cooperation with the Quad. The strategy shall&nbsp;summarize&nbsp;current and past Quad initiatives, including those to promote broad-based and inclusive economic growth, technology cooperation, energy innovation, and resilient supply chains.&nbsp;The strategy shall also recommend (1) how Congress can help address certain barriers to implementing and expanding Quad cooperation, (2) new authorities needed to strengthen U.S. leadership in and contributions to Quad initiatives, and (3) additional resources needed to expand successful initiatives.</p>",
+      "updateDate": "2025-05-01T19:53:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

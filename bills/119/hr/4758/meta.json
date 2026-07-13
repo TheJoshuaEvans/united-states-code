@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on December 3, 2025",
+        "pubDate": "2026-01-15T18:33:00Z",
+        "title": "H.R. 4758, Homeowner Energy Freedom Act",
+        "url": "https://www.cbo.gov/publication/62015"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-484",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/484?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 128 (Friday, July 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GOLDMAN of Texas:\nH.R. 4758.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3656]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-25",
+    "latestAction": {
+      "actionDate": "2026-02-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4758",
+    "number": "4758",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000601",
+        "district": 12,
+        "firstName": "Craig",
+        "fullName": "Rep. Goldman, Craig A. [R-TX-12]",
+        "isByRequest": "N",
+        "lastName": "Goldman",
+        "middleName": "A.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/G000601?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/text?format=json"
+    },
+    "title": "Homeowner Energy Freedom Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4758/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:37Z",
+    "updateDateIncludingText": "2026-07-13T18:47:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000071",
+      "district": 6,
+      "firstName": "Jake",
+      "fullName": "Rep. Ellzey, Jake [R-TX-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ellzey",
+      "party": "R",
+      "sponsorshipDate": "2025-07-25",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/E000071?format=json"
+    },
+    {
+      "bioguideId": "C001120",
+      "district": 2,
+      "firstName": "Dan",
+      "fullName": "Rep. Crenshaw, Dan [R-TX-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crenshaw",
+      "party": "R",
+      "sponsorshipDate": "2025-07-25",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001120?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-25T20:03:23Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-25T15:29:02Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-02-25T14:57:53Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-02-04T17:43:03Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-03T22:09:40Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-25T15:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-11-19T22:06:07Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-11-19T22:05:30Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-07-25T21:05:14Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-04",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Homeowner Energy Freedom Act </strong></p><p>This bill repeals the Department of Energy's (1) high-efficiency electric home rebate program for certain electrification projects in low- or moderate-income households, (2) state-based home energy efficiency contractor training grants, and (3) assistance for states and local governments to adopt specified building energy codes. It also rescinds any unobligated balances available for the rebates or adopting the building energy codes. (The unobligated balances for the contractor training grants&nbsp;were previously rescinded by the 2025 reconciliation act.)</p>",
+      "updateDate": "2026-02-23T13:36:28Z",
+      "versionCode": "07"
+    }
+  ]
+}

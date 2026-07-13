@@ -1,0 +1,161 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-06-20T14:17:00Z",
+        "title": "H.R. 1770, Consumer Safety Technology Act",
+        "url": "https://www.cbo.gov/publication/61504"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-157",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/157?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SOTO:\nH.R. 1770.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the US Constitution.\n[Page H945]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1770",
+    "number": "1770",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001200",
+        "district": 9,
+        "firstName": "Darren",
+        "fullName": "Rep. Soto, Darren [D-FL-9]",
+        "isByRequest": "N",
+        "lastName": "Soto",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001200?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/text?format=json"
+    },
+    "title": "Consumer Safety Technology Act",
+    "titles": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1770/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:23Z",
+    "updateDateIncludingText": "2026-07-12T14:33:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001066",
+      "district": 14,
+      "firstName": "Kathy",
+      "fullName": "Rep. Castor, Kathy [D-FL-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Castor",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001066?format=json"
+    },
+    {
+      "bioguideId": "T000482",
+      "district": 3,
+      "firstName": "Lori",
+      "fullName": "Rep. Trahan, Lori [D-MA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Trahan",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/T000482?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:12:18Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-12T17:16:52Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T15:59:17Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-03T17:05:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Consumer Safety Technology Act</strong></p><p>This bill (1) establishes a pilot program to explore the use of artificial intelligence to support the Consumer Product Safety Commission (CPSC), and (2) requires reports related to&nbsp;blockchain technology and digital tokens.</p><p>Specifically, the CPSC must consult with relevant stakeholders, such as data scientists and product manufacturers, and use artificial intelligence for a least one of the following purposes: (1) tracking trends in injuries involving consumer products, (2) identifying consumer product hazards, (3) monitoring the sale of recalled consumer products, or (4) identifying consumer products that do not meet specified importation requirements related to product safety.</p><p>The bill also requires (1) the Department of Commerce to report on existing and emerging uses of blockchain technology for consumer protection, and (2) the Federal Trade Commission to report on its efforts to prevent unfair or deceptive practices relating to digital tokens.</p>",
+      "updateDate": "2025-07-01T19:11:33Z",
+      "versionCode": "00"
+    }
+  ]
+}

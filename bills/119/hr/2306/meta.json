@@ -1,0 +1,227 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-353",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/353?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOOLENAAR:\nH.R. 2306.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of article 1 of the Constitution\n[Page H1219]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2306",
+    "number": "2306",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001194",
+        "district": 2,
+        "firstName": "John",
+        "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+        "isByRequest": "N",
+        "lastName": "Moolenaar",
+        "middleName": "R.",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/M001194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/text?format=json"
+    },
+    "title": "Adams Memorial-Great American Heroes Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2306/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:16Z",
+    "updateDateIncludingText": "2026-07-12T14:54:05Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001078",
+      "district": 11,
+      "firstName": "Gerald",
+      "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Connolly",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001078?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    },
+    {
+      "bioguideId": "G000568",
+      "district": 9,
+      "firstName": "H.",
+      "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Griffith",
+      "middleName": "Morgan",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/G000568?format=json"
+    },
+    {
+      "bioguideId": "L000562",
+      "district": 8,
+      "firstName": "Stephen",
+      "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lynch",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/L000562?format=json"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    },
+    {
+      "bioguideId": "A000148",
+      "district": 4,
+      "firstName": "Jake",
+      "fullName": "Rep. Auchincloss, Jake [D-MA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Auchincloss",
+      "party": "D",
+      "sponsorshipDate": "2025-04-10",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/A000148?format=json"
+    },
+    {
+      "bioguideId": "K000375",
+      "district": 9,
+      "firstName": "William",
+      "fullName": "Rep. Keating, William R. [D-MA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Keating",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-10",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/K000375?format=json"
+    },
+    {
+      "bioguideId": "A000369",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Amodei, Mark E. [R-NV-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amodei",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-28",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/A000369?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-31T17:36:51Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-17T18:13:28Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-17T18:13:13Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-24T16:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-07-16T12:25:40Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-07-09T20:46:38Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-31",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>The Adams Memorial-Great American Heroes Act</strong></p><p>This bill extends through 2032 the Adams Memorial Commission, whose purpose is to establish a permanent memorial in Washington, DC, to honor John Adams and his legacy.</p><p>The bill specifies that the Adams Memorial shall be located within the area specified by the <a href=\"https://docs.house.gov/meetings/II/II10/20250716/118453/HHRG-119-II10-Wstate-CushmanJ-20250716-SD001.pdf\">Adams Memorial Commission in a February 25, 2025 map</a> (i.e., south of the White House, adjacent to Ellipse Road&nbsp;and near&nbsp;Pennsylvania Avenue and 15th Street, Northwest).</p><p>If the Commission determines that this location is not suitable or feasible due to physical or security constraints, the bill requires that the memorial be located in&nbsp;<a href=\"https://www.ncpc.gov/maps/the-reserve/\">the Reserve</a>, an area which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial.</p>",
+      "updateDate": "2025-12-08T13:42:39Z",
+      "versionCode": "07"
+    }
+  ]
+}

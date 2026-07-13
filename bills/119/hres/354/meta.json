@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/354/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-83",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/83?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/354/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-04-28",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "actionTime": "15:10:58",
+      "text": "Pursuant to the provisions of H.Res. 707, H.Res. 354 is amended."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/354",
+    "number": "354",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/354/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000614",
+        "district": 21,
+        "firstName": "Chip",
+        "fullName": "Rep. Roy, Chip [R-TX-21]",
+        "isByRequest": "N",
+        "lastName": "Roy",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/R000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/354/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/354/text?format=json"
+    },
+    "title": "Providing for consideration of the joint resolution (H.J. Res. 60) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\"; providing for consideration of the joint resolution (H.J. Res. 78) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to \"Endangered and Threatened Wildlife and Plants; Endangered Species Status for the San Francisco Bay-Delta Distinct Population Segment of the Longfin Smelt\"; providing for consideration of the joint resolution (H.J. Res. 87) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\"; providing for consideration of the joint resolution (H.J. Res. 88) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\"; providing for consideration of the joint resolution (H.J. Res. 89) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\"; and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/354/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:09:29Z",
+    "updateDateIncludingText": "2026-07-11T21:09:29Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-28T23:35:45Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

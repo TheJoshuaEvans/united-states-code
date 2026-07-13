@@ -1,0 +1,70 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9555/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9555/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LATIMER:\nH.R. 9555.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 1 (Taxing and Spending Clause)\n[Page H4365]\n</pre>",
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9555",
+    "number": "9555",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000606",
+        "district": 16,
+        "firstName": "George",
+        "fullName": "Rep. Latimer, George [D-NY-16]",
+        "isByRequest": "N",
+        "lastName": "Latimer",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9555/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9555/text?format=json"
+    },
+    "title": "Home Mortgage Interest Credit Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9555/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T19:06:53Z",
+    "updateDateIncludingText": "2026-07-13T19:06:53Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

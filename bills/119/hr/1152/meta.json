@@ -1,0 +1,192 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on March 31, 2025",
+        "pubDate": "2025-04-01T15:18:00Z",
+        "title": "H.R. 1152, Electronic Filing and Payment Fairness Act",
+        "url": "https://www.cbo.gov/publication/61285"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-45",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/45?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 27 (Monday, February 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LaHOOD:\nH.R. 1152.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Constitution Article I, Section 8, Clause 1: ``The\nCongress shall have Power to lay and collect Taxes . . .''\n[Page H614]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1152",
+    "number": "1152",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000585",
+        "district": 16,
+        "firstName": "Darin",
+        "fullName": "Rep. LaHood, Darin [R-IL-16]",
+        "isByRequest": "N",
+        "lastName": "LaHood",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/L000585?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/text?format=json"
+    },
+    "title": "Electronic Filing and Payment Fairness Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1152/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:53:22Z",
+    "updateDateIncludingText": "2026-07-13T19:42:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000617",
+      "district": 1,
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/D000617?format=json"
+    },
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-01T16:12:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-27T15:19:10Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T16:08:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-10T17:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Electronic Filing and Payment Fairness Act </strong></p><p>This bill provides that a federal tax document or payment that is electronically submitted to the Internal Revenue Service (IRS) shall be considered delivered to the IRS on the date such document or payment is sent. Further, the bill requires the IRS to issue guidance on electronically submitted federal tax documents and payments no later than December 31, 2025.</p><p>Under current law, a federal tax document or payment that is sent by mail is considered delivered to the IRS on the date that such document or payment is postmarked and is considered timely if the postmark date is on or before the due date of such document or payment. (This is known as the mailbox rule.)</p><p>Further, under current law, the IRS is authorized to provide guidance on electronically submitted federal tax documents but not payments. In accordance with such authority, IRS guidance provides that the date that an authorized electronic return transmitter receives the transmission of an electronically filed document on its host system is the electronic postmark date.</p><p>The bill expands the mailbox rule to include all electronically submitted federal tax documents and payments and specifically requires the IRS to provide guidance on electronically submitted payments.</p>",
+      "updateDate": "2025-03-28T15:12:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

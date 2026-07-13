@@ -1,0 +1,263 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-519",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/519?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CISCOMANI:\nH.R. 755.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H406]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 348."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/755",
+    "number": "755",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001133",
+        "district": 6,
+        "firstName": "Juan",
+        "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+        "isByRequest": "N",
+        "lastName": "Ciscomani",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/text?format=json"
+    },
+    "title": "Critical Mineral Consistency Act of 2025",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/755/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:38Z",
+    "updateDateIncludingText": "2026-07-12T14:08:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham [R-AZ-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    },
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "N000189",
+      "district": 4,
+      "firstName": "Dan",
+      "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Newhouse",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/N000189?format=json"
+    },
+    {
+      "bioguideId": "S001193",
+      "district": 14,
+      "firstName": "Eric",
+      "fullName": "Rep. Swalwell, Eric [D-CA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Swalwell",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001193?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    },
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "B001302",
+      "district": 5,
+      "firstName": "Andy",
+      "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/B001302?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-25T00:23:05Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-11T18:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-28T16:10:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Critical Mineral Consistency Act of 2025</strong></p><p>This bill modifies the Energy Act of 2020 to expand the definition of&nbsp;<em>critical minerals</em> to include <em>critical materials</em> designated by the Department of Energy (DOE).</p><p>Under current law, DOE's critical materials list contains certain materials that are essential for energy, including those on the critical minerals list of the U.S. Geological Survey (USGS). The USGS's list, which contains certain minerals that are essential to the nation's economic or national security, is not required to include the materials on DOE's list. Currently, both lists include minerals with a high risk of supply chain disruptions, and both DOE and USGS must conduct a variety of efforts to ensure a secure and reliable supply chain of the minerals.&nbsp;</p><p>By expanding the definition of <em>critical minerals</em>, this bill requires the USGS to include on its list the materials on DOE's list. Within 45 days of DOE adding a &nbsp;mineral, element, substance, or material to its critical materials list, the USGS must update its list to include such mineral, element, substance, or material.</p>",
+      "updateDate": "2025-12-01T16:34:45Z",
+      "versionCode": "00"
+    }
+  ]
+}

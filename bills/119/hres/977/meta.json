@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-424",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/424?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "actionTime": "17:33:15",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/977",
+    "number": "977",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 4593) to amend the Energy Policy and Conservation Act to revise the definition of showerhead; providing for consideration of the bill (H.R. 5184) to prohibit the Secretary of Energy from enforcing energy efficiency standards applicable to manufactured housing, and for other purposes; and providing for consideration of the bill (H.R. 6938) making consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/977/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:09:47Z",
+    "updateDateIncludingText": "2026-07-11T20:09:47Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-07T14:46:41Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-07",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 4593) to amend the Energy Policy and Conservation Act to revise the definition of showerhead; providing for consideration of the bill (H.R. 5184) to prohibit the Secretary of Energy from enforcing energy efficiency standards applicable to manufactured housing, and for other purposes; and providing for consideration of the bill (H.R. 6938) making consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+      "updateDate": "2026-03-13T12:11:01Z",
+      "versionCode": "07"
+    }
+  ]
+}

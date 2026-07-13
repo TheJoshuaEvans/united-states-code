@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-123",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/123?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 80 (Tuesday, May 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LAWLER:\nH.R. 3352.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H2001]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-13",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3352",
+    "number": "3352",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000599",
+        "district": 17,
+        "firstName": "Michael",
+        "fullName": "Rep. Lawler, Michael [R-NY-17]",
+        "isByRequest": "N",
+        "lastName": "Lawler",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000599?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/text?format=json"
+    },
+    "title": "HALOS Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3352/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:13:29Z",
+    "updateDateIncludingText": "2026-07-12T15:02:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000583",
+      "district": 5,
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2025-05-13",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/G000583?format=json"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2025-05-20",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T21:00:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:54:33Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:24:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-13T16:06:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Helping Angels Lead Our Startups Act of 2025 or the HALOS Act of 2025</strong></p><p>This bill directs the Securities and Exchange Commission (SEC) to exempt presentations and communications (e.g., product demonstrations) made at certain events from advertising and solicitation restrictions under Regulation D. (Regulation D exempts certain securities offerings from SEC registration requirements but prohibits general solicitation or general advertising with respect to such offerings.)</p><p>Under the bill, this prohibition does not apply to events where presentations or communications are made by or on behalf of an issuer, if</p><ul><li>the advertising does not refer to any specific offering of securities by the issuer;</li><li>the event sponsor does not provide investment recommendations or advice to attendees, engage in investment negotiations with attendees, charge certain fees, or receive certain compensation; and</li><li>no specific information regarding a securities offering is communicated beyond&nbsp;the type and amount of securities being offered, the unsubscribed amount, and the intended use of proceeds from the offering.</li></ul><p>Exempt events must involve participation by more than one issuer and must be sponsored by specified entity types, including <em>angel investor groups</em> unconnected to broker dealers or investment advisors. Such events generally may not be held in facilities owned or operated by a religious organization. If such an event is virtual, online participation must be limited to investors associated with the sponsor organization, accredited investors, or individuals invited to the event based on industry or investment experience.&nbsp;</p>",
+      "updateDate": "2025-06-23T16:50:38Z",
+      "versionCode": "00"
+    }
+  ]
+}

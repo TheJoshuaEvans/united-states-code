@@ -1,0 +1,198 @@
+{
+  "status": {
+    "actions": {
+      "count": 51,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/actions?format=json"
+    },
+    "amendments": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-114",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/114?format=json"
+      }
+    ],
+    "committees": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 57 (Monday, March 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GUTHRIE:\nH.R. 2483.\nCongress has the power to enact this legislation pursuant\nto the following:\nsection 8 of article I of the Constitution\n[Page H1375]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-31",
+    "latestAction": {
+      "actionDate": "2025-12-01",
+      "text": "Became Public Law No: 119-44."
+    },
+    "laws": [
+      {
+        "number": "119-44",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2483",
+    "number": "2483",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000558",
+        "district": 2,
+        "firstName": "Brett",
+        "fullName": "Rep. Guthrie, Brett [R-KY-2]",
+        "isByRequest": "N",
+        "lastName": "Guthrie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/G000558?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/text?format=json"
+    },
+    "title": "SUPPORT for Patients and Communities Reauthorization Act of 2025",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2483/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:58:23Z",
+    "updateDateIncludingText": "2026-07-12T14:55:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-18T16:47:23Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-06-05T17:24:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-29T18:46:03Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-31T16:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-29T18:46:00Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-31T16:00:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-29T18:45:56Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-31T16:00:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-29T18:44:27Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-29T22:06:38Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-31T16:00:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>SUPPORT for Patients and Communities Reauthorization Act of 2025</strong></p><p>This bill reauthorizes and revises Department of Health and Human Services (HHS) programs  that address substance use disorders, overdoses, and mental health. </p><p>For example, the bill reauthorizes for FY2026-FY2030&nbsp;grant and other programs&nbsp;relating to</p><p>\u2022 &nbsp; &nbsp;addressing&nbsp;substance use disorders with respect to pregnant and postpartum women,<br/>\u2022 &nbsp; &nbsp;prevention and recovery from substance use disorders for youth,&nbsp;<br/>\u2022 &nbsp; &nbsp;housing for individuals in recovery from substance use disorders,<br/>\u2022 &nbsp; &nbsp;community organizations facilitating recovery from substance use disorders,<br/>\u2022 &nbsp; &nbsp;loan repayment for certain health care providers treating substance use disorders,&nbsp;<br/>\u2022 &nbsp; &nbsp;prevention of overdoses of controlled substances,<br/>\u2022 &nbsp; &nbsp;treatment of children experiencing psychological trauma, and<br/>\u2022 &nbsp; &nbsp;mental and behavioral health education and training for medical and allied health students.</p><p>Also, the bill revises several programs,&nbsp;including by (1) expanding a program that supports resources for first responders to include the purchase of&nbsp;drugs or devices to treat non-opioid overdoses, (2) expanding a program that supports employment services for&nbsp;individuals in recovery so as to allow for the provision of related transportation services, and (3) temporarily authorizing a regional technical assistance center&nbsp;to assist the&nbsp;National Peer-Run Training and Technical Assistance Center for Addiction Recovery Support.</p><p>Additionally, the bill establishes new requirements for&nbsp;HHS, including requirements relating to</p><p>\u2022 &nbsp; &nbsp;protecting the National Suicide Prevention Lifeline program from cybersecurity threats,<br/>\u2022 &nbsp; &nbsp;establishing a Federal Interagency Work Group on Fentanyl Contamination of Illegal Drugs, and<br/>\u2022 &nbsp; &nbsp;reviewing and potentially revising the scheduling of approved products containing a combination of buprenorphine and naloxone under the Controlled Substances Act.</p>",
+      "updateDate": "2025-06-02T19:24:54Z",
+      "versionCode": "00"
+    }
+  ]
+}

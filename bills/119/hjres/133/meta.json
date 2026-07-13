@@ -1,0 +1,142 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 184 (Tuesday, November 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ADERHOLT:\nH.J. Res. 133.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 of the United States Constitution\n[Page H4574]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-04",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Became Public Law No: 119-46."
+    },
+    "laws": [
+      {
+        "number": "119-46",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/133",
+    "number": "133",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000055",
+        "district": 4,
+        "firstName": "Robert",
+        "fullName": "Rep. Aderholt, Robert B. [R-AL-4]",
+        "isByRequest": "N",
+        "lastName": "Aderholt",
+        "middleName": "B.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/A000055?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/text?format=json"
+    },
+    "title": "Requesting the Secretary of the Interior to authorize unique and one-time arrangements for displays on the National Mall and the Washington Monument during the period beginning on December 31, 2025, and ending on January 5, 2026.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-07-10T15:23:28Z",
+    "updateDateIncludingText": "2026-07-13T18:35:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2025-11-04",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2025-11-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2025-11-04",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-19T01:17:04Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-11-04T19:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-02",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution requests the Department of the Interior to authorize the display of U.S. semiquincentennial materials and other significant artifacts, digital content, film footage, and associated audio and imagery in and around the vicinity of the National Mall during the period beginning on December 31, 2025, and ending on January 5, 2026.</p>",
+      "updateDate": "2026-06-15T16:42:00Z",
+      "versionCode": "49"
+    }
+  ]
+}

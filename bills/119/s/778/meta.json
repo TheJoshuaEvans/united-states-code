@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on July 30, 2025",
+        "pubDate": "2025-08-15T16:06:00Z",
+        "title": "S. 778, Lactation Spaces for Veteran Moms Act",
+        "url": "https://www.cbo.gov/publication/61638"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-11-12",
+      "actionTime": "12:10:46",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/778",
+    "number": "778",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000608",
+        "firstName": "Jacky",
+        "fullName": "Sen. Rosen, Jacky [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Rosen",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/R000608?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/text?format=json"
+    },
+    "title": "Lactation Spaces for Veteran Moms Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/778/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-08T16:36:49Z",
+    "updateDateIncludingText": "2026-07-12T15:05:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-22T21:39:57Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T20:00:10Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-21T20:00:16Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-05-21T20:00:16Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-02-27T17:29:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Lactation Spaces for Veteran Moms Act</strong></p> <p>This bill requires the Department of Veterans Affairs to ensure that each of its medical centers contains a hygienic lactation space that is not a bathroom and meets other specifications (e.g., must be easy to locate). </p>",
+      "updateDate": "2025-04-09T14:45:41Z",
+      "versionCode": "00"
+    }
+  ]
+}

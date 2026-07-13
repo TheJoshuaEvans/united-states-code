@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-119",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/119?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 80 (Tuesday, May 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARIDOPOLOS:\nH.R. 3343.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3: To regulate commerce with\nstates, other nations, and Native American tribes. Article 1,\nSection 8, Clause 18: Authority to create laws that are\nnecessary and proper to carry out the laws of the land.\n[Page H2001]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-13",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3343",
+    "number": "3343",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001099",
+        "district": 8,
+        "firstName": "Mike",
+        "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+        "isByRequest": "N",
+        "lastName": "Haridopolos",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/H001099?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/text?format=json"
+    },
+    "title": "Greenlighting Growth Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3343/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:23:31Z",
+    "updateDateIncludingText": "2026-07-12T15:02:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000812",
+      "district": 2,
+      "firstName": "Ann",
+      "fullName": "Rep. Wagner, Ann [R-MO-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wagner",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/W000812?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T16:24:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:49:40Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:10:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-13T16:07:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Greenlighting Growth Act</strong></p><p>This bill limits the financial information an emerging growth company (EGC) must submit to the Securities and Exchange Commission. An EGC is a type of issuer that qualifies for reduced disclosures after its initial public offering (IPO) if its annual gross revenues are below a specific dollar amount. For example, an EGC must currently provide two years of financial statements after its IPO, rather than the three required for other companies.&nbsp;</p><p>Under the bill, an emerging growth company is not required to present certain financial statements from acquired companies. This applies to statements from the time period prior to the earliest audited period presented in connection with the EGC\u2019s IPO. In addition, the bill provides that no issuer that was formerly an EGC is required to present financial statements older than its earliest audit performed in connection with its IPO.&nbsp;</p>",
+      "updateDate": "2025-07-18T19:31:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

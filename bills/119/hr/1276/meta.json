@@ -1,0 +1,153 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on September 15, 2025",
+        "pubDate": "2025-09-26T20:07:00Z",
+        "title": "H.R. 1276, a bill to remove restrictions from a parcel of land in Paducah, Kentucky",
+        "url": "https://www.cbo.gov/publication/61776"
+      },
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on March 4, 2026",
+        "pubDate": "2026-04-13T15:28:00Z",
+        "title": "H.R. 1276, an act to remove restrictions from a parcel of land in Paducah, Kentucky",
+        "url": "https://www.cbo.gov/publication/62329"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-281",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/281?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COMER:\nH.R. 1276.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 4, Section 3, Clause 2\n``The Congress shall have Power to dispose of and make all\nneedful Rules and Regulations respecting the Territory or\nother Property belonging to the United States; and nothing in\nthis Constitution shall be so construed as to Prejudice any\nClaims of the United States, or of any particular State.''\n[Page H710]\n</pre>",
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1276",
+    "number": "1276",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001108",
+        "district": 1,
+        "firstName": "James",
+        "fullName": "Rep. Comer, James [R-KY-1]",
+        "isByRequest": "N",
+        "lastName": "Comer",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/C001108?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/text?format=json"
+    },
+    "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1276/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:43:30Z",
+    "updateDateIncludingText": "2026-07-13T19:43:21Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-04T16:05:05Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T20:34:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:22:41Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:28:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-25T20:34:56Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-02-13T14:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-29T17:43:41Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-04-23T14:41:45Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill directs the Department of the Interior to remove all deed restrictions from approximately 3.62 acres located at 2956 Park Avenue, on the Paducah Memorial Army Reserve Center in&nbsp;Paducah, Kentucky. The restrictions include easements, exceptions, reservations, terms, conditions, and covenants described in the quitclaim deed that was executed on April 27, 2012. The deed conveyed land from Interior to the City of&nbsp;Paducah, Kentucky.</p>",
+      "updateDate": "2025-12-05T15:23:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

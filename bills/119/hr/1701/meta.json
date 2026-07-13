@@ -1,0 +1,323 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HUIZENGA:\nH.R. 1701.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, the Necessary and Proper Clause\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-05-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1701",
+    "number": "1701",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001058",
+        "district": 4,
+        "firstName": "Bill",
+        "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+        "isByRequest": "N",
+        "lastName": "Huizenga",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/H001058?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/text?format=json"
+    },
+    "title": "Strategic Ports Reporting Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1701/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:58:20Z",
+    "updateDateIncludingText": "2026-07-13T19:46:49Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000804",
+      "district": 1,
+      "firstName": "Robert",
+      "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wittman",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000804?format=json"
+    },
+    {
+      "bioguideId": "A000148",
+      "district": 4,
+      "firstName": "Jake",
+      "fullName": "Rep. Auchincloss, Jake [D-MA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Auchincloss",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/A000148?format=json"
+    },
+    {
+      "bioguideId": "O000176",
+      "district": 2,
+      "firstName": "Johnny",
+      "fullName": "Rep. Olszewski, Johnny [D-MD-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Olszewski",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/O000176?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    },
+    {
+      "bioguideId": "R000600",
+      "district": 0,
+      "firstName": "Aumua Amata",
+      "fullName": "Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Radewagen",
+      "middleName": "Coleman",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "AS",
+      "url": "https://api.congress.gov/v3/member/R000600?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "S001229",
+      "district": 6,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shreve",
+      "party": "R",
+      "sponsorshipDate": "2025-03-10",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001229?format=json"
+    },
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "B001307",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Baird, James R. [R-IN-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baird",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001307?format=json"
+    },
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2025-03-25",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-04-09",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "B001295",
+      "district": 12,
+      "firstName": "Mike",
+      "fullName": "Rep. Bost, Mike [R-IL-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bost",
+      "party": "R",
+      "sponsorshipDate": "2025-04-28",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001295?format=json"
+    },
+    {
+      "bioguideId": "G000590",
+      "district": 7,
+      "firstName": "Mark",
+      "fullName": "Rep. Green, Mark E. [R-TN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Green",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/G000590?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-02-27T14:05:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-22T17:25:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T14:04:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Strategic Ports Reporting Act</strong></p><p>This bill requires the Department of State to conduct a study&nbsp;and submit a report to Congress on strategic ports.</p><p>The report shall contain various&nbsp;elements related to such ports, including (1) a detailed list of all strategic ports owned, operated, or controlled by China or a foreign person of China; (2) a detailed list of all strategic ports owned, operated, or controlled by the United States or a U.S. person; (3) an assessment of the national security and economic interests relevant to each such port; (4) an analysis of actions by China to gain control or ownership of strategic ports; and (5) courses of action to protect strategic ports and maritime infrastructure from Chinese control.</p><p>The bill also requires the State Department to develop and provide to Congress a global mapping of foreign and domestic ports of importance to the United States because of a capability to provide military, diplomatic, economic, or resource exploitation superiority.</p>",
+      "updateDate": "2025-05-02T21:31:42Z",
+      "versionCode": "00"
+    }
+  ]
+}

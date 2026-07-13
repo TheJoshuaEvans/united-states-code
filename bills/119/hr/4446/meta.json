@@ -1,0 +1,179 @@
+{
+  "status": {
+    "actions": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-08-14T21:22:00Z",
+        "title": "H.R. 4446, Focused Assistance and Skills Training for Veterans\u2019 Employment and Transition Success Act",
+        "url": "https://www.cbo.gov/publication/61654"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-266",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/266?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. DEXTER:\nH.R. 4446.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3368]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2026-01-20",
+      "text": "Became Public Law No: 119-72."
+    },
+    "laws": [
+      {
+        "number": "119-72",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4446",
+    "number": "4446",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000635",
+        "district": 3,
+        "firstName": "Maxine",
+        "fullName": "Rep. Dexter, Maxine [D-OR-3]",
+        "isByRequest": "N",
+        "lastName": "Dexter",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/D000635?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/text?format=json"
+    },
+    "title": "FAST VETS Act",
+    "titles": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4446/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T16:43:23Z",
+    "updateDateIncludingText": "2026-07-13T18:45:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001233",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Messmer, Mark B. [R-IN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Messmer",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/M001233?format=json"
+    },
+    {
+      "bioguideId": "M001220",
+      "district": 3,
+      "firstName": "Morgan",
+      "fullName": "Rep. McGarvey, Morgan [D-KY-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "McGarvey",
+      "party": "D",
+      "sponsorshipDate": "2025-07-16",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/M001220?format=json"
+    },
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-19T00:46:31Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-16T20:47:57Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-10T22:23:05Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T14:09:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-16T14:04:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-16",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Focused Assistance and Skills Training for Veterans' Employment and Transition Success Act or the FAST VETS Act</strong></p><p>This bill establishes conditions under which a veteran's individualized vocational rehabilitation plan (under the Veteran Readiness and Employment program) must be redeveloped. The&nbsp;program provides job training and employment-related services to veterans with service-connected disabilities.</p><p>Currently, the Department of Veterans Affairs (VA) must formulate and annually review an individualized vocational rehabilitation plan for veterans who have a serious employment handicap and have a reasonably feasible vocational goal.</p><p>The bill provides that such plan must be redeveloped with the veteran if the VA determines the achievement of the long-range rehabilitation goals for the veteran are no longer feasible due to changes in the employment handicap of the veteran and are more likely under a different plan.</p>",
+      "updateDate": "2025-09-10T17:47:03Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-01-20",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Focused Assistance and Skills Training for Veterans' Employment and Transition Success Act or the FAST VETS Act</strong></p><p>This act establishes conditions under which a veteran's individualized vocational rehabilitation plan (under the Veteran Readiness and Employment program) must be redeveloped. The&nbsp;program provides job training and employment-related services to veterans with service-connected disabilities.</p><p>Currently, the Department of Veterans Affairs (VA) must formulate and annually review an individualized vocational rehabilitation plan for veterans who have a serious employment handicap and have a reasonably feasible vocational goal.</p><p>The act provides that such plan must be redeveloped with the veteran if the VA determines the achievement of the long-range rehabilitation goals for the veteran are no longer feasible due to changes in the employment handicap of the veteran and are more likely under a different plan.</p>",
+      "updateDate": "2026-04-10T13:14:48Z",
+      "versionCode": "49"
+    }
+  ]
+}

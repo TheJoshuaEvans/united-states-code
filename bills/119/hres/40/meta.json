@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/40/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-14",
+    "latestAction": {
+      "actionDate": "2025-01-14",
+      "actionTime": "12:12:31",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/40",
+    "number": "40",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000371",
+        "district": 33,
+        "firstName": "Pete",
+        "fullName": "Rep. Aguilar, Pete [D-CA-33]",
+        "isByRequest": "N",
+        "lastName": "Aguilar",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/A000371?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/40/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/40/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/40/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/40/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:59:09Z",
+    "updateDateIncludingText": "2026-07-11T20:59:09Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Members to the following standing committees:</p><p>Armed Services</p><p>Education and Workforce</p><p>Energy and Commerce</p><p>Homeland Security</p><p>Judiciary</p><p>Oversight and Government Reform</p><p>Rules</p><p>Small Business</p><p>Transportation and Infrastructure</p><p>Veterans' Affairs&nbsp;</p>",
+      "updateDate": "2025-02-07T01:29:43Z",
+      "versionCode": "00"
+    }
+  ]
+}

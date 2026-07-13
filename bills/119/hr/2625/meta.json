@@ -1,0 +1,164 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on May 6, 2025",
+        "pubDate": "2025-05-12T14:56:00Z",
+        "title": "H.R. 2625, Veterans Employment Readiness Yield Act of 2025",
+        "url": "https://www.cbo.gov/publication/61383"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-171",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/171?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 60 (Thursday, April 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DAVIS of North Carolina:\nH.R. 2625.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18.\n[Page H1418]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-03",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2625",
+    "number": "2625",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000230",
+        "district": 1,
+        "firstName": "Donald",
+        "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+        "isByRequest": "N",
+        "lastName": "Davis",
+        "middleName": "G.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/D000230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/text?format=json"
+    },
+    "title": "VERY Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2625/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:38:21Z",
+    "updateDateIncludingText": "2026-07-12T14:56:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T16:23:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-25T19:36:01Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-06T14:18:40Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-03T15:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Veterans Employment Readiness Yield Act of 2025 or the VERY Act of 2025&nbsp;</strong></p><p>This bill revises terminology used under the Veteran Readiness and Employment program, specifically by replacing the use of <em>employment handicap</em> with <em>employment barrier</em>.</p>",
+      "updateDate": "2025-07-01T20:57:07Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Ways and Means on January 7, 2026",
+        "pubDate": "2026-02-27T19:09:00Z",
+        "title": "H.R. 227, Clergy Act",
+        "url": "https://www.cbo.gov/publication/62189"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-425",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/425?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 3 (Tuesday, January 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FONG:\nH.R. 227.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\n[Page H63]\n</pre>",
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-07",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/227",
+    "number": "227",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Social Welfare"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000480",
+        "district": 20,
+        "firstName": "Vince",
+        "fullName": "Rep. Fong, Vince [R-CA-20]",
+        "isByRequest": "N",
+        "lastName": "Fong",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/F000480?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/text?format=json"
+    },
+    "title": "Clergy Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/227/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:24Z",
+    "updateDateIncludingText": "2026-07-12T14:53:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000460",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Thompson, Mike [D-CA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "D",
+      "sponsorshipDate": "2025-01-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000460?format=json"
+    },
+    {
+      "bioguideId": "K000376",
+      "district": 16,
+      "firstName": "Mike",
+      "fullName": "Rep. Kelly, Mike [R-PA-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/K000376?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "L000585",
+      "district": 16,
+      "firstName": "Darin",
+      "fullName": "Rep. LaHood, Darin [R-IL-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaHood",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/L000585?format=json"
+    },
+    {
+      "bioguideId": "D000617",
+      "district": 1,
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/D000617?format=json"
+    },
+    {
+      "bioguideId": "S001199",
+      "district": 11,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smucker",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001199?format=json"
+    },
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2025-06-10",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    },
+    {
+      "bioguideId": "E000298",
+      "district": 4,
+      "firstName": "Ron",
+      "fullName": "Rep. Estes, Ron [R-KS-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Estes",
+      "party": "R",
+      "sponsorshipDate": "2025-07-21",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/E000298?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-07-21",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2025-07-22",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "M001224",
+      "district": 1,
+      "firstName": "Nathaniel",
+      "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001224?format=json"
+    },
+    {
+      "bioguideId": "B001257",
+      "district": 12,
+      "firstName": "Gus",
+      "fullName": "Rep. Bilirakis, Gus M. [R-FL-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bilirakis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001257?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "M001210",
+      "district": 3,
+      "firstName": "Gregory",
+      "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murphy",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001210?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": 24,
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2025-09-18",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000134?format=json"
+    },
+    {
+      "bioguideId": "L000595",
+      "district": 5,
+      "firstName": "Julia",
+      "fullName": "Rep. Letlow, Julia [R-LA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Letlow",
+      "party": "R",
+      "sponsorshipDate": "2025-09-18",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/L000595?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-17",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "D000096",
+      "district": 7,
+      "firstName": "Danny",
+      "fullName": "Rep. Davis, Danny K. [D-IL-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-25",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000096?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:16:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-07T21:16:28Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-10T15:11:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-07T16:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Clergy Act</strong></p><p>This bill establishes a two-year window for certain members of the clergy and Christian Science practitioners to revoke their exemption from Social Security and Medicare taxes on ministerial earnings. Under current law, such individuals who object to participation in public insurance programs on religious or conscientious grounds may apply to the Internal Revenue Service (IRS) for an irrevocable exemption and will not receive Social Security or Medicare benefits in retirement unless they have qualifying credits from other employment.</p><p>The IRS must develop a plan to inform members of the clergy and Christian Science practitioners of their eligibility to revoke prior exemptions, pursuant to the bill's changes.</p>",
+      "updateDate": "2025-02-20T20:14:51Z",
+      "versionCode": "00"
+    }
+  ]
+}

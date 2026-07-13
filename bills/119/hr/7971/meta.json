@@ -1,0 +1,134 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-607",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/607?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 49 (Wednesday, March 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SCHWEIKERT:\nH.R. 7971.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H2597]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-18",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7971",
+    "number": "7971",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001183",
+        "district": 1,
+        "firstName": "David",
+        "fullName": "Rep. Schweikert, David [R-AZ-1]",
+        "isByRequest": "N",
+        "lastName": "Schweikert",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/S001183?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/text?format=json"
+    },
+    "title": "Taxpayer Experience Improvement Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7971/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:32Z",
+    "updateDateIncludingText": "2026-07-13T01:09:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001292",
+      "district": 8,
+      "firstName": "Donald",
+      "fullName": "Rep. Beyer, Donald S. [D-VA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Beyer",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-18",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/B001292?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:21:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-09T16:10:47Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-25T15:06:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-18T14:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-18",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Taxpayer Experience Improvement Act</strong></p><p>This bill requires the Internal Revenue Service (IRS) to provide certain information related to call volume, wait times, and other metrics. The bill also expands online taxpayer accounts and electronic access to federal tax return and refund information.</p><p>Specifically, the bill requires the IRS to provide in real time on its public website the number of callers for each applicable phone number extension that are&nbsp;(1) connected to speak with an IRS representative, (2) connected to speak with an automated system, and (3) waiting to speak with either an IRS representative or an automated system.</p><p>The website also must include</p><ul><li>the longest wait time of any caller waiting to speak with an IRS representative;</li><li>the estimated wait time to speak with an IRS representative;</li><li>if a callback service is available or when such service is scheduled to be available; and</li><li>certain monthly metrics, including the average and median wait times and call lengths.</li></ul><p>Further, the bill expresses the sense of Congress that, by 2028, the IRS should provide an option to receive a callback for any call that is not answered within five minutes.</p><p>Finally, the bill requires the IRS to make available (via website or mobile application) to any taxpayer certain information, including</p><ul><li>tax returns, documents, notices, or letters sent to the taxpayer by the IRS or filed with (or sent to) the IRS by the taxpayer;</li><li>the status of a federal tax return or refund; and</li><li>an estimated date for receipt of a refund.</li></ul>",
+      "updateDate": "2026-04-07T13:53:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

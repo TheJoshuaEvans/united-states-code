@@ -1,0 +1,157 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Education and Workforce on February 12, 2025",
+        "pubDate": "2025-02-20T18:07:00Z",
+        "title": "H.R. 1069, PROTECT Our Kids Act",
+        "url": "https://www.cbo.gov/publication/61208"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-14",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/14?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HERN of Oklahoma:\nH.R. 1069.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H557]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-12-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1069",
+    "number": "1069",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001082",
+        "district": 1,
+        "firstName": "Kevin",
+        "fullName": "Rep. Hern, Kevin [R-OK-1]",
+        "isByRequest": "N",
+        "lastName": "Hern",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/H001082?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/text?format=json"
+    },
+    "title": "PROTECT Our Kids Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1069/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-06T09:05:26Z",
+    "updateDateIncludingText": "2026-07-13T19:41:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000401",
+      "district": 3,
+      "firstName": "Kevin",
+      "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kiley",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000401?format=json"
+    },
+    {
+      "bioguideId": "B001282",
+      "district": 6,
+      "firstName": "Andy",
+      "fullName": "Rep. Barr, Andy [R-KY-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barr",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/B001282?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-04T17:25:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-05T22:37:41Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T14:58:53Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-06T15:05:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting Responsible Oversight To Eliminate Communist Teachings for Our Kids Act or the PROTECT Our Kids Act</strong></p><p>This bill prohibits federal education funding for any elementary or secondary school that directly or indirectly receives support from the Chinese government.</p><p>Specifically, the bill prohibits such funding for any school that (1) has a partnership in effect with a cultural or language institute funded by the Chinese government, including a Confucius Institute; (2) operates a learning center supported by the Chinese government (commonly referred to as a Confucius Classroom); or (3) receives support from an individual or entity acting on behalf of the Chinese government, including support in the form of teaching materials, personnel, funds, or other resources. However, the Department of Education (ED) may issue a waiver of the prohibition if a school has an existing contract with one of these entities and the school demonstrates that the contract is for the benefit of the school and promotes the security, stability, and economy of the United States.</p><p>The bill directs ED to provide notice of the bill's requirements to schools, as well as guidance for achieving compliance with the requirements.</p>",
+      "updateDate": "2025-03-24T20:32:35Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on June 11, 2025",
+        "pubDate": "2025-08-01T17:39:00Z",
+        "title": "H.R. 3423, FROST Act",
+        "url": "https://www.cbo.gov/publication/61630"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-237",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/237?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 82 (Thursday, May 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WIED:\nH.R. 3423.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2104]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-15",
+    "latestAction": {
+      "actionDate": "2025-09-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3423",
+    "number": "3423",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000829",
+        "district": 8,
+        "firstName": "Tony",
+        "fullName": "Rep. Wied, Tony [R-WI-8]",
+        "isByRequest": "N",
+        "lastName": "Wied",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/W000829?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/text?format=json"
+    },
+    "title": "Facility for Runway Operations and Safe Transportation Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:27Z",
+    "updateDateIncludingText": "2026-07-12T15:03:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001221",
+      "district": 3,
+      "firstName": "Hillary",
+      "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scholten",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-19",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001221?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-06-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T18:55:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:21:31Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-11T14:32:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T14:32:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-05-15T14:06:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-16T16:15:21Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Aviation Subcommittee",
+          "systemCode": "hspw05",
+          "url": "https://api.congress.gov/v3/committee/house/hspw05?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Facility for Runway Operations and Safe Transportation Act or the FROST Act</strong></p><p>This bill allows airport sponsors to use funds from Airport Improvement Program (AIP) grants for storage facilities for aircraft deicing equipment and fluids.</p><p>Under current law, airports may use&nbsp;AIP funds for structures and equipment that are used to deice&nbsp;aircraft, but not for the associated storage facilities.</p>",
+      "updateDate": "2025-09-08T14:14:27Z",
+      "versionCode": "00"
+    }
+  ]
+}

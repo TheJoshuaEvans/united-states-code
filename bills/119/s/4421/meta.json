@@ -1,0 +1,181 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-28",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4421",
+    "number": "4421",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000574",
+        "firstName": "Ruben",
+        "fullName": "Sen. Gallego, Ruben [D-AZ]",
+        "isByRequest": "N",
+        "lastName": "Gallego",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000574?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/text?format=json"
+    },
+    "title": "NOPE Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4421/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T15:53:47Z",
+    "updateDateIncludingText": "2026-07-13T15:53:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2026-04-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T22:19:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ]
+}

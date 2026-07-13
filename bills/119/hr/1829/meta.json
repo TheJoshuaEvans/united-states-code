@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1829/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1829/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 41 (Tuesday, March 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CRANE:\nH.R. 1829.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, clause 2\n[Page H976]\n</pre>",
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1829",
+    "number": "1829",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001132",
+        "district": 2,
+        "firstName": "Elijah",
+        "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+        "isByRequest": "N",
+        "lastName": "Crane",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001132?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1829/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1829/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1829/text?format=json"
+    },
+    "title": "Apache County and Navajo County Conveyance Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1829/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:38:26Z",
+    "updateDateIncludingText": "2026-07-12T14:33:46Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-04T16:02:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T16:44:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-12T15:00:06Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Apache County and Navajo County Conveyance Act of 2025</strong></p><p>This bill requires the Forest Service to convey certain lands within the Apache-Sitgreaves National Forest to Navajo County and Apache County, Arizona. The counties must use the land as cemeteries.</p><p>As a condition of each conveyance, the counties must pay all associated costs, including the costs of surveys and environmental analyses.</p>",
+      "updateDate": "2025-05-12T18:16:00Z",
+      "versionCode": "00"
+    }
+  ]
+}

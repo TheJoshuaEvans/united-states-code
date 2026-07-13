@@ -1,0 +1,134 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-226",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/226?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DOWNING:\nH.R. 4495.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Sec. 8\n[Page H3476]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 281."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4495",
+    "number": "4495",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000634",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Downing, Troy [R-MT-2]",
+        "isByRequest": "N",
+        "lastName": "Downing",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000634?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/text?format=json"
+    },
+    "title": "SBA Fraud Enforcement Extension Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4495/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:40Z",
+    "updateDateIncludingText": "2026-07-13T18:45:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001136",
+      "district": 3,
+      "firstName": "Herbert",
+      "fullName": "Rep. Conaway, Herbert C. [D-NJ-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Conaway",
+      "middleName": "C.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/C001136?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-08-15T16:42:53Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T16:11:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-17T13:08:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-08-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>SBA Fraud Enforcement Extension Act</strong></p><p>This bill extends the statute of limitations to 10&nbsp;years for fraud-based criminal and civil offenses with respect to the Shuttered Venue Operators Grant and the Restaurant Revitalization Fund&nbsp;COVID-19 relief programs.</p>",
+      "updateDate": "2025-12-01T21:16:07Z",
+      "versionCode": "07"
+    }
+  ]
+}

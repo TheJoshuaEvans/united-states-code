@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-248",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/248?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TIMMONS:\nH.R. 4431.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H3368]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4431",
+    "number": "4431",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000480",
+        "district": 4,
+        "firstName": "William",
+        "fullName": "Rep. Timmons, William R. [R-SC-4]",
+        "isByRequest": "N",
+        "lastName": "Timmons",
+        "middleName": "R.",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/T000480?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/text?format=json"
+    },
+    "title": "Improving Capital Allocation for Newcomers Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4431/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T04:26:30Z",
+    "updateDateIncludingText": "2026-07-13T18:45:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T23:20:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:56:10Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T15:42:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-16T14:05:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-16",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Improving Capital Allocation for Newcomers Act of 2025</strong></p><p>This bill expands qualification requirements for venture capital funds to include investment firms with more owners and capital contributions. Venture capital funds are exempt from certain regulations applicable to other investment firms, including those related to filings, audits, and restricted communications with investors. Currently, an investment firm qualifies as a venture capital fund if, among other requirements (1) the fund's securities are owned by 250 persons or less, and (2) the fund has $10 million or less in aggregate capital contributions and uncalled committed capital. The bill increases these amounts to 2,000 persons and $150 million, respectively.</p>",
+      "updateDate": "2025-11-26T18:48:13Z",
+      "versionCode": "00"
+    }
+  ]
+}

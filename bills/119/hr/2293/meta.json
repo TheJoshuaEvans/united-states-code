@@ -1,0 +1,187 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on September 15, 2025",
+        "pubDate": "2025-09-29T15:56:00Z",
+        "title": "H.R. 2293, Cormorant Relief Act of 2025",
+        "url": "https://www.cbo.gov/publication/61778"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-285",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/285?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EZELL:\nH.R. 2293.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1219]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2293",
+    "number": "2293",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000235",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Ezell, Mike [R-MS-4]",
+        "isByRequest": "N",
+        "lastName": "Ezell",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/E000235?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 30,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/text?format=json"
+    },
+    "title": "Cormorant Relief Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2293/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T04:26:33Z",
+    "updateDateIncludingText": "2026-07-12T14:53:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "T000193",
+      "district": 2,
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/T000193?format=json"
+    },
+    {
+      "bioguideId": "K000388",
+      "district": 1,
+      "firstName": "Trent",
+      "fullName": "Rep. Kelly, Trent [R-MS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/K000388?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T20:35:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:39:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-15T21:22:17Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-15T21:22:02Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-24T16:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-08T17:08:06Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-04-01T20:07:55Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Cormorant Relief Act of 2025</strong></p><p>This bill requires the Department of the Interior to reissue the depredation order for double-crested cormorants <em></em>at aquaculture facilities in certain states. (The previous order was vacated in 2016 by court order.)</p><p>Depredation orders allow for the taking (i.e., capturing, killing, dispersing, or transport of the carcass) of a specified species without a permit, generally to reduce damage caused by the species or to protect interests like health or property. Reissuing this order authorizes landowners, operators, tenants, and employees of entities engaged in aquaculture to take double-crested cormorants that are causing or threatening harm at aquaculture facilities and state and federal fish hatcheries.</p><p>Interior must reissue the depredation order with updates, including an expansion of (1) the number of states covered by the order, and (2) the entities to whom the order applies (i.e., private lake and pond managers who are licensed by the state).</p><p>Under the bill, Interior must renew the depredation order every five years.</p>",
+      "updateDate": "2025-12-10T14:02:52Z",
+      "versionCode": "07"
+    }
+  ]
+}

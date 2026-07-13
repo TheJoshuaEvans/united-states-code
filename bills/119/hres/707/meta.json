@@ -1,0 +1,81 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/707/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-298",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/298?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/707/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-09-15",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "actionTime": "14:07:00",
+      "text": "Pursuant to the provisions of H.Res. 1131, H.Res. 707 is amended."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/707",
+    "number": "707",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hres/707/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/707/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/707/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 4922) to limit youth offender status in the District of Columbia to individuals 18 years of age or younger, to direct the Attorney General of the District of Columbia to establish and operate a publicly accessible website containing updated statistics on juvenile crime in the District of Columbia, to amend the District of Columbia Home Rule Act to prohibit the Council of the District of Columbia from enacting changes to existing criminal liability sentences, and for other purposes; providing for consideration of the bill (H.R. 5143) to establish standards for law enforcement officers in the District of Columbia to engage in vehicular pursuits of suspects, and for other purposes; providing for consideration of the bill (H.R. 5140) to lower the age at which a minor may be tried as an adult for certain criminal offenses in the District of Columbia to 14 years of age; providing for consideration of the bill (H.R. 5125) to amend the District of Columbia Home Rule Act to terminate the District of Columbia Judicial Nomination Commission, and for other purposes; providing for consideration of the bill (H.R. 1047) to require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, and for other purposes; providing for consideration of the bill (H.R. 3015) to reestablish the National Coal Council in the Department of Energy to provide advice and recommendations to the Secretary of Energy on matters related to coal and the coal industry, and for other purposes; providing for consideration of the bill (H.R. 3062) to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity; and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/707/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:39:32Z",
+    "updateDateIncludingText": "2026-07-11T20:39:32Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T23:25:23Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

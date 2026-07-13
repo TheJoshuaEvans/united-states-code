@@ -1,0 +1,507 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-542",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/542?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 63 (Tuesday, April 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FONG:\nH.R. 2709.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, clause 2 and Article I, Section 8,\nClause 18 of the United States Constitution.\n[Page H1508]\n</pre>",
+    "cosponsors": {
+      "count": 29,
+      "countIncludingWithdrawnCosponsors": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-08",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2709",
+    "number": "2709",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000480",
+        "district": 20,
+        "firstName": "Vince",
+        "fullName": "Rep. Fong, Vince [R-CA-20]",
+        "isByRequest": "N",
+        "lastName": "Fong",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/F000480?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/text?format=json"
+    },
+    "title": "Save Our Sequoias Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2709/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-16T13:39:38Z",
+    "updateDateIncludingText": "2026-07-12T14:57:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000608",
+      "district": 50,
+      "firstName": "Scott",
+      "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000608?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "W000821",
+      "district": 4,
+      "firstName": "Bruce",
+      "fullName": "Rep. Westerman, Bruce [R-AR-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Westerman",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/W000821?format=json"
+    },
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "N000189",
+      "district": 4,
+      "firstName": "Dan",
+      "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Newhouse",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/N000189?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "V000129",
+      "district": 22,
+      "firstName": "David",
+      "fullName": "Rep. Valadao, David G. [R-CA-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Valadao",
+      "middleName": "G.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000129?format=json"
+    },
+    {
+      "bioguideId": "B000490",
+      "district": 2,
+      "firstName": "Sanford",
+      "fullName": "Rep. Bishop, Sanford D. [D-GA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bishop",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/B000490?format=json"
+    },
+    {
+      "bioguideId": "L000578",
+      "district": 1,
+      "firstName": "Doug",
+      "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaMalfa",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000578?format=json"
+    },
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": true,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    },
+    {
+      "bioguideId": "K000397",
+      "district": 40,
+      "firstName": "Young",
+      "fullName": "Rep. Kim, Young [R-CA-40]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kim",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    },
+    {
+      "bioguideId": "H001090",
+      "district": 9,
+      "firstName": "Josh",
+      "fullName": "Rep. Harder, Josh [D-CA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harder",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001090?format=json"
+    },
+    {
+      "bioguideId": "O000019",
+      "district": 23,
+      "firstName": "Jay",
+      "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Obernolte",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/O000019?format=json"
+    },
+    {
+      "bioguideId": "G000592",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Golden, Jared F. [D-ME-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Golden",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/G000592?format=json"
+    },
+    {
+      "bioguideId": "M001177",
+      "district": 5,
+      "firstName": "Tom",
+      "fullName": "Rep. McClintock, Tom [R-CA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClintock",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001177?format=json"
+    },
+    {
+      "bioguideId": "V000130",
+      "district": 52,
+      "firstName": "Juan",
+      "fullName": "Rep. Vargas, Juan [D-CA-52]",
+      "isOriginalCosponsor": true,
+      "lastName": "Vargas",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000130?format=json"
+    },
+    {
+      "bioguideId": "K000401",
+      "district": 3,
+      "firstName": "Kevin",
+      "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kiley",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000401?format=json"
+    },
+    {
+      "bioguideId": "B001287",
+      "district": 6,
+      "firstName": "Ami",
+      "fullName": "Rep. Bera, Ami [D-CA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bera",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": true,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    },
+    {
+      "bioguideId": "I000056",
+      "district": 48,
+      "firstName": "Darrell",
+      "fullName": "Rep. Issa, Darrell [R-CA-48]",
+      "isOriginalCosponsor": true,
+      "lastName": "Issa",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/I000056?format=json"
+    },
+    {
+      "bioguideId": "B000668",
+      "district": 2,
+      "firstName": "Cliff",
+      "fullName": "Rep. Bentz, Cliff [R-OR-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bentz",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B000668?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-08",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "F000459",
+      "district": 3,
+      "firstName": "Charles",
+      "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fleischmann",
+      "middleName": "J. \"Chuck\"",
+      "party": "R",
+      "sponsorshipDate": "2025-04-28",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/F000459?format=json"
+    },
+    {
+      "bioguideId": "G000605",
+      "district": 13,
+      "firstName": "Adam",
+      "fullName": "Rep. Gray, Adam [D-CA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gray",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-17T19:30:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-12T14:35:47Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-08T14:03:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-18T21:16:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Forestry and Horticulture Subcommittee",
+          "systemCode": "hsag15",
+          "url": "https://api.congress.gov/v3/committee/house/hsag15?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-12T14:35:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-05T17:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-08T14:03:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-08",
+      "actionDesc": "Introduced in House",
+      "text": "<p><b>Save Our Sequoias Act</b></p> <p>This bill provides for the conservation of giant sequoia trees (<i>Sequoiadendron giganteum</i>) in California. </p> <p>Specifically, it provides statutory authority for the Giant Sequoia Lands Coalition and outlines the coalition's duties. The coalition must submit a Giant Sequoia Health and Resiliency Assessment and annually update it. The information from the assessment must be made available so the information can be integrated into certain other plans. The coalition must also create and maintain a website that contains the assessment, educational materials, searchable information about individual giant sequoia groves, and a searchable database to track the status and costs of reforestation and rehabilitation activities.</p> <p>In addition, the bill declares an emergency on certain public lands and allows officials to carry out protection plans during the emergency to respond to the threat of wildfires, insects, and drought. The emergency expires after seven years.</p> <p>The Department of the Interior must develop and implement a Giant Sequoia Reforestation and Rehabilitation Strategy.</p> <p>Finally, the bill establishes a variety of programs and funds to support the conservation of giant sequoias.</p>",
+      "updateDate": "2026-03-12T23:08:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

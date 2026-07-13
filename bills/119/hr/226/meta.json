@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/226/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/226/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 3 (Tuesday, January 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FLEISCHMANN:\nH.R. 226.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18, which states the Congress\nshall have the power ``to make all laws which shall be\nnecessary and proper for carrying into execution the\nforegoing powers, and all other powers vested by this\nConstitution in the government of the United States, or in\nany department or office thereof.''\n[Page H63]\n</pre>",
+    "introducedDate": "2025-01-07",
+    "latestAction": {
+      "actionDate": "2025-02-05",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/226",
+    "number": "226",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000459",
+        "district": 3,
+        "firstName": "Charles",
+        "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+        "isByRequest": "N",
+        "lastName": "Fleischmann",
+        "middleName": "J. \"Chuck\"",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/F000459?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/226/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/226/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/226/text?format=json"
+    },
+    "title": "Eastern Band of Cherokee Historic Lands Reacquisition Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/226/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:23:17Z",
+    "updateDateIncludingText": "2026-07-12T14:53:43Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-05T19:49:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-07T16:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p><b>Eastern Band of Cherokee Historic Lands Reacquisition Act</b></p> <p>This bill takes specified lands and easements in Monroe County, Tennessee, into trust for the use and benefit of the Eastern Band of Cherokee Indians. These lands include the Sequoyah Museum, the Chota Memorial, the Tanasi Memorial, and land to provide support for these properties and cultural programs.</p> <p>The Tennessee Valley Authority (TVA) maintains its right to carry out river control and development on these lands, including temporarily and intermittently flooding certain lands. The bill specifies the structures that may be constructed with the TVA's written consent on certain lands subject to flooding. Additionally, the TVA must be compensated for lost hydropower capacity from future development of these lands.</p> <p>Further, the bill specifies that the United States is not liable for loss or damage resulting from certain activities, such as the permanent flooding of adjacent lands.</p> <p>In addition, the bill outlines the TVA's continuing responsibilities, including those related to environmental remediation.</p> Finally, the bill prohibits gaming on these lands.",
+      "updateDate": "2025-02-03T15:13:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

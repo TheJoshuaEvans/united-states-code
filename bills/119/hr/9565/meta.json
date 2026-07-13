@@ -1,0 +1,83 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9565/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9565/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SCHWEIKERT:\nH.R. 9565.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4365]\n</pre>",
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9565",
+    "number": "9565",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001183",
+        "district": 1,
+        "firstName": "David",
+        "fullName": "Rep. Schweikert, David [R-AZ-1]",
+        "isByRequest": "N",
+        "lastName": "Schweikert",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/S001183?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9565/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9565/text?format=json"
+    },
+    "title": "Enhanced Counter-Narcotics Detection and Technology Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9565/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:49:32Z",
+    "updateDateIncludingText": "2026-07-13T18:49:32Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:05:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:05:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ]
+}

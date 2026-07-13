@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 15 (Thursday, January 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GILL of Texas:\nH.J. Res. 142.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1351]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-22",
+    "latestAction": {
+      "actionDate": "2026-02-18",
+      "text": "Became Public Law No: 119-78."
+    },
+    "laws": [
+      {
+        "number": "119-78",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/142",
+    "number": "142",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000603",
+        "district": 26,
+        "firstName": "Brandon",
+        "fullName": "Rep. Gill, Brandon [R-TX-26]",
+        "isByRequest": "N",
+        "lastName": "Gill",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/G000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/text?format=json"
+    },
+    "title": "Disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/142/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-07-10T15:23:28Z",
+    "updateDateIncludingText": "2026-07-13T18:35:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-22T14:00:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-22",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This joint resolution nullifies legislation enacted by the Council of the District of Columbia (DC) on December 20, 2025, titled DC Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025. The nullification reinstates certain DC tax code provisions that were in place before the enactment of the DC legislation and that address, among other things, the standard tax deduction, taxation of tipped wages, and depreciation of qualified property.</p><p>As background, DC automatically adopts, as DC law, changes to federal tax law (known as rolling conformity). Upon enactment of <a href=\"https://www.congress.gov/bill/119th-congress/house-bill/1?s=7&amp;r=1\">H.R.1</a> (commonly known as the&nbsp;One Big Beautiful Bill Act),&nbsp;its tax provisions became DC law, including provisions that increase the standard tax deduction,&nbsp;exempt tips from taxable income, and provide for an elective 100% depreciation allowance for nonresidential real property. The DC legislation subsequently decoupled the DC tax code from&nbsp;these and other tax provisions that originated in H.R.1, and it amended several other provisions in the DC tax code, including restoring the DC child tax credit.</p>",
+      "updateDate": "2026-02-03T17:30:16Z",
+      "versionCode": "00"
+    }
+  ]
+}

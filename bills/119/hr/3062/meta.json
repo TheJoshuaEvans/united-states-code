@@ -1,0 +1,225 @@
+{
+  "status": {
+    "actions": {
+      "count": 30,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on July 2, 2025",
+        "pubDate": "2025-09-12T19:17:00Z",
+        "title": "H.R. 3062, Promoting Cross-border Energy Infrastructure Act",
+        "url": "https://www.cbo.gov/publication/61739"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-186",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/186?format=json"
+      }
+    ],
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 71 (Tuesday, April 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. FEDORCHAK:\nH.R. 3062.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3 of the United States\nConstitution.\n[Page H1728]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-29",
+    "latestAction": {
+      "actionDate": "2025-09-19",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3062",
+    "number": "3062",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000482",
+        "firstName": "Julie",
+        "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+        "isByRequest": "N",
+        "lastName": "Fedorchak",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/F000482?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/text?format=json"
+    },
+    "title": "Promoting Cross-border Energy Infrastructure Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3062/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-12T15:00:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000628",
+      "district": 2,
+      "firstName": "Neal",
+      "fullName": "Rep. Dunn, Neal P. [R-FL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dunn",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000628?format=json"
+    },
+    {
+      "bioguideId": "J000302",
+      "district": 13,
+      "firstName": "John",
+      "fullName": "Rep. Joyce, John [R-PA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Joyce",
+      "party": "R",
+      "sponsorshipDate": "2025-07-02",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/J000302?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-19T18:27:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-02T20:45:27Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-29T14:04:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-02T20:45:22Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-29T14:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-29T21:23:43Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Railroads, Pipelines, and Hazardous Materials Subcommittee",
+          "systemCode": "hspw14",
+          "url": "https://api.congress.gov/v3/committee/house/hspw14?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-02T20:45:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T16:20:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-29T14:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-05T20:32:00Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-06-05T20:31:00Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-06-03T20:30:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting Cross-b</strong><strong>order Energy Infrastructure Act</strong></p><p>This bill establishes a new process for approving or revoking permits for the construction and operation of energy infrastructure across an international border of the United States. Thus, it replaces the existing process established under specified executive orders.</p><p>The bill requires a person to obtain a certificate of crossing before constructing, connecting, operating, or maintaining a border-crossing facility for the import or export of oil or natural gas,&nbsp;or the transmission of electricity, across a U.S. border with Canada or Mexico. A certificate must be obtained from the Federal Energy Regulatory Commission (FERC) for a facility consisting of oil or natural gas pipelines or the Department of Energy (DOE) for an electric transmission facility. As a condition of issuing a certificate, DOE must require that an electric transmission facility be constructed, connected, operated, or maintained consistent with specified policies and standards.</p><p>FERC and DOE must meet a deadline for issuing a certificate as set forth by this bill. The bill also requires FERC to meet a deadline for approving applications to import or export natural gas to or from Canada or Mexico.</p><p>The bill also requires the President to obtain the approval of Congress before revoking a permit issued under executive orders for constructing, connecting, operating, or maintaining an oil or natural gas pipeline, an electric transmission facility, or a related border-crossing facility.</p>",
+      "updateDate": "2025-07-08T19:37:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

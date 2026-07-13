@@ -1,0 +1,149 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:17:00Z",
+        "title": "H.R. 1621, Entrepreneurs with Disabilities Reporting Act of 2025",
+        "url": "https://www.cbo.gov/publication/61315"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-31",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/31?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 38 (Wednesday, February 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McGARVEY:\nH.R. 1621.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H880]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1621",
+    "number": "1621",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001220",
+        "district": 3,
+        "firstName": "Morgan",
+        "fullName": "Rep. McGarvey, Morgan [D-KY-3]",
+        "isByRequest": "N",
+        "lastName": "McGarvey",
+        "party": "D",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M001220?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/text?format=json"
+    },
+    "title": "Entrepreneurs with Disabilities Reporting Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1621/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:08:22Z",
+    "updateDateIncludingText": "2026-07-13T19:46:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:35:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T20:13:53Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:04:19Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-26T15:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Entrepreneurs with Disabilities Reporting Act of 2025</strong></p><p>This bill requires the Small Business Administration to assess and report on the challenges that entrepreneurs with a disability encounter in starting and operating a business, including any recommendations for legislative actions to address those challenges.</p>",
+      "updateDate": "2025-05-30T13:19:38Z",
+      "versionCode": "00"
+    }
+  ]
+}

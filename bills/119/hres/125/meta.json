@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/125/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-11",
+    "latestAction": {
+      "actionDate": "2025-02-11",
+      "actionTime": "14:02:33",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/125",
+    "number": "125",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000371",
+        "district": 33,
+        "firstName": "Pete",
+        "fullName": "Rep. Aguilar, Pete [D-CA-33]",
+        "isByRequest": "N",
+        "lastName": "Aguilar",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/A000371?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/125/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/125/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/125/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:44:22Z",
+    "updateDateIncludingText": "2026-07-11T21:44:22Z"
+  }
+}

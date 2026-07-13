@@ -1,0 +1,181 @@
+{
+  "status": {
+    "actions": {
+      "count": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/actions?format=json"
+    },
+    "amendments": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-304,Part 2",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/304?format=json"
+      },
+      {
+        "citation": "H. Rept. 119-304",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/304?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LATTA:\nH.R. 3638.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis resolution is enacted pursuant to the power granted to\nCongress under Article I, Section 8 of the United States\nConstitution.\n[Page H2377]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3638",
+    "number": "3638",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000566",
+        "district": 5,
+        "firstName": "Robert",
+        "fullName": "Rep. Latta, Robert E. [R-OH-5]",
+        "isByRequest": "N",
+        "lastName": "Latta",
+        "middleName": "E.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000566?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/text?format=json"
+    },
+    "title": "Electric Supply Chain Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3638/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-13T14:05:33Z",
+    "updateDateIncludingText": "2026-07-12T00:47:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000628",
+      "district": 2,
+      "firstName": "Neal",
+      "fullName": "Rep. Dunn, Neal P. [R-FL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dunn",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000628?format=json"
+    },
+    {
+      "bioguideId": "W000804",
+      "district": 1,
+      "firstName": "Robert",
+      "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wittman",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-22",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000804?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-15T21:02:43Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-25T18:23:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-19T15:24:00Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T16:06:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-29T15:07:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-05T20:11:00Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-06-05T20:10:00Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-06-03T20:09:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-19",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Electric Supply Chain Act</strong></p><p>This bill requires the Department of Energy (DOE) to periodically assess the supply chain that supports the generation and transmission of electricity and report on the assessment to the appropriate congressional committees.</p><p>Specifically, DOE must periodically assess and report on</p><ul><li>information including trends and vulnerabilities in the supply of components needed for generating or transmitting electricity, barriers to expanding U.S. capacity to process critical materials, and domestic policies that deter greater investment into the supply chain;</li><li>emerging issues in the supply chain; and</li><li>recommendations to address these emerging issues and to secure and expand the supply chain.</li></ul><p>The initial report must be submitted no later than one year after the date of enactment of this bill.&nbsp;</p>",
+      "updateDate": "2026-04-13T14:04:56Z",
+      "versionCode": "07"
+    }
+  ]
+}

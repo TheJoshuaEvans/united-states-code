@@ -1,0 +1,243 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-30",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "actionTime": "18:40:57",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1251",
+    "number": "1251",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000797",
+        "district": 25,
+        "firstName": "Debbie",
+        "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+        "isByRequest": "N",
+        "lastName": "Wasserman Schultz",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/W000797?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/text?format=json"
+    },
+    "title": "Calling on elected officials and civil society leaders to counter antisemitism and educate the public on the contributions of the Jewish-American community.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1251/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:44:21Z",
+    "updateDateIncludingText": "2026-07-11T21:44:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-30",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    },
+    {
+      "bioguideId": "M001215",
+      "district": 1,
+      "firstName": "Mariannette",
+      "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller-Meeks",
+      "party": "R",
+      "sponsorshipDate": "2026-04-30",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/M001215?format=json"
+    },
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2026-05-07",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "G000583",
+      "district": 5,
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2026-05-07",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/G000583?format=json"
+    },
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2026-05-11",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2026-05-11",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "F000462",
+      "district": 22,
+      "firstName": "Lois",
+      "fullName": "Rep. Frankel, Lois [D-FL-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Frankel",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000462?format=json"
+    },
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    },
+    {
+      "bioguideId": "S001218",
+      "district": 1,
+      "firstName": "Melanie",
+      "fullName": "Rep. Stansbury, Melanie A. [D-NM-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stansbury",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/S001218?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-30T13:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-30T13:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution calls on elected officials, faith leaders, and civil society leaders to condemn and counter acts of anti-Semitism.</p><p>The resolution also honors the contributions of Jewish-American&nbsp;servicemembers and&nbsp;commits to ensuring all Americans, including Jewish Americans, can worship without fear of violence or persecution.</p>",
+      "updateDate": "2026-05-07T14:29:26Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BIGGS of Arizona:\nH.R. 77.\nCongress has the power to enact this legislation pursuant\nto the following:\nArtcile 1, Section 8\nThe single subject of this legislation is:\nTo amend chapter 8 of title 5, United States Code, to\nprovide for en bloc consideration in resolutions of\ndisapproval for ``midnight rules.''\n[Page H38]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-02-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/77",
+    "number": "77",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001302",
+        "district": 5,
+        "firstName": "Andy",
+        "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/B001302?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/text?format=json"
+    },
+    "title": "Midnight Rules Relief Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/77/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T11:23:20Z",
+    "updateDateIncludingText": "2026-07-13T01:07:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000578",
+      "district": 1,
+      "firstName": "Doug",
+      "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaMalfa",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000578?format=json"
+    },
+    {
+      "bioguideId": "G000576",
+      "district": 6,
+      "firstName": "Glenn",
+      "fullName": "Rep. Grothman, Glenn [R-WI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grothman",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/G000576?format=json"
+    },
+    {
+      "bioguideId": "B001317",
+      "district": 2,
+      "firstName": "Josh",
+      "fullName": "Rep. Brecheen, Josh [R-OK-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Brecheen",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B001317?format=json"
+    },
+    {
+      "bioguideId": "O000175",
+      "district": 5,
+      "firstName": "Andrew",
+      "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ogles",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/O000175?format=json"
+    },
+    {
+      "bioguideId": "H001096",
+      "district": 0,
+      "firstName": "Harriet",
+      "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hageman",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/H001096?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig [R-TX-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-13T17:21:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-12T21:55:02Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-02-12T21:28:42Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-01-03T16:06:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:06:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Midnight Rules Relief Act</strong></p><p>This bill allows Congress to disapprove multiple regulations under one joint resolution of disapproval if the regulations were submitted for review during a portion  of the final year of a President's term.</p><p> Under current law, the Congressional Review Act generally&nbsp;provides for a period of additional review during the succeeding Congress for regulations that were submitted during the last 60 legislative days of the prior Congress. However, each joint resolution may disapprove of only one regulation.</p>",
+      "updateDate": "2025-02-12T13:52:47Z",
+      "versionCode": "00"
+    }
+  ]
+}

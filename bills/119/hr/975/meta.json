@@ -1,0 +1,378 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VARGAS:\nH.R. 975.\nCongress has the power to enact this legislation pursuant\nto the following:\n(1) To make all Laws which shall be necessary and proper\nfor carrying into Execution the foregoing Powers, and all\nother Powers vested by this Constitution in the Government of\nthe United States, or in any Department or Officer thereof,\nas enumerated in Article I, Section 8, Clause 18 of the U.S.\nConstitution.\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 22,
+      "countIncludingWithdrawnCosponsors": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-02-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/975",
+    "number": "975",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000130",
+        "district": 52,
+        "firstName": "Juan",
+        "fullName": "Rep. Vargas, Juan [D-CA-52]",
+        "isByRequest": "N",
+        "lastName": "Vargas",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/V000130?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/text?format=json"
+    },
+    "title": "Credit Union Board Modernization Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/975/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:20Z",
+    "updateDateIncludingText": "2026-07-11T22:08:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001058",
+      "district": 4,
+      "firstName": "Bill",
+      "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huizenga",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/H001058?format=json"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": 6,
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/C001117?format=json"
+    },
+    {
+      "bioguideId": "S001221",
+      "district": 3,
+      "firstName": "Hillary",
+      "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scholten",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001221?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "F000454",
+      "district": 11,
+      "firstName": "Bill",
+      "fullName": "Rep. Foster, Bill [D-IL-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Foster",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/F000454?format=json"
+    },
+    {
+      "bioguideId": "K000397",
+      "district": 40,
+      "firstName": "Young",
+      "fullName": "Rep. Kim, Young [R-CA-40]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kim",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "I000056",
+      "district": 48,
+      "firstName": "Darrell",
+      "fullName": "Rep. Issa, Darrell [R-CA-48]",
+      "isOriginalCosponsor": false,
+      "lastName": "Issa",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/I000056?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "C001112",
+      "district": 24,
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001112?format=json"
+    },
+    {
+      "bioguideId": "M001137",
+      "district": 5,
+      "firstName": "Gregory",
+      "fullName": "Rep. Meeks, Gregory W. [D-NY-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meeks",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001137?format=json"
+    },
+    {
+      "bioguideId": "G000568",
+      "district": 9,
+      "firstName": "H.",
+      "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Griffith",
+      "middleName": "Morgan",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/G000568?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": 28,
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001080?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "T000480",
+      "district": 4,
+      "firstName": "William",
+      "fullName": "Rep. Timmons, William R. [R-SC-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Timmons",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/T000480?format=json"
+    },
+    {
+      "bioguideId": "P000608",
+      "district": 50,
+      "firstName": "Scott",
+      "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+      "isOriginalCosponsor": false,
+      "lastName": "Peters",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000608?format=json"
+    },
+    {
+      "bioguideId": "L000491",
+      "district": 3,
+      "firstName": "Frank",
+      "fullName": "Rep. Lucas, Frank D. [R-OK-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lucas",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000491?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-11T15:40:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-04T17:10:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Credit Union Board Modernization Act </strong></p><p>This bill reduces the required frequency of meetings held by the board of directors of certain credit unions. Under the bill, new credit unions and credit unions with a low soundness rating must meet monthly, as required under current law. All other credit unions must hold at least six meetings annually, with at least one meeting held during each fiscal quarter.</p>",
+      "updateDate": "2025-02-10T17:55:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

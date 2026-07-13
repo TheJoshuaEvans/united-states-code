@@ -1,0 +1,171 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Oversight and Government Reform on June 4, 2025",
+        "pubDate": "2025-06-06T17:37:00Z",
+        "title": "H.R. 2096, Protecting Our Nation\u2019s Capital Emergency Act",
+        "url": "https://www.cbo.gov/publication/61468"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-138",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/138?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 49 (Friday, March 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GARBARINO:\nH.R. 2096.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto Article 1, Section 8, Clause 17 of the United States\nConstitution.\n[Page H1162]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-14",
+    "latestAction": {
+      "actionDate": "2025-06-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+    "number": "2096",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000597",
+        "district": 2,
+        "firstName": "Andrew",
+        "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+        "isByRequest": "N",
+        "lastName": "Garbarino",
+        "middleName": "R.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/G000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/text?format=json"
+    },
+    "title": "Protecting Our Nation\u2019s Capital Emergency Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2096/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:08:30Z",
+    "updateDateIncludingText": "2026-07-12T14:52:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-03-14",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "B001302",
+      "district": 5,
+      "firstName": "Andy",
+      "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/B001302?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-11T15:58:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T21:37:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-21T14:15:44Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-14T13:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Protecting Our Nation's Capital Emergency Act of 2025</strong></p><p>This bill rescinds certain changes that were made in 2023 to&nbsp;District of Columbia (DC) law governing discipline of Metropolitan Police Department (MPD) officers.</p><p>First, the bill reinstates a 90-day statute of limitations (i.e., time limit) for initiating a corrective or adverse action against any MPD officer or civilian&nbsp;employee. The bill also allows officer disciplinary&nbsp;matters to be negotiated as part of a collective bargaining agreement.&nbsp; </p><p>Next, the bill eliminates the MPD police chief's&nbsp;authority to increase the police trial board's recommended&nbsp;penalty for officer misconduct.</p><p>Finally, the bill eliminates a requirement that MPD publish a schedule online of&nbsp;disciplinary&nbsp;hearings for which the proposed action is termination, including the date, time, and underlying allegations.&nbsp;</p>",
+      "updateDate": "2025-06-11T20:15:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

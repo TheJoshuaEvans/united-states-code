@@ -1,0 +1,391 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-77",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/77?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TORRES of New York:\nH.R. 973.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8.\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 23,
+      "countIncludingWithdrawnCosponsors": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/973",
+    "number": "973",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000486",
+        "district": 15,
+        "firstName": "Ritchie",
+        "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+        "isByRequest": "N",
+        "lastName": "Torres",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000486?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/text?format=json"
+    },
+    "title": "Setting Consumer Standards for Lithium-Ion Batteries Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/973/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:20Z",
+    "updateDateIncludingText": "2026-07-11T22:08:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "C001067",
+      "district": 9,
+      "firstName": "Yvette",
+      "fullName": "Rep. Clarke, Yvette D. [D-NY-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Clarke",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/C001067?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "N000002",
+      "district": 12,
+      "firstName": "Jerrold",
+      "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nadler",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/N000002?format=json"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "E000297",
+      "district": 13,
+      "firstName": "Adriano",
+      "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Espaillat",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/E000297?format=json"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "M001225",
+      "district": 15,
+      "firstName": "Kevin",
+      "fullName": "Rep. Mullin, Kevin [D-CA-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mullin",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001225?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": 10,
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001229?format=json"
+    },
+    {
+      "bioguideId": "O000172",
+      "district": 14,
+      "firstName": "Alexandria",
+      "fullName": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ocasio-Cortez",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/O000172?format=json"
+    },
+    {
+      "bioguideId": "M001188",
+      "district": 6,
+      "firstName": "Grace",
+      "fullName": "Rep. Meng, Grace [D-NY-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meng",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001188?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-02-21",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "R000579",
+      "district": 18,
+      "firstName": "Patrick",
+      "fullName": "Rep. Ryan, Patrick [D-NY-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ryan",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000579?format=json"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": 4,
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000288?format=json"
+    },
+    {
+      "bioguideId": "S000510",
+      "district": 9,
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S000510?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "F000483",
+      "district": 30,
+      "firstName": "Laura",
+      "fullName": "Rep. Friedman, Laura [D-CA-30]",
+      "isOriginalCosponsor": false,
+      "lastName": "Friedman",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/F000483?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-03-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "S001193",
+      "district": 14,
+      "firstName": "Eric",
+      "fullName": "Rep. Swalwell, Eric [D-CA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Swalwell",
+      "party": "D",
+      "sponsorshipDate": "2025-03-26",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001193?format=json"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig [R-TX-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:59:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:22:48Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-04T17:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Setting Consumer Standards for Lithium-Ion Batteries Act</strong></p><p>This bill requires the Consumer Product Safety Commission to issue a final consumer product safety rule for rechargeable lithium-ion batteries used in&nbsp;micromobility devices, such as electric bikes and electric scooters.</p><p>Specifically, the rule must require manufacturers and distributors of&nbsp;such products to comply with the applicable&nbsp;safety standards jointly&nbsp;established by the American National Standards Institute, the Standards Council of Canada, and UL Solutions Inc.</p>",
+      "updateDate": "2025-04-25T14:44:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

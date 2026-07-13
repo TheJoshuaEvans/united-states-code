@@ -1,0 +1,143 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2400/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on September 15, 2025",
+        "pubDate": "2025-10-02T18:39:00Z",
+        "title": "H.R. 2400, Pit River Land Transfer Act of 2025",
+        "url": "https://www.cbo.gov/publication/61801"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-289",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/289?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2400/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LaMALFA:\nH.R. 2400.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 4, Section 3, Clause 2.2\n[Page H1338]\n</pre>",
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Committee on Indian Affairs. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2400",
+    "number": "2400",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000578",
+        "district": 1,
+        "firstName": "Doug",
+        "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+        "isByRequest": "N",
+        "lastName": "LaMalfa",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/L000578?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2400/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2400/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2400/text?format=json"
+    },
+    "title": "Pit River Land Transfer Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2400/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-04T10:56:32Z",
+    "updateDateIncludingText": "2026-07-12T14:54:49Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T18:00:02Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-16T19:18:49Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T19:01:24Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T17:22:56Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T17:22:35Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-27T13:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-30T20:04:16Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-04-23T14:47:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Indian and Insular Affairs Subcommittee",
+          "systemCode": "hsii24",
+          "url": "https://api.congress.gov/v3/committee/house/hsii24?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Pit River Land Transfer Act of 2025</strong></p><p>This bill takes approximately 603.94 acres of specified lands in California into trust for the benefit of the Pit River Tribe.</p><p>Specifically, the bill directs the Department of the Interior to take the following lands into trust for the benefit of the tribe: (1) approximately 583.79 acres of federal land managed by the Forest Service (but excluding approximately 20.03 acres of roads, highways, and public rights-of-way subject to existing easements), and (2) approximately 40.18 acres of fee land held by the tribe. These combined lands, approximately 603.94 acres, shall be part of the tribe's reservation. Further, the bill prohibits gaming on the land taken into trust.</p>",
+      "updateDate": "2025-12-10T17:43:04Z",
+      "versionCode": "00"
+    }
+  ]
+}

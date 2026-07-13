@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DONALDS:\nH.R. 856.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt. I, Sec. 8 of the U.S. Constitution\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/856",
+    "number": "856",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000032",
+        "district": 19,
+        "firstName": "Byron",
+        "fullName": "Rep. Donalds, Byron [R-FL-19]",
+        "isByRequest": "N",
+        "lastName": "Donalds",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/D000032?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/text?format=json"
+    },
+    "title": "Safe and Smart Federal Purchasing Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/856/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T23:53:18Z",
+    "updateDateIncludingText": "2026-07-13T17:17:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001078",
+      "district": 11,
+      "firstName": "Gerald",
+      "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Connolly",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001078?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T17:41:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:06:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Safe and Smart Federal Purchasing Act</strong></p><p>This bill requires the Office of Management and Budget (OMB) to evaluate the procurement activities of federal agencies to determine whether provisions of the Federal Acquisition Regulation related to the lowest price technically acceptable source selection process have created any national security risk and report to Congress.</p>",
+      "updateDate": "2025-03-03T15:05:22Z",
+      "versionCode": "00"
+    }
+  ]
+}

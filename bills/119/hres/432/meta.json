@@ -1,0 +1,92 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-20",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "actionTime": "15:03:36",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/432",
+    "number": "432",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000592",
+        "district": 2,
+        "firstName": "Jared",
+        "fullName": "Rep. Golden, Jared F. [D-ME-2]",
+        "isByRequest": "N",
+        "lastName": "Golden",
+        "middleName": "F.",
+        "party": "D",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/G000592?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 2550) to nullify the Executive order relating to Exclusions from Federal Labor-Management Relations Programs, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/432/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:59:09Z",
+    "updateDateIncludingText": "2026-07-11T20:59:09Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-17T20:48:39Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-05-20T14:00:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-20",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides for immediate consideration by the House of Representatives of H.R. 2550, the <em>Protect America's Workforce Act</em>, a bill nullifying <a href=\"https://www.federalregister.gov/d/2025-05836\">Executive Order 14251</a>, entitled <em>Exclusions from Federal Labor-Management Relations Programs</em> (issued on March 27, 2025).</p><p>The Executive Order excludes specified federal agencies from substantive and procedural requirements that generally apply to federal employees' labor organizing and collective bargaining, as well as respective management obligations.</p>",
+      "updateDate": "2025-11-21T21:40:57Z",
+      "versionCode": "00"
+    }
+  ]
+}

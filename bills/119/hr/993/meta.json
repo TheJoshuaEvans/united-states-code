@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CORREA:\nH.R. 993.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H505]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/993",
+    "number": "993",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001110",
+        "district": 46,
+        "firstName": "J.",
+        "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+        "isByRequest": "N",
+        "lastName": "Correa",
+        "middleName": "Luis",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001110?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/text?format=json"
+    },
+    "title": "Emerging Innovative Border Technologies Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/993/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:21Z",
+    "updateDateIncludingText": "2026-07-11T22:08:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000603",
+      "district": 8,
+      "firstName": "Morgan",
+      "fullName": "Rep. Luttrell, Morgan [R-TX-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luttrell",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/L000603?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-03-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-11T18:48:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-05T15:00:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-05T18:13:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Emerging Innovative Border Technologies Act</strong></p><p>This bill requires U.S. Customs and Border Protection (CBP) and the Science and Technology Directorate of the Department of Homeland Security to develop a plan to identify, integrate, and deploy emerging and innovative technologies to improve border security operations. Such technologies may incorporate artificial intelligence, machine-learning, automation, fiber-optic sensing technology, nanotechnology, optical and cognitive radar, modeling and simulation technology, hyperspectral and LIDAR sensors, and imaging, identification, and categorization systems.&nbsp;</p><p>The bill authorizes CBP to establish one or more Innovation Teams to research and adapt commercial technologies that may be used by CBP.</p><p>The plan must describe how the Innovation Teams have been implemented and also detail</p><ul><li>goals and timelines for adoption of qualifying technologies,</li><li>metrics and key performance parameters for determining the plan's effectiveness,</li><li>which technologies used by other federal agencies CBP may also utilize,</li><li>which existing authorities CBP may use to procure technologies,</li><li>how CBP legacy border technology programs may be replaced,</li><li>the expected privacy and security impact of security-related technology on border communities, and</li><li>recent technological advancements in specified technologies.</li></ul><p>CBP must provide the plan to Congress within 180 days of the bill\u2019s enactment.&nbsp;The bill also requires CBP to annually report to Congress regarding the activities of the Innovation Teams.</p>",
+      "updateDate": "2025-03-14T16:25:46Z",
+      "versionCode": "00"
+    }
+  ]
+}

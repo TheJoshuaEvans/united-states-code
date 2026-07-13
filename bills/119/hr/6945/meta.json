@@ -1,0 +1,315 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on January 21, 2026",
+        "pubDate": "2026-02-06T14:40:00Z",
+        "title": "H.R. 6945, Supporting Pregnant and Parenting Women and Families Act",
+        "url": "https://www.cbo.gov/publication/62087"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 3 (Tuesday, January 6, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. FISCHBACH:\nH.R. 6945.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H12]\n</pre>",
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-06",
+    "latestAction": {
+      "actionDate": "2026-01-26",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6945",
+    "number": "6945",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Families"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000470",
+        "district": 7,
+        "firstName": "Michelle",
+        "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+        "isByRequest": "N",
+        "lastName": "Fischbach",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000470?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/text?format=json"
+    },
+    "title": "Supporting Pregnant and Parenting Women and Families Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6945/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:24Z",
+    "updateDateIncludingText": "2026-07-13T19:12:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000522",
+      "district": 4,
+      "firstName": "Christopher",
+      "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-06",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S000522?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2026-01-06",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    },
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2026-01-12",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-12",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    },
+    {
+      "bioguideId": "H001052",
+      "district": 1,
+      "firstName": "Andy",
+      "fullName": "Rep. Harris, Andy [R-MD-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2026-01-13",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/H001052?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2026-01-14",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "C001115",
+      "district": 27,
+      "firstName": "Michael",
+      "fullName": "Rep. Cloud, Michael [R-TX-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cloud",
+      "party": "R",
+      "sponsorshipDate": "2026-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001115?format=json"
+    },
+    {
+      "bioguideId": "M001239",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. McGuire, John J. [R-VA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGuire",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-20",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001239?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2026-01-20",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-01-20",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-01-20",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    },
+    {
+      "bioguideId": "S001229",
+      "district": 6,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shreve",
+      "party": "R",
+      "sponsorshipDate": "2026-01-20",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001229?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2026-01-20",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "C001039",
+      "district": 3,
+      "firstName": "Kat",
+      "fullName": "Rep. Cammack, Kat [R-FL-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cammack",
+      "party": "R",
+      "sponsorshipDate": "2026-01-21",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001039?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-26T21:12:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-21T21:31:44Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-01-21T20:09:01Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-01-14T17:18:09Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-06T23:31:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Supporting Pregnant and Parenting Women and Families Act</strong></p><p>This bill provides statutory authority for&nbsp;states to use Temporary Assistance for Needy Families (TANF) funds for pregnancy centers that (1) support protecting the life of the mother and the unborn child; and (2) offer resources and services to mothers, fathers, and families, including relationship counseling, prenatal and pregnancy education, pregnancy testing, diapers, baby clothes, and material supports.</p>",
+      "updateDate": "2026-01-20T16:56:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

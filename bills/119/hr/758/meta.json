@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CONNOLLY:\nH.R. 758.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution.\n[Page H406]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/758",
+    "number": "758",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001078",
+        "district": 11,
+        "firstName": "Gerald",
+        "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Connolly",
+        "middleName": "E.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/C001078?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/text?format=json"
+    },
+    "title": "Mail Traffic Deaths Reporting Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/758/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T11:38:24Z",
+    "updateDateIncludingText": "2026-07-12T14:25:04Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001108",
+      "district": 1,
+      "firstName": "James",
+      "fullName": "Rep. Comer, James [R-KY-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Comer",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/C001108?format=json"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": 12,
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-02-14",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000481?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T17:41:32Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Mail Traffic Deaths Reporting Act of 2025</strong></p><p>This bill requires the U.S. Postal Service to issue regulations to mandate collecting, tracking, and publicly reporting information related to deaths and injuries resulting from traffic crashes involving vehicles transporting mail. &nbsp;</p><p>The bill also requires (1) Postal Service employees and contractors to report within three days any traffic crash involving a vehicle used in the transportation of mail and resulting in injury or death, (2) the Postal Service to maintain an internal database that includes comprehensive information related to such injuries and deaths, and (3) the Postal Service to provide an annual report to the public summarizing such injuries and deaths.&nbsp;</p>",
+      "updateDate": "2025-03-03T15:00:41Z",
+      "versionCode": "00"
+    }
+  ]
+}

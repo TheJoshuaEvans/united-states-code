@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 15 (Friday, January 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. HOULAHAN:\nH.R. 730.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 8 of section 8 of article I of the Constitution\n[Page H395]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-24",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/730",
+    "number": "730",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001085",
+        "district": 6,
+        "firstName": "Chrissy",
+        "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+        "isByRequest": "N",
+        "lastName": "Houlahan",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/H001085?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/text?format=json"
+    },
+    "title": "Mathematical and Statistical Modeling Education Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/730/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T12:08:22Z",
+    "updateDateIncludingText": "2026-07-13T19:19:04Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001307",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Baird, James R. [R-IN-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baird",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-24",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001307?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-25T16:17:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-24T14:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Mathematical and Statistical Modeling Education Act</strong></p><p>This bill requires the National Science Foundation (NSF) to take certain actions to increase mathematical and statistical modeling education in elementary and secondary schools.</p><p>First, the NSF must make competitive awards to institutions of higher education and nonprofit organizations for research and development to support high-quality mathematical modeling education (e.g., data science and computational thinking) in schools. This authority to provide awards expires on September 30, 2029.</p><p>Second, the NSF must seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to study and report on mathematical and statistical modeling education in schools.</p>",
+      "updateDate": "2025-03-17T22:09:00Z",
+      "versionCode": "00"
+    }
+  ]
+}

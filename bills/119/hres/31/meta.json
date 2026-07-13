@@ -1,0 +1,65 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/31/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2025-01-13",
+      "actionTime": "19:05:59",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/31",
+    "number": "31",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001213",
+        "district": 1,
+        "firstName": "Blake",
+        "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "D.",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/M001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/31/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/31/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/31/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/31/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:09:28Z",
+    "updateDateIncludingText": "2026-07-11T21:09:28Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Members to the Armed Services; Judiciary; Oversight and Government Reform; and Veterans\u2019 Affairs Committees.</p>",
+      "updateDate": "2025-02-04T13:41:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

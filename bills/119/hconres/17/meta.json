@@ -1,0 +1,148 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2025-03-17",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/17",
+    "number": "17",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000392",
+        "district": 8,
+        "firstName": "David",
+        "fullName": "Rep. Kustoff, David [R-TN-8]",
+        "isByRequest": "N",
+        "lastName": "Kustoff",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/K000392?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/text?format=json"
+    },
+    "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/17/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T14:58:31Z",
+    "updateDateIncludingText": "2026-07-13T18:34:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001222",
+      "district": 7,
+      "firstName": "Max",
+      "fullName": "Rep. Miller, Max L. [R-OH-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "L.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001222?format=json"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig [R-TX-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    },
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": 1,
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000601?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-10T23:08:53Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-05T15:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 23, 2025, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>",
+      "updateDate": "2025-06-12T20:19:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

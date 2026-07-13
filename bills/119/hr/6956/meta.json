@@ -1,0 +1,142 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Ways and Means on February 20, 2026",
+        "pubDate": "2026-04-21T21:57:03Z",
+        "title": "H.R. 6956, BARCODE Efficiency Act",
+        "url": "https://www.cbo.gov/publication/62371"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-508",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/508?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 4 (Wednesday, January 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SCHNEIDER:\nH.R. 6956.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H135]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6956",
+    "number": "6956",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001190",
+        "district": 10,
+        "firstName": "Bradley",
+        "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+        "isByRequest": "N",
+        "lastName": "Schneider",
+        "middleName": "Scott",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/S001190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/text?format=json"
+    },
+    "title": "BARCODE Efficiency Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6956/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:41Z",
+    "updateDateIncludingText": "2026-07-13T19:12:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:20:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-20T17:42:32Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-01-14T17:14:22Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-07T15:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Barcode Automation for Revenue Collection to Organize Disbursement and Enhance Efficiency Act or the BARCODE Efficiency Act</strong></p><p>This bill requires the Internal Revenue Service (IRS) to use barcodes, barcode scanning technology, and optical character recognition (or similar) technology to digitize certain federal tax return information and correspondence, unless the technology is&nbsp;slower or less reliable than other IRS processes (subject to conditions).&nbsp;</p><p>Specifically, the bill requires a scannable barcode on electronically-prepared federal tax returns that are printed and filed in paper format with the IRS. The bill also requires the IRS to use barcode scanning technology to convert data included on such returns into an electronic format.</p><p>Further, the bill requires the IRS to use optical character recognition (or similar) technology to transcribe federal tax returns and correspondence received by the IRS that are not prepared electronically and are received in paper format.</p><p>However, under the bill, the use of barcodes, barcode scanning technology, and optical character recognition (or similar) technology is not required if (1) such technology is slower or less reliable than manual transcription or any other IRS process, and (2) the IRS provides a report to Congress regarding the determination to not use such technology.</p>",
+      "updateDate": "2026-01-14T20:13:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

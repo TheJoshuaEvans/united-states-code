@@ -1,0 +1,52 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1176/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-04-15",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "actionTime": "10:23:58",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1176",
+    "number": "1176",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1176/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1176/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1176/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-13T18:02:49Z",
+    "updateDateIncludingText": "2026-07-13T18:02:49Z"
+  }
+}

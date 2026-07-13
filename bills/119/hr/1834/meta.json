@@ -1,0 +1,397 @@
+{
+  "status": {
+    "actions": {
+      "count": 41,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As amended by amendment no. 1 and published in the Congressional Record, Vol. 171, No. 191 (November 12, 2025, p. H4668)",
+        "pubDate": "2026-01-08T15:06:00Z",
+        "title": "Estimated Budgetary Effects of H.R. 1834 ",
+        "url": "https://www.cbo.gov/publication/61999"
+      }
+    ],
+    "committees": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 41 (Tuesday, March 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McGOVERN:\nH.R. 1834.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H976]\n</pre>",
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2026-02-10",
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 319."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1834",
+    "number": "1834",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000312",
+        "district": 2,
+        "firstName": "James",
+        "fullName": "Rep. McGovern, James P. [D-MA-2]",
+        "isByRequest": "N",
+        "lastName": "McGovern",
+        "middleName": "P.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000312?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 28,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/text?format=json"
+    },
+    "title": "To advance policy priorities that will break the gridlock.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1834/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:39:05Z",
+    "updateDateIncludingText": "2026-07-12T14:33:49Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-21T17:58:23Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        },
+        {
+          "activities": [
+            {
+              "date": "2025-03-21T17:58:23Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-04T21:41:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-04T18:52:56Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Transportation and Maritime Security Subcommittee",
+          "systemCode": "hshm07",
+          "url": "https://api.congress.gov/v3/committee/house/hshm07?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Appropriations Committee",
+      "systemCode": "hsap00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsap00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsbu00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ethics Committee",
+      "systemCode": "hsso00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsso00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:03:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T15:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

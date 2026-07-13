@@ -1,0 +1,92 @@
+{
+  "status": {
+    "actions": {
+      "count": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 119 (Thursday, July 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. FEDORCHAK:\nH.J. Res. 105.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, the Necessary and Proper Clause\n[Page H3202]\n</pre>",
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Became Public Law No: 119-49."
+    },
+    "laws": [
+      {
+        "number": "119-49",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/105",
+    "number": "105",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000482",
+        "firstName": "Julie",
+        "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+        "isByRequest": "N",
+        "lastName": "Fedorchak",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/F000482?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/text?format=json"
+    },
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"North Dakota Field Office Record of Decision and Approved Resource Management Plan\".",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/105/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-07-10T15:23:27Z",
+    "updateDateIncludingText": "2026-07-13T18:34:59Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:07:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This joint resolution nullifies the rule submitted by the Bureau of Land Management (BLM) relating to the Record of Decision and Approved Resource Management Plan (RMP) for the North Dakota Field Office and issued on January 8, 2025.&nbsp;</p><p>By way of background, an RMP guides the management of lands administered by BLM. The 2025 North Dakota&nbsp;RMP modified the 1988&nbsp;RMP, including by limiting development of oil and gas in low-potential areas and new coal leasing to areas within four miles of existing mines.</p>",
+      "updateDate": "2025-07-18T21:25:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

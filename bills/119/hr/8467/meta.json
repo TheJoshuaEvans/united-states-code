@@ -1,0 +1,88 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8467/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8467/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 72 (Thursday, April 23, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PALMER:\nH.R. 8467.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H3092]\n</pre>",
+    "introducedDate": "2026-04-23",
+    "latestAction": {
+      "actionDate": "2026-06-11",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8467",
+    "number": "8467",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000609",
+        "district": 6,
+        "firstName": "Gary",
+        "fullName": "Rep. Palmer, Gary J. [R-AL-6]",
+        "isByRequest": "N",
+        "lastName": "Palmer",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/P000609?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8467/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8467/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8467/text?format=json"
+    },
+    "title": "ZOMBIE Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8467/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-15T18:06:50Z",
+    "updateDateIncludingText": "2026-07-13T17:16:23Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T13:07:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-23T13:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Zeroing Out Monetary Benefits Improperly Expended Act or the ZOMBIE Act</strong></p><p>This bill focuses requirements governing the assessment, tracking, and reporting of improper payments made by federal agencies on improper payments that result in financial loss to the government.</p><p>The bill defines <em>financial loss to the government</em> as any payment (or part of a payment) in excess of the correct amount that results in a financial loss to the government, but excludes any payment (or part of a payment) that is made to the correct recipient for the correct amount but fails to meet administrative procedures (other than those required to verify the validity of the payment).</p><p>The bill requires agencies to assess programs and activities every three years for the risk of improper payments resulting in financial loss to the government. The bill also generally modifies other reporting requirements to focus on such improper payments, including by expanding reporting requirements to include information about actions taken by agencies to prevent such payments (e.g., use of the Do Not Pay system) and to implement certain best practices.</p><p>The bill also</p><ul><li>requires an estimate of such improper payments in agencies\u2019 annual budget justification,</li><li>requires the Department of the Treasury to develop risk assessment guidance, and</li><li>allows up to 75% of funds that are recovered through audits to be directed back to the original program or activity (currently, up to 25% of such funds may be directed back to the original program or activity).</li></ul>",
+      "updateDate": "2026-06-05T18:52:27Z",
+      "versionCode": "00"
+    }
+  ]
+}

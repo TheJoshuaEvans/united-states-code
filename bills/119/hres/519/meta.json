@@ -1,0 +1,178 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-17",
+    "latestAction": {
+      "actionDate": "2025-06-25",
+      "actionTime": "16:46:48",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/519",
+    "number": "519",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001234",
+        "district": 3,
+        "firstName": "Kelly",
+        "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+        "isByRequest": "N",
+        "lastName": "Morrison",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/M001234?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/text?format=json"
+    },
+    "title": "Condemning the attacks on Minnesota lawmakers in Brooklyn Park and Champlin, Minnesota, and calling for unity and the rejection of political violence in Minnesota and across the United States.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/519/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:54:32Z",
+    "updateDateIncludingText": "2026-07-11T20:54:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001143",
+      "district": 4,
+      "firstName": "Betty",
+      "fullName": "Rep. McCollum, Betty [D-MN-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCollum",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/M001143?format=json"
+    },
+    {
+      "bioguideId": "E000294",
+      "district": 6,
+      "firstName": "Tom",
+      "fullName": "Rep. Emmer, Tom [R-MN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Emmer",
+      "party": "R",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/E000294?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "O000173",
+      "district": 5,
+      "firstName": "Ilhan",
+      "fullName": "Rep. Omar, Ilhan [D-MN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Omar",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/O000173?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-17T15:04:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution condemns the June 14, 2025, attacks on Minnesota state legislators&nbsp;and calls on all people in the United States to reaffirm our commitment to a safe, civil, and peaceful democracy.</p><p>The resolution also honors (1) the lives of Speaker Emerita Melissa Hortman and her husband Mark Hortman who were killed, (2) Senator John Hoffman and his wife Yvette Hoffman who were critically injured, and (3) the law enforcement officers who rapidly responded to the attacks and apprehended the suspected perpetrator.</p>",
+      "updateDate": "2025-07-29T19:24:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

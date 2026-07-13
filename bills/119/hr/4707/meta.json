@@ -1,0 +1,151 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on \nDecember 2, 2025\n",
+        "pubDate": "2025-12-08T18:50:00Z",
+        "title": "H.R. 4707, a bill to designate the facility of the United States Postal Service located at 1019 Avenue H in Fort Madison, Iowa, as the \u201cMartin L. Graber Post Office\u201d",
+        "url": "https://www.cbo.gov/publication/61927"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. MILLER-MEEKS:\nH.R. 4707.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3649]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4707",
+    "number": "4707",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001215",
+        "district": 1,
+        "firstName": "Mariannette",
+        "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+        "isByRequest": "N",
+        "lastName": "Miller-Meeks",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/M001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 1019 Avenue H in Fort Madison, Iowa, as the Martin L. Graber Post Office.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4707/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T16:24:57Z",
+    "updateDateIncludingText": "2026-07-13T18:47:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "H001091",
+      "district": 2,
+      "firstName": "Ashley",
+      "fullName": "Rep. Hinson, Ashley [R-IA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hinson",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/H001091?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-07-25",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-15T17:23:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T17:49:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T14:04:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-23",
+      "actionDesc": "Introduced in House",
+      "text": "This bill designates the facility of the United States Postal Service located at 1019 Avenue H in Fort Madison, Iowa, as the \"Martin L. Graber Post Office\".",
+      "updateDate": "2025-08-05T12:19:30Z",
+      "versionCode": "00"
+    }
+  ]
+}

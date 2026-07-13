@@ -1,0 +1,108 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-03",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "actionTime": "15:24:44",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/923",
+    "number": "923",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001205",
+        "district": 1,
+        "firstName": "Carol",
+        "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+        "isByRequest": "N",
+        "lastName": "Miller",
+        "middleName": "D.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/M001205?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/text?format=json"
+    },
+    "title": "A resolution honoring the service and sacrifice of United States Army Specialist Sarah Beckstrom and United States Air Force Staff Sergeant Andrew Wolfe, who were tragically shot in Washington, D.C., in a targeted assault against United States service members on November 26, 2025.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/923/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:14:40Z",
+    "updateDateIncludingText": "2026-07-11T20:14:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001235",
+      "district": 2,
+      "firstName": "Riley",
+      "fullName": "Rep. Moore, Riley M. [R-WV-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-03",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001235?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-03T15:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution honors the service and sacrifice of U.S. Army Specialist Sarah Beckstrom and U.S. Air Force Staff Sergeant Andrew Wolfe as members of the West Virginia National Guard and extends sympathy, gratitude, and support for their families in the wake of the attack on November 26, 2025, in Washington, DC.</p><p>The resolution also honors the bravery of&nbsp;the other National Guard members on the scene, expresses gratitude for the action of first responders, and condemns&nbsp;the attack.</p>",
+      "updateDate": "2025-12-15T20:32:40Z",
+      "versionCode": "00"
+    }
+  ]
+}

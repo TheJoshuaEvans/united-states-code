@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-462",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/462?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-22",
+    "latestAction": {
+      "actionDate": "2026-01-22",
+      "actionTime": "11:52:34",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1014",
+    "number": "1014",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1014/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T22:09:33Z",
+    "updateDateIncludingText": "2026-07-11T22:09:33Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-22T14:03:24Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-22",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; and for other purposes.",
+      "updateDate": "2026-03-13T12:10:55Z",
+      "versionCode": "07"
+    }
+  ]
+}

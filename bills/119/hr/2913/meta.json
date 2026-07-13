@@ -1,0 +1,728 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/actions?format=json"
+    },
+    "committees": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 66 (Monday, April 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MEEKS:\nH.R. 2913.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution\n[Page H1607]\n</pre>",
+    "cosponsors": {
+      "count": 43,
+      "countIncludingWithdrawnCosponsors": 43,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-14",
+    "latestAction": {
+      "actionDate": "2026-06-08",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2913",
+    "number": "2913",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001137",
+        "district": 5,
+        "firstName": "Gregory",
+        "fullName": "Rep. Meeks, Gregory W. [D-NY-5]",
+        "isByRequest": "N",
+        "lastName": "Meeks",
+        "middleName": "W.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001137?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 34,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/text?format=json"
+    },
+    "title": "Ukraine Support Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2913/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-18T13:08:14Z",
+    "updateDateIncludingText": "2026-07-12T14:59:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H000874",
+      "district": 5,
+      "firstName": "Steny",
+      "fullName": "Rep. Hoyer, Steny H. [D-MD-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hoyer",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-14",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/H000874?format=json"
+    },
+    {
+      "bioguideId": "C001078",
+      "district": 11,
+      "firstName": "Gerald",
+      "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Connolly",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-14",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001078?format=json"
+    },
+    {
+      "bioguideId": "D000399",
+      "district": 37,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Doggett, Lloyd [D-TX-37]",
+      "isOriginalCosponsor": true,
+      "lastName": "Doggett",
+      "party": "D",
+      "sponsorshipDate": "2025-04-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/D000399?format=json"
+    },
+    {
+      "bioguideId": "K000375",
+      "district": 9,
+      "firstName": "William",
+      "fullName": "Rep. Keating, William R. [D-MA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Keating",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-14",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/K000375?format=json"
+    },
+    {
+      "bioguideId": "D000631",
+      "district": 4,
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2025-04-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000631?format=json"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": 1,
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2025-04-21",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000601?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-21",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    },
+    {
+      "bioguideId": "S001193",
+      "district": 14,
+      "firstName": "Eric",
+      "fullName": "Rep. Swalwell, Eric [D-CA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Swalwell",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001193?format=json"
+    },
+    {
+      "bioguideId": "J000310",
+      "district": 32,
+      "firstName": "Julie",
+      "fullName": "Rep. Johnson, Julie [D-TX-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/J000310?format=json"
+    },
+    {
+      "bioguideId": "K000402",
+      "district": 26,
+      "firstName": "Timothy",
+      "fullName": "Rep. Kennedy, Timothy M. [D-NY-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/K000402?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "C001127",
+      "district": 20,
+      "firstName": "Sheila",
+      "fullName": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cherfilus-McCormick",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001127?format=json"
+    },
+    {
+      "bioguideId": "F000110",
+      "district": 6,
+      "firstName": "Cleo",
+      "fullName": "Rep. Fields, Cleo [D-LA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fields",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/F000110?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "P000034",
+      "district": 6,
+      "firstName": "Frank",
+      "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pallone",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000034?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "R000599",
+      "district": 25,
+      "firstName": "Raul",
+      "fullName": "Rep. Ruiz, Raul [D-CA-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ruiz",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/R000599?format=json"
+    },
+    {
+      "bioguideId": "M001206",
+      "district": 25,
+      "firstName": "Joseph",
+      "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Morelle",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001206?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "O000176",
+      "district": 2,
+      "firstName": "Johnny",
+      "fullName": "Rep. Olszewski, Johnny [D-MD-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Olszewski",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/O000176?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2025-07-02",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "M001226",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Menendez, Robert [D-NJ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Menendez",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001226?format=json"
+    },
+    {
+      "bioguideId": "N000002",
+      "district": 12,
+      "firstName": "Jerrold",
+      "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nadler",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/N000002?format=json"
+    },
+    {
+      "bioguideId": "B001324",
+      "district": 1,
+      "firstName": "Wesley",
+      "fullName": "Rep. Bell, Wesley [D-MO-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bell",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/B001324?format=json"
+    },
+    {
+      "bioguideId": "E000301",
+      "district": 3,
+      "firstName": "Sarah",
+      "fullName": "Rep. Elfreth, Sarah [D-MD-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Elfreth",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/E000301?format=json"
+    },
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    },
+    {
+      "bioguideId": "L000562",
+      "district": 8,
+      "firstName": "Stephen",
+      "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lynch",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/L000562?format=json"
+    },
+    {
+      "bioguideId": "M001231",
+      "district": 22,
+      "firstName": "John",
+      "fullName": "Rep. Mannion, John W. [D-NY-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mannion",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001231?format=json"
+    },
+    {
+      "bioguideId": "M001223",
+      "district": 2,
+      "firstName": "Seth",
+      "fullName": "Rep. Magaziner, Seth [D-RI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Magaziner",
+      "party": "D",
+      "sponsorshipDate": "2025-09-11",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/M001223?format=json"
+    },
+    {
+      "bioguideId": "M001188",
+      "district": 6,
+      "firstName": "Grace",
+      "fullName": "Rep. Meng, Grace [D-NY-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meng",
+      "party": "D",
+      "sponsorshipDate": "2025-09-19",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001188?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-09-19",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "W000831",
+      "district": 11,
+      "firstName": "James",
+      "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Walkinshaw",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-30",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000831?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "C001068",
+      "district": 9,
+      "firstName": "Steve",
+      "fullName": "Rep. Cohen, Steve [D-TN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cohen",
+      "party": "D",
+      "sponsorshipDate": "2025-11-10",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/C001068?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-11-19",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "R000606",
+      "district": 8,
+      "firstName": "Jamie",
+      "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Raskin",
+      "party": "D",
+      "sponsorshipDate": "2025-11-19",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/R000606?format=json"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2026-04-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "K000009",
+      "district": 9,
+      "firstName": "Marcy",
+      "fullName": "Rep. Kaptur, Marcy [D-OH-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kaptur",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/K000009?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsbu00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:02:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-14T13:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Ukraine Support Act</strong><br/>&nbsp;<br/>This bill addresses the war between Russia&nbsp;and Ukraine by (1) providing assistance to Ukraine and certain European countries, and (2) establishing penalties for Russia and certain foreign persons (individuals and entities).<br/>&nbsp;<br/>Assistance provided under the bill includes</p><ul><li>establishing a reconstruction trust fund for Ukraine,</li><li>requiring the U.S. International Development Finance Corporation to prioritize support for Ukraine,</li><li>reviving the President\u2019s authority to lend or lease defense articles to Ukraine or Eastern European countries affected by the war through FY2028,&nbsp;</li><li>extending through 2027 the Department of Defense\u2019s authority to provide security assistance and intelligence support to Ukrainian forces, and</li><li>requiring the Department of State to take certain actions to build the capacity of the militaries and border forces of Baltic countries.</li></ul><p>Additionally, the President must periodically determine if the Russian government or any proxy is waging a war of aggression against Ukraine, refusing to sincerely negotiate a peace agreement with Ukraine, or acting in violation of a negotiated peace agreement with Ukraine.&nbsp;If the President makes such a determination, the President must impose certain penalties including</p><ul><li>property- and visa-blocking sanctions on certain Russian officials;</li><li>property-blocking sanctions on Russian companies in the oil and mining sectors, Rosatom (Russia's state-owned nuclear enterprise) and its subsidiaries, and certain Russian financial institutions; and</li><li>increasing the rate of duty on all goods and services imported from Russia into the United States to at least 500% relative to the value of such goods and services.</li></ul>",
+      "updateDate": "2026-06-02T17:02:52Z",
+      "versionCode": "00"
+    }
+  ]
+}

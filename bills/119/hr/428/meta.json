@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on March 18, 2026",
+        "pubDate": "2026-04-21T15:40:00Z",
+        "title": "H.R. 428, Bonuses for Cost-Cutters and Fraud Preventers Act of 2025",
+        "url": "https://www.cbo.gov/publication/62369"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 8 (Wednesday, January 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FLEISCHMANN:\nH.R. 428.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18, which states the Congress\nshall have the power ``to make all laws which shall be\nnecessary and proper for carrying into execution the\nforegoing powers, and all other powers vested by this\nConstitution in the government of the United States, or in\nany department or office thereof.''\n[Page H186]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/428",
+    "number": "428",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000459",
+        "district": 3,
+        "firstName": "Charles",
+        "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+        "isByRequest": "N",
+        "lastName": "Fleischmann",
+        "middleName": "J. \"Chuck\"",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/F000459?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/text?format=json"
+    },
+    "title": "Bonuses for Cost-Cutters and Fraud Preventers Act of 2026",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/428/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-13T05:53:28Z",
+    "updateDateIncludingText": "2026-07-13T18:43:48Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2026-04-09",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "D000616",
+      "district": 4,
+      "firstName": "Scott",
+      "fullName": "Rep. DesJarlais, Scott [R-TN-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "DesJarlais",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/D000616?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-09T19:46:01Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T13:00:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-15T15:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Bonuses for Cost-Cutters Act of&nbsp;</strong><strong>2025</strong></p><p>This bill expands the awards program for cost-saving identifications by federal employees of fraud, waste, or mismanagement to include identifications of certain operational expenses that are wasteful (i.e., that are identified as wasteful by an employee and that an agency determines are not required for the purposes for which the amounts were made available). An agency must propose any identified wasteful expenses for rescission.</p><p>The bill also doubles the maximum cash award that may be made under the program.</p>",
+      "updateDate": "2025-06-25T16:40:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

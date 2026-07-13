@@ -1,0 +1,126 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on the Judiciary on March 25, 2025",
+        "pubDate": "2025-04-21T15:36:00Z",
+        "title": "H.R. 2255, Federal Law Enforcement Officer Service Weapon Purchase Act of 2025",
+        "url": "https://www.cbo.gov/publication/61349"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-80",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/80?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FRY:\nH.R. 2255.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution\n[Page H1189]\n</pre>",
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2025-05-19",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2255",
+    "number": "2255",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000478",
+        "district": 7,
+        "firstName": "Russell",
+        "fullName": "Rep. Fry, Russell [R-SC-7]",
+        "isByRequest": "N",
+        "lastName": "Fry",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/F000478?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/text?format=json"
+    },
+    "title": "Federal Law Enforcement Officer Service Weapon Purchase Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2255/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:28:20Z",
+    "updateDateIncludingText": "2026-07-12T14:53:33Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-19T20:17:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-28T16:35:20Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-25T16:42:55Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-21T20:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Law Enforcement Officer Service Weapon Purchase Act</strong></p> <p>This bill directs the General Services Administration to establish a program under which a federal law enforcement officer may purchase a retired firearm from the agency that issued the firearm to the officer.</p>",
+      "updateDate": "2025-05-08T15:12:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

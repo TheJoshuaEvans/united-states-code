@@ -1,0 +1,173 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:19:00Z",
+        "title": "H.R. 1634, ThinkDIFFERENTLY About Disability Employment Act",
+        "url": "https://www.cbo.gov/publication/61316"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-32",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/32?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 38 (Wednesday, February 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STAUBER:\nH.R. 1634.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 ``The Congress shall have\npower to . . . provide for the . . . general welfare of the\nUnited States; . . .''\n[Page H880]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1634",
+    "number": "1634",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001212",
+        "district": 8,
+        "firstName": "Pete",
+        "fullName": "Rep. Stauber, Pete [R-MN-8]",
+        "isByRequest": "N",
+        "lastName": "Stauber",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001212?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/text?format=json"
+    },
+    "title": "ThinkDIFFERENTLY About Disability Employment Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1634/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:08:22Z",
+    "updateDateIncludingText": "2026-07-12T14:31:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001231",
+      "district": 12,
+      "firstName": "Lateefah",
+      "fullName": "Rep. Simon, Lateefah [D-CA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-02-26",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001231?format=json"
+    },
+    {
+      "bioguideId": "A000379",
+      "district": 4,
+      "firstName": "Mark",
+      "fullName": "Rep. Alford, Mark [R-MO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Alford",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/A000379?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-02-26",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:35:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T20:16:34Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:05:01Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-26T15:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>ThinkDIFFERENTLY About Disability Employment Act</strong></p><p>This bill requires the Small Business Administration (SBA) to (1) provide assistance to individuals with disabilities who desire to become entrepreneurs or to be self-employed, (2) help individuals with disabilities find employment at small businesses; and (3) assist small businesses with hiring such individuals and with accessibility issues applicable to such individuals.</p><p>The SBA must conduct outreach and education about such activities.</p><p>The bill establishes reporting requirements with respect to these activities.</p>",
+      "updateDate": "2025-05-30T21:12:32Z",
+      "versionCode": "00"
+    }
+  ]
+}

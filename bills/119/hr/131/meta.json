@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 37,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-187",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/187?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BOEBERT:\nH.R. 131.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe Congress shall have Power To lay and collect Taxes,\nDuties, Imposts and Excises, to pay the Debts and provide for\nthe common Defence and general Welfare of the United States;\nbut all Duties, Imposts and Excises shall be uniform\nthroughout the United States;\nThe single subject of this legislation is:\nto make certain modifications to the repayment for the\nArkansas Valley Conduit in the State of Colorado.\n[Page H40]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2026-01-08",
+      "actionTime": "15:24:41",
+      "text": "The Chair directed the Clerk to notify the Senate of the action of the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/131",
+    "number": "131",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000825",
+        "district": 3,
+        "firstName": "Lauren",
+        "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+        "isByRequest": "N",
+        "lastName": "Boebert",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/B000825?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/text?format=json"
+    },
+    "title": "Finish the Arkansas Valley Conduit Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/131/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:38:24Z",
+    "updateDateIncludingText": "2026-07-12T14:29:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-01-14",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-08T20:24:26Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-01-08T20:24:06Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-07-10T15:37:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T20:29:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-03T16:22:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T22:14:50Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-22T16:21:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Finish the Arkansas Valley Conduit Act</strong></p><p>This bill reduces payments that communities within the Arkansas River Valley must pay to the Bureau of Reclamation for the construction of the Arkansas Valley Conduit, a pipeline in Colorado for delivering water from the Pueblo Reservoir to such communities. Specifically, it removes interest payments and extends the repayment period to 100 years.</p>",
+      "updateDate": "2025-02-12T22:29:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

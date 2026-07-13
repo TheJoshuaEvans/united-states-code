@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-112",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/112?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 67 (Thursday, April 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. VAN DUYNE:\nH.R. 2966.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Sec. 8\n[Page H1614]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-06-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2966",
+    "number": "2966",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000134",
+        "district": 24,
+        "firstName": "Beth",
+        "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+        "isByRequest": "N",
+        "lastName": "Van Duyne",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/V000134?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/text?format=json"
+    },
+    "title": "American Entrepreneurs First Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2966/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:58:19Z",
+    "updateDateIncludingText": "2026-07-12T14:59:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001115",
+      "district": 27,
+      "firstName": "Michael",
+      "fullName": "Rep. Cloud, Michael [R-TX-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cloud",
+      "party": "R",
+      "sponsorshipDate": "2025-04-17",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001115?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-09T20:06:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-21T16:53:23Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-30T17:35:01Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-17T13:34:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>American Entrepreneurs First Act</strong></p><p>This bill revises the application requirements for the Small Business Administration's 7(a) loan and 504 loan programs.</p><p>Specifically, the bill requires applications for such loans to include (1) the applicant's date of birth; and (2) a certification that the applicant or all beneficial owners are citizens, nationals, or lawful permanent residents of the United States.</p><p>The bill specifies that certain individuals are ineligible for such loans, including (1) asylees, (2) refugees, (3) individuals issued a visa to remain in the United States, (4) individuals legally classified as nonimmigrants, (5) individuals to whom deferred action has been granted pursuant to the Deferred Action for Childhood Arrivals, and (6) individuals without lawful status under the immigration laws of the United States.</p>",
+      "updateDate": "2025-06-03T14:09:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

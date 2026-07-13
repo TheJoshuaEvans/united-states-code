@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4900/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4900/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4900/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4900",
+    "number": "4900",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "K000384",
+        "firstName": "Timothy",
+        "fullName": "Sen. Kaine, Tim [D-VA]",
+        "isByRequest": "N",
+        "lastName": "Kaine",
+        "middleName": "M.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/K000384?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4900/text?format=json"
+    },
+    "title": "North Korean Human Rights Reauthorization Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4900/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T13:57:50Z",
+    "updateDateIncludingText": "2026-07-13T13:57:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T20:11:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ]
+}

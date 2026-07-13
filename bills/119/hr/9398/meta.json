@@ -1,0 +1,69 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9398/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9398/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9398",
+    "number": "9398",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001126",
+        "district": 15,
+        "firstName": "Mike",
+        "fullName": "Rep. Carey, Mike [R-OH-15]",
+        "isByRequest": "N",
+        "lastName": "Carey",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/C001126?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9398/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9398/text?format=json"
+    },
+    "title": "Historic Preservation and Land Conservation Certainty Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9398/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:27:05Z",
+    "updateDateIncludingText": "2026-07-13T18:27:05Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-23T16:03:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

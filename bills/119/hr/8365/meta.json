@@ -1,0 +1,158 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-635",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/635?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 69 (Monday, April 20, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BIGGS of Arizona:\nH.R. 8365.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto Article I, Section 8, Clause 9 of the United States\nConstitution\n[Page H2996]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-20",
+    "latestAction": {
+      "actionDate": "2026-05-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8365",
+    "number": "8365",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001302",
+        "district": 5,
+        "firstName": "Andy",
+        "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/B001302?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/text?format=json"
+    },
+    "title": "Monitor Accountability Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8365/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-20T03:08:30Z",
+    "updateDateIncludingText": "2026-07-13T17:15:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000478",
+      "district": 7,
+      "firstName": "Russell",
+      "fullName": "Rep. Fry, Russell [R-SC-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fry",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/F000478?format=json"
+    },
+    {
+      "bioguideId": "N000026",
+      "district": 22,
+      "firstName": "Troy",
+      "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nehls",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/N000026?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-18T19:41:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-14T21:05:31Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-05-14T18:29:01Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-05-04T16:29:23Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-04-22T15:39:28Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-20T16:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-04",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Monitor Accountability Act</strong></p><p>This bill requires the Administrative Office of the U.S. Courts to establish conditions on the appointment of monitors to oversee state and local governmental entities. A <em>monitor</em> is an independent official appointed to oversee corrective reforms as part of a civil settlement agreement or consent decree, such as to remedy a pattern or practice of unconstitutional policing.</p><p>Among the conditions, this bill requires notice and an opportunity for public comment prior to the appointment of a monitor, limits an individual to one monitor appointment at a time, sets a five-year term limit for monitors, and requires a public accounting of the fees charged and services provided by the monitor. It also caps fees and explicitly authorizes the use of pro bono services.</p><p>In 2021, the Department of Justice began implementing a set of principles and specific recommendations regarding the use of monitors in civil settlement agreements and consent decrees involving state and local governmental entities, including recommendations relating to term limits, capping fees, and public accountability.&nbsp;</p>",
+      "updateDate": "2026-05-11T18:11:36Z",
+      "versionCode": "07"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on July 23, 2025",
+        "pubDate": "2025-10-24T16:18:00Z",
+        "title": "H.R. 3620, Southcentral Foundation Land Transfer Act of 2025",
+        "url": "https://www.cbo.gov/publication/61836"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-398",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/398?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEGICH:\nH.R. 3620.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H2377]\n</pre>",
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3620",
+    "number": "3620",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001323",
+        "firstName": "Nicholas",
+        "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+        "isByRequest": "N",
+        "lastName": "Begich",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/B001323?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/text?format=json"
+    },
+    "title": "Southcentral Foundation Land Transfer Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3620/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:19Z",
+    "updateDateIncludingText": "2026-07-12T00:46:00Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T18:30:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-16T19:20:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-09T18:59:16Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-29T15:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-09T18:59:03Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T17:24:18Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T17:24:02Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-05-29T15:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-11T17:40:56Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-06-04T14:13:48Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Indian and Insular Affairs Subcommittee",
+          "systemCode": "hsii24",
+          "url": "https://api.congress.gov/v3/committee/house/hsii24?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-09",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Southcentral Foundation Land Transfer Act of 2025</strong></p><p>This bill directs the Department of Health and Human Services (HHS) to convey approximately 3.4 acres in Anchorage, Alaska, to the Southcentral Foundation (SCF) for use in connection with health and social services programs.</p><p>The conveyance must be made by warranty deed. The conveyance may not (1) require any consideration (such as payment) from the SCF for the property; (2) impose any obligation, term, or condition on the SCF relating to that property; or (3) allow for any U.S. reversionary interest in the property.</p><p>HHS must be accorded any easement or access to the property as may be reasonably necessary to satisfy any retained obligation or liability of HHS.</p><p>The bill prohibits the SCF from being liable for certain environmental contamination that occurred on or before the date on which the property is conveyed to the SCF. In turn, HHS may not be liable for any contamination that occurred after the date that the SCF controlled, occupied, and used the property.&nbsp;</p>",
+      "updateDate": "2025-12-11T21:04:16Z",
+      "versionCode": "07"
+    }
+  ]
+}

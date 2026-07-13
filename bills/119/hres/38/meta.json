@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/38/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-14",
+    "latestAction": {
+      "actionDate": "2025-01-14",
+      "actionTime": "12:11:51",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/38",
+    "number": "38",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000474",
+        "district": 1,
+        "firstName": "Mike",
+        "fullName": "Rep. Flood, Mike [R-NE-1]",
+        "isByRequest": "N",
+        "lastName": "Flood",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000474?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/38/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/38/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/38/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/38/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:09:30Z",
+    "updateDateIncludingText": "2026-07-11T21:09:30Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Members to the committees on&nbsp;Appropriations;&nbsp;Education and Workforce;&nbsp;Homeland Security;&nbsp;Rules;&nbsp;Small Business; and&nbsp;Transportation and Infrastructure.</p>",
+      "updateDate": "2025-02-07T16:51:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

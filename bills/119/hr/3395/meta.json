@@ -1,0 +1,150 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Financial Services on June 3, 2025",
+        "pubDate": "2025-07-16T17:28:57Z",
+        "title": "H.R. 3395, Middle Market IPO Cost Act",
+        "url": "https://www.cbo.gov/publication/61566"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-128",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/128?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 81 (Wednesday, May 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HIMES:\nH.R. 3395.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of Section 8 of Article I of the Constitution\n[Page H2052]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3395",
+    "number": "3395",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001047",
+        "district": 4,
+        "firstName": "James",
+        "fullName": "Rep. Himes, James A. [D-CT-4]",
+        "isByRequest": "N",
+        "lastName": "Himes",
+        "middleName": "A.",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/H001047?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/text?format=json"
+    },
+    "title": "Middle Market IPO Cost Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3395/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:25Z",
+    "updateDateIncludingText": "2026-07-12T15:02:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-06-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T15:40:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:58:19Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:08:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T14:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Middle Market IPO Cost Act </strong></p><p>This bill requires the Government Accountability Office to study and report on the costs encountered by small- and medium-sized companies when undertaking initial public offerings.</p>",
+      "updateDate": "2025-07-18T19:51:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

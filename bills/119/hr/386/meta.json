@@ -1,0 +1,115 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 7 (Tuesday, January 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DAVIDSON:\nH.R. 386.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3 of the U.S. Constitution.\n[Page H149]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-14",
+    "latestAction": {
+      "actionDate": "2025-02-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/386",
+    "number": "386",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000626",
+        "district": 8,
+        "firstName": "Warren",
+        "fullName": "Rep. Davidson, Warren [R-OH-8]",
+        "isByRequest": "N",
+        "lastName": "Davidson",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/D000626?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/text?format=json"
+    },
+    "title": "Chinese Currency Accountability Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/386/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:13:21Z",
+    "updateDateIncludingText": "2026-07-13T18:36:12Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-11T15:39:01Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-14T15:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Chinese Currency Accountability Act of 2025</strong></p><p>This bill requires the United States to oppose, absent specified conditions, any increase in the weight of Chinese currency (i.e., the renminbi) in the basket of currencies (currently, a set of five currencies, each with different weightings) used to determine the value of Special Drawing Rights. Special Drawing Rights are international reserve assets created by the International Monetary Fund (IMF) to supplement member countries' official foreign exchange reserves.</p><p>Specifically, the Department of the Treasury must instruct certain U.S. officials at the IMF to oppose any such increase unless Treasury has certified that China is in compliance with certain standards and international agreements, including that (1) China is in compliance with all general obligations of members of the IMF,  (2) China has not been found to have manipulated its currency in the preceding 12 months, and (3) China&nbsp;adheres to the rules and principles of the Paris Club and the Organisation for Economic Co-operation and Development (OECD) Arrangement on Officially Supported Export Credits.&nbsp;</p>",
+      "updateDate": "2025-02-11T17:12:26Z",
+      "versionCode": "00"
+    }
+  ]
+}

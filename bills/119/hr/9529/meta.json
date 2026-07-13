@@ -1,0 +1,70 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9529/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9529/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SALINAS:\nH.R. 9529.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to Article I, Section 8, Clause 3\n[Page H4317]\n</pre>",
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9529",
+    "number": "9529",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001226",
+        "district": 6,
+        "firstName": "Andrea",
+        "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+        "isByRequest": "N",
+        "lastName": "Salinas",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/S001226?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9529/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9529/text?format=json"
+    },
+    "title": "NO PROFIT Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9529/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T19:09:27Z",
+    "updateDateIncludingText": "2026-07-13T19:09:27Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:05:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives",
+        "pubDate": "2025-06-27T19:18:00Z",
+        "title": "H.R. 2480, Securing Semiconductor Supply Chains Act of 2025",
+        "url": "https://www.cbo.gov/publication/61529"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-64",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/64?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 57 (Monday, March 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LANDSMAN:\nH.R. 2480.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section VIIII\n[Page H1375]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-31",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2480",
+    "number": "2480",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000601",
+        "district": 1,
+        "firstName": "Greg",
+        "fullName": "Rep. Landsman, Greg [D-OH-1]",
+        "isByRequest": "N",
+        "lastName": "Landsman",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000601?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/text?format=json"
+    },
+    "title": "Securing Semiconductor Supply Chains Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2480/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:58:23Z",
+    "updateDateIncludingText": "2026-07-12T14:55:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B000668",
+      "district": 2,
+      "firstName": "Cliff",
+      "fullName": "Rep. Bentz, Cliff [R-OR-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bentz",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B000668?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:37:26Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:25:24Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-31T16:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Securing Semiconductor Supply Chains Act of 2025</strong><strong></strong></p><p>This bill requires the SelectUSA program to solicit comments from state economic development organizations regarding federal efforts to increase foreign direct investment in semiconductor-related manufacturing and production. SelectUSA must then report to Congress on such comments and the strategies that SelectUSA may employ to increase such investment and to secure the U.S. semiconductor supply chain.</p><p>SelectUSA is a Department of Commerce program established to coordinate federal efforts to attract and retain business investment in the United States.</p>",
+      "updateDate": "2025-04-23T19:04:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

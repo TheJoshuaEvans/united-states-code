@@ -1,0 +1,81 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9638/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9638/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9638/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9638",
+    "number": "9638",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "S001205",
+        "district": 5,
+        "firstName": "Mary Gay",
+        "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+        "isByRequest": "N",
+        "lastName": "Scanlon",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/S001205?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9638/text?format=json"
+    },
+    "title": "Sunshine for Our Kids Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9638/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-12T13:49:29Z",
+    "updateDateIncludingText": "2026-07-12T13:49:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:04:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

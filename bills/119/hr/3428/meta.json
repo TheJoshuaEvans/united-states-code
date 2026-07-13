@@ -1,0 +1,147 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-241",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/241?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 82 (Thursday, May 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BRESNAHAN:\nH.R. 3428.\nCongress has the power to enact this legislation pursuant\nto the following:\nPer Article I Section 8 of the Constitution, Congress has\nthe power ``make all Laws which shall be necessary and proper\nfor carrying into Execution the foregoing Powers, and all\nother Powers vested by this Constitution in the Government of\nthe United States, or in any Department or Officer thereof.''\nRegulation of river basin compacts falls within this perview.\n[Page H2104]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-15",
+    "latestAction": {
+      "actionDate": "2025-09-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3428",
+    "number": "3428",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001327",
+        "district": 8,
+        "firstName": "Robert",
+        "fullName": "Rep. Bresnahan, Robert P. [R-PA-8]",
+        "isByRequest": "N",
+        "lastName": "Bresnahan",
+        "middleName": "P.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/B001327?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/text?format=json"
+    },
+    "title": "Mid-Atlantic River Basin Commissions Review Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:28Z",
+    "updateDateIncludingText": "2026-07-12T15:03:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000605",
+      "district": 10,
+      "firstName": "Scott",
+      "fullName": "Rep. Perry, Scott [R-PA-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Perry",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/P000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T18:54:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:39:27Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-11T14:39:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T14:39:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-05-15T14:05:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-16T14:30:14Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02",
+          "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Mid-Atlantic River Basin Commissions Review Act</strong></p><p>This bill directs the Government Accountability Office (GAO) to review and report on the ethics policies, practices used to communicate with the public, and funding of the Mid-Atlantic River Basin Commissions. These commissions are the Susquehanna River Basin Commission, the Delaware River Basin Commission, and the Interstate Commission on the Potomac River Basin.</p><p>The GAO must submit a report to Congress on (1) the findings of the review, and (2) any recommendations to increase the transparency or congressional oversight of the commissions.</p><p>Within 90 days of the GAO submitting its report,&nbsp;and annually thereafter for five years, each commission must submit to Congress a plan detailing actions the commission has taken to comply with the recommendations contained in the GAO's report.</p>",
+      "updateDate": "2025-09-08T15:48:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

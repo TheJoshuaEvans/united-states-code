@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MACE:\nH.R. 872.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution.\n[Page H434]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/872",
+    "number": "872",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000194",
+        "district": 1,
+        "firstName": "Nancy",
+        "fullName": "Rep. Mace, Nancy [R-SC-1]",
+        "isByRequest": "N",
+        "lastName": "Mace",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/M000194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/text?format=json"
+    },
+    "title": "Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/872/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T23:38:36Z",
+    "updateDateIncludingText": "2026-07-13T17:18:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001313",
+      "district": 11,
+      "firstName": "Shontel",
+      "fullName": "Rep. Brown, Shontel M. [D-OH-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Brown",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001313?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T17:41:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025</strong></p><p>This bill requires revisions to acquisition regulations&nbsp;related to information systems vulnerabilities&nbsp;for certain federal contractors. The revisions apply to contractors whose contract is at or above the simplified acquisition threshold ($250,000 in most cases) or that use, operate, manage, or maintain a federal information system on behalf of an agency.&nbsp;</p><p>Under the bill, the Office of Management and Budget must review the Federal Acquisition Regulation (FAR) and recommend updated contract requirements and language for contractor vulnerability disclosure programs. (Such programs establish processes for identifying, reporting, and mitigating information system vulnerabilities discovered by security researchers, software developers, and others.) The recommendations must include requirements to ensure that such contractors implement vulnerability disclosure policies consistent with guidelines from the National Institute of Standards and Technology. The Federal Acquisition Regulation Council must review these recommendations and update the FAR as necessary to incorporate requirements for such contractors to receive information about potential security vulnerabilities in contractor information systems used in performance of contract.</p><p>The Department of Defense (DOD) must conduct a similar review and update of regulations with respect to the DOD Supplement to the FAR.</p>",
+      "updateDate": "2025-03-03T22:07:14Z",
+      "versionCode": "00"
+    }
+  ]
+}

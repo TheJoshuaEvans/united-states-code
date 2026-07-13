@@ -1,0 +1,163 @@
+{
+  "status": {
+    "actions": {
+      "count": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-240",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/240?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 82 (Thursday, May 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SHREVE:\nH.R. 3426.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 3 of section 8 of article I of the Constitution\n[Page H2104]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-15",
+    "latestAction": {
+      "actionDate": "2025-12-01",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3426",
+    "number": "3426",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001229",
+        "district": 6,
+        "firstName": "Jefferson",
+        "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+        "isByRequest": "N",
+        "lastName": "Shreve",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/S001229?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/text?format=json"
+    },
+    "title": "Courthouse Affordability and Space Efficiency Act of 2025",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-30T21:08:23Z",
+    "updateDateIncludingText": "2026-07-12T15:03:15Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-01T20:31:51Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-11-20T00:46:36Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-16T20:47:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:38:11Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-11T14:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T14:45:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-11T14:30:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-05-15T14:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-16T16:19:17Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Courthouse Affordability and Space Efficiency (CASE) Act of 2025</strong></p><p>This bill provides statutory authority for the General Services Administration (GSA) courtroom sharing policy and limits construction of new courthouses.&nbsp;</p><p>Under the bill, GSA must ensure courtroom sharing by magistrate, bankruptcy, and senior district judges. Specifically</p><ul><li>in courthouses with 10 or more active district judges, GSA must provide two courtrooms per 3 active district judges (except such courthouses may contain not less than 9 courtrooms for active district judges);</li><li>in courthouses with 3 or more bankruptcy judges, GSA must provide one courtroom per 2 bankruptcy judges;</li><li>in courthouses with 3 or more senior district judges, GSA must provide one courtroom per 2 senior district judges; and</li><li>in courthouses with 3 or more magistrate judges, GSA must provide one courtroom per 2 magistrate judges.</li></ul><p>GSA is prohibited from constructing a new courthouse that does not comply with the courtroom sharing requirements. Additionally, if a new courthouse will add capacity in the GSA inventory, existing space in the same courthouse complex must be fully utilized or relinquished from such inventory.</p><p>GSA must update the U.S. Courts Design Guide to reflect these requirements within 180 days after the bill's enactment.&nbsp;(The Design Guide&nbsp;sets forth the federal judiciary\u2019s requirements for the design, construction, and renovation of court facilities and is intended for use by individuals involved in federal court construction projects.)</p>",
+      "updateDate": "2025-09-09T00:17:43Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-110",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/110?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 67 (Thursday, April 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FINSTAD:\nH.R. 2931.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Sec. 8\n[Page H1613]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-06-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2931",
+    "number": "2931",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000475",
+        "district": 1,
+        "firstName": "Brad",
+        "fullName": "Rep. Finstad, Brad [R-MN-1]",
+        "isByRequest": "N",
+        "lastName": "Finstad",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000475?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/text?format=json"
+    },
+    "title": "Save SBA from Sanctuary Cities Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2931/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:08:19Z",
+    "updateDateIncludingText": "2026-07-12T14:59:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-09T20:06:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-05T20:43:17Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-06-05T16:50:08Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-05-21T16:48:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-30T17:35:57Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-17T13:32:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Save SBA from Sanctuary Cities Act</strong></p><p>This bill requires the relocation of a regional, district, or local office of the Small Business Administration (SBA) if the SBA makes a public determination that the office is located in a sanctuary jurisdiction.&nbsp;The SBA must relocate that office, within 60 days of such determination, to a location that is not a sanctuary jurisdiction.</p><p>Under the bill, a&nbsp;sanctuary jurisdiction is a state or political subdivision thereof that prohibits or restricts any government entity or official from (1) exchanging with another government entity information regarding the citizenship or immigration status of an individual; or (2) complying with specified requests by the Department of Homeland Security.</p><p>Additionally, the SBA may not establish an office in a sanctuary jurisdiction.</p>",
+      "updateDate": "2025-06-03T13:09:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

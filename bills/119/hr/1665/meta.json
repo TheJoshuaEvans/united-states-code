@@ -1,0 +1,244 @@
+{
+  "status": {
+    "actions": {
+      "count": 27,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on February 4, 2026",
+        "pubDate": "2026-03-09T20:01:00Z",
+        "title": "H.R. 1665, DIGITAL Applications Act",
+        "url": "https://www.cbo.gov/publication/62214"
+      },
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on February 4, 2026",
+        "pubDate": "2026-03-09T20:03:00Z",
+        "title": "H.R. 1665, DIGITAL Applications Act",
+        "url": "https://www.cbo.gov/publication/62215"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-487,Part 1",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/487?format=json"
+      },
+      {
+        "citation": "H. Rept. 119-487,Part 2",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/487?format=json"
+      }
+    ],
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. CAMMACK:\nH.R. 1665.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3 of the Constitution\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1665",
+    "number": "1665",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001039",
+        "district": 3,
+        "firstName": "Kat",
+        "fullName": "Rep. Cammack, Kat [R-FL-3]",
+        "isByRequest": "N",
+        "lastName": "Cammack",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/C001039?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/text?format=json"
+    },
+    "title": "DIGITAL Applications Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1665/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:23Z",
+    "updateDateIncludingText": "2026-07-13T19:46:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001163",
+      "district": 7,
+      "firstName": "Doris",
+      "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Matsui",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001163?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2025-12-02",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": 1,
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000601?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-17T20:22:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T17:53:54Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-27T14:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-09T22:14:43Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Commodity Markets, Digital Assets, and Rural Development Subcommittee",
+          "systemCode": "hsag22",
+          "url": "https://api.congress.gov/v3/committee/house/hsag22?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T17:53:42Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T22:14:55Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T17:52:41Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-03T21:49:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-11-18T15:51:13Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-11-18T15:50:27Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-02-27T15:50:05Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Communications and Technology Subcommittee",
+          "systemCode": "hsif16",
+          "url": "https://api.congress.gov/v3/committee/house/hsif16?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Deploying Infrastructure with Greater Internet Transactions And Legacy Applications Act or the DIGITAL Applications Act</strong></p><p>This bill requires the Department of the Interior and the Forest Service to each establish an online portal for accepting, processing, and disposal of applications for&nbsp;communications use authorizations. These are requests for easements, rights-of-way, leases, licenses, or other authorizations to locate or modify a transmitting device, support structure, or other communications facility on public lands or National Forest System land.</p><p>Interior and the Forest Service must also notify the National Telecommunications and Information Administration (NTIA) within three business days of establishing their respective portals, and once the portals are established, the NTIA must link to them from its website.</p>",
+      "updateDate": "2025-07-03T18:05:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

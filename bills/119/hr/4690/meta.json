@@ -1,0 +1,271 @@
+{
+  "status": {
+    "actions": {
+      "count": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-483",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/483?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LANGWORTHY:\nH.R. 4690.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 3 of Section 8 of Article 1 of the Constitution\n[Page H3648]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-04-27",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4690",
+    "number": "4690",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/text?format=json"
+    },
+    "title": "Reliable Federal Infrastructure Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4690/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:31Z",
+    "updateDateIncludingText": "2026-07-13T18:47:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001086",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. Harshbarger, Diana [R-TN-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harshbarger",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/H001086?format=json"
+    },
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "F000482",
+      "district": 0,
+      "firstName": "Julie",
+      "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fedorchak",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/F000482?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig A. [R-TX-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    },
+    {
+      "bioguideId": "H001067",
+      "district": 9,
+      "firstName": "Richard",
+      "fullName": "Rep. Hudson, Richard [R-NC-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hudson",
+      "party": "R",
+      "sponsorshipDate": "2025-08-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001067?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-27T20:28:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-22T20:52:07Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-04-22T18:16:54Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-02-04T17:42:06Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-03T22:04:26Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T14:07:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-11-19T22:01:59Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-11-19T22:01:38Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-07-23T21:01:11Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T17:42:36Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-23T14:07:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-07-24T21:29:21Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-04",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Reliable Federal Infrastructure Act</strong></p><p>This bill repeals certain energy efficiency performance standards for new federal buildings and federal buildings undergoing major renovations. Specifically, the bill repeals the performance standards that phase out fossil fuel use in such buildings by FY2030.</p><p>The bill directs the Department of Energy&nbsp;to implement the standards as though such phase-out requirements had never taken effect&nbsp;until it issues regulations with revised performance standards.</p><p>The bill also specifies  that certain systems that certify green buildings&nbsp;may not prohibit federal buildings from obtaining a certification as a green building or high-performance green building solely based on direct or indirect consumption of fossil fuels.</p>",
+      "updateDate": "2026-04-17T20:14:08Z",
+      "versionCode": "07"
+    }
+  ]
+}

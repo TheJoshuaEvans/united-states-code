@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-618",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/618?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-04-20",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "actionTime": "12:25:41",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1189",
+    "number": "1189",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000614",
+        "district": 21,
+        "firstName": "Chip",
+        "fullName": "Rep. Roy, Chip [R-TX-21]",
+        "isByRequest": "N",
+        "lastName": "Roy",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/R000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 4690) to amend the Energy Conservation and Production Act to repeal certain Federal building energy efficiency performance standards, and for other purposes; providing for consideration of the resolution (H. Res. 1182) expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities; providing for consideration of the bill (H.R. 1897) to amend the Endangered Species Act of 1973 to optimize conservation through resource prioritization, incentivize wildlife conservation on private lands, provide for greater incentives to recover listed species, create greater transparency and accountability in recovering listed species, streamline the permitting process, eliminate barriers to conservation, and restore congressional intent; and providing for consideration of the bill (H.R. 5587) to amend the Geothermal Steam Act of 1970 to waive the requirement for a Federal drilling permit for certain activities, to exempt certain activities from the requirements of the National Environmental Policy Act of 1969, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1189/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:54:22Z",
+    "updateDateIncludingText": "2026-07-11T21:54:22Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-20T23:09:51Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-20",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 4690) to amend the Energy Conservation and Production Act to repeal certain Federal building energy efficiency performance standards, and for other purposes; providing for consideration of the resolution (H. Res. 1182) expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities; providing for consideration of the bill (H.R. 1897) to amend the Endangered Species Act of 1973 to optimize conservation through resource prioritization, incentivize wildlife conservation on private lands, provide for greater incentives to recover listed species, create greater transparency and accountability in recovering listed species, streamline the permitting process, eliminate barriers to conservation, and restore congressional intent; and providing for consideration of the bill (H.R. 5587) to amend the Geothermal Steam Act of 1970 to waive the requirement for a Federal drilling permit for certain activities, to exempt certain activities from the requirements of the National Environmental Policy Act of 1969, and for other purposes.",
+      "updateDate": "2026-04-21T08:19:27Z",
+      "versionCode": "07"
+    }
+  ]
+}

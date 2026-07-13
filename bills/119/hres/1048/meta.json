@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1048/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-02-10",
+    "latestAction": {
+      "actionDate": "2026-02-10",
+      "actionTime": "13:24:40",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1048",
+    "number": "1048",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000371",
+        "district": 33,
+        "firstName": "Pete",
+        "fullName": "Rep. Aguilar, Pete [D-CA-33]",
+        "isByRequest": "N",
+        "lastName": "Aguilar",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/A000371?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1048/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1048/text?format=json"
+    },
+    "title": "Electing a Member to a certain standing committee of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1048/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T22:09:34Z",
+    "updateDateIncludingText": "2026-07-11T22:09:34Z"
+  }
+}

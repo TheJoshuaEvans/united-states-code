@@ -1,0 +1,176 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-08-08T18:39:00Z",
+        "title": "H.R. 3951, Rural Veterans\u2019 Improved Access to Benefits Act of 2025",
+        "url": "https://www.cbo.gov/publication/61628"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-259",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/259?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 101 (Thursday, June 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CISCOMANI:\nH.R. 3951.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2822]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3951",
+    "number": "3951",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001133",
+        "district": 6,
+        "firstName": "Juan",
+        "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+        "isByRequest": "N",
+        "lastName": "Ciscomani",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/text?format=json"
+    },
+    "title": "Rural Veterans\u2019 Improved Access to Benefits Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3951/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:08:25Z",
+    "updateDateIncludingText": "2026-07-13T18:37:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000600",
+      "district": 3,
+      "firstName": "Marie",
+      "fullName": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Perez",
+      "middleName": "Gluesenkamp",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/G000600?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-16T20:48:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T18:33:43Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:42:22Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-03T17:27:05Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-12T14:05:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-24T18:11:33Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-06-23T18:11:22Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Rural Veterans\u2019 Improved Access to Benefits Act of 2025</strong></p><p>This bill extends and expands the pilot program under which certain non-Department of Veterans Affairs (VA) health care professionals may be contracted to provide disability examinations to veterans, regardless of the jurisdiction of their licensure, for purposes of Department of Veterans Affairs (VA) benefits and care. Specifically, the bill (1) expands the types of health care professionals who may provide such examinations, and (2) extends the authority for such professionals to be contracted for this purpose through January 5, 2031.</p><p>Currently, such examinations may only be contracted to licensed non-VA physicians, physician assistants, nurse practitioners, audiologists, or psychologists. The bill expands the list to include qualified health care professionals who are eligible for appointment to specified positions in the Veterans Health Administration, including hospital or clinic directors, dentists, and pharmacists.</p><p>The VA must report on its use of the expanded authority under this bill.</p>",
+      "updateDate": "2025-09-10T19:50:24Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 3 (Tuesday, January 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. De La CRUZ:\nH.R. 224.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H63]\n</pre>",
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-07",
+    "latestAction": {
+      "actionDate": "2026-01-20",
+      "text": "Became Public Law No: 119-70."
+    },
+    "laws": [
+      {
+        "number": "119-70",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/224",
+    "number": "224",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000594",
+        "district": 15,
+        "firstName": "Monica",
+        "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+        "isByRequest": "N",
+        "lastName": "De La Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000594?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/text?format=json"
+    },
+    "title": "Disabled Veterans Housing Support Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/224/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:28:19Z",
+    "updateDateIncludingText": "2026-07-12T14:53:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-01-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "E000294",
+      "district": 6,
+      "firstName": "Tom",
+      "fullName": "Rep. Emmer, Tom [R-MN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Emmer",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/E000294?format=json"
+    },
+    {
+      "bioguideId": "C001120",
+      "district": 2,
+      "firstName": "Dan",
+      "fullName": "Rep. Crenshaw, Dan [R-TX-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crenshaw",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001120?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-06T22:49:10Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-11T15:38:47Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-07T16:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Disabled Veterans Housing Support Act</strong></p><p>This bill excludes compensation received&nbsp;for a military service-connected disability from a veteran's income when determining eligibility for assistance under the&nbsp;Community Development Block Grant (CDBG)&nbsp;program.</p><p>The CDBG program provides grants to urban communities for development activities focused on revitalizing neighborhoods, economic development, and providing improved community facilities and services.</p><p>Additionally, the Government Accountability Office must report on how service-connected disability compensation is treated when determining eligibility for all programs administered by&nbsp;the Department of Housing and Urban Development. This includes identifying instances where the treatment of such compensation is inconsistent with the requirement under this bill.</p>",
+      "updateDate": "2025-02-06T22:37:54Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-01-20",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Disabled Veterans Housing Support Act</strong></p><p>This act excludes compensation received&nbsp;for a military service-connected disability from a veteran's income when determining eligibility for assistance under the&nbsp;Community Development Block Grant (CDBG)&nbsp;program.</p><p>The CDBG program provides grants to urban communities for development activities focused on revitalizing neighborhoods, economic development, and providing improved community facilities and services.</p><p>Additionally, the Government Accountability Office must report on how service-connected disability compensation is treated when determining eligibility for all programs administered by&nbsp;the Department of Housing and Urban Development. This includes identifying instances where the treatment of such compensation is inconsistent with the requirement under this act.</p>",
+      "updateDate": "2026-03-31T15:45:59Z",
+      "versionCode": "49"
+    }
+  ]
+}

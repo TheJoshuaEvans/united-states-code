@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/242/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-38",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/38?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/242/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "actionTime": "14:28:50",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/242",
+    "number": "242",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/242/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/242/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/242/text?format=json"
+    },
+    "title": "Providing for consideration of the joint resolution (H.J. Res. 24) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\"; providing for consideration of the joint resolution (H.J. Res. 75) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\"; and providing for consideration of the bill (H.R. 1048) to amend the Higher Education Act of 1965 to strengthen disclosure requirements relating to foreign gifts and contracts, to prohibit contracts between institutions of higher education and certain foreign entities and countries of concern, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/242/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:28Z",
+    "updateDateIncludingText": "2026-07-11T21:24:28Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T23:43:24Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

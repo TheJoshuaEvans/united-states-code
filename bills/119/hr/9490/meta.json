@@ -1,0 +1,115 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9490/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9490/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. TLAIB:\nH.R. 9490.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 1 of the Constitution.\n[Page H4264]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9490/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9490",
+    "number": "9490",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000481",
+        "district": 12,
+        "firstName": "Rashida",
+        "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+        "isByRequest": "N",
+        "lastName": "Tlaib",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000481?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9490/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9490/text?format=json"
+    },
+    "title": "Bank Failure Accountability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9490/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T10:54:35Z",
+    "updateDateIncludingText": "2026-07-13T10:54:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000562",
+      "district": 8,
+      "firstName": "Stephen",
+      "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lynch",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/L000562?format=json"
+    },
+    {
+      "bioguideId": "L000602",
+      "district": 12,
+      "firstName": "Summer",
+      "fullName": "Rep. Lee, Summer L. [D-PA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/L000602?format=json"
+    },
+    {
+      "bioguideId": "G000553",
+      "district": 9,
+      "firstName": "Al",
+      "fullName": "Rep. Green, Al [D-TX-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Green",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000553?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:00:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ]
+}

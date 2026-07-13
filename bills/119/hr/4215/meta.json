@@ -1,0 +1,168 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4215/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4215/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 111 (Friday, June 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BAUMGARTNER:\nH.R. 4215.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3033]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4215/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-27",
+    "latestAction": {
+      "actionDate": "2025-09-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4215",
+    "number": "4215",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001322",
+        "district": 5,
+        "firstName": "Michael",
+        "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+        "isByRequest": "N",
+        "lastName": "Baumgartner",
+        "party": "R",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/B001322?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4215/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4215/text?format=json"
+    },
+    "title": "International Traffic in Arms Regulations Licensing Reform Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4215/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T17:08:23Z",
+    "updateDateIncludingText": "2026-07-13T18:39:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "Z000018",
+      "district": 1,
+      "firstName": "Ryan",
+      "fullName": "Rep. Zinke, Ryan K. [R-MT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Zinke",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/Z000018?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "H001058",
+      "district": 4,
+      "firstName": "Bill",
+      "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huizenga",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/H001058?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-03T21:52:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T15:28:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-27T13:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ]
+}

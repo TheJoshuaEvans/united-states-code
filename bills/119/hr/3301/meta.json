@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-121",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/121?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 77 (Thursday, May 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NUNN of Iowa:\nH.R. 3301.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\nTo make all laws which should be necessary and proper for\ncarrying into execution in the foregoing powers, and all\nother powers vested by this Constitution in the government of\nthe United States, or in any Department or Officer thereof.\n[Page H1945]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-08",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3301",
+    "number": "3301",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000193",
+        "district": 3,
+        "firstName": "Zachary",
+        "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+        "isByRequest": "N",
+        "lastName": "Nunn",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/N000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/text?format=json"
+    },
+    "title": "ELEVATE Act of 2025",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3301/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:23:28Z",
+    "updateDateIncludingText": "2026-07-12T15:02:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-08",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T21:00:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:52:57Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:16:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-08T13:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-08",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill provides statutory authority for certain requirements related to registration statements submitted to the Securities and Exchange Commission (SEC).</p><p>First, the bill allows under statute an emerging growth company to submit profit and loss statements from the previous two years, rather than the previous three years as is required of other reporting companies. In addition, the bill allows under statute any issuer of securities to submit a draft registration statement to the SEC for confidential review prior to a public filing.</p>",
+      "updateDate": "2025-06-23T16:11:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

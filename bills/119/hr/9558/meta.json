@@ -1,0 +1,126 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9558/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9558/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LIEU:\nH.R. 9558.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9558/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9558",
+    "number": "9558",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000582",
+        "district": 36,
+        "firstName": "Ted",
+        "fullName": "Rep. Lieu, Ted [D-CA-36]",
+        "isByRequest": "N",
+        "lastName": "Lieu",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/L000582?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9558/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9558/text?format=json"
+    },
+    "title": "21st Century Federal Writers\u2019 Project Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9558/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T15:28:57Z",
+    "updateDateIncludingText": "2026-07-13T15:28:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000273",
+      "district": 3,
+      "firstName": "Teresa",
+      "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Leger Fernandez",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000273?format=json"
+    },
+    {
+      "bioguideId": "T000469",
+      "district": 20,
+      "firstName": "Paul",
+      "fullName": "Rep. Tonko, Paul [D-NY-20]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tonko",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000469?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

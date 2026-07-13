@@ -1,0 +1,167 @@
+{
+  "status": {
+    "actions": {
+      "count": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 2 (Monday, January 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of Utah:\nH.R. 187.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the U.S. Constitution\n[Page H49]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-12-26",
+      "text": "Became Public Law No: 119-62."
+    },
+    "laws": [
+      {
+        "number": "119-62",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/187",
+    "number": "187",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001213",
+        "district": 1,
+        "firstName": "Blake",
+        "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "D.",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/M001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/text?format=json"
+    },
+    "title": "MAPWaters Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/187/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:14:23Z",
+    "updateDateIncludingText": "2026-07-12T14:34:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-01-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-01-03",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T22:15:25Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-22T17:57:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:20:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:20:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Modernizing Access to our Public Waters Act or the MAPWaters Act of 2025 or the MAPWaters Act of 2025</strong></p><p>This bill directs the Forest Service and the Department of the Interior to standardize and publish data relating to the public's access to&nbsp;federal waterways for recreational use.</p><p>Specifically, the Forest Service and Interior must jointly develop and adopt interagency standards for data collection and dissemination of geospatial data relating to public outdoor recreational access of federal waterways and federal fishing restrictions. The standards must ensure compatibility and interoperability among applicable federal databases with respect to collection and dissemination of such data.</p><p>Within five years, the Forest Service and Interior must also digitize and make publicly available online certain geographic information system data about (1) federal waterway restrictions, (2) federal waterway access and navigation information, and (3) federal fishing restrictions. They must also update the data about waterway restrictions, waterway access, and navigation information at least twice per year. Data about fishing restrictions must be updated in real time as changes go into effect.</p><p>Finally, the&nbsp;Forest Service and Interior&nbsp;must develop a process to allow members of the public to submit questions or comments regarding the data regarding waterway restrictions,&nbsp;waterway access, and navigation information.</p>",
+      "updateDate": "2026-07-10T20:14:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-07",
+    "latestAction": {
+      "actionDate": "2025-10-31",
+      "actionTime": "13:15:26",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/88",
+    "number": "88",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/W000779?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/text?format=json"
+    },
+    "title": "A joint resolution terminating the national emergency declared to impose global tariffs.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/88/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-02-27T09:06:47Z",
+    "updateDateIncludingText": "2026-07-12T15:08:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000603",
+      "firstName": "Rand",
+      "fullName": "Sen. Paul, Rand [R-KY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Paul",
+      "party": "R",
+      "sponsorshipDate": "2025-10-07",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/P000603?format=json"
+    },
+    {
+      "bioguideId": "S000148",
+      "firstName": "Charles",
+      "fullName": "Sen. Schumer, Charles E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schumer",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-10-07",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S000148?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-10-07",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-10-07",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2025-10-07",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-10-07",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-30T16:43:51Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-10-07T21:00:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-30",
+      "actionDesc": "Passed Senate",
+      "text": "<p>This joint resolution terminates the national emergency declared by President Donald J. Trump on April 2, 2025, which imposed a 10% tariff on most imports to the United States and additional duties on specified trading partners.</p>",
+      "updateDate": "2025-11-18T15:13:37Z",
+      "versionCode": "55"
+    }
+  ]
+}

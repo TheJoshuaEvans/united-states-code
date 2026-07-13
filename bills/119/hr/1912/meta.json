@@ -1,0 +1,224 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CONNOLLY:\nH.R. 1912.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1039]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-12-12",
+      "text": "Became Public Law No: 119-56."
+    },
+    "laws": [
+      {
+        "number": "119-56",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1912",
+    "number": "1912",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001078",
+        "district": 11,
+        "firstName": "Gerald",
+        "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Connolly",
+        "middleName": "E.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/C001078?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/text?format=json"
+    },
+    "title": "Veteran Fraud Reimbursement Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:28:26Z",
+    "updateDateIncludingText": "2026-07-12T14:34:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "M001210",
+      "district": 3,
+      "firstName": "Gregory",
+      "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murphy",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001210?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2025-03-06",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": 12,
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-03-06",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000481?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "H001090",
+      "district": 9,
+      "firstName": "Josh",
+      "fullName": "Rep. Harder, Josh [D-CA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harder",
+      "party": "D",
+      "sponsorshipDate": "2025-04-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001090?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T21:48:08Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-06T19:12:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-06T14:06:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-27T18:03:48Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Veteran Fraud Reimbursement Act of 2025</strong></p><p>This bill modifies the procedures by which the Department of Veterans Affairs (VA) reissues misused benefits to a beneficiary, including by requiring the VA to establish methods and timing with respect to determining whether an instance of misuse by a fiduciary is the result of negligence by the VA. The bill also provides that if a beneficiary predeceases a&nbsp;reissuance, the VA must pay the amount to a surviving beneficiary in the same method as certain other VA benefits are paid upon the death of a beneficiary.</p><p>Under the bill, the VA may not withhold the reissuing of a benefit payment by reason of a pending determination regarding the VA's negligence in relation to the instance of misuse by a fiduciary. Additionally, the VA is not required to make a determination regarding its negligence for each instance of misuse by a fiduciary of all or part of an individual's benefit paid to such fiduciary.</p>",
+      "updateDate": "2025-04-02T19:04:10Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-12",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Veteran Fraud Reimbursement Act of 2025</strong></p><p>This act modifies the procedures by which the Department of Veterans Affairs (VA) reissues misused benefits to a beneficiary, including by requiring the VA to establish methods and timing with respect to determining whether an instance of misuse by a fiduciary is the result of negligence by the VA. The act also provides that if a beneficiary predeceases a&nbsp;reissuance, the VA must pay the amount to a surviving beneficiary in the same method as certain other VA benefits are paid upon the death of a beneficiary.</p><p>Under the&nbsp;act, the VA may not withhold the reissuing of a benefit payment by reason of a pending determination regarding the VA's negligence in relation to the instance of misuse by a fiduciary. Additionally, the VA is not required to make a determination regarding its negligence for each instance of misuse by a fiduciary of all or part of an individual's benefit paid to such fiduciary.</p>",
+      "updateDate": "2026-04-10T12:49:06Z",
+      "versionCode": "49"
+    }
+  ]
+}

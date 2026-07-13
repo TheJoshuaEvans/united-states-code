@@ -1,0 +1,401 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 25,
+      "countIncludingWithdrawnCosponsors": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-07",
+    "latestAction": {
+      "actionDate": "2026-05-14",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/96",
+    "number": "96",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000193",
+        "district": 3,
+        "firstName": "Zachary",
+        "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+        "isByRequest": "N",
+        "lastName": "Nunn",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/N000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/text?format=json"
+    },
+    "title": "Expressing support for law enforcement officers.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/96/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:23:27Z",
+    "updateDateIncludingText": "2026-07-13T18:34:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001095",
+      "district": 38,
+      "firstName": "Wesley",
+      "fullName": "Rep. Hunt, Wesley [R-TX-38]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hunt",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/H001095?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "H001091",
+      "district": 2,
+      "firstName": "Ashley",
+      "fullName": "Rep. Hinson, Ashley [R-IA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hinson",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/H001091?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "E000246",
+      "district": 11,
+      "firstName": "Chuck",
+      "fullName": "Rep. Edwards, Chuck [R-NC-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Edwards",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/E000246?format=json"
+    },
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "H001072",
+      "district": 2,
+      "firstName": "J.",
+      "fullName": "Rep. Hill, J. French [R-AR-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hill",
+      "middleName": "French",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/H001072?format=json"
+    },
+    {
+      "bioguideId": "S000522",
+      "district": 4,
+      "firstName": "Christopher",
+      "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S000522?format=json"
+    },
+    {
+      "bioguideId": "N000189",
+      "district": 4,
+      "firstName": "Dan",
+      "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Newhouse",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/N000189?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "M001199",
+      "district": 21,
+      "firstName": "Brian",
+      "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mast",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001199?format=json"
+    },
+    {
+      "bioguideId": "M001236",
+      "district": 14,
+      "firstName": "Tim",
+      "fullName": "Rep. Moore, Tim [R-NC-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001236?format=json"
+    },
+    {
+      "bioguideId": "T000490",
+      "district": 2,
+      "firstName": "David",
+      "fullName": "Rep. Taylor, David J. [R-OH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Taylor",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000490?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "B001295",
+      "district": 12,
+      "firstName": "Mike",
+      "fullName": "Rep. Bost, Mike [R-IL-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bost",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001295?format=json"
+    },
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    },
+    {
+      "bioguideId": "M001240",
+      "district": 6,
+      "firstName": "Addison",
+      "fullName": "Rep. McDowell, Addison P. [R-NC-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McDowell",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001240?format=json"
+    },
+    {
+      "bioguideId": "B001291",
+      "district": 36,
+      "firstName": "Brian",
+      "fullName": "Rep. Babin, Brian [R-TX-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Babin",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/B001291?format=json"
+    },
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "M001215",
+      "district": 1,
+      "firstName": "Mariannette",
+      "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller-Meeks",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/M001215?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "B001307",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Baird, James R. [R-IN-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baird",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001307?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-07T13:04:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This concurrent resolution expresses support for law enforcement officers. It also appreciates the contributions and recognizes the sacrifices of law enforcement officers.</p>",
+      "updateDate": "2026-05-08T21:22:04Z",
+      "versionCode": "00"
+    }
+  ]
+}

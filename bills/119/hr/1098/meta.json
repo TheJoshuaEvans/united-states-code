@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on April 9, 2025",
+        "pubDate": "2025-05-29T17:54:00Z",
+        "title": "H.R. 1098, a bill to reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994",
+        "url": "https://www.cbo.gov/publication/61450"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-396",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/396?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SCHOLTEN:\nH.R. 1098.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H557]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-12-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1098",
+    "number": "1098",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001221",
+        "district": 3,
+        "firstName": "Hillary",
+        "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+        "isByRequest": "N",
+        "lastName": "Scholten",
+        "middleName": "J.",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/S001221?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/text?format=json"
+    },
+    "title": "To reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1098/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:58:36Z",
+    "updateDateIncludingText": "2026-07-13T19:42:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T19:18:29Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-09T18:57:48Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T22:09:50Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-06T15:07:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-09",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill reauthorizes through FY2031 the Junior Duck Stamp Conservation and Design Program administered by&nbsp;the U.S. Fish and Wildlife Service (FWS).</p><p>By way of background, the program is an art- and science-based curriculum that teaches wetland and waterfowl conservation to students in kindergarten through high school. The program hosts a national art competition and the winning design is featured on the junior duck stamp sold by the FWS. The revenue generated from the sale of the stamp is used to support activities for students who participate in the program.</p>",
+      "updateDate": "2025-12-11T20:33:55Z",
+      "versionCode": "07"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 80 (Tuesday, May 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NORMAN:\nH.R. 3377.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2002]\n</pre>",
+    "introducedDate": "2025-05-13",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Became Private Law No: 119-1."
+    },
+    "laws": [
+      {
+        "number": "119-1",
+        "type": "Private Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3377",
+    "number": "3377",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000190",
+        "district": 5,
+        "firstName": "Ralph",
+        "fullName": "Rep. Norman, Ralph [R-SC-5]",
+        "isByRequest": "N",
+        "lastName": "Norman",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/N000190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/text?format=json"
+    },
+    "title": "To authorize the President to award the Medal of Honor to James Capers, Jr., for acts of valor as a member of the Marine Corps during the Vietnam War.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3377/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:09:27Z",
+    "updateDateIncludingText": "2026-07-12T15:02:42Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-03T19:17:58Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-13T16:06:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-26",
+      "actionDesc": "Public Law",
+      "text": "<p>This act authorizes the President to award the Medal of Honor to James Capers, Jr. for his acts of valor as a member of the Marine Corps during the Vietnam War from March 31 through April 3, 1967, for which he was previously awarded the Silver Star.</p>",
+      "updateDate": "2026-06-12T16:24:35Z",
+      "versionCode": "49"
+    }
+  ]
+}

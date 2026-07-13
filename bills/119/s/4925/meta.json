@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4925/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4925/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4925/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4925",
+    "number": "4925",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4925/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001299",
+        "firstName": "Jim",
+        "fullName": "Sen. Banks, Jim [R-IN]",
+        "isByRequest": "N",
+        "lastName": "Banks",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/B001299?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4925/text?format=json"
+    },
+    "title": "Stop the Sexualization of Children Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4925/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T19:28:59Z",
+    "updateDateIncludingText": "2026-07-13T19:28:59Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T22:12:58Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

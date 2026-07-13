@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/600/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-22",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "actionTime": "12:03:07",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/600",
+    "number": "600",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001082",
+        "district": 1,
+        "firstName": "Kevin",
+        "fullName": "Rep. Hern, Kevin [R-OK-1]",
+        "isByRequest": "N",
+        "lastName": "Hern",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/H001082?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/600/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/600/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/600/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:44:46Z",
+    "updateDateIncludingText": "2026-07-11T20:44:46Z"
+  }
+}

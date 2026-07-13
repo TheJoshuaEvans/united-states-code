@@ -1,0 +1,187 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-657",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/657?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FULCHER:\nH.R. 1687.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18 allows Congress to make all\nlaws ``which shall be necessary and proper for carrying into\nexecution'' any of Congress' enumerated powers, including\nCongress's power over appropriations.\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1687",
+    "number": "1687",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000469",
+        "district": 1,
+        "firstName": "Russ",
+        "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+        "isByRequest": "N",
+        "lastName": "Fulcher",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/F000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/text?format=json"
+    },
+    "title": "CLEAN Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1687/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-09T05:23:22Z",
+    "updateDateIncludingText": "2026-07-12T14:32:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "B000825",
+      "district": 4,
+      "firstName": "Lauren",
+      "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boebert",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B000825?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-03-27",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-15",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T20:54:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T17:51:42Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-04-21T17:30:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:06:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-04-21T17:00:00Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2025-12-16T15:15:00Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-12-09T15:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Committing Leases for Energy Access Now Act or the CLEAN Act</strong></p><p>This bill directs the Department of the Interior to increase the frequency of lease sales for developing and utilizing geothermal energy on federal land.</p><p>Specifically, Interior must hold lease sales at least once a year (rather than two years) in states with pending nominations of federal land to be leased for geothermal energy development.</p><p>In conducting such lease sales,&nbsp;Interior must offer all of the pending nominated parcels eligible for geothermal development and utilization under the resource management plan in effect for the state.</p><p>If a lease sale is canceled or delayed, Interior must conduct a replacement sale during the same year.</p><p>Finally, the bill establishes deadlines for Interior to respond to applications for geothermal drilling permits.</p>",
+      "updateDate": "2026-05-07T16:19:43Z",
+      "versionCode": "00"
+    }
+  ]
+}

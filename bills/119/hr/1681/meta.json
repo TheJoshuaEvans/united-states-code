@@ -1,0 +1,228 @@
+{
+  "status": {
+    "actions": {
+      "count": 27,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on April 9, 2025",
+        "pubDate": "2025-08-08T18:40:00Z",
+        "title": "H.R. 1681, Expediting Federal Broadband Deployment Reviews Act",
+        "url": "https://www.cbo.gov/publication/61647"
+      },
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on February 4, 2026",
+        "pubDate": "2026-02-13T17:20:00Z",
+        "title": "H.R. 1681, Expediting Federal Broadband Deployment Reviews Act",
+        "url": "https://www.cbo.gov/publication/62117"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-439,Part 1",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/439?format=json"
+      },
+      {
+        "citation": "H. Rept. 119-439,Part 2",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/439?format=json"
+      }
+    ],
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EVANS of Colorado:\nH.R. 1681.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 17\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2026-04-21",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1681",
+    "number": "1681",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000300",
+        "district": 8,
+        "firstName": "Gabe",
+        "fullName": "Rep. Evans, Gabe [R-CO-8]",
+        "isByRequest": "N",
+        "lastName": "Evans",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/E000300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/text?format=json"
+    },
+    "title": "Expediting Federal Broadband Deployment Reviews Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1681/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:23Z",
+    "updateDateIncludingText": "2026-07-12T14:32:12Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-21T19:12:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-26T18:57:12Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-27T14:11:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-28T20:46:48Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Commodity Markets, Digital Assets, and Rural Development Subcommittee",
+          "systemCode": "hsag22",
+          "url": "https://api.congress.gov/v3/committee/house/hsag22?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-26T18:56:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-27T14:11:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-11-18T15:54:07Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-11-18T15:52:51Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-02-27T15:52:20Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Communications and Technology Subcommittee",
+          "systemCode": "hsif16",
+          "url": "https://api.congress.gov/v3/committee/house/hsif16?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-12T22:26:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T22:13:55Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:11:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><b>Expediting Federal Broadband Deployment Reviews Act</b></p> <p>This bill establishes an interagency strike force to support federal land management agencies' review of requests for communications use authorizations. (A <i>communications use authorization</i> is required to modify or locate communications facilities on public lands.)</p> <p>The strike force must (1) conduct periodic calls with strike force members to ensure that each agency prioritizes the review of requests for communications use authorizations, (2) establish goals for the review of the requests, and (3) monitor and facilitate agency accountability for meeting the established goals.</p><p>The bill specifies that the strike force must include the head of the National Telecommunications and Information Administration, the head of each federal land management agency, and other members designated by the Department of Agriculture and the Department of the Interior. The bill also requires the strike force to report to Congress regarding its effectiveness. <br/> </p>",
+      "updateDate": "2025-07-22T10:16:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "status": {
+    "actions": {
+      "count": 36,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/actions?format=json"
+    },
+    "amendments": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-180",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/180?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 100 (Wednesday, June 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COLLINS:\nH.R. 3898.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 grants the legislative power to\nCongress, and jursidiction over waters of the United States.\n[Page H2655]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-11",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3898",
+    "number": "3898",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001129",
+        "district": 10,
+        "firstName": "Mike",
+        "fullName": "Rep. Collins, Mike [R-GA-10]",
+        "isByRequest": "N",
+        "lastName": "Collins",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/C001129?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/text?format=json"
+    },
+    "title": "PERMIT Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3898/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:31Z",
+    "updateDateIncludingText": "2026-07-13T18:36:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000546",
+      "district": 6,
+      "firstName": "Sam",
+      "fullName": "Rep. Graves, Sam [R-MO-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graves",
+      "party": "R",
+      "sponsorshipDate": "2025-06-11",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/G000546?format=json"
+    },
+    {
+      "bioguideId": "L000578",
+      "district": 1,
+      "firstName": "Doug",
+      "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaMalfa",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000578?format=json"
+    },
+    {
+      "bioguideId": "R000603",
+      "district": 7,
+      "firstName": "David",
+      "fullName": "Rep. Rouzer, David [R-NC-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rouzer",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000603?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "C001087",
+      "district": 1,
+      "firstName": "Eric",
+      "fullName": "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crawford",
+      "middleName": "A. \"Rick\"",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001087?format=json"
+    },
+    {
+      "bioguideId": "T000490",
+      "district": 2,
+      "firstName": "David",
+      "fullName": "Rep. Taylor, David J. [R-OH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Taylor",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-25",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000490?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-15T21:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-11T19:49:40Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-12-11T19:43:11Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-07-02T13:25:16Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T20:16:49Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-25T20:16:40Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-11T14:04:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-13T15:17:20Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02",
+          "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting Efficient Review for Modern Infrastructure Today Act or the PERMIT Act</strong></p><p>This bill limits the scope of the Clean Water Act by redefining <em>navigable waters</em> to exclude (1) waste treatment systems, (2) ephemeral features that flow only in direct response to precipitation, (3) prior converted cropland, (4) groundwater, or (5) any other features determined to be excluded by the U.S. Army Corps of Engineers.</p>",
+      "updateDate": "2025-07-08T17:06:07Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8322/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8322/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 67 (Thursday, April 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. AUSTIN SCOTT of Georgia:\nH.R. 8322.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Sec. 8.\n[Page H2960]\n</pre>",
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-04-18",
+      "text": "Became Public Law No: 119-84."
+    },
+    "laws": [
+      {
+        "number": "119-84",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8322",
+    "number": "8322",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8322/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001189",
+        "district": 8,
+        "firstName": "Austin",
+        "fullName": "Rep. Scott, Austin [R-GA-8]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/S001189?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8322/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8322/text?format=json"
+    },
+    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8322/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T10:29:20Z",
+    "updateDateIncludingText": "2026-07-13T17:15:23Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-17T06:08:41Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-04-17T03:30:02Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-17T06:08:40Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-04-17T03:30:01Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

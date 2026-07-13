@@ -1,0 +1,353 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-265",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/265?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 143 (Tuesday, September 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILLIAMS of Texas:\nH.R. 5100.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution of the United\nStates.\n[Page H3758]\n</pre>",
+    "cosponsors": {
+      "count": 18,
+      "countIncludingWithdrawnCosponsors": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-02",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5100",
+    "number": "5100",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000816",
+        "district": 25,
+        "firstName": "Roger",
+        "fullName": "Rep. Williams, Roger [R-TX-25]",
+        "isByRequest": "N",
+        "lastName": "Williams",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/W000816?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/text?format=json"
+    },
+    "title": "To extend the SBIR and STTR programs, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5100/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T15:54:48Z",
+    "updateDateIncludingText": "2026-07-13T18:50:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000081",
+      "district": 7,
+      "firstName": "Nydia",
+      "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Vel\u00e1zquez",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/V000081?format=json"
+    },
+    {
+      "bioguideId": "B001291",
+      "district": 36,
+      "firstName": "Brian",
+      "fullName": "Rep. Babin, Brian [R-TX-36]",
+      "isOriginalCosponsor": true,
+      "lastName": "Babin",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/B001291?format=json"
+    },
+    {
+      "bioguideId": "L000397",
+      "district": 18,
+      "firstName": "Zoe",
+      "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lofgren",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000397?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": 24,
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000134?format=json"
+    },
+    {
+      "bioguideId": "E000071",
+      "district": 6,
+      "firstName": "Jake",
+      "fullName": "Rep. Ellzey, Jake [R-TX-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ellzey",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/E000071?format=json"
+    },
+    {
+      "bioguideId": "A000379",
+      "district": 4,
+      "firstName": "Mark",
+      "fullName": "Rep. Alford, Mark [R-MO-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Alford",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/A000379?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "B001327",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Bresnahan, Robert P. [R-PA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bresnahan",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001327?format=json"
+    },
+    {
+      "bioguideId": "J000311",
+      "district": 3,
+      "firstName": "Brian",
+      "fullName": "Rep. Jack, Brian [R-GA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Jack",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000311?format=json"
+    },
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "K000404",
+      "district": 0,
+      "firstName": "Kimberlyn",
+      "fullName": "Del. King-Hinds, Kimberlyn [R-MP-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "King-Hinds",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MP",
+      "url": "https://api.congress.gov/v3/member/K000404?format=json"
+    },
+    {
+      "bioguideId": "P000622",
+      "district": 1,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Patronis",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/P000622?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    },
+    {
+      "bioguideId": "P000608",
+      "district": 50,
+      "firstName": "Scott",
+      "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+      "isOriginalCosponsor": false,
+      "lastName": "Peters",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-09",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000608?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-16T20:44:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-10T22:22:51Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-02T16:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-10T22:22:33Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-09T15:30:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-02T16:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-02",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill reauthorizes through FY2026 the Small Business Innovation Research (SBIR) program, the Small Business Technology Transfer (STTR) program, and related pilot programs.</p><p>The SBIR and STTR programs are administered by various federal agencies and provide competitive awards for domestic small businesses to conduct research and development projects that have the potential for commercialization.</p>",
+      "updateDate": "2025-09-11T14:33:56Z",
+      "versionCode": "00"
+    }
+  ]
+}

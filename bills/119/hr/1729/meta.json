@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-190",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/190?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEGUSE:\nH.R. 1729.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H920]\n</pre>",
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1729",
+    "number": "1729",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000191",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Neguse, Joe [D-CO-2]",
+        "isByRequest": "N",
+        "lastName": "Neguse",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/N000191?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/text?format=json"
+    },
+    "title": "Bolts Ditch Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1729/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:21Z",
+    "updateDateIncludingText": "2026-07-13T19:47:05Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:09:29Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:39:33Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T20:36:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:08:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Bolts Ditch Act</strong></p><p>This bill allows additional entities\u2014the Eagle River Water and Sanitation District and the Upper Eagle Regional Water Authority\u2014to access and use the Bolts Ditch and its headgate within the Holy Cross Wilderness in Colorado for the purposes of the diversion of water and use, maintenance, and repair of such ditch and headgate.</p>",
+      "updateDate": "2025-07-10T16:10:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

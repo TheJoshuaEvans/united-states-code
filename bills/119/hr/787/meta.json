@@ -1,0 +1,161 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:15:00Z",
+        "title": "H.R. 787, Plain Language in Contracting Act",
+        "url": "https://www.cbo.gov/publication/61313"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-34",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/34?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LaLOTA:\nH.R. 787.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H407]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/787",
+    "number": "787",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000598",
+        "district": 1,
+        "firstName": "Nick",
+        "fullName": "Rep. LaLota, Nick [R-NY-1]",
+        "isByRequest": "N",
+        "lastName": "LaLota",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000598?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/text?format=json"
+    },
+    "title": "Plain Language in Contracting Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/787/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T11:13:28Z",
+    "updateDateIncludingText": "2026-07-13T01:08:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000491",
+      "district": 45,
+      "firstName": "Derek",
+      "fullName": "Rep. Tran, Derek [D-CA-45]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tran",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000491?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-03-04",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:30:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T20:42:44Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:02:57Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-28T16:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Plain Language in Contracting Act</strong></p><p>This bill requires that notices of contracting opportunities for small businesses are written in a clear, concise, and accessible manner.</p><p>Each notice also must comply with the requirements of the Plain Writing Act of 2010, which are applicable to publications and notices by federal agencies.</p><p>The Small Business Administration must issue rules to implement these requirements.</p>",
+      "updateDate": "2025-05-29T13:55:48Z",
+      "versionCode": "00"
+    }
+  ]
+}

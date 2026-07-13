@@ -1,0 +1,174 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-200",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/200?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 84 (Monday, May 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. BICE:\nH.R. 3486.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18: To make all Laws which\nshall be necessary and proper for carryinginto Execution the\nforegoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.\n[Page H2147]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-19",
+    "latestAction": {
+      "actionDate": "2025-09-15",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3486",
+    "number": "3486",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000740",
+        "district": 5,
+        "firstName": "Stephanie",
+        "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+        "isByRequest": "N",
+        "lastName": "Bice",
+        "middleName": "I.",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/B000740?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/text?format=json"
+    },
+    "title": "Stop Illegal Entry Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:58:24Z",
+    "updateDateIncludingText": "2026-07-12T15:03:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000405",
+      "district": 13,
+      "firstName": "Brad",
+      "fullName": "Rep. Knott, Brad [R-NC-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Knott",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/K000405?format=json"
+    },
+    {
+      "bioguideId": "Z000018",
+      "district": 1,
+      "firstName": "Ryan",
+      "fullName": "Rep. Zinke, Ryan K. [R-MT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Zinke",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/Z000018?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2025-06-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "L000596",
+      "district": 13,
+      "firstName": "Anna Paulina",
+      "fullName": "Rep. Luna, Anna Paulina [R-FL-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luna",
+      "party": "R",
+      "sponsorshipDate": "2025-06-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/L000596?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T14:43:16Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-21T17:17:07Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-19T16:00:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-19",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Stop Illegal Reentry Act</strong></p><p>This bill establishes or increases&nbsp;criminal penalties for certain non-U.S. nationals (<em>aliens</em> under federal law) who illegally enter the United States and then commit a felony&nbsp;or illegally reenter the United States.</p><p>The bill establishes a mandatory minimum prison term of 5 years and allows a life sentence for an individual who (1)&nbsp;improperly enters, or attempts to improperly enter, the United States; and (2) is subsequently convicted of a felony.</p><p>The bill increases the maximum term of imprisonment from 2 years to 5 years for repeated improper entry.&nbsp;</p><p>The bill also increases from 2 years to 10 years the maximum term of imprisonment for an individual who had been denied entry into or removed from the United States and who later enters or attempts to enter without prior approval. The bill increases the maximum term of imprisonment from 10 to 15 years if such an individual was convicted of three or more specified types of misdemeanors before removal.</p><p>An individual who had been denied entry or removed three or more times and who later enters or attempts to enter the United States shall be fined, imprisoned for up to 10 years, or both.</p><p>The bill establishes a mandatory minimum term of imprisonment of 10 years and allows a life sentence for an individual who was convicted of a felony before removal, or convicted of illegal reentry at least two times before removal, and who subsequently enters or tries to enter the United States.&nbsp;</p>",
+      "updateDate": "2025-07-21T16:34:43Z",
+      "versionCode": "00"
+    }
+  ]
+}

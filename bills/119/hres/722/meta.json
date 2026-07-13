@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/722/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-299",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/299?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/722/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-09-16",
+    "latestAction": {
+      "actionDate": "2025-09-17",
+      "actionTime": "18:05:24",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/722",
+    "number": "722",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/722/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/722/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/722/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 5371) making continuing appropriations and extensions for fiscal year 2026, and for other purposes; providing for consideration of the resolution (H. Res. 719) honoring the life and legacy of Charles Charlie James Kirk; and for other purposes.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/722/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-10T14:58:30Z",
+    "updateDateIncludingText": "2026-07-13T18:33:50Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-16T22:46:37Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

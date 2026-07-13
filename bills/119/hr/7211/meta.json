@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7211/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7211/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 15 (Thursday, January 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GRIFFITH:\nH.R. 7211.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution as\nwell as Amendment XVI\n[Page H1351]\n</pre>",
+    "introducedDate": "2026-01-22",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Became Public Law No: 119-81."
+    },
+    "laws": [
+      {
+        "number": "119-81",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7211",
+    "number": "7211",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000568",
+        "district": 9,
+        "firstName": "H.",
+        "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "isByRequest": "N",
+        "lastName": "Griffith",
+        "middleName": "Morgan",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/G000568?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7211/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7211/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7211/text?format=json"
+    },
+    "title": "To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7211/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T12:14:23Z",
+    "updateDateIncludingText": "2026-07-13T19:18:22Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-03T22:38:27Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-02-04T18:36:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Armed Services Committee",
+      "systemCode": "ssas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-03T19:17:30Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-01-22T14:04:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-03",
+      "actionDesc": "Passed Senate",
+      "text": "<p>This bill authorizes the President to award the Medal of Honor to John W. Ripley for his acts of valor on April 2, 1972, as a member of the Marine Corps during the Vietnam War, for which he was previously awarded the Navy Cross.</p>",
+      "updateDate": "2026-04-09T20:53:17Z",
+      "versionCode": "55"
+    }
+  ]
+}

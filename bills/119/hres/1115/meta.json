@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-554",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/554?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-16",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "actionTime": "15:57:42",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1115",
+    "number": "1115",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secretary of Agriculture from prohibiting the use of lead ammunition or tackle on certain Federal land or water under the jurisdiction of the Secretary of the Interior and the Secretary of Agriculture, and for other purposes; providing for consideration of the bill (H.R. 1958) to amend the Immigration and Nationality Act to clarify that aliens who have been convicted of defrauding the United States Government or the unlawful receipt of public benefits are inadmissible and deportable; providing for consideration of the bill (H.R. 4638) to amend the Immigration and Nationality Act to provide that an alien who has been convicted of harming animals used in law enforcement is inadmissible and deportable, and for other purposes; and relating to consideration of motions to suspend the rules.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1115/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:59:40Z",
+    "updateDateIncludingText": "2026-07-11T21:59:40Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-16T21:52:08Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-16",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secretary of Agriculture from prohibiting the use of lead ammunition or tackle on certain Federal land or water under the jurisdiction of the Secretary of the Interior and the Secretary of Agriculture, and for other purposes; providing for consideration of the bill (H.R. 1958) to amend the Immigration and Nationality Act to clarify that aliens who have been convicted of defrauding the United States Government or the unlawful receipt of public benefits are inadmissible and deportable; providing for consideration of the bill (H.R. 4638) to amend the Immigration and Nationality Act to provide that an alien who has been convicted of harming animals used in law enforcement is inadmissible and deportable, and for other purposes; and relating to consideration of motions to suspend the rules.",
+      "updateDate": "2026-03-17T08:19:21Z",
+      "versionCode": "07"
+    }
+  ]
+}

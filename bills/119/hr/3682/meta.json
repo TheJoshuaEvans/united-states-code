@@ -1,0 +1,365 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-364",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/364?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 94 (Tuesday, June 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FOSTER:\nH.R. 3682.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I, Section 8, Clauses 1 and 18 of the\nUnited States Constitution.\n[Page H2419]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-03",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3682",
+    "number": "3682",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000454",
+        "district": 11,
+        "firstName": "Bill",
+        "fullName": "Rep. Foster, Bill [D-IL-11]",
+        "isByRequest": "N",
+        "lastName": "Foster",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/F000454?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/text?format=json"
+    },
+    "title": "Financial Stability Oversight Council Improvement Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3682/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-13T04:08:22Z",
+    "updateDateIncludingText": "2026-07-12T00:48:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001058",
+      "district": 4,
+      "firstName": "Bill",
+      "fullName": "Rep. Huizenga, Bill [R-MI-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huizenga",
+      "party": "R",
+      "sponsorshipDate": "2025-06-03",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/H001058?format=json"
+    },
+    {
+      "bioguideId": "G000583",
+      "district": 5,
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/G000583?format=json"
+    },
+    {
+      "bioguideId": "K000397",
+      "district": 40,
+      "firstName": "Young",
+      "fullName": "Rep. Kim, Young [R-CA-40]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kim",
+      "party": "R",
+      "sponsorshipDate": "2025-07-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "T000486",
+      "district": 15,
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000486?format=json"
+    },
+    {
+      "bioguideId": "L000491",
+      "district": 3,
+      "firstName": "Frank",
+      "fullName": "Rep. Lucas, Frank D. [R-OK-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lucas",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000491?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "H001085",
+      "district": 6,
+      "firstName": "Chrissy",
+      "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houlahan",
+      "party": "D",
+      "sponsorshipDate": "2025-08-29",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/H001085?format=json"
+    },
+    {
+      "bioguideId": "S001157",
+      "district": 13,
+      "firstName": "David",
+      "fullName": "Rep. Scott, David [D-GA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/S001157?format=json"
+    },
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-09-08",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    },
+    {
+      "bioguideId": "G000581",
+      "district": 34,
+      "firstName": "Vicente",
+      "fullName": "Rep. Gonzalez, Vicente [D-TX-34]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gonzalez",
+      "party": "D",
+      "sponsorshipDate": "2025-09-09",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000581?format=json"
+    },
+    {
+      "bioguideId": "W000812",
+      "district": 2,
+      "firstName": "Ann",
+      "fullName": "Rep. Wagner, Ann [R-MO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wagner",
+      "party": "R",
+      "sponsorshipDate": "2025-09-15",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/W000812?format=json"
+    },
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    },
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2025-09-15",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "D000594",
+      "district": 15,
+      "firstName": "Monica",
+      "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "De La Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/D000594?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "H001047",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Himes, James A. [D-CT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Himes",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001047?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T21:08:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-04T18:46:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-16T14:37:23Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-03T16:00:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Financial Stability Oversight Council Improvement Act of 2025</strong></p><p>This bill requires the Financial Stability Oversight Council, prior to determining that a U.S. nonbank financial company shall be supervised by the Federal Reserve Board and therefore subject to certain prudential standards, to first determine that certain alternative actions would not mitigate the threat the company may pose to U.S. financial stability.</p>",
+      "updateDate": "2026-02-04T17:15:17Z",
+      "versionCode": "00"
+    }
+  ]
+}

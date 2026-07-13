@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-2",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/2?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-02-05",
+      "actionTime": "16:59:54",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/93",
+    "number": "93",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000568",
+        "district": 9,
+        "firstName": "H.",
+        "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "isByRequest": "N",
+        "lastName": "Griffith",
+        "middleName": "Morgan",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/G000568?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 27) to amend the Controlled Substances Act with respect to the scheduling of fentanyl-related substances, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/93/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:09:46Z",
+    "updateDateIncludingText": "2026-07-11T20:09:46Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-04T23:09:15Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Reported to House",
+      "text": "<p>This resolution provides for consideration of H.R. 27, the<em> Halt All Lethal Trafficking of&nbsp;Fentanyl Act </em>or the <em>HALT Fentanyl Act.</em> Specifically, it waives all points of order against consideration of the bill.</p><p>Under the resolution, the bill is to be considered as amended according to changes by the Rules Committee in its report accompanying the&nbsp;resolution.</p>",
+      "updateDate": "2026-06-29T19:27:29Z",
+      "versionCode": "07"
+    }
+  ]
+}

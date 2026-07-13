@@ -1,0 +1,73 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/22/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/22/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-31",
+    "latestAction": {
+      "actionDate": "2025-04-14",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/22",
+    "number": "22",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001160",
+        "district": 4,
+        "firstName": "Gwen",
+        "fullName": "Rep. Moore, Gwen [D-WI-4]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/M001160?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/22/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/22/text?format=json"
+    },
+    "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medals awarded under the \u2018Six Triple Eight\u2019 Congressional Gold Medal Act of 2021.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/22/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:13:23Z",
+    "updateDateIncludingText": "2026-07-13T18:34:12Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-07T23:06:06Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-31T16:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ]
+}

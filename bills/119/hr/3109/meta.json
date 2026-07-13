@@ -1,0 +1,164 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on June 25, 2025",
+        "pubDate": "2025-08-14T18:36:00Z",
+        "title": "H.R. 3109, REFINER Act",
+        "url": "https://www.cbo.gov/publication/61673"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-267",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/267?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 72 (Wednesday, April 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LATTA:\nH.R. 3109.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to clause 7 of Rule XII of the Rules of the House\nof Representatives, the following statement is submitted\nregarding the specific powers granted to Congress in the\nConstitution to enact the accompanying bill or joint\nresolution.\nArticle I, Section 8, Clause 18:\nThe Congress shall have Power to make all Laws which shall\nbe necessary and proper for carrying into Executive the\nforegoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.\n[Page H1776]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2025-12-01",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3109",
+    "number": "3109",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000566",
+        "district": 5,
+        "firstName": "Robert",
+        "fullName": "Rep. Latta, Robert E. [R-OH-5]",
+        "isByRequest": "N",
+        "lastName": "Latta",
+        "middleName": "E.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000566?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/text?format=json"
+    },
+    "title": "REFINER Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3109/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-12T15:00:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000628",
+      "district": 2,
+      "firstName": "Neal",
+      "fullName": "Rep. Dunn, Neal P. [R-FL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dunn",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000628?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-01T20:28:49Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-11T15:34:18Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T16:18:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-30T14:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-05T20:29:00Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-06-05T20:28:00Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-06-03T20:27:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Researching Efficient Federal Improvements for Necessary Energy Refining Act or the REFINER Act</strong></p><p>This bill requires the Department of Energy to direct the National Petroleum Council to publish a report on petrochemical refineries located in the United States. The report must include information concerning (1) the contributions of such refineries to U.S. energy security, (2) analyses and&nbsp;projections with respect to opportunities for expanding the capacities of the refineries and the risks to such refineries, (3) any federal or state executive actions that have contributed to a decline in their capacities, and (4) any recommendations to increase such capacities.</p>",
+      "updateDate": "2025-11-17T13:01:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

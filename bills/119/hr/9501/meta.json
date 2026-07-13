@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BUCHANAN:\nH.R. 9501.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8\n[Page H4317]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-07-01",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
+    "number": "9501",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001260",
+        "district": 16,
+        "firstName": "Vern",
+        "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+        "isByRequest": "N",
+        "lastName": "Buchanan",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001260?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/text?format=json"
+    },
+    "title": "AI Tax Integrity Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9501/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T12:40:44Z",
+    "updateDateIncludingText": "2026-07-13T12:40:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001314",
+      "district": 4,
+      "firstName": "Aaron",
+      "fullName": "Rep. Bean, Aaron [R-FL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bean",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001314?format=json"
+    },
+    {
+      "bioguideId": "S001183",
+      "district": 1,
+      "firstName": "David",
+      "fullName": "Rep. Schweikert, David [R-AZ-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schweikert",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001183?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-01T16:04:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-29T16:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>AI Tax Integrity Act of 2026</strong></p><p>This bill requires the Internal Revenue Service to establish a pilot program to use artificial intelligence to identify inaccurate federal tax returns. Upon completion of the pilot program, the Government Accountability Office must submit a report to Congress describing the</p><ul><li>aggregate amount of improper tax refunds or reduced tax liability attributable to fraud detected by the pilot program,</li><li>aggregate amount recovered as a result of the pilot program, and</li><li>accuracy of the artificial intelligence tools used in the pilot program in identifying fraudulent federal tax returns.</li></ul>",
+      "updateDate": "2026-07-13T12:39:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

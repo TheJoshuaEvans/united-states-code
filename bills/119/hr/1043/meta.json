@@ -1,0 +1,183 @@
+{
+  "status": {
+    "actions": {
+      "count": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 11, 2025",
+        "pubDate": "2025-10-08T18:36:00Z",
+        "title": "H.R. 1043, La Paz County Solar Energy and Job Creation Act",
+        "url": "https://www.cbo.gov/publication/61807"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-183",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/183?format=json"
+      },
+      {
+        "citation": "S. Rept. 119-109",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/109?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GOSAR:\nH.R. 1043.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, Clause 2\n[Page H556]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "By Senator Lee from Committee on Energy and Natural Resources filed written report. Report No. 119-109."
+    },
+    "laws": [
+      {
+        "number": "119-68",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1043",
+    "number": "1043",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000565",
+        "district": 9,
+        "firstName": "Paul",
+        "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+        "isByRequest": "N",
+        "lastName": "Gosar",
+        "middleName": "A.",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000565?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/text?format=json"
+    },
+    "title": "La Paz County Solar Energy and Job Creation Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1043/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T17:08:28Z",
+    "updateDateIncludingText": "2026-07-13T19:41:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001302",
+      "district": 5,
+      "firstName": "Andy",
+      "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/B001302?format=json"
+    },
+    {
+      "bioguideId": "S001183",
+      "district": 1,
+      "firstName": "David",
+      "fullName": "Rep. Schweikert, David [R-AZ-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schweikert",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001183?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T20:27:01Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-16T22:16:26Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-11T13:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-22T16:22:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-02T13:28:30Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T22:08:58Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-06T15:02:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>La Paz County Solar Energy and Job Creation Act</strong></p><p>This bill directs the Department of the Interior, after receiving a request from La Paz County, Arizona, to convey approximately&nbsp;3,400 acres of identified land managed by the Bureau of Land Management to the county for fair market value.</p><p>Interior must exclude from the conveyance any federal land that contains significant cultural, environmental, wildlife, or recreational resources.</p><p>As a condition of the conveyance, La Paz County and any subsequent owner must</p><ul><li>make good faith efforts to avoid disturbing tribal artifacts;</li><li>minimize impacts on tribal artifacts if they are disturbed;</li><li>coordinate with the Colorado River Indian Tribes Tribal Historic Preservation Office to identify artifacts of cultural and historic significance; and</li><li>allow tribal representatives to rebury unearthed artifacts at, or near, where they were discovered.</li></ul><p>The federal land is withdrawn from the operation of U.S. mining and mineral leasing laws.</p>",
+      "updateDate": "2025-07-01T19:55:03Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-29",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>La Paz County Solar Energy and Job Creation Act</strong></p><p>This act directs the Department of the Interior, after receiving a request from La Paz County, Arizona, to convey approximately&nbsp;3,400 acres of identified land managed by the Bureau of Land Management to the county for fair market value.</p><p>Interior must exclude from the conveyance any federal land that contains significant cultural, environmental, wildlife, or recreational resources.</p><p>As a condition of the conveyance, La Paz County and any subsequent owner must</p><ul><li>make good faith efforts to avoid disturbing tribal artifacts;</li><li>minimize impacts on tribal artifacts if they are disturbed;</li><li>coordinate with the Colorado River Indian Tribes Tribal Historic Preservation Office to identify artifacts of cultural and historic significance; and</li><li>allow tribal representatives to rebury unearthed artifacts at, or near, where they were discovered.</li></ul><p>The federal land is withdrawn from the operation of U.S. mining and mineral leasing laws, and thus the land is not available for new mining claims, new mineral or geothermal leases, nor sales&nbsp;of mineral materials.</p><p>The county must pay&nbsp;all costs related to the conveyance.</p>",
+      "updateDate": "2026-06-16T12:34:07Z",
+      "versionCode": "49"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. BICE:\nH.R. 1234.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H677]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-12",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1234",
+    "number": "1234",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000740",
+        "district": 5,
+        "firstName": "Stephanie",
+        "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+        "isByRequest": "N",
+        "lastName": "Bice",
+        "middleName": "I.",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/B000740?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/text?format=json"
+    },
+    "title": "To direct the Librarian of Congress to promote the more cost-effective, efficient, and expanded availability of the Annotated Constitution and pocket-part supplements by replacing the hardbound versions with digital versions.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1234/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:43:29Z",
+    "updateDateIncludingText": "2026-07-13T19:43:08Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001206",
+      "district": 25,
+      "firstName": "Joseph",
+      "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Morelle",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001206?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "T000474",
+      "district": 35,
+      "firstName": "Norma",
+      "fullName": "Rep. Torres, Norma J. [D-CA-35]",
+      "isOriginalCosponsor": true,
+      "lastName": "Torres",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000474?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-01T16:13:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-12T15:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill replaces the requirement for the Library of Congress to prepare hardbound versions of the Constitution Annotated and supplements with a requirement for the Library to instead prepare digital versions and publish them online.</p><p>The new requirement applies to the supplement after the Supreme Court term beginning October 2025 and all subsequent editions.</p>",
+      "updateDate": "2025-03-26T19:35:16Z",
+      "versionCode": "00"
+    }
+  ]
+}

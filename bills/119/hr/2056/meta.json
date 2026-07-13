@@ -1,0 +1,153 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Reform on March 25, 2025",
+        "pubDate": "2025-05-27T20:58:00Z",
+        "title": "H.R. 2056, District of Columbia Federal Immigration Compliance Act",
+        "url": "https://www.cbo.gov/publication/61433"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-131",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/131?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HIGGINS of Louisiana:\nH.R. 2056.\nCongress has the power to enact this legislation pursuant\nto the following:\nUnder Article 1, Section 8 of the Constitution, Congress\nhas the power ``to make all Laws which shall be necessary and\nproper for carrying into Execution the foregoing Powers, and\nall other Powers vested by this Constitution in the\nGovernment of the United States, or any Department or Officer\nthereof'\n[Page H1152]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2056",
+    "number": "2056",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001077",
+        "district": 3,
+        "firstName": "Clay",
+        "fullName": "Rep. Higgins, Clay [R-LA-3]",
+        "isByRequest": "N",
+        "lastName": "Higgins",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/H001077?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/text?format=json"
+    },
+    "title": "District of Columbia Federal Immigration Compliance Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2056/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:08:27Z",
+    "updateDateIncludingText": "2026-07-12T14:52:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-12T21:53:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-12T20:07:13Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-06-11T19:08:46Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-06-03T23:56:01Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-25T15:18:39Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-11T14:08:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>District of Columbia Federal Immigration Compliance Act</strong></p><p>This bill&nbsp;prohibits the District of Columbia (DC) from&nbsp;limiting its cooperation with federal immigration enforcement activities, except for certain instances involving witnesses and victims of crime.&nbsp;</p><p>Specifically, the bill bars DC from adopting a law, policy, or practice prohibiting DC governmental entities from sending, receiving, maintaining, or exchanging information regarding the citizenship or immigration status of any individual with a federal, state, or local government entity.</p><p>Further, DC may not adopt a law, policy, or practice of&nbsp;not complying with lawful requests from the Department of Homeland Security (DHS) to comply with a detainer for, or notify about the release of, an individual from custody. (A detainer is a formal request from DHS that a state or locality hold an individual in custody for up to 48 hours after the individual would otherwise be released so that DHS may facilitate the individual's removal.)</p><p>The bill provides exceptions allowing DC to adopt policies of not sharing information or complying with a detainer request regarding an individual who comes forward as a victim or a witness of a crime.</p>",
+      "updateDate": "2025-06-10T15:11:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

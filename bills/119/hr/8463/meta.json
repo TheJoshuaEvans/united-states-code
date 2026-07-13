@@ -1,0 +1,152 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 72 (Thursday, April 23, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COMER:\nH.R. 8463.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the U.S. Constitution,\nin that the legislation ``is necessary and proper for\ncarrying into Execution the . . . Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof\n[Page H3092]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-23",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8463",
+    "number": "8463",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001108",
+        "district": 1,
+        "firstName": "James",
+        "fullName": "Rep. Comer, James [R-KY-1]",
+        "isByRequest": "N",
+        "lastName": "Comer",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/C001108?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/text?format=json"
+    },
+    "title": "Pre-Payment Fraud Prevention and Treasury Data Access Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8463/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-10T10:56:30Z",
+    "updateDateIncludingText": "2026-07-13T17:16:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000375",
+      "district": 19,
+      "firstName": "Jodey",
+      "fullName": "Rep. Arrington, Jodey C. [R-TX-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Arrington",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/A000375?format=json"
+    },
+    {
+      "bioguideId": "G000598",
+      "district": 42,
+      "firstName": "Robert",
+      "fullName": "Rep. Garcia, Robert [D-CA-42]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garcia",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000598?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-08T16:42:47Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-04-23T13:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-08T16:42:25Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-04-29T13:08:33Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-23T13:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Pre-Payment Fraud Prevention and Treasury Data Access Act</strong></p><p>This bill expands efforts to identify, prevent, and recover improper payments of federal funds (e.g., overpayments, underpayments, payments to ineligible recipients).</p><p>Specifically, the Department of the Treasury must establish certain requirements that agencies must meet before directing Treasury to make a payment of federal funds. These pre-payment requirements must include verification of payee information, payment details, and fund availability. Further, agencies must, to the extent practicable, verify the accuracy of payee bank account information before directing Treasury to make a payment.</p><p>The bill also expands the Do Not Pay system, which provides agencies with access to centralized data for the purpose of verifying payee eligibility, and provides statutory authority for Treasury\u2019s role as administrator of the system. The bill requires specified data assets to be added to the system and authorizes Treasury to (1) designate additional data assets for inclusion, and (2) access certain taxpayer and Social Security information for the system. The bill specifies that information obtained through the system may only be used to prevent and recover improper payments and establishes penalties for the unlawful disclosure of such information.</p><p>The bill explicitly requires executive agencies and state and local governments administering federally funded programs to screen payees against all appropriate Do Not Pay data assets and risk tools before making an award or directing a payment.</p><p>Finally, the bill establishes post-award reporting requirements for certain first-time fund recipients under federal programs for awards of&nbsp;$50,000 or more.</p>",
+      "updateDate": "2026-06-05T16:04:09Z",
+      "versionCode": "00"
+    }
+  ]
+}

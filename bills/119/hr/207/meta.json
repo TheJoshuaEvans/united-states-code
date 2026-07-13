@@ -1,0 +1,157 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WITTMAN:\nH.R. 207.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\nThe single subject of this legislation is:\nProtection of Recreational Fishing from Shark encounters.\n[Page H43]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/207",
+    "number": "207",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000804",
+        "district": 1,
+        "firstName": "Robert",
+        "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+        "isByRequest": "N",
+        "lastName": "Wittman",
+        "middleName": "J.",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000804?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/text?format=json"
+    },
+    "title": "SHARKED Act of 2025",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/207/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:08:29Z",
+    "updateDateIncludingText": "2026-07-12T14:52:12Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    },
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2025-01-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    },
+    {
+      "bioguideId": "V000131",
+      "district": 33,
+      "firstName": "Marc",
+      "fullName": "Rep. Veasey, Marc A. [D-TX-33]",
+      "isOriginalCosponsor": true,
+      "lastName": "Veasey",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000131?format=json"
+    },
+    {
+      "bioguideId": "D000032",
+      "district": 19,
+      "firstName": "Byron",
+      "fullName": "Rep. Donalds, Byron [R-FL-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Donalds",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000032?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-22T17:56:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:27:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Supporting the Health of Aquatic systems through Research Knowledge and Enhanced Dialogue Act of 2025 or the SHARKED Act of 2025</strong></p><p>This bill requires the Department of Commerce to establish a task force to address and report to Congress about critical needs with respect to shark depredation. (Shark depredation is the partial or complete removal of a hooked fish by a shark directly from a fishing line before the line is retrieved.) </p><p>The duties of the task force are, among other responsibilities, to (1) develop ways to improve coordination and communication across the fisheries management and shark research communities; (2) identify research priorities and funding opportunities; (3) develop recommended management strategies to address shark depredation; and (4) coordinate the development and distribution of educational materials.</p><p>The bill specifies that the task force must include representatives of each Regional Fishery Management Council, each Marine Fisheries Commission, the fish and wildlife agencies of coastal states, and the National Marine Fisheries Service. The task force must also include researchers&nbsp;and others with relevant expertise.</p><p>The task force must report its findings to Congress within two years after the bill's enactment and&nbsp;every two years thereafter until the task force is terminated. The task force sunsets within seven years after the date of its establishment.&nbsp;&nbsp;</p>",
+      "updateDate": "2025-01-28T15:31:35Z",
+      "versionCode": "00"
+    }
+  ]
+}

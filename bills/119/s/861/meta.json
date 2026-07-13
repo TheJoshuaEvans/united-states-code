@@ -1,0 +1,165 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the Senate on December 16, 2025",
+        "pubDate": "2026-04-13T13:49:00Z",
+        "title": "S. 861, Disaster Assistance Simplification Act",
+        "url": "https://www.cbo.gov/publication/62325"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:21:56",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/861",
+    "number": "861",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/text?format=json"
+    },
+    "title": "Disaster Assistance Simplification Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/861/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-28T22:02:59Z",
+    "updateDateIncludingText": "2026-07-12T15:05:48Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    },
+    {
+      "bioguideId": "P000603",
+      "firstName": "Rand",
+      "fullName": "Sen. Paul, Rand [R-KY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Paul",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/P000603?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-03-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-07T19:23:14Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-05T17:49:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-16",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Disaster Assistance Simplification Act</strong></p><p>This bill directs the Federal Emergency Management Agency (FEMA) to develop and establish a unified intake process and system for applicants for assistance provided by a disaster assistance agency.</p><p>The system must</p><ul><li>facilitate a consolidated application for any form of disaster assistance provided by a disaster assistance agency when appropriate to support the nature and purposes of the assistance;</li><li>carry out the purposes of disaster assistance programs swiftly, efficiently, equitably, and in accordance with specified laws and privacy and data protections; and</li><li>support the detection, prevention, and investigation of waste, fraud, abuse, or discrimination in the administration of disaster assistance programs.</li></ul><p>Further, the system must, among other things</p><ul><li>accept applications for disaster assistance programs;</li><li>permit applicants to receive status updates on such applications;</li><li>allow applicants to update disaster assistance information throughout their recovery journeys;</li><li>permit the distribution of information on additional recovery resources to disaster survivors that may be available in a disaster-stricken jurisdiction in coordination with appropriate federal, state, local, and tribal partners; and</li><li>permit disaster assistance agencies to communicate directly with disaster survivors.</li></ul><p>Not later than 30 days after receiving a request from a disaster assistance agency to update questions in the consolidated application needed to administer the disaster assistance programs of the agency, FEMA must make those updates.</p><p>The bill requires&nbsp;reports&nbsp;and congressional briefings from FEMA, and a report from the Government Accountability Office, relating to the bill's implementation.</p>",
+      "updateDate": "2026-06-28T22:02:53Z",
+      "versionCode": "55"
+    }
+  ]
+}

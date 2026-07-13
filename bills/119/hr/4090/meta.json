@@ -1,0 +1,179 @@
+{
+  "status": {
+    "actions": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-387",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/387?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 107 (Monday, June 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STAUBER:\nH.R. 4090.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 Clause 18\n[Page H2889]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-23",
+    "latestAction": {
+      "actionDate": "2026-02-05",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4090",
+    "number": "4090",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001212",
+        "district": 8,
+        "firstName": "Pete",
+        "fullName": "Rep. Stauber, Pete [R-MN-8]",
+        "isByRequest": "N",
+        "lastName": "Stauber",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001212?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/text?format=json"
+    },
+    "title": "Critical Mineral Dominance Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4090/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:32Z",
+    "updateDateIncludingText": "2026-07-13T18:38:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-09",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-10-06",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-05T15:38:41Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T21:00:36Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-02-04T18:19:29Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-11-25T18:20:25Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-17T22:01:32Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-17T22:00:44Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-23T16:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-03T13:16:46Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-07-02T13:02:31Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-25",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Critical Mineral Dominance Act</strong></p><p>This bill directs the Department of the Interior to address mineral supply chain vulnerabilities, including by accelerating and expanding mineral production on federal land (i.e., National Forest System land, public lands, and any land that may be leased for the exploration, development, or production of hardrock minerals).</p><p>Interior must (1) identify&nbsp;priority mining projects on federal lands that can be immediately approved, and (2) take all necessary and appropriate steps to expedite those projects.</p><p>Interior must also identify active, inactive, or proposed mining projects on federal land that have the potential to (1) increase production of&nbsp;hardrock minerals or their byproducts, (2) expand existing operations to include such byproducts, or (3) produce hardrock minerals from mine tailings or&nbsp;coal byproducts.&nbsp;</p><p>Further, Interior must identify certain federal land with potential for&nbsp;hardrock mining. Interior must prioritize identifying land where a mining project (1) can most quickly be fully permitted and operational, and (2) would have the greatest potential effect on the robustness of the domestic mineral supply chain.</p><p> Interior must (1) suspend, revise, or rescind agency actions that place undue burdens on mining projects; (2) recommend changes to current law necessary to expand U.S. production of hardrock minerals; and (3) review state and local laws that impede development of domestic mining and mineral exploration projects.</p><p>Interior must also report on the dollar value and overall economic impact of the United States' reliance on imports of certain mineral commodities.</p><p>Finally, Interior must prioritize efforts to accelerate geologic mapping.</p>",
+      "updateDate": "2026-02-02T15:00:56Z",
+      "versionCode": "07"
+    }
+  ]
+}

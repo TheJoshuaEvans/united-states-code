@@ -1,0 +1,156 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. KAPTUR:\nH.R. 9550.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9550",
+    "number": "9550",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000009",
+        "district": 9,
+        "firstName": "Marcy",
+        "fullName": "Rep. Kaptur, Marcy [D-OH-9]",
+        "isByRequest": "N",
+        "lastName": "Kaptur",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/K000009?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/text?format=json"
+    },
+    "title": "Strategic Unmanned Systems Partnership Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9550/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T14:53:35Z",
+    "updateDateIncludingText": "2026-07-13T14:53:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "Q000023",
+      "district": 5,
+      "firstName": "Mike",
+      "fullName": "Rep. Quigley, Mike [D-IL-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Quigley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/Q000023?format=json"
+    },
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ]
+}

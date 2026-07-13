@@ -1,0 +1,169 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 111 (Friday, June 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. BIGGS of South Carolina:\nH.R. 4216.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3033]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-27",
+    "latestAction": {
+      "actionDate": "2025-09-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4216",
+    "number": "4216",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001325",
+        "district": 3,
+        "firstName": "Sheri",
+        "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/B001325?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/text?format=json"
+    },
+    "title": "Made-in-America Defense Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4216/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T17:08:23Z",
+    "updateDateIncludingText": "2026-07-13T18:39:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "Z000018",
+      "district": 1,
+      "firstName": "Ryan",
+      "fullName": "Rep. Zinke, Ryan K. [R-MT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Zinke",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/Z000018?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-03T21:52:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T15:26:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-27T13:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>FMS-Only List Review Act</strong></p><p>This bill requires the Department of State to conduct an annual review to identify defense articles and services eligible to be sold only through Foreign Military Sales (FMS) (i.e., U.S. government to foreign government sales) that should also be eligible to be sold through Direct Commercial Sales (DCS) (i.e., U.S. company to foreign government sales).</p><p>For each article or service identified, the review must address (1) the length of time to complete a transfer of the article or service through the FMS program as compared to the DCS process; (2) the impact of a transfer of the article or service through the DCS process on the workload of the State Department and the Department of Defense; and (3) the benefits of the transfer of the article or service through the DCS process to U.S. national security and competitiveness. &nbsp;</p><p>Within 30 days of the completion of each annual review, the State Department must report to Congress on the results of the review.</p>",
+      "updateDate": "2025-09-02T14:20:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

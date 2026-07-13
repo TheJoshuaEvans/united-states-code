@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on March 12, 2025",
+        "pubDate": "2025-07-10T17:56:00Z",
+        "title": "S. 759, Modernizing Access to Our Public Oceans Act",
+        "url": "https://www.cbo.gov/publication/61544"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-40",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/40?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-09-11",
+      "actionTime": "11:21:07",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/759",
+    "number": "759",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/text?format=json"
+    },
+    "title": "Modernizing Access to Our Public Oceans Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/759/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-31T18:13:14Z",
+    "updateDateIncludingText": "2026-07-12T15:04:59Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-02-26",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-16T16:50:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-12T14:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-26T21:47:29Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

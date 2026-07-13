@@ -1,0 +1,49 @@
+name: Sync pending-bills mirror
+
+# Bills move much faster than USC release points (daily, not every 1-3 weeks), so this runs daily.
+# Time is arbitrary; offset from the USC sync's 06:00 UTC just so they don't compete for runner time.
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: bills-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install package
+        run: pip install .
+
+      - name: Run sync
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: congress-bills-sync
+
+      - name: Commit and push if bills/ changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add bills/
+          if git diff --cached --quiet; then
+            echo "No changes to commit -- already current"
+          else
+            congress="$(cat bills/.congress)"
+            git commit -m "Sync pending bills for Congress ${congress}"
+            git push
+          fi

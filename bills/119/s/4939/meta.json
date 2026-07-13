@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4939/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4939/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4939",
+    "number": "4939",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001095",
+        "firstName": "Tom",
+        "fullName": "Sen. Cotton, Tom [R-AR]",
+        "isByRequest": "N",
+        "lastName": "Cotton",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/C001095?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4939/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4939/text?format=json"
+    },
+    "title": "Countering CCP Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4939/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T17:27:17Z",
+    "updateDateIncludingText": "2026-07-13T17:27:17Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T00:07:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

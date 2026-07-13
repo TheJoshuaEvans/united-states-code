@@ -1,0 +1,52 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1201/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-04-21",
+    "latestAction": {
+      "actionDate": "2026-04-21",
+      "actionTime": "12:06:50",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1201",
+    "number": "1201",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001213",
+        "district": 1,
+        "firstName": "Blake",
+        "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "D.",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/M001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1201/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1201/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1201/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-13T18:03:31Z",
+    "updateDateIncludingText": "2026-07-13T18:03:31Z"
+  }
+}

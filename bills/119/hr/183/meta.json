@@ -1,0 +1,160 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-207",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/207?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McCLINTOCK:\nH.R. 183.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\nThe single subject of this legislation is:\nTo make the National Parks and Federal Recreational Lands\nannual pass available to law enforcement officers and\nfirefighters.\n[Page H42]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/183",
+    "number": "183",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001177",
+        "district": 5,
+        "firstName": "Tom",
+        "fullName": "Rep. McClintock, Tom [R-CA-5]",
+        "isByRequest": "N",
+        "lastName": "McClintock",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/text?format=json"
+    },
+    "title": "Law Enforcement Officer and Firefighter Recreation Pass Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/183/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:38:27Z",
+    "updateDateIncludingText": "2026-07-12T14:33:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000177",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Onder, Robert F. [R-MO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Onder",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-11",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/O000177?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T16:21:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-16T18:15:31Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-03T16:23:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-07T17:47:45Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Forestry and Horticulture Subcommittee",
+          "systemCode": "hsag15",
+          "url": "https://api.congress.gov/v3/committee/house/hsag15?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-16T18:13:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T20:30:54Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-03T16:23:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Law Enforcement Officer Recreation Pass Act</strong></p><p>This bill directs the Forest Service and the Department of the Interior to make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to law enforcement officers.</p>",
+      "updateDate": "2025-03-06T15:02:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

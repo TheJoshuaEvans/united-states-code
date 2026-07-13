@@ -1,0 +1,192 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-02",
+    "latestAction": {
+      "actionDate": "2025-09-03",
+      "actionTime": "14:06:59",
+      "text": "Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House. (consideration: CR H3780; text: CR H3780)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/668",
+    "number": "668",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000311",
+        "district": 3,
+        "firstName": "Brian",
+        "fullName": "Rep. Jack, Brian [R-GA-3]",
+        "isByRequest": "N",
+        "lastName": "Jack",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/J000311?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/text?format=json"
+    },
+    "title": "Directing the Committee on Oversight and Government Reform to continue its ongoing investigation into the possible mismanagement of the Federal government\u2019s investigation of Mr. Jeffrey Epstein and Ms. Ghislaine Maxwell, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/668/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:39:31Z",
+    "updateDateIncludingText": "2026-07-11T20:39:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    },
+    {
+      "bioguideId": "G000568",
+      "district": 9,
+      "firstName": "H.",
+      "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Griffith",
+      "middleName": "Morgan",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/G000568?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "S001189",
+      "district": 8,
+      "firstName": "Austin",
+      "fullName": "Rep. Scott, Austin [R-GA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/S001189?format=json"
+    },
+    {
+      "bioguideId": "N000190",
+      "district": 5,
+      "firstName": "Ralph",
+      "fullName": "Rep. Norman, Ralph [R-SC-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norman",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/N000190?format=json"
+    },
+    {
+      "bioguideId": "R000614",
+      "district": 21,
+      "firstName": "Chip",
+      "fullName": "Rep. Roy, Chip [R-TX-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Roy",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/R000614?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-02T16:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-02",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution directs the Committee on Oversight and Government Reform&nbsp;to continue its investigation into the federal government's investigation of Jeffrey Epstein and Ghislaine Maxwell and to release to the public committee records relating to the committee's investigation, subject to limited exceptions.</p><p>Under the resolution, the committee&nbsp;records to be publicly disclosed include unclassified records referring or relating to&nbsp;Epstein's detention and death; flight logs of aircraft owned or used by Epstein;&nbsp;individuals named in connection with&nbsp;Epstein\u2019s criminal activities, civil settlements, or immunity or plea agreements; immunity deals, sealed settlements, or plea bargains of Epstein or his associates; entities with ties to Epstein\u2019s trafficking or financial networks; and internal Department of Justice communications concerning decisions to investigate or charge Epstein or his associates.</p><p>The resolution&nbsp;provides that the committee may withhold or redact portions of records with written justification that such portions contain (1) victims' personally identifiable information; (2) child sexual abuse materials; (3) images of death, physical abuse, or injury; (4) information which would jeopardize an active federal investigation or prosecution; or (5) classified information. The committee may not withhold or redact&nbsp;records on the basis of embarrassment, reputational harm, or political sensitivity.</p><p>The resolution states support for the committee's subpoenas and investigatory actions and encourages timely compliance with them. Additionally, the committee shall issue investigative reports as it deems&nbsp;necessary.</p>",
+      "updateDate": "2025-09-03T20:51:14Z",
+      "versionCode": "00"
+    }
+  ]
+}

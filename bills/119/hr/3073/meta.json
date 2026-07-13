@@ -1,0 +1,166 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-514",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/514?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 71 (Tuesday, April 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MALOY:\nH.R. 3073.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H1728]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-29",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3073",
+    "number": "3073",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001228",
+        "district": 2,
+        "firstName": "Celeste",
+        "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+        "isByRequest": "N",
+        "lastName": "Maloy",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/M001228?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/text?format=json"
+    },
+    "title": "Shivwits Band of Paiutes Jurisdictional Clarity Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3073/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:41Z",
+    "updateDateIncludingText": "2026-07-12T15:00:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000403",
+      "district": 3,
+      "firstName": "Mike",
+      "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/K000403?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-05-08",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-17T19:30:32Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-23T20:48:55Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-01-22T17:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-22T16:00:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-04-29T14:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-20T15:51:28Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-05-13T15:01:29Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Indian and Insular Affairs Subcommittee",
+          "systemCode": "hsii24",
+          "url": "https://api.congress.gov/v3/committee/house/hsii24?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Shivwits Band of Paiutes Jurisdictional Clarity Act</strong></p><p>This bill confers legal jurisdiction to the State of Utah over certain civil cases involving the Shivwits Band of Paiutes. It also allows the tribe to lease its land held in trust. The tribe is located in southwestern Utah.</p><p>Specifically, the bill confers jurisdiction to the State of Utah&nbsp;over any civil cause of action (1) to which the&nbsp;Shivwits Band of Paiutes is a party, and (2) that arises on or within Indian lands. Under the bill, <em>Indian lands</em> are lands of the tribe that are (1) held in trust for the benefit of the tribe, or (2) subject to restrictions by the United States against alienation (i.e., sale or transfer).</p><p>Additionally, the bill specifies that any cause of action arising from any contract or agreement (including a lease) to which the tribe is party or that affects or arises on these Indian lands shall be deemed a civil cause of action. Therefore, this bill allows the tribe and third parties to resolve contract disputes in state court.</p><p>The bill also authorizes the tribe to lease its land held in trust for a term of up to 99 years.</p>",
+      "updateDate": "2025-08-11T21:37:33Z",
+      "versionCode": "00"
+    }
+  ]
+}

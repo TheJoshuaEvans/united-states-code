@@ -1,0 +1,54 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/66/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/66",
+    "number": "66",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/66/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000575",
+        "district": 3,
+        "firstName": "Mike",
+        "fullName": "Rep. Rogers, Mike D. [R-AL-3]",
+        "isByRequest": "N",
+        "lastName": "Rogers",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/R000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/66/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/66/text?format=json"
+    },
+    "title": "Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 1071.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/66/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:08:29Z",
+    "updateDateIncludingText": "2026-07-13T18:34:39Z"
+  }
+}

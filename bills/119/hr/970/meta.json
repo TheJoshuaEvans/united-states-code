@@ -1,0 +1,161 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. STRICKLAND:\nH.R. 970.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-12-12",
+      "text": "Became Public Law No: 119-54."
+    },
+    "laws": [
+      {
+        "number": "119-54",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/970",
+    "number": "970",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001159",
+        "district": 10,
+        "firstName": "Marilyn",
+        "fullName": "Rep. Strickland, Marilyn [D-WA-10]",
+        "isByRequest": "N",
+        "lastName": "Strickland",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/S001159?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/text?format=json"
+    },
+    "title": "Fairness for Servicemembers and their Families Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/970/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:13:22Z",
+    "updateDateIncludingText": "2026-07-11T22:13:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001224",
+      "district": 3,
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S001224?format=json"
+    },
+    {
+      "bioguideId": "R000599",
+      "district": 25,
+      "firstName": "Raul",
+      "fullName": "Rep. Ruiz, Raul [D-CA-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ruiz",
+      "party": "D",
+      "sponsorshipDate": "2025-04-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/R000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T21:48:04Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-08T16:32:43Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-04T17:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-06T22:43:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Fairness for Servicemembers and their Families Act of 2025</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to periodically review and report on the maximum coverage available under the&nbsp;Servicemembers' Group Life Insurance and Veterans' Group Life Insurance programs. Specifically, the VA must review such coverage amount every five years, taking into account the average percentage by which the Consumer Price Index for All Urban Consumers (CPI-U) increased in the five fiscal years preceding the review.</p>",
+      "updateDate": "2025-04-07T14:50:06Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-12",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Fairness for Servicemembers and their Families Act of 2025</strong></p><p>This act requires the Department of Veterans Affairs (VA) to periodically review and report on the maximum coverage available under the&nbsp;Servicemembers' Group Life Insurance and Veterans' Group Life Insurance programs. Specifically, the VA must review such coverage amount every five years, taking into account the average percentage by which the Consumer Price Index for All Urban Consumers (CPI-U) increased in the five fiscal years preceding the review.</p>",
+      "updateDate": "2026-06-15T16:37:47Z",
+      "versionCode": "49"
+    }
+  ]
+}

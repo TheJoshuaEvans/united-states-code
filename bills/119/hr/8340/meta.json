@@ -1,0 +1,149 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 67 (Thursday, April 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MIN:\nH.R. 8340.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18.\n[Page H2961]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-06-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8340",
+    "number": "8340",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001241",
+        "district": 47,
+        "firstName": "Dave",
+        "fullName": "Rep. Min, Dave [D-CA-47]",
+        "isByRequest": "N",
+        "lastName": "Min",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001241?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/text?format=json"
+    },
+    "title": "Taxpayer Funds Oversight and Accountability Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8340/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-16T15:08:44Z",
+    "updateDateIncludingText": "2026-07-13T17:15:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000480",
+      "district": 4,
+      "firstName": "William",
+      "fullName": "Rep. Timmons, William R. [R-SC-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Timmons",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-16",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/T000480?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-04-21",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2026-04-21",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T16:38:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T13:07:25Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-16T14:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-16",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Taxpayer Funds Oversight and Accountability Act</strong><br/>&nbsp;<br/>This bill requires the Office of Management and Budget (OMB) to take certain actions to improve financial management systems across the federal government and expands the responsibilities of federal agency Chief Financial Officers (CFOs).<br/>&nbsp;<br/>The bill requires OMB to submit a four-year governmentwide financial management plan to Congress within 12 months of enactment and thereafter with the budget submitted in the first full fiscal year following the start of a presidential term. Such plans must address certain topics, including strategies for (1) improving financial management systems; (2) strengthening the financial management workforce; and (3) reporting performance and cost information. OMB must annually submit related status reports to Congress and the Government Accountability Office (GAO).&nbsp;<br/>&nbsp;<br/>Each agency CFO is assigned new responsibilities, including</p><ul><li>preparing the agency plan to implement OMB's governmentwide financial management plan;</li><li>overseeing and, unless otherwise specified in law, providing leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas designated by OMB;</li><li>coordinating with relevant&nbsp;senior&nbsp;agency personnel on the strategic planning, performance measurement and reporting, and risk management functions of the agency;</li><li>managing the formulation and financial execution of the agency budget;</li><li>coordinating with the responsible agency official to ensure performance and cost information are linked; and</li><li>preparing annual reports on progress in implementing the&nbsp;governmentwide financial management plan and transmitting such reports to the agency head, OMB, GAO, and Congress.</li></ul>",
+      "updateDate": "2026-06-04T01:38:41Z",
+      "versionCode": "00"
+    }
+  ]
+}

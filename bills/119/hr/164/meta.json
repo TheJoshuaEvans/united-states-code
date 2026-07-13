@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. HOYLE of Oregon:\nH.R. 164.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 (relating to the power to\nmake all laws necessary and proper for carrying out the\npowers vested in Congress)\nThe single subject of this legislation is:\nDisaster response\n[Page H41]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/164",
+    "number": "164",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001094",
+        "district": 4,
+        "firstName": "Val",
+        "fullName": "Rep. Hoyle, Val T. [D-OR-4]",
+        "isByRequest": "N",
+        "lastName": "Hoyle",
+        "middleName": "T.",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/H001094?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/text?format=json"
+    },
+    "title": "POWER Act of 2025",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/164/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:08:23Z",
+    "updateDateIncludingText": "2026-07-12T14:31:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-16T18:49:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:12:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-04T14:10:14Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting Opportunities to Widen Electrical Resilience Act of 2025 or the POWER Act of 2025</strong></p><p>This bill authorizes electric utilities receiving certain emergency assistance for the restoration of power&nbsp;to also carry out cost-effective hazard mitigation activities in combination with the power restoration activities. &nbsp;</p><p>Additionally, the bill specifies that electric utilities receiving such assistance for a facility may, if otherwise eligible, also receive hazard mitigation assistance for the same facility under the Federal Emergency Management Agency's Public Assistance program.&nbsp;</p>",
+      "updateDate": "2025-03-05T15:15:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1612/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1612/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 38 (Wednesday, February 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HILL of Arkansas:\nH.R. 1612.\nCongress has the power to enact this legislation pursuant\nto the following:\nArtice I, Section VIII\n[Page H879]\n</pre>",
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-10-27",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 219."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1612",
+    "number": "1612",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001072",
+        "district": 2,
+        "firstName": "J.",
+        "fullName": "Rep. Hill, J. French [R-AR-2]",
+        "isByRequest": "N",
+        "lastName": "Hill",
+        "middleName": "French",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/H001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1612/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1612/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1612/text?format=json"
+    },
+    "title": "Flatside Wilderness Additions Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1612/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:13:21Z",
+    "updateDateIncludingText": "2026-07-13T19:46:04Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-27T22:54:07Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-21T20:01:01Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T16:43:58Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-26T15:00:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Flatside Wilderness Additions Act</strong></p> <p>This bill adds specified lands to the Flatside Wilderness in the Ouachita National Forest in Arkansas. The bill also redesignates the wilderness as the Flatside-Bethune Wilderness.</p>",
+      "updateDate": "2025-05-08T22:24:05Z",
+      "versionCode": "00"
+    }
+  ]
+}

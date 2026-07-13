@@ -1,0 +1,455 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 8 (Wednesday, January 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. WATSON COLEMAN:\nH.R. 469.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18: To make all Laws which\nshall be necessary and proper for carrying into Execution the\nforegoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.\n[Page H187]\n</pre>",
+    "cosponsors": {
+      "count": 26,
+      "countIncludingWithdrawnCosponsors": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2025-02-27",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/469",
+    "number": "469",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000822",
+        "district": 12,
+        "firstName": "Bonnie",
+        "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+        "isByRequest": "N",
+        "lastName": "Watson Coleman",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/W000822?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/text?format=json"
+    },
+    "title": "Semiquincentennial Congressional Time Capsule Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/469/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T16:23:25Z",
+    "updateDateIncludingText": "2026-07-13T18:47:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2025-01-15",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    },
+    {
+      "bioguideId": "A000055",
+      "district": 4,
+      "firstName": "Robert",
+      "fullName": "Rep. Aderholt, Robert B. [R-AL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Aderholt",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/A000055?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "T000486",
+      "district": 15,
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000486?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "M001136",
+      "district": 9,
+      "firstName": "Lisa",
+      "fullName": "Rep. McClain, Lisa C. [R-MI-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClain",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001136?format=json"
+    },
+    {
+      "bioguideId": "B001296",
+      "district": 2,
+      "firstName": "Brendan",
+      "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Boyle",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001296?format=json"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": 10,
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001229?format=json"
+    },
+    {
+      "bioguideId": "F000459",
+      "district": 3,
+      "firstName": "Charles",
+      "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fleischmann",
+      "middleName": "J. \"Chuck\"",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/F000459?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "W000804",
+      "district": 1,
+      "firstName": "Robert",
+      "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wittman",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000804?format=json"
+    },
+    {
+      "bioguideId": "H001085",
+      "district": 6,
+      "firstName": "Chrissy",
+      "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houlahan",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/H001085?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "M000312",
+      "district": 2,
+      "firstName": "James",
+      "fullName": "Rep. McGovern, James P. [D-MA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGovern",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000312?format=json"
+    },
+    {
+      "bioguideId": "T000469",
+      "district": 20,
+      "firstName": "Paul",
+      "fullName": "Rep. Tonko, Paul [D-NY-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tonko",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000469?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "W000795",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Wilson, Joe [R-SC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/W000795?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-01-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "F000468",
+      "district": 7,
+      "firstName": "Lizzie",
+      "fullName": "Rep. Fletcher, Lizzie [D-TX-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fletcher",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000468?format=json"
+    },
+    {
+      "bioguideId": "C001087",
+      "district": 1,
+      "firstName": "Eric",
+      "fullName": "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crawford",
+      "middleName": "A. \"Rick\"",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001087?format=json"
+    },
+    {
+      "bioguideId": "K000398",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kean",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-21",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000398?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "T000467",
+      "district": 15,
+      "firstName": "Glenn",
+      "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thompson",
+      "party": "R",
+      "sponsorshipDate": "2025-02-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/T000467?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T17:08:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-15T15:04:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-16T15:36:49Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-15T15:04:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Semiquincentennial Congressional Time Capsule Act</strong></p><p>This bill requires the Architect of the Capitol to create a congressional time capsule in honor of the 250<sup>th</sup> anniversary of the Declaration of Independence to be buried on the west lawn of the Capitol on or before July 4, 2026. Congressional leadership will determine the contents of the time capsule, and the time capsule shall be sealed until July 4, 2276.</p>",
+      "updateDate": "2025-02-13T17:26:44Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-148",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/148?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 5 (Thursday, January 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CALVERT:\nH.R. 252.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe constitutional authority of Congress to enact this\nlegislation is provided by Article I, Section 8 of the United\nStates Constitution, specifically clause 1 and clause 18.\n[Page H92]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/252",
+    "number": "252",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000059",
+        "district": 41,
+        "firstName": "Ken",
+        "fullName": "Rep. Calvert, Ken [R-CA-41]",
+        "isByRequest": "N",
+        "lastName": "Calvert",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C000059?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/text?format=json"
+    },
+    "title": "Secure Our Ports Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:53:22Z",
+    "updateDateIncludingText": "2026-07-12T14:55:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000593",
+      "district": 28,
+      "firstName": "Carlos",
+      "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gimenez",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/G000593?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-10T19:49:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-06T13:22:12Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-02T15:09:23Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-02T15:09:17Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-01-09T14:37:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-10T15:03:03Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Coast Guard and Maritime Transportation Subcommittee",
+          "systemCode": "hspw07",
+          "url": "https://api.congress.gov/v3/committee/house/hspw07?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-09",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Secure Our Ports Act of 2025</strong></p><p>This bill prohibits owners or operators of certain U.S. maritime transportation facilities from contracting for the lease, ownership, or operation of facilities with enterprises partly or wholly owned by China, Iran, North Korea, or Russia. The covered facilities are located at ports in areas that are subject to enhanced transportation security requirements, including the requirement for an Area Maritime Transportation Security Plan.</p>",
+      "updateDate": "2025-07-30T17:58:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

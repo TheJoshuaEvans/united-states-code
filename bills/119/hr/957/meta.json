@@ -1,0 +1,156 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NORCROSS:\nH.R. 957.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-02-04",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/957",
+    "number": "957",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000188",
+        "district": 1,
+        "firstName": "Donald",
+        "fullName": "Rep. Norcross, Donald [D-NJ-1]",
+        "isByRequest": "N",
+        "lastName": "Norcross",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/N000188?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/text?format=json"
+    },
+    "title": "Parity Enforcement Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/957/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T11:51:30Z",
+    "updateDateIncludingText": "2026-07-13T11:51:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "C001069",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Courtney, Joe [D-CT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Courtney",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/C001069?format=json"
+    },
+    {
+      "bioguideId": "P000607",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Pocan, Mark [D-WI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pocan",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/P000607?format=json"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": 4,
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000288?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-02-06",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-04T17:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

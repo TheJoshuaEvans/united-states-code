@@ -1,0 +1,106 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-01",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/24",
+    "number": "24",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001055",
+        "district": 1,
+        "firstName": "Ed",
+        "fullName": "Rep. Case, Ed [D-HI-1]",
+        "isByRequest": "N",
+        "lastName": "Case",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/C001055?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/text?format=json"
+    },
+    "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha I.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/24/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:13:23Z",
+    "updateDateIncludingText": "2026-07-13T18:34:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T21:38:50Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-01T14:03:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-01",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This concurrent resolution authorizes the Capitol Visitor Center to be used on June 8, 2025, for an event to celebrate the birthday of King Kamehameha I.</p>",
+      "updateDate": "2025-06-07T01:19:59Z",
+      "versionCode": "00"
+    }
+  ]
+}

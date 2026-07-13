@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives",
+        "pubDate": "2025-06-27T19:08:00Z",
+        "title": "H.R. 866, ROUTERS Act",
+        "url": "https://www.cbo.gov/publication/61517"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-75",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/75?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LATTA:\nH.R. 866.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to clause 7 of Rule XII of the Rules of the House\nof Representatives, the following statement is submitted\nregarding the specific powers granted to Congress in the\nConstitution to enact the accompanying bill or joint\nresolution.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18:\nThe Congress shall have Power to make all Laws which shall\nbe necessary and proper for carrying into Executive the\nforegoing Powers, and all other Powers vested by this\nConstitution\n[Page H434]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/866",
+    "number": "866",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000566",
+        "district": 5,
+        "firstName": "Robert",
+        "fullName": "Rep. Latta, Robert E. [R-OH-5]",
+        "isByRequest": "N",
+        "lastName": "Latta",
+        "middleName": "E.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000566?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/text?format=json"
+    },
+    "title": "ROUTERS Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/866/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T23:43:22Z",
+    "updateDateIncludingText": "2026-07-13T17:18:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000385",
+      "district": 2,
+      "firstName": "Robin",
+      "fullName": "Rep. Kelly, Robin L. [D-IL-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000385?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:57:51Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:30:36Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-31T15:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Removing Our Unsecure Technologies to Ensure Reliability and Security Act or the ROUTERS Act</strong></p><p>This bill requires the National Telecommunications and Information Administration to conduct a study on the national security risks posed by consumer routers and modems (including devices that combine a modem and router) and provide the results of the study to Congress. The study must address devices developed, manufactured, or supplied&nbsp;by persons (i.e., individuals and entities)&nbsp;owned by, controlled by, or subject to the influence of China, Iran, North Korea, or Russia.&nbsp;</p><p>&nbsp;</p>",
+      "updateDate": "2025-03-04T20:11:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

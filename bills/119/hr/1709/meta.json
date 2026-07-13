@@ -1,0 +1,174 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-03-18T20:33:00Z",
+        "title": "H.R. 1709, Understanding Cybersecurity of Mobile Networks Act",
+        "url": "https://www.cbo.gov/publication/61251"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-177",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/177?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LANDSMAN:\nH.R. 1709.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII of the U.S. Constitution\n[Page H920]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1709",
+    "number": "1709",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000601",
+        "district": 1,
+        "firstName": "Greg",
+        "fullName": "Rep. Landsman, Greg [D-OH-1]",
+        "isByRequest": "N",
+        "lastName": "Landsman",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000601?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/text?format=json"
+    },
+    "title": "Understanding Cybersecurity of Mobile Networks Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1709/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:58:20Z",
+    "updateDateIncludingText": "2026-07-13T19:46:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001039",
+      "district": 3,
+      "firstName": "Kat",
+      "fullName": "Rep. Cammack, Kat [R-FL-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cammack",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001039?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:12:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-30T19:25:52Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T15:57:45Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:13:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Understanding Cybersecurity of Mobile Networks Act</strong></p><p>This bill requires the National Telecommunications and Information Administration to examine and report on the cybersecurity of mobile service networks and the vulnerability of these networks and mobile devices to cyberattacks and surveillance conducted by adversaries.</p><p>The report must include, among other items,&nbsp;(1) an assessment of the degree to which mobile service providers have addressed certain cybersecurity vulnerabilities; (2) a discussion of the degree to which these providers have implemented cybersecurity best practices and risk assessment frameworks; and (3) an estimate of the prevalence and efficacy of encryption and authentication algorithms and techniques.</p>",
+      "updateDate": "2025-03-25T15:17:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

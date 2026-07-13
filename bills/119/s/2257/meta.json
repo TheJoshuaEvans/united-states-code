@@ -1,0 +1,112 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-38",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/38?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-07-10",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 113."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2257",
+    "number": "2257",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001190",
+        "firstName": "Markwayne",
+        "fullName": "Sen. Mullin, Markwayne [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Mullin",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/M001190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/text?format=json"
+    },
+    "title": "Legislative Branch Appropriations Act, 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2257/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-12T07:53:24Z",
+    "updateDateIncludingText": "2026-07-12T07:53:24Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T18:27:28Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Appropriations Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-14T19:14:17Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-05-06T19:13:59Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-04-29T19:12:54Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Legislative Branch Subcommittee",
+          "systemCode": "ssap08",
+          "url": "https://api.congress.gov/v3/committee/senate/ssap08?format=json"
+        }
+      ],
+      "systemCode": "ssap00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssap00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-10",
+      "actionDesc": "Reported to Senate",
+      "text": "<p><strong>Legislative Branch Appropriations Act, 2026</strong></p><p>This bill provides FY2026 appropriations for the legislative branch, including the Senate and joint items such as</p><ul><li>the Joint Economic Committee,</li><li>the Joint Committee on Taxation,</li><li>the Office of the Attending Physician, and</li><li>the Office of Congressional Accessibility Services.</li></ul><p>In addition, the bill provides FY2026 appropriations for</p><ul><li>the Capitol Police;</li><li>the Office of Congressional Workplace Rights;</li><li>the Congressional Budget Office;</li><li>the Architect of the Capitol;</li><li>the Library of Congress, including the Congressional Research Service and the Copyright Office;</li><li>the Government Publishing Office;</li><li>the Government Accountability Office;</li><li>the Congressional Office for International Leadership Fund; and</li><li>the John C. Stennis Center for Public Service Training and Development.</li></ul><p>(Pursuant to the longstanding practice of each chamber of Congress determining its own requirements, funds for the House are not included in the Senate bill.)</p><p>The bill also sets forth requirements and restrictions for using funds provided by this bill.</p>",
+      "updateDate": "2025-09-10T14:42:31Z",
+      "versionCode": "25"
+    }
+  ]
+}

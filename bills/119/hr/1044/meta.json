@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1044/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-174",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/174?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1044/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VALADAO:\nH.R. 1044.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 Clause 3\n[Page H556]\n</pre>",
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1044",
+    "number": "1044",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000129",
+        "district": 22,
+        "firstName": "David",
+        "fullName": "Rep. Valadao, David G. [R-CA-22]",
+        "isByRequest": "N",
+        "lastName": "Valadao",
+        "middleName": "G.",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/V000129?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1044/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1044/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1044/text?format=json"
+    },
+    "title": "To amend Public Law 99\u2013338 with respect to Kaweah Project permits.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1044/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T17:08:49Z",
+    "updateDateIncludingText": "2026-07-13T19:41:39Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:09:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-30T18:26:12Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T21:43:39Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-06T15:05:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill authorizes the Department of the Interior to issue seven (currently, three) renewals for portions&nbsp;of the Kaweah Project, which is an existing hydroelectric project in&nbsp;Tulare County, California.</p>",
+      "updateDate": "2025-07-01T18:26:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

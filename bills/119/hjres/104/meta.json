@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 119 (Thursday, July 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DOWNING:\nH.J. Res. 104.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I, Section 8 of the United States\nConstitution\n[Page H3202]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Became Public Law No: 119-48."
+    },
+    "laws": [
+      {
+        "number": "119-48",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/104",
+    "number": "104",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000634",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Downing, Troy [R-MT-2]",
+        "isByRequest": "N",
+        "lastName": "Downing",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000634?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/text?format=json"
+    },
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/104/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-07-10T15:23:27Z",
+    "updateDateIncludingText": "2026-07-13T18:34:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "Z000018",
+      "district": 1,
+      "firstName": "Ryan",
+      "fullName": "Rep. Zinke, Ryan K. [R-MT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Zinke",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/Z000018?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:07:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This joint resolution nullifies the rule submitted by the Bureau of Land Management (BLM) relating to the Record of Decision and Approved Resource Management Plan (RMP) Amendment for the Miles City Field Office in Montana and issued on November 20, 2024.&nbsp;</p><p>By way of background, such an amendment revises an RMP, which guides the management of lands administered by BLM. This Miles City Field Office RMP&nbsp;Amendment made no acres available for coal leasing and 1,745,040 acres unavailable for further consideration for coal leasing.</p>",
+      "updateDate": "2025-07-18T21:24:07Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-11",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution opens certain land administered by the Bureau of Land Management (BLM) in eastern Montana to coal leasing. Specifically, it nullifies the <a href=\"https://www.federalregister.gov/documents/2024/11/27/2024-27678/notice-of-availability-of-the-record-of-decision-and-approved-resource-management-plan-amendment-for\">rule</a> issued by the Bureau of Land Management (BLM)&nbsp;relating to the Record of Decision and Approved Resource Management Plan (RMP) Amendment for the Miles City Field Office in Montana. The BLM approved the RMP Amendment on November 20, 2024. The RMP Amendment made no acres available for coal leasing and 1,745,040 acres unavailable for further consideration for coal leasing to reduce greenhouse gas emissions.</p>",
+      "updateDate": "2026-06-15T19:17:09Z",
+      "versionCode": "49"
+    }
+  ]
+}

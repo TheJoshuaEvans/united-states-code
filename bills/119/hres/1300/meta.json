@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-653",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/653?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-05-19",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "actionTime": "17:35:35",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1300",
+    "number": "1300",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000311",
+        "district": 3,
+        "firstName": "Brian",
+        "fullName": "Rep. Jack, Brian [R-GA-3]",
+        "isByRequest": "N",
+        "lastName": "Jack",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/J000311?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women\u2019s History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1300/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:39:32Z",
+    "updateDateIncludingText": "2026-07-11T21:39:32Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-19T20:26:44Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-19",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women's History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+      "updateDate": "2026-05-20T08:21:02Z",
+      "versionCode": "07"
+    }
+  ]
+}

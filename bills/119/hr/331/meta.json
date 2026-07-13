@@ -1,0 +1,163 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on February 12, 2025",
+        "pubDate": "2025-03-31T19:41:00Z",
+        "title": "H.R. 331, a bill to amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge purposes",
+        "url": "https://www.cbo.gov/publication/61281"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-60",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/60?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 6 (Monday, January 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FULCHER:\nH.R. 331.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to clause 7 of Rule XII of the Rules of the House\nof Representatives, the following statement is submitted\nregarding the specific powers granted to Congress in the\nConstitution to enact the accompanying bill or joint\nresolution.\nCongress has the authority to enact this legislation\npursuant to the power granted under Article IV, Section 3,\nClause 2 and Article I, Section 8, Clause 3 of the United\nStates Constitution.\n[Page H111]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/331",
+    "number": "331",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000469",
+        "district": 1,
+        "firstName": "Russ",
+        "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+        "isByRequest": "N",
+        "lastName": "Fulcher",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/F000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/text?format=json"
+    },
+    "title": "To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/331/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:24:27Z",
+    "updateDateIncludingText": "2026-07-12T15:02:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001148",
+      "district": 2,
+      "firstName": "Michael",
+      "fullName": "Rep. Simpson, Michael K. [R-ID-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Simpson",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/S001148?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T15:55:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-17T14:03:41Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T22:26:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-12T21:40:55Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-01-13T17:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-23T18:53:33Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-01-21T22:15:54Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill modifies the Aquifer Recharge Flexibility Act to expand provisions concerning authorizations (e.g., rights-of-way) to transport water across public land administered by the Bureau of Land Management (BLM) for aquifer recharge purposes.</p><p>Under the Aquifer Recharge Flexibility Act, the holder of existing rights-of-way, easements, permits, or other authorizations to transport water across BLM land may transport the water for aquifer recharge purposes without additional authorization from the Department of the Interior so long as the use does not expand or modify the operation of such authorizations across public land.</p><p>The bill allows the holders of such authorizations to act not only on behalf of themselves, but also on behalf of states, Indian Tribes, or public entities, to use the existing authorizations for aquifer recharge without additional authorization from the Department of the Interior. Further, the bill states that this use may not be considered an expansion, modification, major federal action, or substantial deviation.</p><p>Additionally, the bill exempts holders from paying additional rents to the BLM for any use of such authorizations; however, the exemption does not apply to for-profit uses of aquifer recharge or for-profit entities.&nbsp;</p><p>Finally, holders of rights-of-way or other authorizations must provide notice to the&nbsp;BLM of the intended use of authorization as specified by the bill.</p>",
+      "updateDate": "2025-04-01T19:11:38Z",
+      "versionCode": "00"
+    }
+  ]
+}

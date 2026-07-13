@@ -1,0 +1,169 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FONG:\nH.R. 1223.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\nArticle I, Section 8, Clause 18\n[Page H677]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-12",
+    "latestAction": {
+      "actionDate": "2025-05-21",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1223",
+    "number": "1223",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000480",
+        "district": 20,
+        "firstName": "Vince",
+        "fullName": "Rep. Fong, Vince [R-CA-20]",
+        "isByRequest": "N",
+        "lastName": "Fong",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/F000480?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/text?format=json"
+    },
+    "title": "ANCHOR Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1223/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:53:25Z",
+    "updateDateIncludingText": "2026-07-12T14:28:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001215",
+      "district": 11,
+      "firstName": "Haley",
+      "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stevens",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001215?format=json"
+    },
+    {
+      "bioguideId": "O000019",
+      "district": 23,
+      "firstName": "Jay",
+      "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Obernolte",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/O000019?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "R000622",
+      "district": 19,
+      "firstName": "Josh",
+      "fullName": "Rep. Riley, Josh [D-NY-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Riley",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000622?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-21T15:21:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-29T21:10:34Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-12T15:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act or the ANCHOR Act&nbsp;</strong></p><p>This bill requires the National Science Foundation (NSF) to develop a plan to improve the cybersecurity and telecommunications capabilities of the U.S. Academic Research Fleet (ARF).</p><p>ARF is comprised of U.S.-flagged vessels that provide at-sea laboratories where oceanographic scientists, educators, and students research and learn about marine science.&nbsp;</p><p>The bill requires the plan to include assessments of</p><ul><li>telecommunications and networking needs of ARF, consistent with typical scientific missions;</li><li>cybersecurity needs appropriate for the operation of ARF vessels and their specific research functions;</li><li>the costs necessary to meet these needs;</li><li>the time required to implement necessary upgrades; and</li><li>opportunities for the adoption of common solutions or&nbsp;consortial licensing agreements, or for the centralization of cybersecurity, telecommunications, or data management at a single facility.&nbsp;</li></ul><p>The plan must also include a spending plan for the NSF, the Office of Naval Research, nonfederal&nbsp;owners of ARF vessels,&nbsp;and users of the vessels to cover identified costs.&nbsp;</p><p>Among other factors specified in the bill, the&nbsp;NSF must consider, as appropriate, the network capabilities necessary to meet mission needs (e.g., to upload data to cloud-based or shoreside servers), international standards and guidance for information security, and requirements for controlled unclassified or classified information.&nbsp;</p><p>The plan must be provided to Congress within 18 months of the bill's enactment, and the NSF must later report to Congress on the plan's implementation.&nbsp;</p>",
+      "updateDate": "2025-03-20T13:58:04Z",
+      "versionCode": "00"
+    }
+  ]
+}

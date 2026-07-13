@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/566/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/566/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-179",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/179?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/566/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-02",
+    "latestAction": {
+      "actionDate": "2025-07-03",
+      "actionTime": "03:23:51",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/566",
+    "number": "566",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/566/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/566/text?format=json"
+    },
+    "title": "Providing for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/566/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:44:44Z",
+    "updateDateIncludingText": "2026-07-11T20:44:44Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-02T13:00:01Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

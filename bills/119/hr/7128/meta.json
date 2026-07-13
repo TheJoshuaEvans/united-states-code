@@ -1,0 +1,159 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-561",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/561?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 12 (Friday, January 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FLOOD:\nH.R. 7128.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the United States\nConstitution\n[Page H924]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-16",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "actionTime": "19:09:46",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7128",
+    "number": "7128",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000474",
+        "district": 1,
+        "firstName": "Mike",
+        "fullName": "Rep. Flood, Mike [R-NE-1]",
+        "isByRequest": "N",
+        "lastName": "Flood",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000474?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/text?format=json"
+    },
+    "title": "TRIA Program Reauthorization Act of 2026",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7128/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T17:35:35Z",
+    "updateDateIncludingText": "2026-07-13T17:35:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2026-01-22",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "V000081",
+      "district": 7,
+      "firstName": "Nydia",
+      "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vel\u00e1zquez",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-22",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/V000081?format=json"
+    },
+    {
+      "bioguideId": "P000617",
+      "district": 7,
+      "firstName": "Ayanna",
+      "fullName": "Rep. Pressley, Ayanna [D-MA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pressley",
+      "party": "D",
+      "sponsorshipDate": "2026-01-22",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/P000617?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-19T16:37:41Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-01-22T17:46:53Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-16T20:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-19",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>TRIA Program Reauthorization Act of 2026</strong></p><p>This bill reauthorizes the Terrorism Risk Insurance Program through 2034. The program covers a portion of the losses incurred by private insurers for property and casualty insurance coverage for terrorism risk.</p><p>The bill also increases the amount of property and casualty insurance losses required for certification under the program beginning in 2029 and provides statutory authority for Department of the Treasury public notification requirements regarding the determination process for whether an act qualifies as an act of terrorism under this program.</p>",
+      "updateDate": "2026-04-17T19:50:37Z",
+      "versionCode": "07"
+    }
+  ]
+}

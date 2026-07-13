@@ -1,0 +1,189 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Science, Space, and Technology on April 29, 2025",
+        "pubDate": "2025-08-14T17:52:00Z",
+        "title": "H.R. 2600, ASCEND Act",
+        "url": "https://www.cbo.gov/publication/61671"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-502",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/502?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 59 (Wednesday, April 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HURD of Colorado:\nH.R. 2600.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 Clause 3\n[Page H1413]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-02",
+    "latestAction": {
+      "actionDate": "2026-02-24",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 344."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2600",
+    "number": "2600",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001100",
+        "district": 3,
+        "firstName": "Jeff",
+        "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+        "isByRequest": "N",
+        "lastName": "Hurd",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H001100?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/text?format=json"
+    },
+    "title": "ASCEND Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2600/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:36Z",
+    "updateDateIncludingText": "2026-07-12T14:56:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "S001230",
+      "district": 10,
+      "firstName": "Suhas",
+      "fullName": "Rep. Subramanyam, Suhas [D-VA-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Subramanyam",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/S001230?format=json"
+    },
+    {
+      "bioguideId": "C001137",
+      "district": 5,
+      "firstName": "Jeff",
+      "fullName": "Rep. Crank, Jeff [R-CO-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crank",
+      "party": "R",
+      "sponsorshipDate": "2025-04-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001137?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    },
+    {
+      "bioguideId": "R000622",
+      "district": 19,
+      "firstName": "Josh",
+      "fullName": "Rep. Riley, Josh [D-NY-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Riley",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000622?format=json"
+    },
+    {
+      "bioguideId": "K000398",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kean",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000398?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-20T17:14:53Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-29T21:08:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-02T22:03:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-02",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Accessing Satellite Capabilities to Enable New Discoveries Act or the ASCEND Act</strong></p><p>This bill provides statutory authority for the Commercial SmallSat Data Acquisition (CSDA) program run by the National Aeronautics and Space Administration (NASA). Through the CSDA program, NASA acquires remote sensing data and imagery from commercial satellites to support its Earth science research. (<em>Remote sensing</em> generally refers to the collection of data by instruments in Earth\u2019s orbit, such as satellites, that can be processed into imagery of Earth\u2019s surface.)</p><p>Under the bill, NASA may establish or modify end-use agreements to allow for broad use of data and imagery acquired under the program, including by individuals outside of NASA (e.g., other federal agencies). The terms of any data or imagery acquisition may not prevent the publication of such data or imagery for scientific purposes or the publication of information derived from it. To the extent practicable, NASA must acquire such data and imagery from U.S. vendors. &nbsp;</p>",
+      "updateDate": "2026-02-18T17:45:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

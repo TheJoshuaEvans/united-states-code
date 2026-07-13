@@ -1,0 +1,166 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on March 31, 2025",
+        "pubDate": "2025-04-01T15:18:00Z",
+        "title": "H.R. 1155, Recovery of Stolen Checks Act",
+        "url": "https://www.cbo.gov/publication/61286"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-41",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/41?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 27 (Monday, February 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MALLIOTAKIS:\nH.R. 1155.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\n[Page H614]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1155",
+    "number": "1155",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000317",
+        "district": 11,
+        "firstName": "Nicole",
+        "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+        "isByRequest": "N",
+        "lastName": "Malliotakis",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M000317?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/text?format=json"
+    },
+    "title": "Recovery of Stolen Checks Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1155/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:53:23Z",
+    "updateDateIncludingText": "2026-07-13T19:42:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001185",
+      "district": 7,
+      "firstName": "Terri",
+      "fullName": "Rep. Sewell, Terri A. [D-AL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sewell",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/S001185?format=json"
+    },
+    {
+      "bioguideId": "K000392",
+      "district": 8,
+      "firstName": "David",
+      "fullName": "Rep. Kustoff, David [R-TN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kustoff",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/K000392?format=json"
+    },
+    {
+      "bioguideId": "I000056",
+      "district": 48,
+      "firstName": "Darrell",
+      "fullName": "Rep. Issa, Darrell [R-CA-48]",
+      "isOriginalCosponsor": false,
+      "lastName": "Issa",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/I000056?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-01T16:12:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-27T15:11:39Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T16:02:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-10T17:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Recovery of Stolen Checks Act</strong></p><p>This bill requires the Department of the Treasury to establish procedures that allow an eligible taxpayer to elect to receive by direct deposit a replacement of a federal tax refund amount that was originally issued as a paper check and was lost or stolen. (Currently,  taxpayers eligible to receive a replacement of a lost or stolen federal tax refund check are generally issued another paper check.)</p>",
+      "updateDate": "2025-03-28T13:55:28Z",
+      "versionCode": "00"
+    }
+  ]
+}

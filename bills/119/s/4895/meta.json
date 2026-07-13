@@ -1,0 +1,86 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4895/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4895/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4895/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4895",
+    "number": "4895",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001181",
+        "firstName": "Jeanne",
+        "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Shaheen",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/S001181?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4895/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4895/text?format=json"
+    },
+    "title": "Turn the Tide Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4895/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T16:07:38Z",
+    "updateDateIncludingText": "2026-07-13T16:07:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T19:49:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

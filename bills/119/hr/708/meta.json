@@ -1,0 +1,259 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/actions?format=json"
+    },
+    "committees": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 14 (Thursday, January 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STRONG:\nH.R. 708.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution of the United\nStates\n[Page H389]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/708",
+    "number": "708",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001220",
+        "district": 5,
+        "firstName": "Dale",
+        "fullName": "Rep. Strong, Dale W. [R-AL-5]",
+        "isByRequest": "N",
+        "lastName": "Strong",
+        "middleName": "W.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/S001220?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/text?format=json"
+    },
+    "title": "SHIELD Against CCP Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/708/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T12:28:25Z",
+    "updateDateIncludingText": "2026-07-13T19:13:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "G000590",
+      "district": 7,
+      "firstName": "Mark",
+      "fullName": "Rep. Green, Mark E. [R-TN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Green",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/G000590?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "L000603",
+      "district": 8,
+      "firstName": "Morgan",
+      "fullName": "Rep. Luttrell, Morgan [R-TX-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luttrell",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/L000603?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "P000048",
+      "district": 11,
+      "firstName": "August",
+      "fullName": "Rep. Pfluger, August [R-TX-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pfluger",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/P000048?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-11T18:49:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-23T15:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-23T18:08:02Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-23T15:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-23T15:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-23T15:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Strategic Homeland Intelligence and Enforcement Legislation to Defend Against the CCP Act or the SHIELD Against CCP Act</strong></p><p>This bill requires the Department of Homeland Security (DHS) to form a working group tasked with duties related to countering terrorist, cybersecurity, border and port security, and transportation security threats posed to the United States by the Chinese Communist Party (CCP).</p><p>The working group must assess and annually report on current DHS efforts to counter the CCP\u2019s (1) use of the U.S. immigration system, (2) economic and trade practices, and (3) support for illicit financial activity and trafficking controlled substances.&nbsp;The working group must terminate seven years after its establishment.</p><p>DHS must additionally carry out research and development on technologies and techniques for enhancing its security and situational awareness to these threats.</p><p>The Government Accountability Office must report on the implementation of this bill.</p>",
+      "updateDate": "2025-03-05T20:12:03Z",
+      "versionCode": "00"
+    }
+  ]
+}

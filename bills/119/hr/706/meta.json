@@ -1,0 +1,129 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 14 (Thursday, January 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STRONG:\nH.R. 706.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution of the United\nStates\n[Page H389]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-03-12",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/706",
+    "number": "706",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001220",
+        "district": 5,
+        "firstName": "Dale",
+        "fullName": "Rep. Strong, Dale W. [R-AL-5]",
+        "isByRequest": "N",
+        "lastName": "Strong",
+        "middleName": "W.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/S001220?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/text?format=json"
+    },
+    "title": "DHS Biodetection Improvement Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/706/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T12:28:24Z",
+    "updateDateIncludingText": "2026-07-13T19:13:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-12T16:59:43Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-23T15:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-23T18:07:46Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Emergency Management and Technology Subcommittee",
+          "systemCode": "hshm12",
+          "url": "https://api.congress.gov/v3/committee/house/hshm12?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>DHS Biodetection Improvement Act</strong></p><p>This bill directs the Department of Homeland Security (DHS) to assess how it has utilized Department of Energy national laboratories and sites for research and development in carrying out DHS missions and to report to Congress a strategy for how DHS will conduct biodetection research and development in coordination with such laboratories and sites.</p>",
+      "updateDate": "2025-03-06T17:39:43Z",
+      "versionCode": "00"
+    }
+  ]
+}

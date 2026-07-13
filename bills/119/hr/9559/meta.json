@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9559/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9559/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LUTTRELL:\nH.R. 9559.\nCongress has the power to enact this legislation pursuant\nto the following:\nUnder Article 1, Section 8 of the Constitution, Congress\nhas the power ``To make all Laws which shall be necessary and\nproper for carrying into Execution the foregoing Powers, and\nall other Powers vested by this Constitution in the\nGovernment of the United States, or in any Department or\nOfficer thereof.''\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9559/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9559",
+    "number": "9559",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000603",
+        "district": 8,
+        "firstName": "Morgan",
+        "fullName": "Rep. Luttrell, Morgan [R-TX-8]",
+        "isByRequest": "N",
+        "lastName": "Luttrell",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/L000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9559/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9559/text?format=json"
+    },
+    "title": "IBOGAINE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9559/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T16:12:11Z",
+    "updateDateIncludingText": "2026-07-13T16:12:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    },
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": true,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Financial Services on May 6, 2025",
+        "pubDate": "2025-05-29T17:06:00Z",
+        "title": "H.R. 2384, Financial Technology Protection Act of 2025",
+        "url": "https://www.cbo.gov/publication/61449"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-93",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/93?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 55 (Wednesday, March 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NUNN of Iowa:\nH.R. 2384.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\nTo make all Laws which shall be necessary and proper for\ncarrying into Execution the foregoing Powers, and all other\nPowers vested by this Constitution in the Government of the\nUnited States, or in any Department or Officer thereof.\n[Page H1303]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-26",
+    "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2384",
+    "number": "2384",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000193",
+        "district": 3,
+        "firstName": "Zachary",
+        "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+        "isByRequest": "N",
+        "lastName": "Nunn",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/N000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/text?format=json"
+    },
+    "title": "Financial Technology Protection Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2384/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:13:31Z",
+    "updateDateIncludingText": "2026-07-12T14:54:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001047",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Himes, James A. [D-CT-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Himes",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-26",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001047?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "G000583",
+      "district": 5,
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/G000583?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T16:35:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-06T19:50:10Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-02T15:02:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-26T14:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Financial Technology Protection Act of 2025 </strong></p><p>This bill establishes the Independent Financial Technology Working Group to Combat Terrorism and Illicit Financing. The working group must study and report on terrorist and illicit use of digital assets and other related emerging technologies and develop proposals to improve anti-money laundering and counterterrorist financing efforts.</p><p>The working group terminates four years after the bill's enactment or after the working group completes any ongoing activities, whichever is later.</p><p>In addition, the Department of the Treasury must  (1) report on the potential use of digital assets and other emerging technologies by states, nonstate actors, and terrorist groups for the purpose of evading sanctions to threaten the national security of the United States; and (2) describe a strategy to mitigate and prevent this usage.&nbsp;</p>",
+      "updateDate": "2025-07-18T18:46:05Z",
+      "versionCode": "00"
+    }
+  ]
+}

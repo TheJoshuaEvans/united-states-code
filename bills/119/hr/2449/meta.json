@@ -1,0 +1,155 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives",
+        "pubDate": "2025-06-27T19:17:00Z",
+        "title": "H.R. 2449, FUTURE Networks Act",
+        "url": "https://www.cbo.gov/publication/61527"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-74",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/74?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MATSUI:\nH.R. 2449.\nCongress has the power to enact this legislation pursuant\nto the following:\nsection 8 of article I of the Constitution\n[Page H1339]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2449",
+    "number": "2449",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001163",
+        "district": 7,
+        "firstName": "Doris",
+        "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+        "isByRequest": "N",
+        "lastName": "Matsui",
+        "middleName": "O.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001163?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/text?format=json"
+    },
+    "title": "FUTURE Networks Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2449/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:08:26Z",
+    "updateDateIncludingText": "2026-07-12T14:55:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000372",
+      "district": 12,
+      "firstName": "Rick",
+      "fullName": "Rep. Allen, Rick W. [R-GA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Allen",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-27",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/A000372?format=json"
+    },
+    {
+      "bioguideId": "W000798",
+      "district": 5,
+      "firstName": "Tim",
+      "fullName": "Rep. Walberg, Tim [R-MI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Walberg",
+      "party": "R",
+      "sponsorshipDate": "2025-03-27",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/W000798?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-29T16:02:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:57:17Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:29:19Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-27T13:07:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Future Uses of Technology Upholding Reliable and Enhanced Networks Act or the FUTURE Networks Act</strong></p><p>This bill requires the Federal Communications Commission (FCC) to establish a 6G Task Force to report on industry-led efforts to set standards for sixth-generation wireless technology and the possible uses and limitations of such technology, among other topics. The task force must publish and solicit public comment on a draft of the report, and must take such comments into consideration in preparing the final report. &nbsp;</p><p>Members of the task force must include, to the extent practicable, representatives of companies in the communications industry; public interest organizations or academic institutions; and federal, state, tribal, and local governments (with at least one member representing each level of government). Members are to be selected by the chair of the FCC, and generally may not include representatives of entities owned or controlled by, or subject to the influence of, a foreign adversary, or otherwise deemed to pose a threat to U.S. national security.</p>",
+      "updateDate": "2025-04-11T12:06:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

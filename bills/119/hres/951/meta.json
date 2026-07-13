@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-410",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/410?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-12-16",
+    "latestAction": {
+      "actionDate": "2025-12-16",
+      "actionTime": "14:32:50",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/951",
+    "number": "951",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000600",
+        "district": 23,
+        "firstName": "Nicholas",
+        "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+        "isByRequest": "N",
+        "lastName": "Langworthy",
+        "middleName": "A.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 4776) to amend the National Environmental Policy Act of 1969 to clarify ambiguous provisions and facilitate a more efficient, effective, and timely environmental review process; providing for consideration of the bill (H.R. 1366) to provide for the location of multiple hardrock mining mill sites, to establish the Abandoned Hardrock Mine Fund, and for other purposes; providing for consideration of the bill (H.R. 845) to require the Secretary of the Interior to reissue regulations removing the gray wolf from the list of endangered and threatened wildlife under the Endangered Species Act of 1973; providing for consideration of the bill (H.R. 3616) to require the Federal Energy Regulatory Commission to review regulations that may affect the reliable operation of the bulk-power system; providing for consideration of the bill (H.R. 3632) to amend the Federal Power Act to adjust the requirements for orders, rules, and regulations relating to furnishing adequate service, to require owners or operators of generating facilities to provide notice of planned retirements of certain electric generating units, and for other purposes; and providing for consideration of the bill (H.R. 4371) to amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to enhance efforts to combat the trafficking of children.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/951/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:09:47Z",
+    "updateDateIncludingText": "2026-07-11T20:09:47Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T14:59:02Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-16",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 4776) to amend the National Environmental Policy Act of 1969 to clarify ambiguous provisions and facilitate a more efficient, effective, and timely environmental review process; providing for consideration of the bill (H.R. 1366) to provide for the location of multiple hardrock mining mill sites, to establish the Abandoned Hardrock Mine Fund, and for other purposes; providing for consideration of the bill (H.R. 845) to require the Secretary of the Interior to reissue regulations removing the gray wolf from the list of endangered and threatened wildlife under the Endangered Species Act of 1973; providing for consideration of the bill (H.R. 3616) to require the Federal Energy Regulatory Commission to review regulations that may affect the reliable operation of the bulk-power system; providing for consideration of the bill (H.R. 3632) to amend the Federal Power Act to adjust the requirements for orders, rules, and regulations relating to furnishing adequate service, to require owners or operators of generating facilities to provide notice of planned retirements of certain electric generating units, and for other purposes; and providing for consideration of the bill (H.R. 4371) to amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to enhance efforts to combat the trafficking of children.",
+      "updateDate": "2026-03-13T12:11:01Z",
+      "versionCode": "07"
+    }
+  ]
+}

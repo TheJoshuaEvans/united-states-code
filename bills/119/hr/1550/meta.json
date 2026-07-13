@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on February 4, 2026",
+        "pubDate": "2026-02-24T15:43:00Z",
+        "title": "H.R. 1550, Strengthening America\u2019s Turning Point Act",
+        "url": "https://www.cbo.gov/publication/62172"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 37 (Tuesday, February 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. STEFANIK:\nH.R. 1550.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H836]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-25",
+    "latestAction": {
+      "actionDate": "2026-02-04",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1550",
+    "number": "1550",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001196",
+        "district": 21,
+        "firstName": "Elise",
+        "fullName": "Rep. Stefanik, Elise M. [R-NY-21]",
+        "isByRequest": "N",
+        "lastName": "Stefanik",
+        "middleName": "M.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S001196?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/text?format=json"
+    },
+    "title": "Strengthening America\u2019s Turning Point Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1550/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:23:21Z",
+    "updateDateIncludingText": "2026-07-13T19:45:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000469",
+      "district": 20,
+      "firstName": "Paul",
+      "fullName": "Rep. Tonko, Paul [D-NY-20]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tonko",
+      "party": "D",
+      "sponsorshipDate": "2025-02-25",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000469?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T22:03:55Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T15:57:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-25T15:00:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-25",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Strengthening America\u2019s Turning Point Act</strong></p><p>This bill renames the Saratoga National Historical Park, located in Stillwater, New York, as Saratoga National Battlefield Park.&nbsp;</p>",
+      "updateDate": "2025-03-26T16:57:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

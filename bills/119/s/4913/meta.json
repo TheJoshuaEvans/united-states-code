@@ -1,0 +1,131 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4913/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4913/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4913/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4913",
+    "number": "4913",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001288",
+        "firstName": "Cory",
+        "fullName": "Sen. Booker, Cory A. [D-NJ]",
+        "isByRequest": "N",
+        "lastName": "Booker",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/B001288?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4913/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4913/text?format=json"
+    },
+    "title": "MOMMIES Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4913/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T16:33:55Z",
+    "updateDateIncludingText": "2026-07-13T16:33:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "B001230",
+      "firstName": "Tammy",
+      "fullName": "Sen. Baldwin, Tammy [D-WI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baldwin",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/B001230?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T21:13:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

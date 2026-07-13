@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Ways and Means on January 14, 2026",
+        "pubDate": "2026-02-05T21:11:00Z",
+        "title": "H.R. 6903, Ensuring Children Receive Support Act",
+        "url": "https://www.cbo.gov/publication/62085"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-624",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/624?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 214 (Thursday, December 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. VAN DUYNE:\nH.R. 6903.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section VIII\n[Page H6118]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-18",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6903",
+    "number": "6903",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Families"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000134",
+        "district": 24,
+        "firstName": "Beth",
+        "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+        "isByRequest": "N",
+        "lastName": "Van Duyne",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/V000134?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/text?format=json"
+    },
+    "title": "Ensuring Children Receive Support Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6903/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-02T19:06:21Z",
+    "updateDateIncludingText": "2026-07-13T19:11:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-12-18",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:19:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-27T16:35:28Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-12-18T14:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-27T16:35:12Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-01-14T17:16:40Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-18T14:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-18",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Ensuring Children Receive Support Act</strong></p><p>This bill specifies that the Department of State must revoke passports for certain individuals who fail to make child support payments.</p><p>Under current law, if the Office of Child Support Enforcement of the Department of Health and Human Services receives information from a state that an individual owes more than $2,500 in child support, the State Department&nbsp;must refuse to issue the individual a passport and may revoke a previously issued passport. The bill specifies that the State Department&nbsp;must revoke a previously issued passport in these circumstances. </p><p>The bill also provides&nbsp;statutory authority for the State Department to allow such an individual to be issued a limited-duration passport for direct return to the United States.</p><p>For more information about this bill, see CRS Insight&nbsp;<a href=\"https://www.congress.gov/crs-product/IN12660\">IN12660</a>.&nbsp;</p>",
+      "updateDate": "2026-04-22T19:38:44Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "status": {
+    "actions": {
+      "count": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-347",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/347?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 119 (Thursday, July 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FRY:\nH.R. 4323.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution\n[Page H3201]\n</pre>",
+    "cosponsors": {
+      "count": 19,
+      "countIncludingWithdrawnCosponsors": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2026-01-23",
+      "text": "Became Public Law No: 119-73."
+    },
+    "laws": [
+      {
+        "number": "119-73",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4323",
+    "number": "4323",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000478",
+        "district": 7,
+        "firstName": "Russell",
+        "fullName": "Rep. Fry, Russell [R-SC-7]",
+        "isByRequest": "N",
+        "lastName": "Fry",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/F000478?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/text?format=json"
+    },
+    "title": "Trafficking Survivors Relief Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4323/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-09T23:08:28Z",
+    "updateDateIncludingText": "2026-07-13T18:44:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000812",
+      "district": 2,
+      "firstName": "Ann",
+      "fullName": "Rep. Wagner, Ann [R-MO-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wagner",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/W000812?format=json"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": 4,
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000288?format=json"
+    },
+    {
+      "bioguideId": "T000460",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Thompson, Mike [D-CA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thompson",
+      "party": "D",
+      "sponsorshipDate": "2025-07-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000460?format=json"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": 36,
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2025-07-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000582?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "K000398",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kean",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000398?format=json"
+    },
+    {
+      "bioguideId": "S000522",
+      "district": 4,
+      "firstName": "Christopher",
+      "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S000522?format=json"
+    },
+    {
+      "bioguideId": "K000401",
+      "district": 3,
+      "firstName": "Kevin",
+      "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiley",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000401?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-08-12",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    },
+    {
+      "bioguideId": "S001224",
+      "district": 3,
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2025-08-12",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S001224?format=json"
+    },
+    {
+      "bioguideId": "H001102",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Harris, Mark [R-NC-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2025-08-15",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001102?format=json"
+    },
+    {
+      "bioguideId": "M001222",
+      "district": 7,
+      "firstName": "Max",
+      "fullName": "Rep. Miller, Max L. [R-OH-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "L.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-03",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001222?format=json"
+    },
+    {
+      "bioguideId": "G000586",
+      "district": 4,
+      "firstName": "Jes\u00fas",
+      "fullName": "Rep. Garc\u00eda, Jes\u00fas G. \"Chuy\" [D-IL-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garc\u00eda",
+      "middleName": "G. \"Chuy\"",
+      "party": "D",
+      "sponsorshipDate": "2025-09-04",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/G000586?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-09-09",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": 1,
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2025-09-10",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000601?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-17T20:24:49Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-10T15:37:53Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-10T15:08:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Trafficking Survivors Relief Act of 2025</strong></p><p>This bill establishes a process to vacate convictions and expunge arrest records for certain criminal offenses committed by victims of human trafficking that directly result from or relate to having been a trafficking victim.</p><p>It defines the offenses eligible to be vacated or expunged and sets forth procedures for filing a motion.</p><p>The Government Accountability Office must assess the impact of this process, including the number of human trafficking survivors who file motions to vacate convictions or expunge records.</p><p>The bill permits certain grants for legal representation to be used to seek post-conviction relief.</p><p>Finally, the bill allows a defendant to establish that the offenses were committed under duress&nbsp;by demonstrating that he or she was a victim of human trafficking at the time of the offense.</p>",
+      "updateDate": "2025-09-10T15:29:44Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-01-23",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Trafficking Survivors Relief Act</strong></p><p>This act establishes a process to vacate convictions and expunge arrest records for certain criminal offenses committed by victims of human trafficking that directly result from or relate to having been a trafficking victim.</p><p>It defines the offenses eligible to be vacated or expunged and sets forth procedures for filing a motion.</p><p>The Government Accountability Office must assess the impact of this process, including the number of human trafficking survivors who file motions to vacate convictions or expunge records.</p><p>Under the act, U.S. Attorneys' Offices must report to the Department of Justice (DOJ)&nbsp;on the number of motions to vacate convictions or expunge arrest records that are filed. Additionally, the&nbsp;DOJ must report to Congress on&nbsp;professional training received by U.S. Attorneys on indicators of human trafficking during the preceding 12-month period.</p><p>The act permits certain grants for legal representation to be used to seek post-conviction relief.</p><p>Finally, the act allows a defendant to establish, as a defense,&nbsp;that the offenses were committed under duress&nbsp;by demonstrating that he or she was a victim of human trafficking at the time of the offense.</p>",
+      "updateDate": "2026-06-02T20:09:32Z",
+      "versionCode": "49"
+    }
+  ]
+}

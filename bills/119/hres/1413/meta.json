@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1413/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1413/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1413/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1413",
+    "number": "1413",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001063",
+        "district": 28,
+        "firstName": "Henry",
+        "fullName": "Rep. Cuellar, Henry [D-TX-28]",
+        "isByRequest": "N",
+        "lastName": "Cuellar",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001063?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1413/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1413/text?format=json"
+    },
+    "title": "Recognizing the 271st anniversary of Laredo, Texas.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1413/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-13T18:28:27Z",
+    "updateDateIncludingText": "2026-07-13T18:28:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-02",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T13:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

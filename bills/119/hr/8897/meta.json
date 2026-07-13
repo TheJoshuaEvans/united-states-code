@@ -1,0 +1,147 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-735",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/735?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 85 (Tuesday, May 19, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MACKENZIE:\nH.R. 8897.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H3628]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-19",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Placed on the Union Calendar, Calendar No. 639."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8897",
+    "number": "8897",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001230",
+        "district": 7,
+        "firstName": "Ryan",
+        "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+        "isByRequest": "N",
+        "lastName": "Mackenzie",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/text?format=json"
+    },
+    "title": "Improving Travel for American Families Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8897/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T17:38:58Z",
+    "updateDateIncludingText": "2026-07-13T17:38:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000477",
+      "district": 4,
+      "firstName": "Valerie",
+      "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foushee",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000477?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T20:13:08Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T20:27:42Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-19T16:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-24T20:27:24Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-05-20T17:52:34Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Transportation and Maritime Security Subcommittee",
+          "systemCode": "hshm07",
+          "url": "https://api.congress.gov/v3/committee/house/hshm07?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-19",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Improving Travel for American Families Act</strong></p><p>This bill directs the Transportation Security Administration (TSA) to establish a pilot program to implement alternative security screenings for passengers traveling with children who are 12 years old and younger.&nbsp;&nbsp;</p><p>Specifically,&nbsp;TSA must implement alternative security screening lanes and security screening approaches for passengers traveling with children in order to&nbsp;support and facilitate the ease of travel for these passengers.</p><p>TSA must implement the pilot program at a minimum of five airports, with priority given to airports that have a high volume of passengers traveling with children.</p>",
+      "updateDate": "2026-07-08T17:04:09Z",
+      "versionCode": "00"
+    }
+  ]
+}

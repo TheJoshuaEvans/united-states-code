@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/39/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/39/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-20",
+    "latestAction": {
+      "actionDate": "2025-07-29",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/39",
+    "number": "39",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001201",
+        "district": 3,
+        "firstName": "Thomas",
+        "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+        "isByRequest": "N",
+        "lastName": "Suozzi",
+        "middleName": "R.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S001201?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/39/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/39/text?format=json"
+    },
+    "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medals awarded under the Harlem Hellfighters Congressional Gold Medal Act.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/39/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:13:23Z",
+    "updateDateIncludingText": "2026-07-13T18:34:25Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-26T19:37:59Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-06-20T15:02:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ]
+}

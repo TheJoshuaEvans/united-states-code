@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARDER of California:\nH.R. 776.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution\n[Page H406]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-02-05",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/776",
+    "number": "776",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001090",
+        "district": 9,
+        "firstName": "Josh",
+        "fullName": "Rep. Harder, Josh [D-CA-9]",
+        "isByRequest": "N",
+        "lastName": "Harder",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/H001090?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/text?format=json"
+    },
+    "title": "Nutria Eradication and Control Reauthorization Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/776/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T11:23:19Z",
+    "updateDateIncludingText": "2026-07-13T01:07:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000129",
+      "district": 22,
+      "firstName": "David",
+      "fullName": "Rep. Valadao, David G. [R-CA-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Valadao",
+      "middleName": "G.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000129?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-05T19:49:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Nutria Eradication and Control Reauthorization Act of 2025</strong></p><p>This bill reauthorizes through FY2030 the Nutria Eradication and Control Act of 2003, which allows the Department of the Interior to provide financial assistance to states for (1)&nbsp;eradicating or controlling nutria, and (2) restoring marshland damaged by nutria.&nbsp;Nutria are invasive, semi-aquatic rodents.</p>",
+      "updateDate": "2025-02-05T20:53:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

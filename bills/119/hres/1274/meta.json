@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-647",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/647?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "actionTime": "15:42:44",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1274",
+    "number": "1274",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000470",
+        "district": 7,
+        "firstName": "Michelle",
+        "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+        "isByRequest": "N",
+        "lastName": "Fischbach",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000470?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/text?format=json"
+    },
+    "title": "Providing that section 11 of House Resolution 1224 shall have no force or effect.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1274/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:39:32Z",
+    "updateDateIncludingText": "2026-07-11T21:39:32Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-12T23:50:22Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution eliminates a requirement to include the text of H.R. 1346, the Nationwide Consumer and Fuel Retailer Choice Act of 2025, as passed by the House of Representatives, in H.R. 7567, the Farm, Food, and National Security Act of 2026 (commonly known as the farm bill). The requirement is contained in H.Res. 1224, which also provides for the consideration of both H.R. 7567 and H.R. 1346. (H.Res. 1224 was agreed to in the House on April 29, 2026.)</p>",
+      "updateDate": "2026-05-13T18:10:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LUCAS:\nH.R. 1325.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H711]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1325",
+    "number": "1325",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000491",
+        "district": 3,
+        "firstName": "Frank",
+        "fullName": "Rep. Lucas, Frank D. [R-OK-3]",
+        "isByRequest": "N",
+        "lastName": "Lucas",
+        "middleName": "D.",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000491?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/text?format=json"
+    },
+    "title": "Commercial Remote Sensing Amendment Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1325/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:38:24Z",
+    "updateDateIncludingText": "2026-07-12T14:29:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000397",
+      "district": 18,
+      "firstName": "Zoe",
+      "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lofgren",
+      "party": "D",
+      "sponsorshipDate": "2025-02-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000397?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-25T16:18:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-13T14:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Commercial Remote Sensing Amendment Act of 2025</strong></p><p>This bill makes certain changes related to the licensing of private remote sensing space systems. (Under current regulations,&nbsp;<em>remote sensing</em> refers to the collection of data by instruments in Earth's orbit, such as satellites, that can be processed into imagery of Earth's surface; <em>private remote sensing space systems</em> refer to remote sensing instruments not owned by the U.S. government.)</p><p>The bill decreases from 120 to 60 days the amount of time in which the National Oceanic and Atmospheric Administration must review and act on an application for a license to operate a private remote sensing space system.</p><p>Further, the bill expands annual reporting on the licensing of private remote sensing space systems to include a list of all applications, organized by tier, as well as the rationale for each tier categorization. (Currently, each license is categorized into one of three tiers based on whether the system produces or is capable of producing data that is already available from other entities). Additionally, the report must include all terms, conditions, or restrictions placed on licensees.</p><p>The bill also reinstates this annual reporting requirement, which expired on September 30, 2020, through September 30, 2030.</p>",
+      "updateDate": "2025-03-19T19:14:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

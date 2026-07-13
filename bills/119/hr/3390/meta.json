@@ -1,0 +1,150 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-234",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/234?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 81 (Wednesday, May 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. De La CRUZ:\nH.R. 3390.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2052]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3390",
+    "number": "3390",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000594",
+        "district": 15,
+        "firstName": "Monica",
+        "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+        "isByRequest": "N",
+        "lastName": "De La Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000594?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/text?format=json"
+    },
+    "title": "Bringing the Discount Window into the 21st Century Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3390/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-02T19:06:20Z",
+    "updateDateIncludingText": "2026-07-12T15:02:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "L000491",
+      "district": 3,
+      "firstName": "Frank",
+      "fullName": "Rep. Lucas, Frank D. [R-OK-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lucas",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000491?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T21:06:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-04T18:09:17Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:59:10Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-22T16:59:01Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T14:04:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Bringing the Discount Window into the 21st Century Act</strong></p><p>This bill requires the Board of Governors of the Federal Reserve System to review and develop a remediation plan for its discount window lending program, which provides loans to depository institutions to support an institution\u2019s security and liquidity.</p><p>The review must consider topics such as the sufficiency of the technology infrastructure, the effectiveness of the existing operating hours of the discount window, and how the discount window interacts with other liquidity providers during normal operations and in times of financial distress.</p><p>The remediation plan must address any identified deficiencies, establish timelines&nbsp;and milestones for implementation, and be approved by the board.</p><p>The bill requires annual reports to Congress regarding the plan.</p>",
+      "updateDate": "2026-02-04T17:09:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

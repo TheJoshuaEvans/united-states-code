@@ -1,0 +1,166 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-09",
+    "latestAction": {
+      "actionDate": "2025-06-09",
+      "actionTime": "19:03:05",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/488",
+    "number": "488",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000300",
+        "district": 8,
+        "firstName": "Gabe",
+        "fullName": "Rep. Evans, Gabe [R-CO-8]",
+        "isByRequest": "N",
+        "lastName": "Evans",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/E000300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/text?format=json"
+    },
+    "title": "Denouncing the antisemitic terrorist attack in Boulder, Colorado.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/488/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:54:31Z",
+    "updateDateIncludingText": "2026-07-11T20:54:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001137",
+      "district": 5,
+      "firstName": "Jeff",
+      "fullName": "Rep. Crank, Jeff [R-CO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crank",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001137?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "B000825",
+      "district": 4,
+      "firstName": "Lauren",
+      "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boebert",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B000825?format=json"
+    },
+    {
+      "bioguideId": "S001229",
+      "district": 6,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shreve",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001229?format=json"
+    },
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-09T16:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

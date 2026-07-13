@@ -1,0 +1,214 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 9 (Thursday, January 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CRANE:\nH.R. 495.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18:\nThe Congress shall have Power . . . To make all Laws which\nshall be necessary and proper for carrying into Execution the\nforegoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.\n[Page H222]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/495",
+    "number": "495",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001132",
+        "district": 2,
+        "firstName": "Elijah",
+        "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+        "isByRequest": "N",
+        "lastName": "Crane",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001132?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/text?format=json"
+    },
+    "title": "Subterranean Border Defense Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/495/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T16:08:24Z",
+    "updateDateIncludingText": "2026-07-13T18:49:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": true,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    },
+    {
+      "bioguideId": "B001302",
+      "district": 5,
+      "firstName": "Andy",
+      "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/B001302?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "L000603",
+      "district": 8,
+      "firstName": "Morgan",
+      "fullName": "Rep. Luttrell, Morgan [R-TX-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luttrell",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/L000603?format=json"
+    },
+    {
+      "bioguideId": "O000175",
+      "district": 5,
+      "firstName": "Andrew",
+      "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ogles",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/O000175?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-03-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-11T18:50:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-16T14:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-16T18:46:33Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-16",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Subterranean Border Defense Act</strong></p><p>This bill requires recurring annual reporting by U.S. Customs and Border Protection (CBP) on the implementation of a strategic plan to counter illicit cross-border tunnel operations. Currently,&nbsp;CBP is only required to report once no later than one year after the plan's development.&nbsp;</p>",
+      "updateDate": "2025-03-05T16:27:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

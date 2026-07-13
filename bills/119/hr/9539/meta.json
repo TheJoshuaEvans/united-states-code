@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9539/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9539/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ALFORD:\nH.R. 9539.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 ``The Congress shall have\npower to . . . provide for the . . . general welfare of the\nUnited States; . . .''\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9539/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9539",
+    "number": "9539",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000379",
+        "district": 4,
+        "firstName": "Mark",
+        "fullName": "Rep. Alford, Mark [R-MO-4]",
+        "isByRequest": "N",
+        "lastName": "Alford",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/A000379?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9539/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9539/text?format=json"
+    },
+    "title": "Online Accessibility Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9539/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T11:55:23Z",
+    "updateDateIncludingText": "2026-07-13T11:55:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": true,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:04:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

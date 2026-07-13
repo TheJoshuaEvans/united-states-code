@@ -1,0 +1,427 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Ways and Means on February 12, 2025",
+        "pubDate": "2025-02-24T21:23:00Z",
+        "title": "H.R. 1156, Pandemic Unemployment Fraud Enforcement Act",
+        "url": "https://www.cbo.gov/publication/61219"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-6",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/6?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 27 (Monday, February 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SMITH of Missouri:\nH.R. 1156.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Unites States Constitution.\n[Page H614]\n</pre>",
+    "cosponsors": {
+      "count": 25,
+      "countIncludingWithdrawnCosponsors": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-03-13",
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1156",
+    "number": "1156",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001195",
+        "district": 8,
+        "firstName": "Jason",
+        "fullName": "Rep. Smith, Jason [R-MO-8]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/S001195?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/text?format=json"
+    },
+    "title": "Pandemic Unemployment Fraud Enforcement Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1156/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:53:23Z",
+    "updateDateIncludingText": "2026-07-13T19:42:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000585",
+      "district": 16,
+      "firstName": "Darin",
+      "fullName": "Rep. LaHood, Darin [R-IL-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaHood",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/L000585?format=json"
+    },
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    },
+    {
+      "bioguideId": "B001314",
+      "district": 4,
+      "firstName": "Aaron",
+      "fullName": "Rep. Bean, Aaron [R-FL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bean",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001314?format=json"
+    },
+    {
+      "bioguideId": "M001224",
+      "district": 1,
+      "firstName": "Nathaniel",
+      "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001224?format=json"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": 24,
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000134?format=json"
+    },
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "M001222",
+      "district": 7,
+      "firstName": "Max",
+      "fullName": "Rep. Miller, Max L. [R-OH-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "L.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001222?format=json"
+    },
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "M001205",
+      "district": 1,
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001205?format=json"
+    },
+    {
+      "bioguideId": "S001199",
+      "district": 11,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smucker",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001199?format=json"
+    },
+    {
+      "bioguideId": "K000392",
+      "district": 8,
+      "firstName": "David",
+      "fullName": "Rep. Kustoff, David [R-TN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kustoff",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/K000392?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "M001210",
+      "district": 3,
+      "firstName": "Gregory",
+      "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murphy",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001210?format=json"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": 1,
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001213?format=json"
+    },
+    {
+      "bioguideId": "E000298",
+      "district": 4,
+      "firstName": "Ron",
+      "fullName": "Rep. Estes, Ron [R-KS-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Estes",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/E000298?format=json"
+    },
+    {
+      "bioguideId": "K000376",
+      "district": 16,
+      "firstName": "Mike",
+      "fullName": "Rep. Kelly, Mike [R-PA-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/K000376?format=json"
+    },
+    {
+      "bioguideId": "H001082",
+      "district": 1,
+      "firstName": "Kevin",
+      "fullName": "Rep. Hern, Kevin [R-OK-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hern",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/H001082?format=json"
+    },
+    {
+      "bioguideId": "A000375",
+      "district": 19,
+      "firstName": "Jodey",
+      "fullName": "Rep. Arrington, Jodey C. [R-TX-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Arrington",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/A000375?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "S001183",
+      "district": 1,
+      "firstName": "David",
+      "fullName": "Rep. Schweikert, David [R-AZ-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schweikert",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001183?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-25T22:56:54Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T16:11:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-10T17:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Pandemic Unemployment Fraud Enforcement Act</strong></p><p>This bill extends from 5 to 10 years the statute of limitations for federal criminal charges or civil enforcement actions for fraud&nbsp;related to several&nbsp;unemployment insurance programs that were established during the COVID-19 pandemic.&nbsp; </p><p>The extension applies to Pandemic Unemployment Assistance, Federal Pandemic Unemployment&nbsp;Compensation, Mixed Earners Unemployment Compensation, and Pandemic Emergency Unemployment Compensation.&nbsp;The bill extends the statute of limitations for (1) criminal charges related to fraud, including aggravated identity theft, wire fraud, and conspiracy to commit fraud; and (2) civil actions involving&nbsp;false claims. However, the bill does not apply to a criminal prosecution or civil enforcement action if the applicable statute of limitations expired before the date of the bill's enactment.</p><p>Additionally, the bill rescinds specified unobligated funds that were provided in the American Rescue Plan Act of 2021&nbsp;to the Department of Labor  for anti-fraud and program integrity activities. &nbsp;</p>",
+      "updateDate": "2025-03-14T15:47:18Z",
+      "versionCode": "00"
+    }
+  ]
+}

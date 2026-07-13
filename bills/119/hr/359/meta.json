@@ -1,0 +1,115 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 6 (Monday, January 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OBERNOLTE:\nH.R. 359.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Constitution, Article I, Section 8, Clause 18:\n``The Congress shall have Power . . . To make all Laws\nwhich shall be necessary and proper for carrying into\nExecution the foregoing Powers, and all other Powers vested\nby this Constitution in the Government of the United States,\nor in any Department or Officer thereof.\n[Page H112]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/359",
+    "number": "359",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000019",
+        "district": 23,
+        "firstName": "Jay",
+        "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+        "isByRequest": "N",
+        "lastName": "Obernolte",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/O000019?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/text?format=json"
+    },
+    "title": "Cost-Share Accountability Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/359/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:53:18Z",
+    "updateDateIncludingText": "2026-07-12T00:45:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000454",
+      "district": 11,
+      "firstName": "Bill",
+      "fullName": "Rep. Foster, Bill [D-IL-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foster",
+      "party": "D",
+      "sponsorshipDate": "2025-01-13",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/F000454?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-25T16:17:29Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-13T17:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Cost-Share Accountability Act of 2025</strong></p><p>This bill requires the Department of Energy (DOE) to report on the use of its authority to reduce or eliminate the nonfederal&nbsp;cost-sharing requirements for federally-funded projects regarding research, development, demonstration, and commercial application activities under the Energy Policy Act of 2005. DOE must submit a report within 120 days of the enactment of this bill and at least quarterly thereafter.</p>",
+      "updateDate": "2025-03-20T16:03:26Z",
+      "versionCode": "00"
+    }
+  ]
+}

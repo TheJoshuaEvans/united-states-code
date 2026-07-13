@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives",
+        "pubDate": "2025-06-27T19:17:00Z",
+        "title": "H.R. 2458, Secure Space Act of 2025",
+        "url": "https://www.cbo.gov/publication/61528"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-65",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/65?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PALLONE:\nH.R. 2458.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, clause 3 of the U.S. Constitution.\nThat provision gives Congress the power ``to regulate\ncommerce with foreign nations, and among the several states,\nand with the Indian tribes.''\n[Page H1339]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2458",
+    "number": "2458",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000034",
+        "district": 6,
+        "firstName": "Frank",
+        "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+        "isByRequest": "N",
+        "lastName": "Pallone",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/P000034?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/text?format=json"
+    },
+    "title": "Secure Space Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2458/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:58:21Z",
+    "updateDateIncludingText": "2026-07-12T14:55:15Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000558",
+      "district": 2,
+      "firstName": "Brett",
+      "fullName": "Rep. Guthrie, Brett [R-KY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guthrie",
+      "party": "R",
+      "sponsorshipDate": "2025-03-27",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/G000558?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-29T16:35:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:41:47Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:29:48Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-27T13:03:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Secure Space Act of 2025</strong></p><p>This bill prohibits the Federal Communications Commission (FCC) from granting satellite licenses or earth station authorizations, including U.S. market access for foreign-licensed satellites, to specified foreign entities of concern and their affiliates. (Earth stations, also commonly known as ground stations, are earth-based radio stations that communicate with satellites. A grant of U.S. market access permits one or more foreign-licensed satellites to communicate with one or more U.S.-licensed earth stations.)</p><p>Specifically, the FCC may not grant a satellite license, an earth station authorization, or market access to any entity, or an affiliate thereof, that produces or provides communications equipment or services deemed to pose an unacceptable risk to the national security of the United States. (The FCC maintains a list of such equipment and services, known as the Covered List. Providers of such equipment and services include, for example, Huawei Technologies Company and ZTE Corporation.)&nbsp;</p>",
+      "updateDate": "2025-04-23T17:43:07Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on April 2, 2025",
+        "pubDate": "2025-05-29T17:05:00Z",
+        "title": "H.R. 2351, a bill to direct the Commandant of the Coast Guard to update the policy of the Coast Guard regarding the use of medication to treat drug overdose, and for other purposes",
+        "url": "https://www.cbo.gov/publication/61446"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-149",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/149?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 55 (Wednesday, March 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McDOWELL:\nH.R. 2351.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto Article 1 Section 8 of the Constitution.\n[Page H1302]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-26",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2351",
+    "number": "2351",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001240",
+        "district": 6,
+        "firstName": "Addison",
+        "fullName": "Rep. McDowell, Addison [R-NC-6]",
+        "isByRequest": "N",
+        "lastName": "McDowell",
+        "middleName": "P.",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/M001240?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/text?format=json"
+    },
+    "title": "To direct the Commandant of the Coast Guard to update the policy of the Coast Guard regarding the use of medication to treat drug overdose, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2351/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:14:52Z",
+    "updateDateIncludingText": "2026-07-12T14:54:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig [R-TX-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    },
+    {
+      "bioguideId": "G000602",
+      "district": 4,
+      "firstName": "Laura",
+      "fullName": "Rep. Gillen, Laura [D-NY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillen",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000602?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-10T19:51:18Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-06T13:22:26Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-02T15:06:56Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-02T15:06:47Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-26T14:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-27T17:04:56Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Coast Guard and Maritime Transportation Subcommittee",
+          "systemCode": "hspw07",
+          "url": "https://api.congress.gov/v3/committee/house/hspw07?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill&nbsp;requires the Coast Guard to provide access to naloxone (a medication to reverse opioid overdoses) at its facilities, track distribution of the medication,&nbsp;and monitor the illegal use of of controlled substances.&nbsp;</p><p>The bill directs the Coast Guard to update its policy regarding the use of medication to treat drug overdoses to require naloxone or a similar medication to be made available to members on all Coast Guard installations and in each operational environment.&nbsp;</p><p>Further, the Coast Guard must participate in the Department of Defense (DOD) tracking system for naloxone distribution and the illegal use of fentanyl and other controlled substances. (The National Defense Authorization Act for Fiscal Year 2024 directed DOD to&nbsp;establish the tracking system.) The bill requires the&nbsp;Coast Guard to finalize a memorandum of understanding with DOD to facilitate Coast Guard access to the tracking system.</p><p>The bill also specifies that laws that prohibit manufacturing or distributing controlled substances on vessels apply when controlled substances are intentionally or knowingly placed or caused to be placed on board a vessel (e.g., without the crew's knowledge or on board an unmanned vessel).&nbsp;</p><p>Further, the bill requires the Coast Guard to brief Congress within two years after the bill's enactment about the use of opioids and overdose medication at Coast Guard facilities by members and personnel. The briefing must describe the Coast Guard's progress in implementing its updated policy, the prevalence and incidence of the illegal use of controlled&nbsp; substances, and its processes to mitigate substance abuse.</p>",
+      "updateDate": "2025-07-30T14:46:35Z",
+      "versionCode": "00"
+    }
+  ]
+}

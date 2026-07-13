@@ -1,0 +1,142 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-06-20T14:17:00Z",
+        "title": "H.R. 1766, NTIA Policy and Cybersecurity Coordination Act",
+        "url": "https://www.cbo.gov/publication/61502"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-175",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/175?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OBERNOLTE:\nH.R. 1766.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H945]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1766",
+    "number": "1766",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000019",
+        "district": 23,
+        "firstName": "Jay",
+        "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+        "isByRequest": "N",
+        "lastName": "Obernolte",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/O000019?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/text?format=json"
+    },
+    "title": "NTIA Policy and Cybersecurity Coordination Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1766/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:53:23Z",
+    "updateDateIncludingText": "2026-07-12T14:32:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001227",
+      "district": 4,
+      "firstName": "Jennifer",
+      "fullName": "Rep. McClellan, Jennifer L. [D-VA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClellan",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001227?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:12:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-30T19:25:12Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T15:55:07Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-03T17:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>NTIA Policy and Cybersecurity Coordination Act</strong></p><p>This bill establishes an Office of Policy Development and Cybersecurity within the National Telecommunications and Information Administration (NTIA) to analyze and develop policies related to internet and communications technologies.</p><p>Specific activities of the office include, for example, developing policies that promote (1) innovation, competition, and other elements of the communications, media, and technology markets; (2) security and resilience to cybersecurity incidents while fostering innovation; and (3) commercialization of communications technologies.</p><p>The existing Associate Administrator for Policy Analysis and Development within NTIA must be redesignated as Associate Administrator for Policy Development and Cybersecurity, and must serve as head of the office.&nbsp;</p>",
+      "updateDate": "2025-03-28T18:02:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

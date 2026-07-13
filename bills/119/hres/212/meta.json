@@ -1,0 +1,60 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/212/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "actionTime": "14:15:53",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/212",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/HRES/212\" target=\"_blank\">H.Res.212</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/HJRES/25\" target=\"_blank\">H.J.Res.25</a>, which became Public Law 119-5."
+      }
+    ],
+    "number": "212",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/212/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001195",
+        "district": 8,
+        "firstName": "Jason",
+        "fullName": "Rep. Smith, Jason [R-MO-8]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/S001195?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/212/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/212/text?format=json"
+    },
+    "title": "Returning Senate Joint Resolution 3 to the Senate.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/212/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:28Z",
+    "updateDateIncludingText": "2026-07-11T21:24:28Z"
+  }
+}

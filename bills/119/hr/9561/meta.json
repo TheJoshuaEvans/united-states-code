@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9561/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9561/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOOLENAAR:\nH.R. 9561.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of Section 8 of Article I of the Constitution\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9561/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9561",
+    "number": "9561",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001194",
+        "district": 2,
+        "firstName": "John",
+        "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+        "isByRequest": "N",
+        "lastName": "Moolenaar",
+        "middleName": "R.",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/M001194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9561/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9561/text?format=json"
+    },
+    "title": "Shandra Eisenga TB Study Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9561/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T10:46:43Z",
+    "updateDateIncludingText": "2026-07-13T10:46:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

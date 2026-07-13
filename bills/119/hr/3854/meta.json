@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-08-14T20:33:00Z",
+        "title": "H.R. 3854, Modernizing All Veterans and Survivors Claims Processing Act",
+        "url": "https://www.cbo.gov/publication/61660"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-260",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/260?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 98 (Monday, June 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VALADAO:\nH.R. 3854.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2570]\n</pre>",
+    "introducedDate": "2025-06-09",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3854",
+    "number": "3854",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000129",
+        "district": 22,
+        "firstName": "David",
+        "fullName": "Rep. Valadao, David G. [R-CA-22]",
+        "isByRequest": "N",
+        "lastName": "Valadao",
+        "middleName": "G.",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/V000129?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/text?format=json"
+    },
+    "title": "Modernizing All Veterans and Survivors",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3854/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:23:24Z",
+    "updateDateIncludingText": "2026-07-12T02:01:25Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-16T20:48:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T18:34:03Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-03T17:47:55Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-09T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-24T18:12:04Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-06-23T18:11:56Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-09",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Modernizing All Veterans and Survivors Claims Processing Act</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to plan and implement certain technological improvements to its systems, particularly in relation to the processing of claims and benefits.</p><p>First, the bill requires the VA to submit to Congress its plan to make available an automation tool for processing claims. Such tool must automate the retrieval of the records of the veteran, compile evidence relevant to the determination of the claim, provide automated decision support relevant to the determination, automate information sharing between federal agencies, and assist in generating correspondence regarding the claim.</p><p>Within one year of submitting this plan, the VA must ensure that each VA program office responsible for processing claims for pension or survivor benefits has an automation tool that at least assists in generating correspondence regarding the claim.</p><p>The VA must also implement policies, processes, and technological capabilities to ensure that a claims processor is made aware of and assigned to address situations when (1) there is an increase in the amount of dependency compensation paid to a beneficiary for a child, and (2) any educational assistance is paid to the child of a veteran.</p><p>Finally, the VA must submit a plan to Congress to ensure documents in the Veterans Benefits Management System are correctly labeled when uploaded.</p>",
+      "updateDate": "2025-09-12T17:35:46Z",
+      "versionCode": "00"
+    }
+  ]
+}

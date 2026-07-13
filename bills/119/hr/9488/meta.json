@@ -1,0 +1,83 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9488/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9488/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. THANEDAR:\nH.R. 9488.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Clause 18 of Article I, Section 8 of the\nUnited States Constitution.\n[Page H4264]\n</pre>",
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9488",
+    "number": "9488",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000488",
+        "district": 13,
+        "firstName": "Shri",
+        "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+        "isByRequest": "N",
+        "lastName": "Thanedar",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000488?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9488/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9488/text?format=json"
+    },
+    "title": "Health Disparity Zones Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9488/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T17:19:48Z",
+    "updateDateIncludingText": "2026-07-13T17:19:48Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:05:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

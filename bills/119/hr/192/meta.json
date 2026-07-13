@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ROUZER:\nH.R. 192.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\nThe single subject of this legislation is:\nThis bill requires Amtrak to publicly disclose the annual\nbase pay and bonus compensation paid to an Amtrak executive\nin a required annual report to Congress.\n[Page H42]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/192",
+    "number": "192",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000603",
+        "district": 7,
+        "firstName": "David",
+        "fullName": "Rep. Rouzer, David [R-NC-7]",
+        "isByRequest": "N",
+        "lastName": "Rouzer",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/text?format=json"
+    },
+    "title": "Amtrak Executive Bonus Disclosure Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/192/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:23:30Z",
+    "updateDateIncludingText": "2026-07-12T14:34:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000546",
+      "district": 6,
+      "firstName": "Sam",
+      "fullName": "Rep. Graves, Sam [R-MO-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graves",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/G000546?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-14T17:28:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:12:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-04T14:21:57Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Railroads, Pipelines, and Hazardous Materials Subcommittee",
+          "systemCode": "hspw14",
+          "url": "https://api.congress.gov/v3/committee/house/hspw14?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Amtrak Executive Bonus Disclosure Act</strong></p><p>This bill requires Amtrak to publicly disclose the annual base pay and&nbsp;bonus compensation paid to an Amtrak executive&nbsp;in a required annual report to Congress.</p><p>Specifically,&nbsp;Amtrak must incorporate into the annual report&nbsp;the annual base pay and any bonus compensation paid to a member of the executive leadership team. This must include the criteria and metrics used to determine any bonus compensation.</p><p>Further, Amtrak must make the annual report available on Amtrak's public website.</p>",
+      "updateDate": "2025-01-17T14:26:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

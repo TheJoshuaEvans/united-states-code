@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9564/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9564/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PETERS:\nH.R. 9564.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9564/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9564",
+    "number": "9564",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000608",
+        "district": 50,
+        "firstName": "Scott",
+        "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "middleName": "H.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/P000608?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9564/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9564/text?format=json"
+    },
+    "title": "Military Housing Innovation Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9564/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:41:45Z",
+    "updateDateIncludingText": "2026-07-13T18:41:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

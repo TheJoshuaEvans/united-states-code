@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/74/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-02-10",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/74",
+    "number": "74",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001199",
+        "district": 21,
+        "firstName": "Brian",
+        "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+        "isByRequest": "N",
+        "lastName": "Mast",
+        "middleName": "J.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001199?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/74/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/74/text?format=json"
+    },
+    "title": "Providing for a joint session of Congress to receive a message from the President.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/74/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:08:29Z",
+    "updateDateIncludingText": "2026-07-13T18:34:45Z"
+  }
+}

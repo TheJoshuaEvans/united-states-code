@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3937/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-211",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/211?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3937/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 100 (Wednesday, June 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TIFFANY:\nH.R. 3937.\nCongress has the power to enact this legislation pursuant\nto the following:\nForest Service land conveyance\n[Page H2656]\n</pre>",
+    "introducedDate": "2025-06-11",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3937",
+    "number": "3937",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000165",
+        "district": 7,
+        "firstName": "Thomas",
+        "fullName": "Rep. Tiffany, Thomas P. [R-WI-7]",
+        "isByRequest": "N",
+        "lastName": "Tiffany",
+        "middleName": "P.",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/T000165?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3937/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3937/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3937/text?format=json"
+    },
+    "title": "Wabeno Economic Development Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3937/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:08:24Z",
+    "updateDateIncludingText": "2026-07-13T18:36:47Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T13:30:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T15:49:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-12T15:00:10Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-21T17:34:43Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T20:45:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T14:05:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-11T14:05:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Wabeno Economic Development Act</strong></p><p>This bill requires the Forest Service to convey approximately 14 acres of federal land, including the&nbsp;mineral rights,&nbsp;in the Chequamegon-Nicolet National Forest, Wisconsin, to Tony's Wabeno Redi-Mix, LLC, upon receiving an offer to buy the land for market value.</p><p>The Forest Service must complete an appraisal to determine the market value of the land, and the offer must be received within 180 days after federal approval of such appraisal. Tony's Wabeno Redi-Mix, LLC, must pay an amount equal to the market value of the land and all associated costs as a condition of conveyance.</p><p>Additionally, the Department of the Interior must publish a comprehensive review of the federal permitting processes for the development of stone, sand, and gravel on federal lands.</p>",
+      "updateDate": "2025-07-21T13:05:22Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9551/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9551/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KEAN:\nH.R. 9551.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4365]\n</pre>",
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9551",
+    "number": "9551",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9551/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000398",
+        "district": 7,
+        "firstName": "Thomas",
+        "fullName": "Rep. Kean, Thomas H. [R-NJ-7]",
+        "isByRequest": "N",
+        "lastName": "Kean",
+        "middleName": "H.",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/K000398?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9551/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9551/text?format=json"
+    },
+    "title": "Mental Health Parity Enforcement and Funding Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9551/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T11:51:38Z",
+    "updateDateIncludingText": "2026-07-13T11:51:38Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:04:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

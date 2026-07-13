@@ -1,0 +1,134 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on September 10, 2025",
+        "pubDate": "2025-09-15T19:36:00Z",
+        "title": "H.R. 5125, District of Columbia Judicial Nominations Reform Act of 2025",
+        "url": "https://www.cbo.gov/publication/61741"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 145 (Thursday, September 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SESSIONS:\nH.R. 5125.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 17\n[Page H3862]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-04",
+    "latestAction": {
+      "actionDate": "2025-09-18",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5125",
+    "number": "5125",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000250",
+        "district": 17,
+        "firstName": "Pete",
+        "fullName": "Rep. Sessions, Pete [R-TX-17]",
+        "isByRequest": "N",
+        "lastName": "Sessions",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/S000250?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/text?format=json"
+    },
+    "title": "District of Columbia Judicial Nominations Reform Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5125/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T04:26:28Z",
+    "updateDateIncludingText": "2026-07-13T18:50:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2025-09-09",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "W000795",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Wilson, Joe [R-SC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/W000795?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-10T16:40:43Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-04T13:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>District of Columbia Judicial Nominations Reform Act</strong></p><p>This bill terminates the District of Columbia (DC) Judicial Nomination Commission. </p><p>Currently, the commission recommends to the President nominees for judges for DC's Superior Court and Court of Appeals, who must then be confirmed by the Senate. The commission also appoints the chief judges for these courts. The bill terminates the commission's involvement&nbsp;in nominations and requires the President to appoint the chief judges.</p>",
+      "updateDate": "2025-09-15T18:59:40Z",
+      "versionCode": "00"
+    }
+  ]
+}

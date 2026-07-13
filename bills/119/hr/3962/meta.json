@@ -1,0 +1,453 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-400",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/400?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 101 (Thursday, June 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FIGURES:\nH.R. 3962.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H2822]\n</pre>",
+    "cosponsors": {
+      "count": 26,
+      "countIncludingWithdrawnCosponsors": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2025-12-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3962",
+    "number": "3962",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000481",
+        "district": 2,
+        "firstName": "Shomari",
+        "fullName": "Rep. Figures, Shomari [D-AL-2]",
+        "isByRequest": "N",
+        "lastName": "Figures",
+        "party": "D",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/F000481?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/text?format=json"
+    },
+    "title": "ESTUARIES Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3962/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:22Z",
+    "updateDateIncludingText": "2026-07-13T18:37:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001199",
+      "district": 21,
+      "firstName": "Brian",
+      "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mast",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001199?format=json"
+    },
+    {
+      "bioguideId": "L000560",
+      "district": 2,
+      "firstName": "Rick",
+      "fullName": "Rep. Larsen, Rick [D-WA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Larsen",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/L000560?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2025-06-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-06-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-06-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "C001066",
+      "district": 14,
+      "firstName": "Kathy",
+      "fullName": "Rep. Castor, Kathy [D-FL-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Castor",
+      "party": "D",
+      "sponsorshipDate": "2025-06-26",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001066?format=json"
+    },
+    {
+      "bioguideId": "N000188",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Norcross, Donald [D-NJ-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norcross",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/N000188?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    },
+    {
+      "bioguideId": "F000110",
+      "district": 6,
+      "firstName": "Cleo",
+      "fullName": "Rep. Fields, Cleo [D-LA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fields",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/F000110?format=json"
+    },
+    {
+      "bioguideId": "B001285",
+      "district": 26,
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001285?format=json"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-07-25",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-07-25",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-08-01",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2025-09-11",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "M001225",
+      "district": 15,
+      "firstName": "Kevin",
+      "fullName": "Rep. Mullin, Kevin [D-CA-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mullin",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001225?format=json"
+    },
+    {
+      "bioguideId": "J000298",
+      "district": 7,
+      "firstName": "Pramila",
+      "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Jayapal",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/J000298?format=json"
+    },
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    },
+    {
+      "bioguideId": "E000297",
+      "district": 13,
+      "firstName": "Adriano",
+      "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Espaillat",
+      "party": "D",
+      "sponsorshipDate": "2025-09-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/E000297?format=json"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2025-09-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "P000034",
+      "district": 6,
+      "firstName": "Frank",
+      "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pallone",
+      "party": "D",
+      "sponsorshipDate": "2025-09-30",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000034?format=json"
+    },
+    {
+      "bioguideId": "M001226",
+      "district": 8,
+      "firstName": "Robert",
+      "fullName": "Rep. Menendez, Robert [D-NJ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Menendez",
+      "party": "D",
+      "sponsorshipDate": "2025-09-30",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001226?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T19:21:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-12T15:12:54Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-17T15:42:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-17T15:42:03Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-12T14:05:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-13T20:52:35Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02",
+          "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Enhancing Science, Treatment, and Upkeep of America\u2019s Resilient and Important Estuarine Systems Act or the ESTUARIES Act</strong></p><p>This bill reauthorizes through FY2031 grants provided under the National Estuary&nbsp;Program to protect and restore estuaries of national significance.&nbsp;Estuaries are coastal waterbodies where freshwater from rivers and streams mixes with the ocean\u2019s saltwater. Under the existing program, the Environmental Protection Agency provides grants for (1) developing and implementing comprehensive conservation and management plans for estuaries of national significance, and (2) addressing issues that threaten the ecological and economic well-being of such estuaries. The existing program provides grants to states, regional water pollution control agencies and entities, state coastal zone management agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals.</p>",
+      "updateDate": "2025-12-11T15:25:42Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 27 (Monday, February 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GIMENEZ:\nH.R. 1166.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the Constitution stating\nthat Congress has the authority to ``make all laws which\nshall be necessary and proper for carrying into execution the\nforegoing powers, and all other powers vested by the\nConstitution''.\n[Page H614]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1166",
+    "number": "1166",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000593",
+        "district": 28,
+        "firstName": "Carlos",
+        "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+        "isByRequest": "N",
+        "lastName": "Gimenez",
+        "middleName": "A.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/G000593?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/text?format=json"
+    },
+    "title": "Decoupling from Foreign Adversarial Battery Dependence Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1166/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:53:23Z",
+    "updateDateIncludingText": "2026-07-12T14:28:04Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000590",
+      "district": 7,
+      "firstName": "Mark",
+      "fullName": "Rep. Green, Mark E. [R-TN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Green",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/G000590?format=json"
+    },
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "P000048",
+      "district": 11,
+      "firstName": "August",
+      "fullName": "Rep. Pfluger, August [R-TX-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pfluger",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/P000048?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-11T18:47:47Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-10T17:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-10T18:16:59Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Decoupling from Foreign Adversarial Battery Dependence Act</strong></p><p>This bill prohibits the Department of Homeland Security (DHS) from using appropriated funds to procure a battery produced by certain entities, particularly six specific companies owned and operated in China. This prohibition begins on October 1, 2027.</p><p>The bill allows DHS to waive the prohibition if DHS assesses in the affirmative that (1)&nbsp;the batteries to be procured do not pose a risk to U.S. national security, data, or infrastructure; and (2)&nbsp;there is no available alternative to procure batteries that are of similar or better cost and quality and that are produced by an entity not specified in this bill.</p><p>DHS may also waive the prohibition upon a determination that the batteries to be procured are for the sole purpose of research, evaluation, training, testing, or analysis.</p><p>The bill requires DHS to notify Congress within 15 days after granting a waiver under this bill.</p><p>The bill also requires DHS to report to Congress on the anticipated impacts associated with carrying out this bill, including with respect to specified agencies of DHS.</p>",
+      "updateDate": "2025-03-13T16:11:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on April 8, 2025",
+        "pubDate": "2025-06-27T19:12:00Z",
+        "title": "H.R. 2037, Open RAN Outreach Act",
+        "url": "https://www.cbo.gov/publication/61523"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-184",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/184?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARTER of Louisiana:\nH.R. 2037.\nCongress has the power to enact this legislation pursuant\nto the following:\nUnder Article 1, Section 8, Clause 3: [The Congress shall\nhave Power] To regulate Commerce with foreign Nations, and\namong the several States, and with the Indian Tribes\n[Page H1151]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2037",
+    "number": "2037",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001125",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+        "isByRequest": "N",
+        "lastName": "Carter",
+        "middleName": "A.",
+        "party": "D",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001125?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/text?format=json"
+    },
+    "title": "Open RAN Outreach Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2037/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:08:26Z",
+    "updateDateIncludingText": "2026-07-12T14:51:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001067",
+      "district": 9,
+      "firstName": "Richard",
+      "fullName": "Rep. Hudson, Richard [R-NC-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hudson",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001067?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:12:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-02T17:08:09Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:32:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-11T14:08:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Open RAN Outreach Act</strong></p><p>This bill requires the National Telecommunications and Information Administration (NTIA) to conduct outreach and provide technical assistance to small communications network providers regarding the benefits, uses, and challenges of Open Radio Access Network (Open RAN) standards and other open network architectures. (Open RAN is a nonproprietary, standardized network deployment approach that promotes open networks with interoperable equipment and virtualized network operations.)</p><p>The NTIA must also conduct outreach and provide assistance to small providers regarding participation in the Public Wireless Supply Chain Innovation Fund,&nbsp;a competitive grant program that funds efforts to accelerate the development, deployment, and adoption of Open RAN.</p>",
+      "updateDate": "2025-04-02T13:06:27Z",
+      "versionCode": "00"
+    }
+  ]
+}

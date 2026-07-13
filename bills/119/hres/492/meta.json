@@ -1,0 +1,101 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-10",
+    "latestAction": {
+      "actionDate": "2025-06-11",
+      "actionTime": "16:51:25",
+      "text": "Pursuant to the provisions of H. Res. 499, H. Res. 492 is considered passed House. (consideration: CR H2647; text: CR H2647)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/492",
+    "number": "492",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000375",
+        "district": 19,
+        "firstName": "Jodey",
+        "fullName": "Rep. Arrington, Jodey C. [R-TX-19]",
+        "isByRequest": "N",
+        "lastName": "Arrington",
+        "middleName": "C.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/A000375?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/text?format=json"
+    },
+    "title": "Directing the Clerk of the House of Representatives to make a correction in the engrossment of H.R. 1.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/492/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:54:32Z",
+    "updateDateIncludingText": "2026-07-11T20:54:32Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-10T14:06:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-10T14:06:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsbu00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution directs the Clerk of the House of Representatives to make several corrections in the engrossment of H.R. 1 (One Big Beautiful Bill Act).&nbsp;</p><p>Specifically, the corrections strike provisions from the bill that&nbsp;</p><ul><li>make a conforming amendment to the Low-Income Home Energy Assistance Act;</li><li>reauthorize,&nbsp;and extend funding for, the Department of Agriculture's biobased markets program (i.e., BioPreferred Program) through FY2031;</li><li>provide funding to the Department of Defense (DOD) for various intelligence-related activities and equipment, including enhancements to military intelligence programs;</li><li>provide funding to DOD for exportable low-cost cruise missiles;</li><li>provide funding for DOD to convert Ohio-class submarine tubes to accept additional missiles;</li><li>specify that revisions to a land use plan may not prevent or delay the Department of the Interior from leasing certain federal land for oil and natural gas development;&nbsp;</li><li>nullify the Bureau of Land Management\u2019s Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN that was published on January 31, 2023;</li><li>reinstate certain&nbsp;hardrock mineral leases in the Superior National Forest in Minnesota;&nbsp;</li><li>increase the penalty for aiding and abetting the understatement of tax liability with respect to the employee retention tax credit (ERTC) by a COVID-ERTC promoter and make other changes related to the&nbsp;ERTC; and</li><li>specify that provisions in the bill&nbsp;regarding certain Department of Health and Human Services regulations also apply to successor regulations.</li></ul>",
+      "updateDate": "2025-06-17T14:12:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

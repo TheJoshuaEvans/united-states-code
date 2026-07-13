@@ -1,0 +1,674 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on June 11, 2025",
+        "pubDate": "2025-08-01T18:34:00Z",
+        "title": "H.R. 2591, Mental Health in Aviation Act of 2025",
+        "url": "https://www.cbo.gov/publication/61623"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-242",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/242?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 59 (Wednesday, April 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CASTEN:\nH.R. 2591.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of Section 8 of Article 1 of the Constitution\n[Page H1413]\n</pre>",
+    "cosponsors": {
+      "count": 43,
+      "countIncludingWithdrawnCosponsors": 43,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-02",
+    "latestAction": {
+      "actionDate": "2025-09-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2591",
+    "number": "2591",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001117",
+        "district": 6,
+        "firstName": "Sean",
+        "fullName": "Rep. Casten, Sean [D-IL-6]",
+        "isByRequest": "N",
+        "lastName": "Casten",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/C001117?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/text?format=json"
+    },
+    "title": "Mental Health in Aviation Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2591/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:43:22Z",
+    "updateDateIncludingText": "2026-07-12T14:56:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "L000560",
+      "district": 2,
+      "firstName": "Rick",
+      "fullName": "Rep. Larsen, Rick [D-WA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Larsen",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/L000560?format=json"
+    },
+    {
+      "bioguideId": "M000871",
+      "district": 1,
+      "firstName": "Tracey",
+      "fullName": "Rep. Mann, Tracey [R-KS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mann",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000871?format=json"
+    },
+    {
+      "bioguideId": "W000808",
+      "district": 24,
+      "firstName": "Frederica",
+      "fullName": "Rep. Wilson, Frederica S. [D-FL-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000808?format=json"
+    },
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "K000404",
+      "district": 0,
+      "firstName": "Kimberlyn",
+      "fullName": "Del. King-Hinds, Kimberlyn [R-MP-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "King-Hinds",
+      "party": "R",
+      "sponsorshipDate": "2025-05-21",
+      "state": "MP",
+      "url": "https://api.congress.gov/v3/member/K000404?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "N000002",
+      "district": 12,
+      "firstName": "Jerrold",
+      "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nadler",
+      "party": "D",
+      "sponsorshipDate": "2025-05-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/N000002?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-05-23",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "H001091",
+      "district": 2,
+      "firstName": "Ashley",
+      "fullName": "Rep. Hinson, Ashley [R-IA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hinson",
+      "party": "R",
+      "sponsorshipDate": "2025-06-02",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/H001091?format=json"
+    },
+    {
+      "bioguideId": "C001112",
+      "district": 24,
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001112?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2025-06-04",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "K000398",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kean",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-04",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000398?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "M001240",
+      "district": 6,
+      "firstName": "Addison",
+      "fullName": "Rep. McDowell, Addison P. [R-NC-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McDowell",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001240?format=json"
+    },
+    {
+      "bioguideId": "R000579",
+      "district": 18,
+      "firstName": "Patrick",
+      "fullName": "Rep. Ryan, Patrick [D-NY-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ryan",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000579?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2025-06-10",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-06-10",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": 4,
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000288?format=json"
+    },
+    {
+      "bioguideId": "O000019",
+      "district": 23,
+      "firstName": "Jay",
+      "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Obernolte",
+      "party": "R",
+      "sponsorshipDate": "2025-06-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/O000019?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-06-11",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": 17,
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000530?format=json"
+    },
+    {
+      "bioguideId": "V000129",
+      "district": 22,
+      "firstName": "David",
+      "fullName": "Rep. Valadao, David G. [R-CA-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Valadao",
+      "middleName": "G.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000129?format=json"
+    },
+    {
+      "bioguideId": "S001221",
+      "district": 3,
+      "firstName": "Hillary",
+      "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scholten",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001221?format=json"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": 10,
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2025-06-20",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001229?format=json"
+    },
+    {
+      "bioguideId": "T000463",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. Turner, Michael R. [R-OH-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Turner",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-20",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000463?format=json"
+    },
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "G000598",
+      "district": 42,
+      "firstName": "Robert",
+      "fullName": "Rep. Garcia, Robert [D-CA-42]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garcia",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000598?format=json"
+    },
+    {
+      "bioguideId": "K000405",
+      "district": 13,
+      "firstName": "Brad",
+      "fullName": "Rep. Knott, Brad [R-NC-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Knott",
+      "party": "R",
+      "sponsorshipDate": "2025-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/K000405?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-07-22",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "L000397",
+      "district": 18,
+      "firstName": "Zoe",
+      "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lofgren",
+      "party": "D",
+      "sponsorshipDate": "2025-07-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000397?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2025-08-08",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-08-29",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T18:56:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T16:40:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-11T14:34:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T14:34:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-04-02T22:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-03T14:29:08Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Aviation Subcommittee",
+          "systemCode": "hspw05",
+          "url": "https://api.congress.gov/v3/committee/house/hspw05?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-02",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Mental Health in Aviation Act of 2025</strong></p><p>This bill requires the Federal Aviation Administration (FAA) to review and update its regulations and policies on mental&nbsp;health for pilots and air traffic controllers.</p><p>The FAA must update regulations and take any other actions necessary to implement the recommendations of (1) the Aviation Workforce Mental Health Task Group, and (2) the&nbsp;Mental Health and Aviation Medical Clearances Aviation Rulemaking Committee (the ARC).</p><p>The FAA must also annually review and update, as appropriate, the applicable regulations and policies on&nbsp;mental health-related special issuance for pilots and air traffic controllers. As background, an Authorization for Special Issuance of a Medical Certificate is a discretionary document from the FAA which allows an airman with a disqualifying medical condition to fly under a restricted medical certificate.</p><p>Among other things, the review and update must</p><ul><li>reclassify and approve additional medications that may be safely prescribed to airmen to treat mental health conditions,</li><li>delegate additional authority to aviation medical examiners (AMEs) consistent with the ARC recommendations, and</li><li>improve the special issuance process for pilots and air traffic controllers.</li></ul><p>&nbsp;The bill authorizes the FAA to take actions to recruit and train additional AMEs.</p><p>The bill also authorizes an FAA public information campaign or education efforts to (1) destigmatize individuals in (or interested in joining) the aviation industry who seek mental health care, (2) broaden awareness of available supportive services, and (3) establish trust with pilots and air traffic controllers.</p>",
+      "updateDate": "2025-09-08T13:13:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

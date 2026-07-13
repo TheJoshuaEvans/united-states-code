@@ -1,0 +1,160 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-08-06T20:22:00Z",
+        "title": "H.R. 2334, Servicemember Residence Protection Act",
+        "url": "https://www.cbo.gov/publication/61629"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-261",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/261?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 54 (Tuesday, March 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MAST:\nH.R. 2334.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of section 8 of article I of the Constitution\n[Page H1274]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-25",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2334",
+    "number": "2334",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001199",
+        "district": 21,
+        "firstName": "Brian",
+        "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+        "isByRequest": "N",
+        "lastName": "Mast",
+        "middleName": "J.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001199?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/text?format=json"
+    },
+    "title": "Servicemember Residence Protection Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2334/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:23:20Z",
+    "updateDateIncludingText": "2026-07-12T14:54:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-26",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-16T20:44:59Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-09T19:31:21Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T18:20:45Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T18:19:06Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-25T14:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-11T18:18:35Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-25",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill amends the Servicemembers Civil Relief Act to preempt state laws that establish squatter\u2019s rights for premises owned by a servicemember in situations where the premises is occupied by a squatter during a period of military service of the servicemember.</p>",
+      "updateDate": "2025-09-10T14:37:57Z",
+      "versionCode": "00"
+    }
+  ]
+}

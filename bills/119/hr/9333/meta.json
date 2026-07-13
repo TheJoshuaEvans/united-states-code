@@ -1,0 +1,107 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9333/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9333/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. ROSS:\nH.R. 9333.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4126]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9333/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
+    "number": "9333",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000305",
+        "district": 2,
+        "firstName": "Deborah",
+        "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+        "isByRequest": "N",
+        "lastName": "Ross",
+        "middleName": "K.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000305?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9333/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9333/text?format=json"
+    },
+    "title": "AI Flaw Reporting and Security Enhancement Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9333/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:03:34Z",
+    "updateDateIncludingText": "2026-07-13T18:03:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "B001292",
+      "district": 8,
+      "firstName": "Donald",
+      "fullName": "Rep. Beyer, Donald S. [D-VA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Beyer",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/B001292?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-18T14:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Homeland Security on September 3, 2025",
+        "pubDate": "2025-09-22T20:11:00Z",
+        "title": "H.R. 5078, Protecting Information by Local Leaders for Agency Resilience Act",
+        "url": "https://www.cbo.gov/publication/61751"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-377",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/377?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 143 (Tuesday, September 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OGLES:\nH.R. 5078.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3757]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-02",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5078",
+    "number": "5078",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000175",
+        "district": 5,
+        "firstName": "Andrew",
+        "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+        "isByRequest": "N",
+        "lastName": "Ogles",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/O000175?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/text?format=json"
+    },
+    "title": "PILLAR Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5078/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:18Z",
+    "updateDateIncludingText": "2026-07-13T18:49:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "S001193",
+      "district": 14,
+      "firstName": "Eric",
+      "fullName": "Rep. Swalwell, Eric [D-CA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Swalwell",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001193?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-10-17",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T21:10:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-12T22:44:13Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-03T19:04:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-03T19:03:29Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-09-02T16:00:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-02T19:03:13Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Cybersecurity and Infrastructure Protection Subcommittee",
+          "systemCode": "hshm08",
+          "url": "https://api.congress.gov/v3/committee/house/hshm08?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-02",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Protecting Information by Local Leaders for Agency Resilience Act or the PILLAR Act</strong></p><p>This bill extends the State and Local Cybersecurity Grant Program through FY2035, expands the scope of the program,&nbsp;and imposes certain limits on the use of grant funds. (The program provides grants to states&nbsp;and Indian tribes to address cybersecurity risks to government information systems.)</p><p>The bill expands the scope of systems that may be secured using grant funds to include operational technology systems and specifies that systems using artificial intelligence are included. Such systems must be maintained, owned, or operated by or on behalf of state, local, or tribal governments.</p><p>The bill also specifies that grant funds may not be used to purchase software, hardware, or related products or services that do not align with relevant guidance provided by the Cybersecurity and Infrastructure Security Agency (CISA).</p><p>Further, the bill increases the federal share of costs available to entities that implement or enable multifactor authentication and identity and access management tools for critical infrastructure by a specified date.</p><p>The bill requires annual reports by grant recipients to include a description of recipients\u2019 progress in assuming the cost of continuing cybersecurity programs after grant funds are fully expended.</p><p> The Government Accountability Office must periodically review the program. This effort must include a review of artificial intelligence adoption across a sample of grants.</p><p>Finally, CISA must implement an outreach plan to inform local governments, including governments in rural areas or areas with small populations, about CISA\u2019s no-cost cybersecurity offerings.</p>",
+      "updateDate": "2025-11-17T16:49:26Z",
+      "versionCode": "00"
+    }
+  ]
+}

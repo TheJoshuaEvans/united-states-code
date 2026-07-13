@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/62/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/62/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-12-04",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/62",
+    "number": "62",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000804",
+        "district": 1,
+        "firstName": "Robert",
+        "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+        "isByRequest": "N",
+        "lastName": "Wittman",
+        "middleName": "J.",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000804?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/62/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/62/text?format=json"
+    },
+    "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to unveil the statue of Barbara Rose Johns.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/62/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:08:29Z",
+    "updateDateIncludingText": "2026-07-13T18:34:37Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T22:41:00Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-11-18T15:05:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ]
+}

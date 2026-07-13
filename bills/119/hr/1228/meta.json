@@ -1,0 +1,132 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CISCOMANI:\nH.R. 1228.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H677]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-12",
+    "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1228",
+    "number": "1228",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001133",
+        "district": 6,
+        "firstName": "Juan",
+        "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+        "isByRequest": "N",
+        "lastName": "Ciscomani",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/text?format=json"
+    },
+    "title": "Prioritizing Veterans\u2019 Survivors Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1228/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:43:18Z",
+    "updateDateIncludingText": "2026-07-12T14:28:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001295",
+      "district": 12,
+      "firstName": "Mike",
+      "fullName": "Rep. Bost, Mike [R-IL-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bost",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001295?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-10T18:12:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-12T15:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-26T17:53:36Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-03-21T17:53:26Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Prioritizing Veterans' Survivors Act&nbsp;</strong></p><p>This bill provides that the Office of Survivors Assistance (OSA) must operate within the Office of the Secretary of the Department of Veterans Affairs. (Currently, OSA operates within the Pension and Fiduciary Service of the Veterans Benefits Administration.)</p>",
+      "updateDate": "2025-03-24T17:51:27Z",
+      "versionCode": "00"
+    }
+  ]
+}

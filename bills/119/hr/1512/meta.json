@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. WAGNER:\nH.R. 1512.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H730]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-21",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Became Public Law No: 119-45."
+    },
+    "laws": [
+      {
+        "number": "119-45",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1512",
+    "number": "1512",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000812",
+        "district": 2,
+        "firstName": "Ann",
+        "fullName": "Rep. Wagner, Ann [R-MO-2]",
+        "isByRequest": "N",
+        "lastName": "Wagner",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/W000812?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/text?format=json"
+    },
+    "title": "Taiwan Assurance Implementation Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1512/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:23:19Z",
+    "updateDateIncludingText": "2026-07-13T19:45:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001078",
+      "district": 11,
+      "firstName": "Gerald",
+      "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Connolly",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001078?format=json"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": 36,
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000582?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T23:46:20Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-06T19:11:24Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-21T20:34:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill modifies an existing requirement for the Department of State to review and report on its guidance to federal agencies on the U.S.-Taiwan relationship. (The U.S.-Taiwan relationship has been unofficial since 1979, when the United States established diplomatic relations with China and broke them with Taiwan.)</p><p>Current law requires the State Department to conduct a one-time review of its guidance governing relations with Taiwan and report to Congress on this review. Under this bill, the State Department must review that guidance and report to Congress every two years while the guidance is in effect.</p><p>The reports to Congress must (1) describe how the guidance takes into account certain considerations, such as the sense of Congress that Taiwan is governed by a representative government peacefully constituted through free and fair elections; and (2) identify opportunities and plans to lift self-imposed restrictions on relations with Taiwan.</p>",
+      "updateDate": "2025-05-02T17:54:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

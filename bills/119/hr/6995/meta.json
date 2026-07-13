@@ -1,0 +1,152 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on February 4, 2026",
+        "pubDate": "2026-02-13T17:09:00Z",
+        "title": "H.R. 6995, a bill to designate the facility of the United States Postal Service located at 825 Highway 198 in Beaumont, Mississippi, as the &quot;Jeremy Malone Post Office&quot;",
+        "url": "https://www.cbo.gov/publication/62124"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 7 (Friday, January 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EZELL:\nH.R. 6995.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3 (Commerce Clause)\n[Page H616]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-09",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6995",
+    "number": "6995",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000235",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Ezell, Mike [R-MS-4]",
+        "isByRequest": "N",
+        "lastName": "Ezell",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/E000235?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 825 Highway 198 in Beaumont, Mississippi, as the Jeremy Malone Post Office.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6995/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T12:39:58Z",
+    "updateDateIncludingText": "2026-07-13T19:12:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000388",
+      "district": 1,
+      "firstName": "Trent",
+      "fullName": "Rep. Kelly, Trent [R-MS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2026-01-09",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/K000388?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2026-01-09",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "T000193",
+      "district": 2,
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-09",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/T000193?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-15T17:26:42Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T14:58:13Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-09T14:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-09",
+      "actionDesc": "Introduced in House",
+      "text": "This bill designates the facility of the United States Postal Service located at 825 Highway 198 in Beaumont, Mississippi, as the \"Jeremy Malone Post Office\".",
+      "updateDate": "2026-01-22T05:02:02Z",
+      "versionCode": "00"
+    }
+  ]
+}

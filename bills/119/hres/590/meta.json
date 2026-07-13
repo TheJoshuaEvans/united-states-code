@@ -1,0 +1,96 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/590/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-208",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/208?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/590/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-07-18",
+      "actionTime": "00:04:19",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/590",
+    "number": "590",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/590/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/590/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/590/text?format=json"
+    },
+    "title": "Relating to consideration of the Senate amendment to the bill (H.R. 4) to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/590/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:44:45Z",
+    "updateDateIncludingText": "2026-07-11T20:44:45Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-18T01:59:13Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides for the consideration of the Senate amendment to H.R. 4 (Rescissions Act of 2025).&nbsp;</p>",
+      "updateDate": "2026-07-07T15:09:07Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-07-17",
+      "actionDesc": "Reported to House",
+      "text": "<p>This resolution adopts H.R. 4, the Rescissions Act of 2025, as amended by the Senate. Specifically, upon the resolution's passage, the House is deemed to have agreed to the Senate amendment and passed H.R. 4.</p>",
+      "updateDate": "2026-07-08T19:34:37Z",
+      "versionCode": "07"
+    }
+  ]
+}

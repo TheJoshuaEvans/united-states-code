@@ -1,0 +1,172 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-20",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86",
+    "number": "86",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001137",
+        "district": 5,
+        "firstName": "Gregory",
+        "fullName": "Rep. Meeks, Gregory W. [D-NY-5]",
+        "isByRequest": "N",
+        "lastName": "Meeks",
+        "middleName": "W.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001137?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/text?format=json"
+    },
+    "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/86/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-06T18:15:51Z",
+    "updateDateIncludingText": "2026-07-13T18:34:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001047",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Himes, James A. [D-CT-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Himes",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-20",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001047?format=json"
+    },
+    {
+      "bioguideId": "S000510",
+      "district": 9,
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2026-04-20",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S000510?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2026-04-21",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "M001184",
+      "district": 4,
+      "firstName": "Thomas",
+      "fullName": "Rep. Massie, Thomas [R-KY-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Massie",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/M001184?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-23T18:59:04Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-06-04T19:05:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-20T16:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-20",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This concurrent resolution directs the President to remove U.S. Armed Forces from hostilities against Iran unless explicitly authorized by a declaration of war or a congressional authorization for use of military force against Iran.</p><p>Elements of the U.S. Armed Forces needed to defend the United States, an ally, or a partner from imminent attack are not covered by this requirement provided the President complies with a specified provision of the War Powers Resolution. (The provision generally requires the President to remove U.S. Armed Forces from hostilities no more than 60 days after the President notifies or is required to notify Congress of such involvement, unless Congress authorizes such use. For more information on the War Powers Resolution, see&nbsp;<a href=\"https://www.congress.gov/crs-product/IF13134\">CRS In Focus 13134</a>.)</p>",
+      "updateDate": "2026-06-23T15:48:09Z",
+      "versionCode": "00"
+    }
+  ]
+}

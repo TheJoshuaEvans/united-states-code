@@ -1,0 +1,355 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on the Judiciary on March 25, 2025",
+        "pubDate": "2025-04-02T17:17:00Z",
+        "title": "H.R. 2243, LEOSA Reform Act",
+        "url": "https://www.cbo.gov/publication/61293"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-81",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/81?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BACON:\nH.R. 2243.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\n[Page H1189]\n</pre>",
+    "cosponsors": {
+      "count": 18,
+      "countIncludingWithdrawnCosponsors": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2025-05-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2243",
+    "number": "2243",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001298",
+        "district": 2,
+        "firstName": "Don",
+        "fullName": "Rep. Bacon, Don [R-NE-2]",
+        "isByRequest": "N",
+        "lastName": "Bacon",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/B001298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/text?format=json"
+    },
+    "title": "LEOSA Reform Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2243/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T03:38:24Z",
+    "updateDateIncludingText": "2026-07-12T14:53:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001063",
+      "district": 28,
+      "firstName": "Henry",
+      "fullName": "Rep. Cuellar, Henry [D-TX-28]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cuellar",
+      "party": "D",
+      "sponsorshipDate": "2025-03-21",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001063?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    },
+    {
+      "bioguideId": "A000369",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Amodei, Mark E. [R-NV-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Amodei",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/A000369?format=json"
+    },
+    {
+      "bioguideId": "W000816",
+      "district": 25,
+      "firstName": "Roger",
+      "fullName": "Rep. Williams, Roger [R-TX-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Williams",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000816?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    },
+    {
+      "bioguideId": "F000459",
+      "district": 3,
+      "firstName": "Charles",
+      "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fleischmann",
+      "middleName": "J. \"Chuck\"",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/F000459?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "F000246",
+      "district": 4,
+      "firstName": "Pat",
+      "fullName": "Rep. Fallon, Pat [R-TX-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fallon",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000246?format=json"
+    },
+    {
+      "bioguideId": "G000590",
+      "district": 7,
+      "firstName": "Mark",
+      "fullName": "Rep. Green, Mark E. [R-TN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Green",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/G000590?format=json"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": 24,
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000134?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "Y000067",
+      "district": 2,
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+    },
+    {
+      "bioguideId": "T000165",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Tiffany, Thomas P. [R-WI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tiffany",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/T000165?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-04-07",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-04-10",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-15T15:37:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-28T16:36:05Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-25T16:34:09Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-21T20:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>LEOSA Reform Act of 2025</strong></p><p>This bill broadens the authority for certain law enforcement officers to carry concealed firearms across state lines.</p><p>Specifically, the bill allows qualified active and retired law enforcement officers to carry concealed firearms and ammunition (including magazines) in school zones; in national parks; on state, local, or private property that is open to the public; and in certain federal facilities that are open to the public.</p><p>Further, the bill permits states to reduce the frequency with which retired law enforcement officers must meet certain qualification standards.</p>",
+      "updateDate": "2025-05-13T14:13:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

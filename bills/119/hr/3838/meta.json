@@ -1,0 +1,356 @@
+{
+  "status": {
+    "actions": {
+      "count": 82,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/actions?format=json"
+    },
+    "amendments": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Armed Services on July 15, 2025",
+        "pubDate": "2025-08-13T12:34:00Z",
+        "title": "H.R. 3838, Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026",
+        "url": "https://www.cbo.gov/publication/61655"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-231",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/231?format=json"
+      }
+    ],
+    "committees": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 98 (Monday, June 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ROGERS of Alabama:\nH.R. 3838.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 12, clause 13, and clause 14 of section 8 of article\nI of the Constitution.\n[Page H2569]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-09",
+    "latestAction": {
+      "actionDate": "2025-09-30",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3838",
+    "number": "3838",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000575",
+        "district": 3,
+        "firstName": "Mike",
+        "fullName": "Rep. Rogers, Mike D. [R-AL-3]",
+        "isByRequest": "N",
+        "lastName": "Rogers",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/R000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 248,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/text?format=json"
+    },
+    "title": "Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3838/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-15T21:55:36Z",
+    "updateDateIncludingText": "2026-07-12T00:49:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000510",
+      "district": 9,
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S000510?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Appropriations Committee",
+      "systemCode": "hsap00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsap00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsbu00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-10T21:50:24Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-09-10T21:43:03Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-08-19T14:01:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-15T13:04:42Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-09T16:00:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-08-19",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 2026</strong></p><p>This bill sets forth policies&nbsp;and authorities for FY2026 for Department of Defense (DOD) programs and activities, military construction, and the national security programs of the Department of Energy and the Maritime Administration. It also authorizes appropriations for the Defense Nuclear Facilities Safety Board and the Naval Petroleum Reserves, and modifies the defense acquisition system to expedite delivery of capabilities to the Armed Forces.</p><p>Among other elements, the bill</p><ul><li>authorizes the acquisition or modification of various military items (e.g., aircraft) and sets policy for certain procurement programs;</li><li>authorizes research, development, test, and evaluation and sets policy for such&nbsp;activities;</li><li>sets active component and reserve component end-strength levels;</li><li>sets policy regarding various aspects of military health care and military compensation;</li><li>sets policy regarding acquisitions and acquisition management, including contracting authorities and small businesses;</li><li>sets policy for various matters related to DOD interactions with foreign nations, including matters concerning Israel;</li><li>sets policy for various matters related to DOD cyber activities, cyber workforce and training, cybersecurity, and artificial intelligence matters; and</li><li>authorizes the activities of the National Nuclear Security Administration, defense environmental cleanup, nuclear energy, and other defense activities.</li></ul><p>For additional information on the National Defense Authorization Act (NDAA) see</p><ul><li><a href=\"https://www.congress.gov/crs-product/IF10516\">CRS In Focus IF10516, Defense Primer: Navigating the&nbsp;NDAA</a>, and</li><li><a href=\"https://www.congress.gov/crs-product/IF10515\">CRS In Focus IF10515, Defense Primer: The&nbsp;NDAA Process</a>.</li></ul>",
+      "updateDate": "2025-09-11T13:20:33Z",
+      "versionCode": "07"
+    }
+  ]
+}

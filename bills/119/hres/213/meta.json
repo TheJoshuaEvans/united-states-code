@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/213/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "actionTime": "17:56:04",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/213",
+    "number": "213",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001204",
+        "district": 9,
+        "firstName": "Daniel",
+        "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+        "isByRequest": "N",
+        "lastName": "Meuser",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001204?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/213/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/213/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/213/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:24:28Z",
+    "updateDateIncludingText": "2026-07-11T21:24:28Z"
+  }
+}

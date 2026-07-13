@@ -1,0 +1,119 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 71 (Wednesday, April 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GROTHMAN:\nH.R. 8428.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H3068]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-22",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8428",
+    "number": "8428",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000576",
+        "district": 6,
+        "firstName": "Glenn",
+        "fullName": "Rep. Grothman, Glenn [R-WI-6]",
+        "isByRequest": "N",
+        "lastName": "Grothman",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/G000576?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/text?format=json"
+    },
+    "title": "Federal Fraud Prevention Workforce Training Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8428/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-13T05:53:29Z",
+    "updateDateIncludingText": "2026-07-13T17:16:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2026-04-22",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-09T19:51:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T13:07:37Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-22T15:03:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-22",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Fraud Prevention Workforce Training Act</strong></p><p>This bill requires the Office of Management and Budget (OMB) and the Department of the Treasury to&nbsp;establish and maintain a mandatory antifraud and&nbsp;improper payment prevention training program for federal employees whose&nbsp;roles involve federal financial assistance or oversight of federal programs. The program must also be made available to state, local, and tribal governments to train relevant personnel.</p><p>Under the bill, federal agencies must ensure that all federal employees in roles involving oversight of federal programs or federal financial assistance complete the training every two years. (Such positions include program administrator or officer, financial administrator or manager, disbursement certifying official, auditing official, and grants manager.) The Office of Personnel Management shall certify and maintain records of completion.</p><p>Treasury must also provide the program and related technical assistance to state, local, and tribal governments for training&nbsp;employees who are responsible for the administration of federally funded programs.  Federal agencies may make completion of the program a condition of a federal grant or award.</p><p>The program curriculum must include comprehensive instruction on specified topics, including (1) identifying fraud and improper payment risks in federal programs; (2) using government-wide&nbsp;antifraud data sharing and&nbsp;other payee validation programs; and (3) reporting mechanisms for suspected fraud, waste, and abuse.</p><p>No later than two years after the date of the bill's enactment, Treasury and OMB must provide&nbsp;Congress with a report on program implementation.</p><p>Finally, Treasury may prescribe any regulations necessary to implement and administer the training program.</p>",
+      "updateDate": "2026-06-05T13:14:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

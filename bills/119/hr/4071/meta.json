@@ -1,0 +1,187 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Homeland Security on June 25, 2025",
+        "pubDate": "2025-07-22T15:25:00Z",
+        "title": "H.R. 4071, Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025",
+        "url": "https://www.cbo.gov/publication/61587"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-323",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/323?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 107 (Monday, June 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GUEST:\nH.R. 4071.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H2889]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-23",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4071",
+    "number": "4071",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000591",
+        "district": 3,
+        "firstName": "Michael",
+        "fullName": "Rep. Guest, Michael [R-MS-3]",
+        "isByRequest": "N",
+        "lastName": "Guest",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/G000591?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/text?format=json"
+    },
+    "title": "Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4071/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:19Z",
+    "updateDateIncludingText": "2026-07-13T18:38:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000621",
+      "district": 9,
+      "firstName": "Nellie",
+      "fullName": "Rep. Pou, Nellie [D-NJ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pou",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000621?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-10-03T20:00:40Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-06-23T16:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T20:35:57Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-10-03T19:59:32Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T17:01:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-25T17:00:48Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-23T16:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-23T16:59:54Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-03",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025</strong></p><p>This bill expands permitted U.S. Customs and Border Protection (CBP) activities in foreign countries and provides for tort claims against the United States for certain CBP operations in foreign countries.</p><p>The bill allows officers and agents of the Air and Marine Operations of CBP to provide specified support to the government of foreign countries. In particular, officers and agents may provide support for</p><ul><li>monitoring, locating, and deterring the smuggling of illegal drugs, persons, or goods into the United States;</li><li>tracking terrorist or other threats to the United States;</li><li>emergency humanitarian efforts; and</li><li>law enforcement capacity-building efforts.</li></ul><p>The bill also allows CBP to expend appropriated funds to pay claims for&nbsp;money damages made against the United&nbsp;States&nbsp;that arise in a foreign country in connection with CBP operations. This includes money damages for injury, loss of property, personal injury, or death caused by certain acts or omissions of an employee of the agency while acting within the scope of his or her office or employment. Under current law, acts occurring in foreign countries are excepted from the Federal Tort Claims Act.</p><p>Claims made under the bill must be made no more than two years after the date of the incident. The authority to expend funds for such damages expires five years after the date of enactment of the bill.&nbsp;</p>",
+      "updateDate": "2025-11-13T21:45:25Z",
+      "versionCode": "07"
+    }
+  ]
+}

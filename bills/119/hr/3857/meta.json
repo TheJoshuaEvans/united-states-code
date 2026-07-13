@@ -1,0 +1,188 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on September 15, 2025",
+        "pubDate": "2025-09-17T21:05:00Z",
+        "title": "H.R. 3857, Snow Water Supply Forecasting Reauthorization Act of 2025",
+        "url": "https://www.cbo.gov/publication/61749"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-293",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/293?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 99 (Tuesday, June 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HURD of Colorado:\nH.R. 3857.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I sec. 8\n[Page H2615]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3857",
+    "number": "3857",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001100",
+        "district": 3,
+        "firstName": "Jeff",
+        "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+        "isByRequest": "N",
+        "lastName": "Hurd",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H001100?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/text?format=json"
+    },
+    "title": "Snow Water Supply Forecasting Reauthorization Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3857/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T12:29:42Z",
+    "updateDateIncludingText": "2026-07-12T02:01:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-06-10",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T13:30:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-11T18:48:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-03-17T14:00:00Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Water and Power Subcommittee",
+          "systemCode": "sseg07",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg07?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T19:03:40Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T17:25:43Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T17:25:25Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-06-10T14:04:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-24T17:39:17Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-06-23T16:46:03Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Snow Water Supply Forecasting Reauthorization Act of 2025</strong></p><p>This bill reauthorizes through FY2031 and modifies the Snow Water Supply Forecasting Program of the Bureau of Reclamation. Under the existing program, Reclamation implements activities to improve&nbsp;snowpack measurements used for water supply forecasts in certain western states.</p><p>The bill directs Reclamation to incorporate, to the greatest extent practicable, information from technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models when&nbsp;determining water supply forecasts or allocations to federal water contractors.</p><p>Additionally, the bill requires the program's framework to emphasize the deployment of technologies that provide integration of snowpack measuring and modeling. The bill also requires the program's focus\u2014activities that maintain, establish, expand, or advance snowpack measurement and integrated modeling\u2014to place an emphasis on (1) enhancing activities to achieve improved snow and water supply forecasting results that are more responsive to changing weather and watershed conditions, (2) real-time integration of measurement and modeling activities with water supply forecasts, (3) activities in river basins where measurements or modeling can produce snow and water supply data to inform water management decisions, and (4) building the capacity of the program partners to implement and adapt to the new measurement and forecast capabilities.</p>",
+      "updateDate": "2025-12-04T20:31:50Z",
+      "versionCode": "07"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-252",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/252?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of North Carolina:\nH.R. 4478.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of Article I of the Constitution\n[Page H3475]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4478",
+    "number": "4478",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001236",
+        "district": 14,
+        "firstName": "Tim",
+        "fullName": "Rep. Moore, Tim [R-NC-14]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/M001236?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/text?format=json"
+    },
+    "title": "TRUST Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4478/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-15T03:08:24Z",
+    "updateDateIncludingText": "2026-07-13T18:45:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000486",
+      "district": 15,
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000486?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T16:29:19Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T17:47:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:56:17Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-22T16:56:07Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-17T13:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Tailored Regulatory Updates for Supervisory Testing Act of 2025 or the TRUST Act of 2025</strong></p><p>This bill permits additional small insured depository institutions that are considered well-capitalized and well-managed (per their most recent examination) to qualify for less frequent examinations conducted by federal&nbsp;financial&nbsp;regulators.&nbsp;Specifically, the bill raises the maximum asset level that qualifies an institution for less frequent examinations from less than $3 billion to less than $6 billion.&nbsp;</p>",
+      "updateDate": "2026-05-07T18:34:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

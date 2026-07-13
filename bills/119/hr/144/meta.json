@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COHEN:\nH.R. 144.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\nThe single subject of this legislation is:\nFederal salary transparency and reporting\n[Page H41]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/144",
+    "number": "144",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001068",
+        "district": 9,
+        "firstName": "Steve",
+        "fullName": "Rep. Cohen, Steve [D-TN-9]",
+        "isByRequest": "N",
+        "lastName": "Cohen",
+        "party": "D",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/C001068?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/text?format=json"
+    },
+    "title": "Tennessee Valley Authority Salary Transparency Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/144/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:38:23Z",
+    "updateDateIncludingText": "2026-07-12T14:30:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001309",
+      "district": 2,
+      "firstName": "Tim",
+      "fullName": "Rep. Burchett, Tim [R-TN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Burchett",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001309?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-16T18:48:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:16:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-01-04T14:08:52Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02",
+          "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Tennessee Valley Authority Salary Transparency Act</strong></p><p>This bill expands reporting requirements for the Tennessee Valley Authority (TVA). TVA is a government corporation that provides electricity in Tennessee and in portions of several surrounding states. It also provides flood control, navigation, and land management services for the Tennessee River system.</p><p>The bill reinstates the requirement for TVA to file an annual financial statement and report with Congress in March. (The requirement was terminated by the Federal Reports Elimination and Sunset Act of 1995.)</p><p>The bill also modifies the requirement that the report include the names, salaries, and duties of employees earning more than $1,500 a year. Under the bill, this information is only required for employees earning more than the maximum rate of basic pay for grade GS-13 of the General Schedule.</p>",
+      "updateDate": "2025-01-16T21:13:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

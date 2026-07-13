@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-478",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/478?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-02-03",
+    "latestAction": {
+      "actionDate": "2026-02-03",
+      "actionTime": "12:34:41",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1032",
+    "number": "1032",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000311",
+        "district": 3,
+        "firstName": "Brian",
+        "fullName": "Rep. Jack, Brian [R-GA-3]",
+        "isByRequest": "N",
+        "lastName": "Jack",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/J000311?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/text?format=json"
+    },
+    "title": "Providing for consideration of the Senate amendments to the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 142) disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025; and providing for consideration of the bill (H.R. 4090) to codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1032/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T22:09:34Z",
+    "updateDateIncludingText": "2026-07-11T22:09:34Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-03T14:26:10Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-03",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the Senate amendments to the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 142) disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025; and providing for consideration of the bill (H.R. 4090) to codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
+      "updateDate": "2026-03-13T12:10:57Z",
+      "versionCode": "07"
+    }
+  ]
+}

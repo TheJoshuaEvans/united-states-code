@@ -1,0 +1,185 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EVANS of Colorado:\nH.R. 1682.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1682",
+    "number": "1682",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000300",
+        "district": 8,
+        "firstName": "Gabe",
+        "fullName": "Rep. Evans, Gabe [R-CO-8]",
+        "isByRequest": "N",
+        "lastName": "Evans",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/E000300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/text?format=json"
+    },
+    "title": "BELO\u2019S Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1682/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:58:20Z",
+    "updateDateIncludingText": "2026-07-13T19:46:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "B000490",
+      "district": 2,
+      "firstName": "Sanford",
+      "fullName": "Rep. Bishop, Sanford D. [D-GA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bishop",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-21",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/B000490?format=json"
+    },
+    {
+      "bioguideId": "C001121",
+      "district": 6,
+      "firstName": "Jason",
+      "fullName": "Rep. Crow, Jason [D-CO-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crow",
+      "party": "D",
+      "sponsorshipDate": "2025-03-21",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001121?format=json"
+    },
+    {
+      "bioguideId": "J000307",
+      "district": 10,
+      "firstName": "John",
+      "fullName": "Rep. James, John [R-MI-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "James",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/J000307?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-13",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T15:58:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T14:10:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-27T14:10:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Benefits that Endure for Lifetimes Of Service Act or BELO\u2019S Act</strong></p><p>This bill extends&nbsp;eligibility for a free lifetime National Parks and Federal Recreational Lands Pass to any individual who is a survivor to a member of the Armed Forces whose death entitles the survivor to (1) a death gratuity (e.g., the servicemember died while on active duty or during inactive duty training), or (2) dependency and indemnity compensation.&nbsp;</p>",
+      "updateDate": "2025-08-12T20:25:03Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-05-13",
+      "actionDesc": "Passed House",
+      "text": "<p><strong>Benefits that Endure for Lifetimes Of Service Act or BELO\u2019S Act</strong></p><p>This bill extends&nbsp;eligibility for a free lifetime National Parks and Federal Recreational Lands Pass to any individual who is a survivor to a member of the Armed Forces whose death entitles the survivor to (1) a death gratuity (e.g., the servicemember died while on active duty or during inactive duty training), or (2) dependency and indemnity compensation.&nbsp;</p>",
+      "updateDate": "2025-06-10T15:52:46Z",
+      "versionCode": "53"
+    }
+  ]
+}

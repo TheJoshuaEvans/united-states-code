@@ -1,0 +1,167 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Financial Services on September 16, 2025",
+        "pubDate": "2025-09-25T12:01:00Z",
+        "title": "H.R. 1531, Pressure Regulatory Organizations to End Chinese Threats to Taiwan Act",
+        "url": "https://www.cbo.gov/publication/61765"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-388",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/388?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 36 (Monday, February 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LUCAS:\nH.R. 1531.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H769]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-24",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1531",
+    "number": "1531",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000491",
+        "district": 3,
+        "firstName": "Frank",
+        "fullName": "Rep. Lucas, Frank D. [R-OK-3]",
+        "isByRequest": "N",
+        "lastName": "Lucas",
+        "middleName": "D.",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000491?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/text?format=json"
+    },
+    "title": "PROTECT Taiwan Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1531/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-13T04:08:22Z",
+    "updateDateIncludingText": "2026-07-13T19:45:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000581",
+      "district": 34,
+      "firstName": "Vicente",
+      "fullName": "Rep. Gonzalez, Vicente [D-TX-34]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gonzalez",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000581?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T21:05:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-25T18:36:59Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-24T17:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-25T18:35:08Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-09-16T14:26:32Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-24T17:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-25",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Pressure Regulatory Organizations To End Chinese Threats to Taiwan Act or the PROTECT Taiwan Act </strong></p><p>This bill requires certain federal entities to seek to exclude China from six international financial organizations if the President informs Congress that China's actions threaten Taiwan and pose a&nbsp;danger to U.S. interests.</p><p>Specifically, the bill establishes that it is U.S. policy to seek to exclude Chinese representatives from participating in the activities of six international organizations if the President informs Congress that China's actions pose any (1) threat to Taiwan's security, economic system, or social system; and (2) danger to U.S. interests.</p><p>The six specified organizations are&nbsp;</p><ul><li>the Group of Twenty,</li><li>the Bank for International Settlements,</li><li>the Financial Stability Board,</li><li>the Basel Committee on Banking Supervision,</li><li>the International Association of Insurance Supervisors, and</li><li>the International Organization of Securities Commissions.</li></ul><p>In the event that the President so informs Congress, the bill requires the Department of the Treasury, the Federal Reserve, and the Securities and Exchange Commission to take all necessary steps to advance the exclusion policy.</p><p>The President may waive the application of this policy to an organization if doing so is in the national interest of the United States.</p>",
+      "updateDate": "2026-02-06T21:38:23Z",
+      "versionCode": "07"
+    }
+  ]
+}

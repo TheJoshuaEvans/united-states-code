@@ -1,0 +1,262 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-01",
+    "latestAction": {
+      "actionDate": "2026-01-22",
+      "actionTime": "11:53:10",
+      "text": "Pursuant to the provisions of H. Res. 1014, H. Res. 375 is considered passed House as amended."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/375",
+    "number": "375",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000193",
+        "district": 3,
+        "firstName": "Zachary",
+        "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+        "isByRequest": "N",
+        "lastName": "Nunn",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/N000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/text?format=json"
+    },
+    "title": "Expressing support for the designation of May 2025 as Renewable Fuels Month to recognize the important role that renewable fuels play in reducing carbon impacts, lowering fuel prices for consumers, supporting rural communities, and lessening reliance on foreign adversaries.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/375/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-10T14:58:30Z",
+    "updateDateIncludingText": "2026-07-13T18:33:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "H001091",
+      "district": 2,
+      "firstName": "Ashley",
+      "fullName": "Rep. Hinson, Ashley [R-IA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hinson",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/H001091?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    },
+    {
+      "bioguideId": "B001315",
+      "district": 13,
+      "firstName": "Nikki",
+      "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budzinski",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001315?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    },
+    {
+      "bioguideId": "M001215",
+      "district": 1,
+      "firstName": "Mariannette",
+      "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller-Meeks",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/M001215?format=json"
+    },
+    {
+      "bioguideId": "P000607",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Pocan, Mark [D-WI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pocan",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/P000607?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "S001225",
+      "district": 17,
+      "firstName": "Eric",
+      "fullName": "Rep. Sorensen, Eric [D-IL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sorensen",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001225?format=json"
+    },
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "M001233",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Messmer, Mark B. [R-IN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Messmer",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/M001233?format=json"
+    },
+    {
+      "bioguideId": "M001237",
+      "district": 8,
+      "firstName": "Kristen",
+      "fullName": "Rep. McDonald Rivet, Kristen [D-MI-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "McDonald Rivet",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001237?format=json"
+    },
+    {
+      "bioguideId": "W000812",
+      "district": 2,
+      "firstName": "Ann",
+      "fullName": "Rep. Wagner, Ann [R-MO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wagner",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/W000812?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-01T13:05:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

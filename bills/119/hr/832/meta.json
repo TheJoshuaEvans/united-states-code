@@ -1,0 +1,139 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILLIAMS of Texas:\nH.R. 832.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution of the United\nStates.\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-02-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/832",
+    "number": "832",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000816",
+        "district": 25,
+        "firstName": "Roger",
+        "fullName": "Rep. Williams, Roger [R-TX-25]",
+        "isByRequest": "N",
+        "lastName": "Williams",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/W000816?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/text?format=json"
+    },
+    "title": "Small Business Advocacy Improvements Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/832/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T10:28:28Z",
+    "updateDateIncludingText": "2026-07-13T17:15:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000491",
+      "district": 45,
+      "firstName": "Derek",
+      "fullName": "Rep. Tran, Derek [D-CA-45]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tran",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000491?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-25T17:48:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:05:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Small Business Advocacy Improvements Act of 2025</strong></p><p>This bill expands the primary functions and additional duties of the Office of Advocacy of the Small Business Administration to include (1) examining the role of small businesses in the international economy, and (2) representing the views and interests of small businesses before foreign governments and international entities to contribute to regulatory and trade initiatives that may affect small businesses.</p>",
+      "updateDate": "2025-02-24T20:17:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

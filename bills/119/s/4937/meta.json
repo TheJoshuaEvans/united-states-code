@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4937",
+    "number": "4937",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001176",
+        "firstName": "Jeff",
+        "fullName": "Sen. Merkley, Jeff [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Merkley",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/M001176?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/text?format=json"
+    },
+    "title": "Investor Choice Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4937/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T16:42:03Z",
+    "updateDateIncludingText": "2026-07-13T16:42:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T23:41:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

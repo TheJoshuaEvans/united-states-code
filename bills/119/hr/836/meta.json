@@ -1,0 +1,178 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VALADAO:\nH.R. 836.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 4 Section 3 Clause 2\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-02-06",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/836",
+    "number": "836",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000129",
+        "district": 22,
+        "firstName": "David",
+        "fullName": "Rep. Valadao, David G. [R-CA-22]",
+        "isByRequest": "N",
+        "lastName": "Valadao",
+        "middleName": "G.",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/V000129?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/text?format=json"
+    },
+    "title": "Emergency Wildfire Fighting Technology Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/836/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T10:23:20Z",
+    "updateDateIncludingText": "2026-07-13T17:15:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "H001090",
+      "district": 9,
+      "firstName": "Josh",
+      "fullName": "Rep. Harder, Josh [D-CA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harder",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001090?format=json"
+    },
+    {
+      "bioguideId": "A000369",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Amodei, Mark E. [R-NV-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amodei",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/A000369?format=json"
+    },
+    {
+      "bioguideId": "N000189",
+      "district": 4,
+      "firstName": "Dan",
+      "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Newhouse",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/N000189?format=json"
+    },
+    {
+      "bioguideId": "W000830",
+      "district": 27,
+      "firstName": "George",
+      "fullName": "Rep. Whitesides, George [D-CA-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Whitesides",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/W000830?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-06T15:59:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-31T15:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Emergency Wildfire Fighting Technology Act of 2025</strong></p><p>This bill requires the Forest Service and the Department of the Interior to (1) jointly evaluate the container aerial firefighting system to assess its use to mitigate and suppress wildfires,&nbsp;and (2) report on the results of the evaluation to Congress.</p><p>The system allows for the use of airdrop-capable disposable containers of water or fire retardant in order to increase the number of airlift assets available for wildfire emergencies.</p>",
+      "updateDate": "2025-02-05T21:01:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

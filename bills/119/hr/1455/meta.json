@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Energy and Commerce on March 4, 2025",
+        "pubDate": "2025-06-20T14:17:00Z",
+        "title": "H.R. 1455, ITS Codification Act",
+        "url": "https://www.cbo.gov/publication/61497"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-176",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/176?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARTER of Georgia:\nH.R. 1455.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution\n[Page H729]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-21",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1455",
+    "number": "1455",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001103",
+        "district": 1,
+        "firstName": "Earl",
+        "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+        "isByRequest": "N",
+        "lastName": "Carter",
+        "middleName": "L. \"Buddy\"",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/C001103?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/text?format=json"
+    },
+    "title": "ITS Codification Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1455/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:38:24Z",
+    "updateDateIncludingText": "2026-07-12T14:30:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-02-21",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T20:12:08Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-30T19:25:35Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-04T15:51:03Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-21T20:35:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Institute for Telecommunication Sciences Codification Act or the ITS Codification Act</strong></p><p>This bill provides statutory authority for the Institute for Telecommunication Sciences (ITS), which serves as the telecommunications research and engineering arm of the National Telecommunications and Information Administration.</p><p>The bill also directs ITS to establish an initiative to support the development of emergency communication and tracking technologies for use in locating trapped individuals in confined spaces (e.g., underground mines) where conventional radio communication is limited.</p>",
+      "updateDate": "2025-03-21T17:04:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

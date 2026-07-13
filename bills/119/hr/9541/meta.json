@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9541/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9541/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BILIRAKIS:\nH.R. 9541.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9541/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9541",
+    "number": "9541",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001257",
+        "district": 12,
+        "firstName": "Gus",
+        "fullName": "Rep. Bilirakis, Gus M. [R-FL-12]",
+        "isByRequest": "N",
+        "lastName": "Bilirakis",
+        "middleName": "M.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001257?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9541/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9541/text?format=json"
+    },
+    "title": "FIREWALL Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9541/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T16:16:49Z",
+    "updateDateIncludingText": "2026-07-13T16:16:49Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

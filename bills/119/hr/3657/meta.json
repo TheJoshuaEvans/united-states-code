@@ -1,0 +1,179 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-193",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/193?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SCHRIER:\nH.R. 3657.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I of the United States Constitution\n[Page H2377]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3657",
+    "number": "3657",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001216",
+        "district": 8,
+        "firstName": "Kim",
+        "fullName": "Rep. Schrier, Kim [D-WA-8]",
+        "isByRequest": "N",
+        "lastName": "Schrier",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/S001216?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/text?format=json"
+    },
+    "title": "Hydropower Licensing Transparency Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3657/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:43:23Z",
+    "updateDateIncludingText": "2026-07-12T00:47:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2025-05-29",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "G000605",
+      "district": 13,
+      "firstName": "Adam",
+      "fullName": "Rep. Gray, Adam [D-CA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gray",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000605?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T13:30:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-15T20:09:31Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-10T15:42:10Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T16:12:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-29T15:07:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-06-05T20:20:00Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-06-05T20:19:00Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-06-03T20:18:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Hydropower Relicensing Transparency Act</strong></p><p>This bill directs the Federal Energy Regulatory Commission to report annually to Congress on the status of the&nbsp;relicensing process for each application for a renewed hydropower dam license.</p>",
+      "updateDate": "2025-07-11T15:27:46Z",
+      "versionCode": "00"
+    }
+  ]
+}

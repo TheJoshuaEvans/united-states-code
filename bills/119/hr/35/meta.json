@@ -1,0 +1,499 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CISCOMANI:\nH.R. 35.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\nThe single subject of this legislation is:\nCreating federal penalties for fleeing law enforcement\nwithin 100 miles of the border.\n[Page H36]\n</pre>",
+    "cosponsors": {
+      "count": 32,
+      "countIncludingWithdrawnCosponsors": 32,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-02-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/35",
+    "number": "35",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001133",
+        "district": 6,
+        "firstName": "Juan",
+        "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+        "isByRequest": "N",
+        "lastName": "Ciscomani",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/C001133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/text?format=json"
+    },
+    "title": "Agent Raul Gonzalez Officer Safety Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/35/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T00:53:18Z",
+    "updateDateIncludingText": "2026-07-12T00:45:51Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000594",
+      "district": 15,
+      "firstName": "Monica",
+      "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "De La Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/D000594?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "W000814",
+      "district": 14,
+      "firstName": "Randy",
+      "fullName": "Rep. Weber, Randy K. Sr. [R-TX-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Weber",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000814?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "F000471",
+      "district": 5,
+      "firstName": "Scott",
+      "fullName": "Rep. Fitzgerald, Scott [R-WI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzgerald",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/F000471?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "G000594",
+      "district": 23,
+      "firstName": "Tony",
+      "fullName": "Rep. Gonzales, Tony [R-TX-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gonzales",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000594?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "G000593",
+      "district": 28,
+      "firstName": "Carlos",
+      "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gimenez",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/G000593?format=json"
+    },
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "E000071",
+      "district": 6,
+      "firstName": "Jake",
+      "fullName": "Rep. Ellzey, Jake [R-TX-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ellzey",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/E000071?format=json"
+    },
+    {
+      "bioguideId": "V000129",
+      "district": 22,
+      "firstName": "David",
+      "fullName": "Rep. Valadao, David G. [R-CA-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Valadao",
+      "middleName": "G.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000129?format=json"
+    },
+    {
+      "bioguideId": "K000392",
+      "district": 8,
+      "firstName": "David",
+      "fullName": "Rep. Kustoff, David [R-TN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kustoff",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/K000392?format=json"
+    },
+    {
+      "bioguideId": "M001215",
+      "district": 1,
+      "firstName": "Mariannette",
+      "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller-Meeks",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/M001215?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    },
+    {
+      "bioguideId": "C001039",
+      "district": 3,
+      "firstName": "Kat",
+      "fullName": "Rep. Cammack, Kat [R-FL-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cammack",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001039?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-06",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "W000816",
+      "district": 25,
+      "firstName": "Roger",
+      "fullName": "Rep. Williams, Roger [R-TX-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000816?format=json"
+    },
+    {
+      "bioguideId": "W000806",
+      "district": 11,
+      "firstName": "Daniel",
+      "fullName": "Rep. Webster, Daniel [R-FL-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Webster",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000806?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "M001210",
+      "district": 3,
+      "firstName": "Gregory",
+      "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murphy",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001210?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "M001216",
+      "district": 7,
+      "firstName": "Cory",
+      "fullName": "Rep. Mills, Cory [R-FL-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mills",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001216?format=json"
+    },
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham [R-AZ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig [R-TX-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    },
+    {
+      "bioguideId": "M001239",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. McGuire, John [R-VA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGuire",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001239?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-13T17:21:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Agent Raul Gonzalez Officer Safety Act</strong></p><p>This bill establishes new federal criminal offenses for operating a motor vehicle within 100 miles of the U.S. border while fleeing from a U.S. Border Patrol agent or a federal, state, or local law enforcement officer who is actively assisting or under the command of the U.S. Border Patrol.</p><p>The bill establishes criminal penalties for an offense, including a mandatory minimum prison term for an offense resulting in death or serious bodily injury. Additionally, a non-U.S. national who is convicted of or admits to committing an offense is inadmissible, deportable, and ineligible&nbsp;for immigration relief (including asylum).</p>",
+      "updateDate": "2025-02-19T22:25:46Z",
+      "versionCode": "00"
+    }
+  ]
+}

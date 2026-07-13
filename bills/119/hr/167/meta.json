@@ -1,0 +1,96 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/167/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/167/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\n[Pages H41-H42]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LaHOOD:\nH.R. 167.\nCongress has the power to enact this legislation pursuant\nto the following:\n[[Page H42]]\nU.S. Constitution Article I, Section 8, Clause 18: Congress\nhas the power ``to make all Laws which shall be necessary and\nproper for carrying into Execution the foregoing powers, and\nall other Powers vested by this Constitution in the\nGovernment of the United States, or any Department or Officer\nthereof.''\nThe single subject of this legislation is:\nThe bill authorizes partnerships between States and\nnongovernmental entities for the purpose of reclaiming and\nrestoring land and water resources adversely affected by coal\nmining activities before August 3, 1977.\n</pre>",
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/167",
+    "number": "167",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000585",
+        "district": 16,
+        "firstName": "Darin",
+        "fullName": "Rep. LaHood, Darin [R-IL-16]",
+        "isByRequest": "N",
+        "lastName": "LaHood",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/L000585?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/167/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/167/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/167/text?format=json"
+    },
+    "title": "Community Reclamation Partnerships Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/167/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:08:25Z",
+    "updateDateIncludingText": "2026-07-12T14:32:11Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T15:55:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:21:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Community Reclamation Partnerships Act of 2025</strong></p><p>This bill revises the Abandoned Mine Land Reclamation Program, which restores land and water adversely impacted by surface coal mines that were abandoned before August 3, 1977.</p><p>Until September 30, 2032, the bill allows a state with an approved reclamation program to enter into a memorandum of understanding with relevant federal or state agencies for remediating mine drainage on abandoned mine land and water impacted by abandoned mines.</p><p>In addition, the bill authorizes a partnership between a state and a community reclaimer for remediating abandoned mine land if certain conditions are met. A community reclaimer is a person who (1) voluntarily assists a state in a reclamation project, (2) did not participate in the creation of site conditions at the proposed site or activities that caused any land or waters at the site to become eligible for reclamation or drainage abatement expenditures, and (3) is not subject to outstanding violations of surface coal mining permits.</p>",
+      "updateDate": "2025-02-18T15:33:09Z",
+      "versionCode": "00"
+    }
+  ]
+}

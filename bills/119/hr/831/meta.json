@@ -1,0 +1,168 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-278",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/278?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CALVERT:\nH.R. 831.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, section 8 of the Constitution of the United\nStates grants Congress the authority to enact this bill.\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/831",
+    "number": "831",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000059",
+        "district": 41,
+        "firstName": "Ken",
+        "fullName": "Rep. Calvert, Ken [R-CA-41]",
+        "isByRequest": "N",
+        "lastName": "Calvert",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C000059?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/text?format=json"
+    },
+    "title": "Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/831/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-18T10:56:36Z",
+    "updateDateIncludingText": "2026-07-13T17:15:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    },
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:01:39Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-15T21:14:34Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-31T15:08:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025</strong></p><p>This bill establishes an interest-bearing account for the nonfederal contributions for the Lower Colorado River Multi-Species Conservation Program, a cooperative effort between federal and nonfederal entities in Arizona, California, and Nevada. The program works to recover multiple species listed under the Endangered Species Act.</p><p>Currently, the pace of funding exceeds the pace of work. The bill allows the nonfederal contributions deposited in the fund to be made available, without further appropriation, for the program in the future. However, amounts derived from interest earned on amounts in the fund are subject to the availability of appropriations.</p>",
+      "updateDate": "2026-03-13T01:51:46Z",
+      "versionCode": "07"
+    }
+  ]
+}

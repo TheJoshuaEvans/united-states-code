@@ -1,0 +1,83 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9543/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9543/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CASE:\nH.R. 9543.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4365]\n</pre>",
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9543",
+    "number": "9543",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001055",
+        "district": 1,
+        "firstName": "Ed",
+        "fullName": "Rep. Case, Ed [D-HI-1]",
+        "isByRequest": "N",
+        "lastName": "Case",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/C001055?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9543/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9543/text?format=json"
+    },
+    "title": "To amend the Act of July 5, 1884, to permit the imposition of taxes on vessels operating as tourist accommodations, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9543/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T16:38:44Z",
+    "updateDateIncludingText": "2026-07-13T16:38:44Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:05:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

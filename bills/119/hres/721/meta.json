@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/721/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-09-16",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "actionTime": "14:51:45",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/721",
+    "number": "721",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000371",
+        "district": 33,
+        "firstName": "Pete",
+        "fullName": "Rep. Aguilar, Pete [D-CA-33]",
+        "isByRequest": "N",
+        "lastName": "Aguilar",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/A000371?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/721/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/721/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/721/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:29:50Z",
+    "updateDateIncludingText": "2026-07-11T20:29:50Z"
+  }
+}

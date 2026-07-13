@@ -1,0 +1,52 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/887/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "actionTime": "12:14:13",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/887",
+    "number": "887",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000312",
+        "district": 2,
+        "firstName": "James",
+        "fullName": "Rep. McGovern, James P. [D-MA-2]",
+        "isByRequest": "N",
+        "lastName": "McGovern",
+        "middleName": "P.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000312?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/887/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/887/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/887/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:14:39Z",
+    "updateDateIncludingText": "2026-07-11T20:14:39Z"
+  }
+}

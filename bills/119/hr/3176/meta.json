@@ -1,0 +1,131 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3176/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-291",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/291?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3176/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 74 (Monday, May 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEGICH:\nH.R. 3176.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the authority to enact this legislation\npursuant to Article I, Section 8, Clause 3 of the United\nStates Constitution, which grants Congress the power to\nregulate commerce with foreign nations, among the several\nstates, and with the Indian tribes. The National Volcano\nEarly Warning and Monitoring System supports the monitoring\nand early warning of volcanic activity, which directly\nimpacts interstate and international commerce, including\naviation, energy infrastructure, and public safety across\nmultiple states, particularly in regions like Alaska with\nsignificant volcanic activity. Additionally, Congress has the\nauthority under Article I, Section 8, Clause 18, which\nempowers Congress to make all laws necessary and proper for\ncarrying out its enumerated powers, including ensuring the\nsafety and economic stability of the nation through disaster\npreparedness and response programs like the National Volcano\nEarly Warning and Monitoring System.\n[Page H1854]\n</pre>",
+    "introducedDate": "2025-05-05",
+    "latestAction": {
+      "actionDate": "2025-12-16",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3176",
+    "number": "3176",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001323",
+        "firstName": "Nicholas",
+        "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+        "isByRequest": "N",
+        "lastName": "Begich",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/B001323?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3176/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3176/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3176/text?format=json"
+    },
+    "title": "To amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to reauthorize the National Volcano Early Warning and Monitoring System.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3176/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:39:15Z",
+    "updateDateIncludingText": "2026-07-12T15:01:16Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T19:19:47Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T19:02:32Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T20:44:32Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-25T20:44:23Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-05-05T16:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-05-20T21:16:11Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-05-13T15:00:02Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-15",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill reauthorizes through FY2030 the National Volcano Early Warning and Monitoring System of the&nbsp;U.S. Geological Survey (USGS).&nbsp;</p><p>The system, implemented by the USGS in collaboration with the National Oceanic and Atmospheric Administration, includes a monitoring network, volcano observatories, a national data center, and external research grants.</p>",
+      "updateDate": "2025-12-11T16:39:02Z",
+      "versionCode": "07"
+    }
+  ]
+}

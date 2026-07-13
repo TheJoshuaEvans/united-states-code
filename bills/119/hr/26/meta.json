@@ -1,0 +1,352 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PFLUGER:\nH.R. 26.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\nThe single subject of this legislation is:\nTo prohibit a moratorium on the use of hydraulic\nfracturing.\n[Page H36]\n</pre>",
+    "cosponsors": {
+      "count": 18,
+      "countIncludingWithdrawnCosponsors": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-02-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+    "number": "26",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000048",
+        "district": 11,
+        "firstName": "August",
+        "fullName": "Rep. Pfluger, August [R-TX-11]",
+        "isByRequest": "N",
+        "lastName": "Pfluger",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/P000048?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/text?format=json"
+    },
+    "title": "Protecting American Energy Production Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/26/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:38:25Z",
+    "updateDateIncludingText": "2026-07-12T14:57:12Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-01-07",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "B001282",
+      "district": 6,
+      "firstName": "Andy",
+      "fullName": "Rep. Barr, Andy [R-KY-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barr",
+      "party": "R",
+      "sponsorshipDate": "2025-01-09",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/B001282?format=json"
+    },
+    {
+      "bioguideId": "G000594",
+      "district": 23,
+      "firstName": "Tony",
+      "fullName": "Rep. Gonzales, Tony [R-TX-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gonzales",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000594?format=json"
+    },
+    {
+      "bioguideId": "C001118",
+      "district": 6,
+      "firstName": "Ben",
+      "fullName": "Rep. Cline, Ben [R-VA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cline",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001118?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2025-01-22",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": 12,
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig [R-TX-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-22",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000601?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "B001307",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Baird, James R. [R-IN-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baird",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001307?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "F000482",
+      "district": 0,
+      "firstName": "Julie",
+      "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fedorchak",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/F000482?format=json"
+    },
+    {
+      "bioguideId": "W000814",
+      "district": 14,
+      "firstName": "Randy",
+      "fullName": "Rep. Weber, Randy K. Sr. [R-TX-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Weber",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000814?format=json"
+    },
+    {
+      "bioguideId": "M001239",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. McGuire, John [R-VA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGuire",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001239?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "B001291",
+      "district": 36,
+      "firstName": "Brian",
+      "fullName": "Rep. Babin, Brian [R-TX-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Babin",
+      "party": "R",
+      "sponsorshipDate": "2025-02-07",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/B001291?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-10T21:16:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-07T15:51:18Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-02-07T15:19:15Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-01-03T16:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-03T16:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Protecting American Energy Production Act</strong></p><p>This bill prohibits the President from declaring a moratorium on the use of hydraulic fracturing unless Congress authorizes the moratorium. The bill also expresses the sense of Congress that states should maintain primacy&nbsp;(authority) for the regulation of hydraulic fracturing for oil and natural gas production on state and private lands.</p><p>Hydraulic fracturing, or fracking, is a process to extract underground resources such as oil or gas from a geologic formation by injecting water, a propping agent (e.g., sand), and chemical additives into a well under enough pressure to fracture the formation.</p>",
+      "updateDate": "2025-02-06T15:49:59Z",
+      "versionCode": "00"
+    }
+  ]
+}

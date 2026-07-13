@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/293/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/293/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-04-07",
+    "latestAction": {
+      "actionDate": "2025-04-08",
+      "actionTime": "15:23:30",
+      "text": "Pursuant to the provisions of H. Res. 294, H. Res. 293 is considered passed House. (consideration: CR H1481; text: CR H1481)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/293",
+    "number": "293",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/293/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000596",
+        "district": 13,
+        "firstName": "Anna Paulina",
+        "fullName": "Rep. Luna, Anna Paulina [R-FL-13]",
+        "isByRequest": "N",
+        "lastName": "Luna",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/L000596?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/293/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/293/text?format=json"
+    },
+    "title": "Providing for the announcement of pairs from a written list furnished to the Clerk, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/293/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:14:49Z",
+    "updateDateIncludingText": "2026-07-11T21:14:49Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-07T16:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

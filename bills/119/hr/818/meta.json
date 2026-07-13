@@ -1,0 +1,165 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STAUBER:\nH.R. 818.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 1 ``The Congress shall have\npower to . . . provide for the . . . general welfare of the\nUnited States; . . .\n[Page H408]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-02-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/818",
+    "number": "818",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001212",
+        "district": 8,
+        "firstName": "Pete",
+        "fullName": "Rep. Stauber, Pete [R-MN-8]",
+        "isByRequest": "N",
+        "lastName": "Stauber",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001212?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/text?format=json"
+    },
+    "title": "SPUR Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/818/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T10:43:22Z",
+    "updateDateIncludingText": "2026-07-13T17:13:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray, Jr. [D-CA-31]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    },
+    {
+      "bioguideId": "G000600",
+      "district": 3,
+      "firstName": "Marie",
+      "fullName": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Perez",
+      "middleName": "Gluesenkamp",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/G000600?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-25T17:47:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:06:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Small Business Procurement and Utilization Reform Act of 2025 or the SPUR Act</strong></p><p>This bill requires federal agencies to include on their annual scorecard for small business contracting the number of small businesses that receive a prime contract for the first time and are&nbsp;owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, or small business concerns owned and controlled by women.&nbsp;</p>",
+      "updateDate": "2025-02-24T19:55:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

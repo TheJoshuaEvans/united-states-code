@@ -1,0 +1,167 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on March 24, 2025",
+        "pubDate": "2025-04-07T20:22:00Z",
+        "title": "H.R. 1816, WOSB Accountability Act",
+        "url": "https://www.cbo.gov/publication/61318"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-37",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/37?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. VELAZQUEZ:\nH.R. 1816.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution,\nwhich gives Congress the power ``to make all Laws which shall\nbe necessary and proper for carrying into Execution the\nforegoing Powers and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.\n[Page H947]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1816",
+    "number": "1816",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000081",
+        "district": 7,
+        "firstName": "Nydia",
+        "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+        "isByRequest": "N",
+        "lastName": "Vel\u00e1zquez",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/V000081?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/text?format=json"
+    },
+    "title": "WOSB Accountability Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1816/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:43:25Z",
+    "updateDateIncludingText": "2026-07-12T14:33:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-04T18:36:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-24T21:44:29Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T14:05:35Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-03T17:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>WOSB Accountability Act</strong></p><p>This bill requires that only women-owned small businesses that have been certified by a federal agency, state government, or national certifying entity approved by the Small Business Administration (SBA) are included when calculating whether a federal agency has met its contracting goals with respect to such businesses during a fiscal year.</p><p>Certain self-certified, women-owned small businesses that have filed an application for certification are deemed to have been certified until the SBA or national certifying entity makes a determination with respect to the certification of such business.</p><p>The SBA must provide a briefing each quarter about specified aspects of the process of certifying women-owned small businesses and implementing the requirements of the bill.</p>",
+      "updateDate": "2025-05-30T21:13:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

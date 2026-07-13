@@ -1,0 +1,184 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Homeland Security on April 9, 2025",
+        "pubDate": "2025-07-22T15:25:00Z",
+        "title": "H.R. 1608, Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Act of 2025",
+        "url": "https://www.cbo.gov/publication/61588"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-222",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/222?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 38 (Wednesday, February 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GIMENEZ:\nH.R. 1608.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the Constitution stating\nthat Congress has the authority to `` make all laws which\nshall be necessary and proper for carrying into execution the\nforegoing powers, and all other powers vested by the\nConstitution''.\n[Page H879]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1608",
+    "number": "1608",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000593",
+        "district": 28,
+        "firstName": "Carlos",
+        "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+        "isByRequest": "N",
+        "lastName": "Gimenez",
+        "middleName": "A.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/G000593?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/text?format=json"
+    },
+    "title": "Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1608/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-09T13:27:22Z",
+    "updateDateIncludingText": "2026-07-12T14:31:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000590",
+      "district": 7,
+      "firstName": "Mark",
+      "fullName": "Rep. Green, Mark E. [R-TN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Green",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/G000590?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T21:09:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-08-08T16:06:34Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T13:30:50Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-09T13:30:40Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-04-09T13:30:40Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-02-26T15:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-02-26T18:21:22Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Transportation and Maritime Security Subcommittee",
+          "systemCode": "hshm07",
+          "url": "https://api.congress.gov/v3/committee/house/hshm07?format=json"
+        },
+        {
+          "activities": [
+            {
+              "date": "2025-02-26T18:21:22Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Act of 2025</strong></p><p>This bill directs the Department of Homeland Security (DHS) to submit a report to Congress on the department's efforts to prevent, deter, and respond to vehicular terrorism (i.e., an action that utilizes automotive transportation to commit terrorism). DHS must submit the report in coordination with the Transportation Security Administration and the Cybersecurity and Infrastructure Security Agency.</p><p>Among other things, the report on vehicular terrorism must include</p><ul><li>an assessment of the current and emerging threats;</li><li>a review of higher-risk locations and events that may be vulnerable, including critical infrastructure sites&nbsp;(e.g., airports and government facilities);</li><li>a description of DHS\u2019s coordination efforts with federal, state, local, tribal, and territorial law enforcement agencies related to prevention; and</li><li>recommendations for the research, development, and deployment of technologies to detect, deter, and mitigate vehicular terrorism.</li></ul><p>DHS must submit a classified report to Congress, but may include an unclassified executive summary. DHS must publish the executive summary on the department's&nbsp;website.</p><p>In addition,&nbsp;DHS must&nbsp;brief Congress on the report's findings, conclusions, and recommendations.</p>",
+      "updateDate": "2025-04-22T12:51:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

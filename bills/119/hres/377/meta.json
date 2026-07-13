@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/377/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-89",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/89?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/377/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-05",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "actionTime": "14:02:54",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/377",
+    "number": "377",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/377/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001189",
+        "district": 8,
+        "firstName": "Austin",
+        "fullName": "Rep. Scott, Austin [R-GA-8]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/S001189?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/377/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/377/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 276) to rename the Gulf of Mexico as the \u2018\u2018Gulf of America\u201d, and providing for consideration of the bill (H.R. 881) to establish Department of Homeland Security funding restrictions on institutions of higher education that have a relationship with Confucius Institutes, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/377/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:09:29Z",
+    "updateDateIncludingText": "2026-07-11T21:09:29Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-05T22:19:01Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

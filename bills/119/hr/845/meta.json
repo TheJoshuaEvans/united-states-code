@@ -1,0 +1,617 @@
+{
+  "status": {
+    "actions": {
+      "count": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on April 9, 2025",
+        "pubDate": "2025-08-28T19:47:00Z",
+        "title": "H.R. 845, Pet and Livestock Protection Act",
+        "url": "https://www.cbo.gov/publication/61710"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-332",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/332?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BOEBERT:\nH.R. 845.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8: The Congress shall have Power To lay\nand collect Taxes, Duties, Imposts and Excises, to pay the\nDebts and provide for the common Defence and general Welfare\nof the United States; but all Duties, Imposts and Excises\nshall be uniform throughout the United States\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 37,
+      "countIncludingWithdrawnCosponsors": 37,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/845",
+    "number": "845",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000825",
+        "district": 4,
+        "firstName": "Lauren",
+        "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+        "isByRequest": "N",
+        "lastName": "Boebert",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/B000825?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/text?format=json"
+    },
+    "title": "Pet and Livestock Protection Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/845/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:25Z",
+    "updateDateIncludingText": "2026-07-13T17:16:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000165",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Tiffany, Thomas P. [R-WI-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tiffany",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/T000165?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas [R-AK-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    },
+    {
+      "bioguideId": "B001302",
+      "district": 5,
+      "firstName": "Andy",
+      "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/B001302?format=json"
+    },
+    {
+      "bioguideId": "B000668",
+      "district": 2,
+      "firstName": "Cliff",
+      "fullName": "Rep. Bentz, Cliff [R-OR-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bentz",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B000668?format=json"
+    },
+    {
+      "bioguideId": "C001137",
+      "district": 5,
+      "firstName": "Jeff",
+      "fullName": "Rep. Crank, Jeff [R-CO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crank",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001137?format=json"
+    },
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "E000294",
+      "district": 6,
+      "firstName": "Tom",
+      "fullName": "Rep. Emmer, Tom [R-MN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Emmer",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/E000294?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "F000471",
+      "district": 5,
+      "firstName": "Scott",
+      "fullName": "Rep. Fitzgerald, Scott [R-WI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzgerald",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/F000471?format=json"
+    },
+    {
+      "bioguideId": "F000475",
+      "district": 1,
+      "firstName": "Brad",
+      "fullName": "Rep. Finstad, Brad [R-MN-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Finstad",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000475?format=json"
+    },
+    {
+      "bioguideId": "F000470",
+      "district": 7,
+      "firstName": "Michelle",
+      "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischbach",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/F000470?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "G000576",
+      "district": 6,
+      "firstName": "Glenn",
+      "fullName": "Rep. Grothman, Glenn [R-WI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grothman",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/G000576?format=json"
+    },
+    {
+      "bioguideId": "H001096",
+      "district": 0,
+      "firstName": "Harriet",
+      "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hageman",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/H001096?format=json"
+    },
+    {
+      "bioguideId": "H001052",
+      "district": 1,
+      "firstName": "Andy",
+      "fullName": "Rep. Harris, Andy [R-MD-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/H001052?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "H001067",
+      "district": 9,
+      "firstName": "Richard",
+      "fullName": "Rep. Hudson, Richard [R-NC-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hudson",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001067?format=json"
+    },
+    {
+      "bioguideId": "K000403",
+      "district": 3,
+      "firstName": "Mike",
+      "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/K000403?format=json"
+    },
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "L000578",
+      "district": 1,
+      "firstName": "Doug",
+      "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaMalfa",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000578?format=json"
+    },
+    {
+      "bioguideId": "N000189",
+      "district": 4,
+      "firstName": "Dan",
+      "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Newhouse",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/N000189?format=json"
+    },
+    {
+      "bioguideId": "N000026",
+      "district": 22,
+      "firstName": "Troy",
+      "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nehls",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/N000026?format=json"
+    },
+    {
+      "bioguideId": "O000175",
+      "district": 5,
+      "firstName": "Andrew",
+      "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ogles",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/O000175?format=json"
+    },
+    {
+      "bioguideId": "P000605",
+      "district": 10,
+      "firstName": "Scott",
+      "fullName": "Rep. Perry, Scott [R-PA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Perry",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/P000605?format=json"
+    },
+    {
+      "bioguideId": "S001213",
+      "district": 1,
+      "firstName": "Bryan",
+      "fullName": "Rep. Steil, Bryan [R-WI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steil",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/S001213?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    },
+    {
+      "bioguideId": "W000829",
+      "district": 8,
+      "firstName": "Tony",
+      "fullName": "Rep. Wied, Tony [R-WI-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wied",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/W000829?format=json"
+    },
+    {
+      "bioguideId": "M001222",
+      "district": 7,
+      "firstName": "Max",
+      "fullName": "Rep. Miller, Max L. [R-OH-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "L.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001222?format=json"
+    },
+    {
+      "bioguideId": "J000295",
+      "district": 14,
+      "firstName": "David",
+      "fullName": "Rep. Joyce, David P. [R-OH-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Joyce",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/J000295?format=json"
+    },
+    {
+      "bioguideId": "C001116",
+      "district": 9,
+      "firstName": "Andrew",
+      "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Clyde",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001116?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2025-06-04",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-04",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-06-11",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-18T21:36:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-18T19:49:28Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-12-18T17:37:50Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-10-03T20:31:34Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-09T22:05:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-09T22:05:07Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-01-31T15:09:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-25T14:22:20Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-03-18T16:41:24Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Pet and Livestock Protection Act of 2025</strong></p><p>This bill directs the Department of the Interior to remove protections for the gray wolf under the Endangered Species Act of 1973 (ESA). Specifically, the bill requires Interior to reissue the final rule titled <em>Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) From the List of Endangered and Threatened Wildlife</em> and published on November 3, 2020.</p><p>The rule removed the gray wolf in the lower 48 United States, except for the Mexican wolf (<em>C. l. baileyi</em>) subspecies, from the endangered and threatened species list. However, the U.S. District Court for the Northern District of California vacated the rule on February 10, 2022. As a result, the gray wolf reattained the protection status it had prior to the rule's promulgation.</p><p>The bill also prohibits the reissuance of the rule from being subject to judicial review.</p>",
+      "updateDate": "2025-12-12T21:32:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

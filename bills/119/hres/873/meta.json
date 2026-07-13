@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-372",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/372?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-12",
+    "latestAction": {
+      "actionDate": "2025-11-12",
+      "actionTime": "18:21:47",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/873",
+    "number": "873",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000470",
+        "district": 7,
+        "firstName": "Michelle",
+        "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+        "isByRequest": "N",
+        "lastName": "Fischbach",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000470?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/text?format=json"
+    },
+    "title": "Providing for consideration of the Senate amendment to the bill (H.R. 5371) making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/873/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:24:37Z",
+    "updateDateIncludingText": "2026-07-11T20:24:37Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-12T16:49:37Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-12",
+      "actionDesc": "Reported to House",
+      "text": "<p>This resolution provides for House consideration of S.Amdt. 3937, a Senate amendment&nbsp;to H.R. 5371,<em> Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026.</em></p>",
+      "updateDate": "2025-12-18T16:58:05Z",
+      "versionCode": "07"
+    }
+  ]
+}

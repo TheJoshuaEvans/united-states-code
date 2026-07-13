@@ -1,0 +1,134 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-636",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/636?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 67 (Thursday, April 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SCHMIDT:\nH.R. 8352.\nCongress has the power to enact this legislation pursuant\nto the following:\nsection 8 of article I of the Constitution\n[Page H2961]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8352",
+    "number": "8352",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001228",
+        "district": 2,
+        "firstName": "Derek",
+        "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+        "isByRequest": "N",
+        "lastName": "Schmidt",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/S001228?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/text?format=json"
+    },
+    "title": "Criminal History Access Act of 2026",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8352/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-15T03:08:23Z",
+    "updateDateIncludingText": "2026-07-13T17:15:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-16",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T16:29:46Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-04T16:32:16Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-04-22T15:37:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-16T14:05:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-04",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Criminal History Access Act of 2026</strong></p><p>This bill authorizes a new type of entity\u2014peace officer standards and training agencies\u2014to access criminal history record information maintained by the Federal Bureau of Investigation. The term <em>peace officer standards and training agency</em> means an agency of a state, the District of Columbia, or a U.S. territory that is authorized to set standards for the hiring, training, ethical conduct, and retention of its law enforcement officers through certification, licensing, or other similar qualification processes.&nbsp;</p>",
+      "updateDate": "2026-05-07T21:15:46Z",
+      "versionCode": "07"
+    }
+  ]
+}

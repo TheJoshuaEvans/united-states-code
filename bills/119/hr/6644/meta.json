@@ -1,0 +1,514 @@
+{
+  "status": {
+    "actions": {
+      "count": 66,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/actions?format=json"
+    },
+    "amendments": {
+      "count": 104,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-457",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/457?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 209 (Thursday, December 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HILL of Arkansas:\nH.R. 6644.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 of the Constitution\n[Page H5810]\n</pre>",
+    "cosponsors": {
+      "count": 31,
+      "countIncludingWithdrawnCosponsors": 31,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "text": "Presented to President."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+    "number": "6644",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001072",
+        "district": 2,
+        "firstName": "J.",
+        "fullName": "Rep. Hill, J. French [R-AR-2]",
+        "isByRequest": "N",
+        "lastName": "Hill",
+        "middleName": "French",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/H001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/text?format=json"
+    },
+    "title": "21st Century ROAD to Housing Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6644/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T16:08:34Z",
+    "updateDateIncludingText": "2026-07-13T19:08:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000187",
+      "district": 43,
+      "firstName": "Maxine",
+      "fullName": "Rep. Waters, Maxine [D-CA-43]",
+      "isOriginalCosponsor": true,
+      "lastName": "Waters",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/W000187?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2025-12-11",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "G000553",
+      "district": 9,
+      "firstName": "Al",
+      "fullName": "Rep. Green, Al [D-TX-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Green",
+      "party": "D",
+      "sponsorshipDate": "2025-12-15",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000553?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    },
+    {
+      "bioguideId": "V000081",
+      "district": 7,
+      "firstName": "Nydia",
+      "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vel\u00e1zquez",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/V000081?format=json"
+    },
+    {
+      "bioguideId": "R000612",
+      "district": 6,
+      "firstName": "John",
+      "fullName": "Rep. Rose, John W. [R-TN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rose",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/R000612?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "S001213",
+      "district": 1,
+      "firstName": "Bryan",
+      "fullName": "Rep. Steil, Bryan [R-WI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Steil",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/S001213?format=json"
+    },
+    {
+      "bioguideId": "S001157",
+      "district": 13,
+      "firstName": "David",
+      "fullName": "Rep. Scott, David [D-GA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/S001157?format=json"
+    },
+    {
+      "bioguideId": "S001188",
+      "district": 3,
+      "firstName": "Marlin",
+      "fullName": "Rep. Stutzman, Marlin A. [R-IN-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stutzman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001188?format=json"
+    },
+    {
+      "bioguideId": "B001281",
+      "district": 3,
+      "firstName": "Joyce",
+      "fullName": "Rep. Beatty, Joyce [D-OH-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Beatty",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001281?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "P000617",
+      "district": 7,
+      "firstName": "Ayanna",
+      "fullName": "Rep. Pressley, Ayanna [D-MA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pressley",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/P000617?format=json"
+    },
+    {
+      "bioguideId": "K000397",
+      "district": 40,
+      "firstName": "Young",
+      "fullName": "Rep. Kim, Young [R-CA-40]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kim",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": 12,
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000481?format=json"
+    },
+    {
+      "bioguideId": "G000597",
+      "district": 2,
+      "firstName": "Andrew",
+      "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garbarino",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000597?format=json"
+    },
+    {
+      "bioguideId": "T000486",
+      "district": 15,
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000486?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "G000587",
+      "district": 29,
+      "firstName": "Sylvia",
+      "fullName": "Rep. Garcia, Sylvia R. [D-TX-29]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garcia",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000587?format=json"
+    },
+    {
+      "bioguideId": "D000594",
+      "district": 15,
+      "firstName": "Monica",
+      "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "De La Cruz",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/D000594?format=json"
+    },
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    },
+    {
+      "bioguideId": "F000110",
+      "district": 6,
+      "firstName": "Cleo",
+      "fullName": "Rep. Fields, Cleo [D-LA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fields",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/F000110?format=json"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": 27,
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S000168?format=json"
+    },
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    },
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "L000607",
+      "district": 16,
+      "firstName": "Sam",
+      "fullName": "Rep. Liccardo, Sam T. [D-CA-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Liccardo",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000607?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2026-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "M001236",
+      "district": 14,
+      "firstName": "Tim",
+      "fullName": "Rep. Moore, Tim [R-NC-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001236?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-15T18:05:44Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-12-11T16:10:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-15T18:05:24Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-17T20:16:07Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-16T20:15:59Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-11T16:10:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Housing for the 21st Century Act<br/><br/></strong>This bill revises federal housing programs, including by expanding available financing for affordable housing and providing grants for planning and community development activities.<br/><br/>For example, the bill increases the statutory maximum loan limits for mortgage insurance programs administered by the&nbsp;Federal Housing Administration&nbsp;for multifamily homes and requires the use of a more specific inflation index for such loans.<br/><br/>The bill also increases the maximum&nbsp;eligible income for the Department of Housing and Urban Development's (HUD's) HOME Investment Partnerships Program (grants to states and localities to support housing for low-income households) and&nbsp;establishes a grant program to assist regional, state, and local entities with&nbsp;strategies to support affordable housing.<br/><br/>In addition, the bill</p><ul><li>exempts certain housing-related activities from the environmental review process, including certain construction, improvement, or rehabilitation of residential buildings;</li><li>excludes veterans' disability benefits from being considered as income for purposes of determining eligibility for the Veterans Affairs Supportive Housing (VASH) program;</li><li>establishes a pilot program to provide grants to public housing agencies (PHAs) and other owners of federally assisted housing to  test the efficacy of temperature sensors to support compliance with temperature requirements;</li><li>eliminates the requirement that manufactured homes must be constructed with a permanent chassis; and</li><li>authorizes HUD to conduct performance reviews of organizations that&nbsp;provide&nbsp;housing counseling services.</li></ul><p>The bill also expands oversight of HUD and PHAs, such as by requiring PHAs to post information about contracts on their websites.</p><p>For more information about this bill, see <a href=\"https://www.congress.gov/crs-product/R48849#_Toc221206484\">CRS Report&nbsp;</a><a href=\"https://www.congress.gov/crs-product/R48849#_Toc221206484\">R48849</a>.&nbsp;</p>",
+      "updateDate": "2026-02-09T18:39:35Z",
+      "versionCode": "07"
+    }
+  ]
+}

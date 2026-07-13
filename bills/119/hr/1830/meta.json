@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on April 30, 2025",
+        "pubDate": "2025-05-29T17:02:00Z",
+        "title": "H.R. 1830, a bill to designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the \u201cCommander Delbert Austin Olson Post Office&quot;",
+        "url": "https://www.cbo.gov/publication/61445"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 41 (Tuesday, March 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. FEDORCHAK:\nH.R. 1830.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 7:\nThe Congress shall have Power . . . To establish Post\nOffices and post Roads; . . .''\n[Page H976]\n</pre>",
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1830",
+    "number": "1830",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000482",
+        "firstName": "Julie",
+        "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+        "isByRequest": "N",
+        "lastName": "Fedorchak",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/F000482?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the Commander Delbert Austin Olson Post Office.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1830/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T14:58:30Z",
+    "updateDateIncludingText": "2026-07-13T18:33:48Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T20:35:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-30T14:37:43Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-04T15:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-04",
+      "actionDesc": "Introduced in House",
+      "text": "This bill designates the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the \"Commander Delbert Austin Olson Post Office\".",
+      "updateDate": "2025-08-01T21:32:45Z",
+      "versionCode": "00"
+    }
+  ]
+}

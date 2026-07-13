@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 196 (Thursday, November 20, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. UNDERWOOD:\nH.R. 6238.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the U.S. Constitution\n[Page H4878]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Placed on the Union Calendar, Calendar No. 638."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6238",
+    "number": "6238",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "U000040",
+        "district": 14,
+        "firstName": "Lauren",
+        "fullName": "Rep. Underwood, Lauren [D-IL-14]",
+        "isByRequest": "N",
+        "lastName": "Underwood",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/U000040?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/text?format=json"
+    },
+    "title": "NIH IMPROVE Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T17:36:56Z",
+    "updateDateIncludingText": "2026-07-13T17:36:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-11-20",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-04-15",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T18:51:39Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-21T13:48:37Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-11-20T15:10:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/489/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-151",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/151?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/489/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-09",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "actionTime": "14:16:11",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/489",
+    "number": "489",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/489/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/489/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/489/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 884) to prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022; providing for consideration of the bill (H.R. 2056) to require the District of Columbia to comply with federal immigration laws; providing for consideration of the bill (H.R. 2096) to restore the right to negotiate matters pertaining to the discipline of law enforcement officers of the District of Columbia through collective bargaining, to restore the statute of limitations for bringing disciplinary cases against members or civilian employees of the Metropolitan Police Department of the District of Columbia, and for other purposes; and providing for consideration of the bill (S. 331) to amend the Controlled Substances Act with respect to the scheduling of fentanyl-related substances, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/489/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:54:31Z",
+    "updateDateIncludingText": "2026-07-11T20:54:31Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-09T22:43:42Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

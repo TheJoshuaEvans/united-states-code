@@ -1,0 +1,155 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MORRISON:\nH.R. 804.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the United States\nConstitution states that ``Congress shall have the authority\nto make all Laws which shall be necessary and proper for\ncarrying into Execution the foregoing Powers, and all other\nPowers vested by the Constitution in the Government of the\nUnited States or in any Department of Office thereof.''\n[Page H407]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-02-26",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/804",
+    "number": "804",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001234",
+        "district": 3,
+        "firstName": "Kelly",
+        "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+        "isByRequest": "N",
+        "lastName": "Morrison",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/M001234?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/text?format=json"
+    },
+    "title": "Rural Small Business Resilience Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/804/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T10:58:28Z",
+    "updateDateIncludingText": "2026-07-13T01:09:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "B001314",
+      "district": 4,
+      "firstName": "Aaron",
+      "fullName": "Rep. Bean, Aaron [R-FL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bean",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001314?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-26T16:43:42Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-01-28T16:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Rural Small Business Resilience Act</strong></p><p>This bill requires the Small Business Administration's Office of Disaster Recovery and Resilience to take necessary actions to ensure that individuals located in rural areas where a disaster has been declared have full access to disaster assistance. Such actions include providing targeted outreach and marketing materials to such individuals.</p>",
+      "updateDate": "2025-02-24T18:01:02Z",
+      "versionCode": "00"
+    }
+  ]
+}

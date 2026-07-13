@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on April 29, 2025",
+        "pubDate": "2025-07-23T20:52:00Z",
+        "title": "H.R. 1442, Youth Poisoning Protection Act",
+        "url": "https://www.cbo.gov/publication/61591"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-67",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/67?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 32 (Tuesday, February 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. TRAHAN:\nH.R. 1442.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 18\n[Page H724]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-07-16",
+      "text": "Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1442",
+    "number": "1442",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000482",
+        "district": 3,
+        "firstName": "Lori",
+        "fullName": "Rep. Trahan, Lori [D-MA-3]",
+        "isByRequest": "N",
+        "lastName": "Trahan",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/T000482?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/text?format=json"
+    },
+    "title": "To ban the sale of products with a high concentration of sodium nitrite to individuals, and for other purposes.",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1442/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:39:16Z",
+    "updateDateIncludingText": "2026-07-13T19:44:42Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2025-02-18",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-02-18",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:42:33Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:12:18Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-18T18:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-18",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Youth Poisoning Protection Act</strong></p><p>This bill makes a consumer product with a concentration of sodium nitrite of 10% or greater a banned hazardous product.</p><p>The restriction does not apply to specified drugs, medical devices, cosmetics, or food products.</p>",
+      "updateDate": "2025-04-25T13:31:44Z",
+      "versionCode": "00"
+    }
+  ]
+}

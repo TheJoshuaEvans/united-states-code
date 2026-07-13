@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-107",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/107?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 69 (Thursday, April 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BRESNAHAN:\nH.R. 2987.\nCongress has the power to enact this legislation pursuant\nto the following:\n``Clause 1 of section 8 of article I of the Constitution,\nto ``provide for the common defense and general welfare of\nthe United States.''\n[Page H1624]\n</pre>",
+    "introducedDate": "2025-04-24",
+    "latestAction": {
+      "actionDate": "2025-06-09",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2987",
+    "number": "2987",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001327",
+        "district": 8,
+        "firstName": "Robert",
+        "fullName": "Rep. Bresnahan, Robert [R-PA-8]",
+        "isByRequest": "N",
+        "lastName": "Bresnahan",
+        "middleName": "P.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/B001327?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/text?format=json"
+    },
+    "title": "CEASE Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2987/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:58:20Z",
+    "updateDateIncludingText": "2026-07-12T14:59:38Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-09T20:05:53Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-05T20:57:08Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-06-05T17:13:44Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-05-21T16:29:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-30T17:36:22Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-24T15:03:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Capping Excessive Awarding of SBLC Entrants Act or the CEASE Act</strong></p><p>This bill limits the number of for-profit small business lending companies that&nbsp;are authorized make 7(a) loans&nbsp;to not more than 16 at any time.</p>",
+      "updateDate": "2025-06-03T12:25:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

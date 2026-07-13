@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/42/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2025-01-15",
+      "actionTime": "16:46:51",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/42",
+    "number": "42",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001082",
+        "district": 1,
+        "firstName": "Kevin",
+        "fullName": "Rep. Hern, Kevin [R-OK-1]",
+        "isByRequest": "N",
+        "lastName": "Hern",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/H001082?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/42/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/42/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/42/text?format=json"
+    },
+    "title": "Electing Members to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/42/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:59:09Z",
+    "updateDateIncludingText": "2026-07-11T20:59:09Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Members to the Committees on Agriculture; Foreign Affairs; Natural Resources; and Science, Space, and Technology.</p>",
+      "updateDate": "2025-02-07T17:35:48Z",
+      "versionCode": "00"
+    }
+  ]
+}

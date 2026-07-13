@@ -1,0 +1,351 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8481/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-731",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/731?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8481/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 72 (Thursday, April 23, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HAMADEH of Arizona:\nH.R. 8481.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3 of the Constitution of the\nUnited States.\n[Page H3092]\n</pre>",
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8481/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-23",
+    "latestAction": {
+      "actionDate": "2026-07-06",
+      "text": "Placed on the Union Calendar, Calendar No. 636."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8481",
+    "number": "8481",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001098",
+        "district": 8,
+        "firstName": "Abraham",
+        "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+        "isByRequest": "N",
+        "lastName": "Hamadeh",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/H001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8481/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8481/text?format=json"
+    },
+    "title": "Kayleigh\u2019s Law Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8481/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T20:06:18Z",
+    "updateDateIncludingText": "2026-07-11T20:06:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001302",
+      "district": 5,
+      "firstName": "Andy",
+      "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/B001302?format=json"
+    },
+    {
+      "bioguideId": "B001309",
+      "district": 2,
+      "firstName": "Tim",
+      "fullName": "Rep. Burchett, Tim [R-TN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Burchett",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001309?format=json"
+    },
+    {
+      "bioguideId": "S001183",
+      "district": 1,
+      "firstName": "David",
+      "fullName": "Rep. Schweikert, David [R-AZ-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schweikert",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001183?format=json"
+    },
+    {
+      "bioguideId": "J000295",
+      "district": 14,
+      "firstName": "David",
+      "fullName": "Rep. Joyce, David P. [R-OH-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Joyce",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/J000295?format=json"
+    },
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "B001291",
+      "district": 36,
+      "firstName": "Brian",
+      "fullName": "Rep. Babin, Brian [R-TX-36]",
+      "isOriginalCosponsor": true,
+      "lastName": "Babin",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/B001291?format=json"
+    },
+    {
+      "bioguideId": "T000490",
+      "district": 2,
+      "firstName": "David",
+      "fullName": "Rep. Taylor, David J. [R-OH-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Taylor",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000490?format=json"
+    },
+    {
+      "bioguideId": "K000404",
+      "district": 0,
+      "firstName": "Kimberlyn",
+      "fullName": "Del. King-Hinds, Kimberlyn [R-MP-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "King-Hinds",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "MP",
+      "url": "https://api.congress.gov/v3/member/K000404?format=json"
+    },
+    {
+      "bioguideId": "P000609",
+      "district": 6,
+      "firstName": "Gary",
+      "fullName": "Rep. Palmer, Gary J. [R-AL-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Palmer",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/P000609?format=json"
+    },
+    {
+      "bioguideId": "M000194",
+      "district": 1,
+      "firstName": "Nancy",
+      "fullName": "Rep. Mace, Nancy [R-SC-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mace",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/M000194?format=json"
+    },
+    {
+      "bioguideId": "S001188",
+      "district": 3,
+      "firstName": "Marlin",
+      "fullName": "Rep. Stutzman, Marlin A. [R-IN-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stutzman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001188?format=json"
+    },
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-04-23",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    },
+    {
+      "bioguideId": "S000522",
+      "district": 4,
+      "firstName": "Christopher",
+      "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S000522?format=json"
+    },
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-06T14:46:50Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-03T21:11:45Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-23T13:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

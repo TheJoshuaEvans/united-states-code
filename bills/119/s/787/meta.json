@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on July 30, 2025",
+        "pubDate": "2025-09-24T14:23:00Z",
+        "title": "S. 787, VetPAC Act of 2025",
+        "url": "https://www.cbo.gov/publication/61746"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-98",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/98?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-12-19",
+      "actionTime": "14:40:27",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/787",
+    "number": "787",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001075?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/text?format=json"
+    },
+    "title": "VetPAC Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/787/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-08T11:03:19Z",
+    "updateDateIncludingText": "2026-07-12T15:05:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-12-02",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T21:27:40Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T20:00:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-11T14:30:20Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-03-11T14:30:20Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-02-27T18:20:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>VetPAC Act of 2025</strong></p><p>This bill establishes the Veterans Health Administration Policy Advisory Commission for purposes of reviewing operations at the Veterans Health Administration and preparing reports with recommendations&nbsp;for Congress based on such review.</p>",
+      "updateDate": "2025-05-13T20:16:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

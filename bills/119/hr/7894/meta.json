@@ -1,0 +1,103 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7894/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-728",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/728?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7894/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7894/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Placed on the Union Calendar, Calendar No. 633."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7894",
+    "number": "7894",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001196",
+        "district": 21,
+        "firstName": "Elise",
+        "fullName": "Rep. Stefanik, Elise M. [R-NY-21]",
+        "isByRequest": "N",
+        "lastName": "Stefanik",
+        "middleName": "M.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S001196?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7894/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7894/text?format=json"
+    },
+    "title": "Truman Scholarship Clean House Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7894/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T19:06:17Z",
+    "updateDateIncludingText": "2026-07-11T19:06:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2026-03-24",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T14:31:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-17T19:26:56Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-12T13:31:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

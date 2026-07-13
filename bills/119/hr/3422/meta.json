@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-117",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/117?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 82 (Thursday, May 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. WATERS:\nH.R. 3422.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3 provides Congress with the\npower to ``regulate commerce with foreign nations, and among\nthe several states, and with the Indian tribes.''\n[Page H2104]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-15",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3422",
+    "number": "3422",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000187",
+        "district": 43,
+        "firstName": "Maxine",
+        "fullName": "Rep. Waters, Maxine [D-CA-43]",
+        "isByRequest": "N",
+        "lastName": "Waters",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/W000187?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/text?format=json"
+    },
+    "title": "Promoting Opportunities for Non-Traditional Capital Formation Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:27Z",
+    "updateDateIncludingText": "2026-07-12T15:03:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000812",
+      "district": 2,
+      "firstName": "Ann",
+      "fullName": "Rep. Wagner, Ann [R-MO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wagner",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/W000812?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T20:58:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:47:14Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:04:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-15T14:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Promoting Opportunities for Non-Traditional Capital Formation Act</strong></p><p>This bill expands the functions of the Securities and Exchange Commission's Office of the Advocate for Small Business Capital Formation.</p><p>Specifically, the office must (1) provide educational resources and host (or participate in) events to promote capital-raising options for underrepresented small businesses, businesses in rural areas, and businesses affected by natural disasters; and (2) meet annually with representatives of state securities commissions to discuss opportunities for collaboration and coordination.</p>",
+      "updateDate": "2025-06-12T21:03:44Z",
+      "versionCode": "00"
+    }
+  ]
+}

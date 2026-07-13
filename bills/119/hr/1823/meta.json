@@ -1,0 +1,175 @@
+{
+  "status": {
+    "actions": {
+      "count": 28,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans Affairs on May 6, 2025",
+        "pubDate": "2025-05-09T20:32:00Z",
+        "title": "H.R. 1823, VA Budget Shortfall Accountability Act",
+        "url": "https://www.cbo.gov/publication/61385"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-101",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/101?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 41 (Tuesday, March 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BERGMAN:\nH.R. 1823.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution.\n[Page H976]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2026-01-20",
+      "text": "Became Public Law No: 119-71."
+    },
+    "laws": [
+      {
+        "number": "119-71",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1823",
+    "number": "1823",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001301",
+        "district": 1,
+        "firstName": "Jack",
+        "fullName": "Rep. Bergman, Jack [R-MI-1]",
+        "isByRequest": "N",
+        "lastName": "Bergman",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/B001301?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/text?format=json"
+    },
+    "title": "VA Budget Shortfall Accountability Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1823/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:38:26Z",
+    "updateDateIncludingText": "2026-07-12T14:33:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001295",
+      "district": 12,
+      "firstName": "Mike",
+      "fullName": "Rep. Bost, Mike [R-IL-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bost",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001295?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-19T00:47:13Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-20T19:36:42Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-05-17T14:12:51Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-06T14:15:46Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-04T15:04:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-03-25T18:14:56Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-03-25T18:14:43Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-03-10T21:33:53Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsvr03",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr03?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill requires the Government Accountability Office (GAO) to review and report on the circumstances and causes of the shortfall in funding of the Veterans Benefits Administration for FY2024 and the expected shortfall in funding of the Veterans Health Administration in FY2025. The Department of Veterans Affairs must submit such GAO report to Congress.</p>",
+      "updateDate": "2025-05-14T13:42:06Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-01-20",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>VA Budget Shortfall Accountability Act</strong></p><p>This act requires the Government Accountability Office (GAO) to review and report on the circumstances and causes of the shortfall in funding of the Veterans Benefits Administration for FY2024 and the expected shortfall in funding of the Veterans Health Administration in FY2025. The Department of Veterans Affairs must submit such GAO report to Congress.&nbsp;For each of the five fiscal years following the date of enactment of this act, GAO must conduct subsequent reviews and reports regarding the funding of the VA.</p>",
+      "updateDate": "2026-04-10T13:11:46Z",
+      "versionCode": "49"
+    }
+  ]
+}

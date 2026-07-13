@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-223",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/223?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CISNEROS:\nH.R. 4491.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3476]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4491",
+    "number": "4491",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001123",
+        "district": 31,
+        "firstName": "Gilbert",
+        "fullName": "Rep. Cisneros, Gilbert Ray [D-CA-31]",
+        "isByRequest": "N",
+        "lastName": "Cisneros",
+        "middleName": "Ray",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001123?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/text?format=json"
+    },
+    "title": "SBA IT Modernization Reporting Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4491/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T04:11:39Z",
+    "updateDateIncludingText": "2026-07-13T18:45:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "J000311",
+      "district": 3,
+      "firstName": "Brian",
+      "fullName": "Rep. Jack, Brian [R-GA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Jack",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000311?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T23:22:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-08-15T16:41:26Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-22T16:11:30Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-17T13:09:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-08-15",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>SBA IT Modernization Reporting Act</strong></p><p>This bill requires the Small Business Administration (SBA) to implement the recommendations from a Government Accountability Office (GAO) report published on November 6, 2024, related to modernizing the&nbsp;SBA's information technology systems.</p><p>Specifically, the SBA must address risks related to its certification project that allows small businesses to apply for and manage government contracting certifications. The GAO recommendations include developing a project risk management strategy and risk mitigation plan and managing cybersecurity vulnerabilities.</p><p>The SBA must submit to Congress an implementation plan for the modernization not later than 180 days after the enactment of this bill.</p>",
+      "updateDate": "2025-12-01T18:07:50Z",
+      "versionCode": "07"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4233/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Foreign Affairs on July 22, 2025",
+        "pubDate": "2025-08-28T19:45:00Z",
+        "title": "H.R. 4233, AUKUS Reform for Military Optimization and Review Act",
+        "url": "https://www.cbo.gov/publication/61698"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4233/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 111 (Friday, June 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. KIM:\nH.R. 4233.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8.\n[Page H3033]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4233/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-27",
+    "latestAction": {
+      "actionDate": "2025-09-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4233",
+    "number": "4233",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000397",
+        "district": 40,
+        "firstName": "Young",
+        "fullName": "Rep. Kim, Young [R-CA-40]",
+        "isByRequest": "N",
+        "lastName": "Kim",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000397?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4233/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4233/text?format=json"
+    },
+    "title": "ARMOR Act",
+    "titles": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4233/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T17:08:24Z",
+    "updateDateIncludingText": "2026-07-13T18:39:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000631",
+      "district": 4,
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2025-06-27",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000631?format=json"
+    },
+    {
+      "bioguideId": "Z000018",
+      "district": 1,
+      "firstName": "Ryan",
+      "fullName": "Rep. Zinke, Ryan K. [R-MT-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Zinke",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-27",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/Z000018?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2025-07-16",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "R000600",
+      "district": 0,
+      "firstName": "Aumua Amata",
+      "fullName": "Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Radewagen",
+      "middleName": "Coleman",
+      "party": "R",
+      "sponsorshipDate": "2025-07-22",
+      "state": "AS",
+      "url": "https://api.congress.gov/v3/member/R000600?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-03T21:54:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-07-22T15:24:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-27T13:04:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ]
+}

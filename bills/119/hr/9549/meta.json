@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9549/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9549/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. JAYAPAL:\nH.R. 9549.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I of the United States Constitution\nand its subsequent amendments, and further clarified and\ninterpreted by the Supreme Court of the United States.\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9549/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9549",
+    "number": "9549",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000298",
+        "district": 7,
+        "firstName": "Pramila",
+        "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+        "isByRequest": "N",
+        "lastName": "Jayapal",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/J000298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9549/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9549/text?format=json"
+    },
+    "title": "To amend title 10, United States Code, the National Defense Authorization Act for Fiscal Year 2022, and the Military Construction Authorization Act for Fiscal Year 2018 to repeal certain reporting requirements related to unfunded priorities, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9549/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:40:02Z",
+    "updateDateIncludingText": "2026-07-13T18:40:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

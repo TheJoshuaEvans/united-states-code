@@ -1,0 +1,319 @@
+{
+  "status": {
+    "actions": {
+      "count": 38,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/actions?format=json"
+    },
+    "amendments": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-395",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/395?format=json"
+      },
+      {
+        "citation": "H. Rept. 119-395,Part 2",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/395?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 128 (Friday, July 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WESTERMAN:\nH.R. 4776.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 3 of section 8 of article I of the Constitution\n[Page H3656]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-25",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4776",
+    "number": "4776",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000821",
+        "district": 4,
+        "firstName": "Bruce",
+        "fullName": "Rep. Westerman, Bruce [R-AR-4]",
+        "isByRequest": "N",
+        "lastName": "Westerman",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/W000821?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/text?format=json"
+    },
+    "title": "SPEED Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4776/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-16T09:09:13Z",
+    "updateDateIncludingText": "2026-07-13T18:47:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000592",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Golden, Jared F. [D-ME-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Golden",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-25",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/G000592?format=json"
+    },
+    {
+      "bioguideId": "C001063",
+      "district": 28,
+      "firstName": "Henry",
+      "fullName": "Rep. Cuellar, Henry [D-TX-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cuellar",
+      "party": "D",
+      "sponsorshipDate": "2025-09-08",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001063?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "G000581",
+      "district": 34,
+      "firstName": "Vicente",
+      "fullName": "Rep. Gonzalez, Vicente [D-TX-34]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gonzalez",
+      "party": "D",
+      "sponsorshipDate": "2025-09-09",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000581?format=json"
+    },
+    {
+      "bioguideId": "H001096",
+      "district": 0,
+      "firstName": "Harriet",
+      "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hageman",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-09",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/H001096?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-09-10",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2025-09-17",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "G000600",
+      "district": 3,
+      "firstName": "Marie",
+      "fullName": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Perez",
+      "middleName": "Gluesenkamp",
+      "party": "D",
+      "sponsorshipDate": "2025-09-17",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/G000600?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-26",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "M001215",
+      "district": 1,
+      "firstName": "Mariannette",
+      "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller-Meeks",
+      "party": "R",
+      "sponsorshipDate": "2025-09-26",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/M001215?format=json"
+    },
+    {
+      "bioguideId": "G000605",
+      "district": 13,
+      "firstName": "Adam",
+      "fullName": "Rep. Gray, Adam [D-CA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gray",
+      "party": "D",
+      "sponsorshipDate": "2025-11-20",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000605?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-11-20",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": 21,
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-11-20",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001059?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-11-20",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-18T21:49:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-18T19:36:48Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-12-18T19:34:44Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2025-12-15T22:58:47Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-04T17:53:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-11-20T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-10T12:42:05Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-25T15:00:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-04",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Standardizing Permitting and Expediting Economic Development Act or the SPEED Act</strong></p><p>This bill limits the scope of the National Environmental Policy Act of 1969 (NEPA) and modifies the environmental review of major federal actions under NEPA to generally limit the number of federal actions that trigger NEPA review and to expedite the review process.</p><p>For example, the bill&nbsp;redefines <em>major federal actions</em>, including to specify that an agency may not determine that an action is a major federal action based solely on the provision of federal funds.</p><p>It also excludes from the requirement for NEPA review certain proposed agency actions that have already been reviewed under another federal, state, or tribal environmental review statute that meets the requirements of&nbsp;NEPA.</p><p>The bill directs an agency, when preparing an environmental document for a proposed agency action, to consider only those effects  proximately caused by the immediate project or action under consideration. Agencies may not consider effects that are speculative, attenuated from the project or action, separate in time or place from the project or action, or in relation to separate projects or actions.</p><p>The bill modifies the requirement for agencies to prepare an environmental assessment to apply to agency actions that are not likely to have a reasonably foreseeable significant effect on the quality of the human environment. (Currently, the requirement only applies to actions that do not have such an effect.) </p><p>The bill makes a variety of other modifications to NEPA, including by limiting judicial review of NEPA cases.</p>",
+      "updateDate": "2025-12-16T21:22:24Z",
+      "versionCode": "07"
+    }
+  ]
+}

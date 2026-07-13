@@ -1,0 +1,169 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Education and Workforce on February 12, 2025",
+        "pubDate": "2025-02-20T18:05:00Z",
+        "title": "H.R. 1049, TRACE Act",
+        "url": "https://www.cbo.gov/publication/61214"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-13",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/13?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEAN of Florida:\nH.R. 1049.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H556]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-12-04",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1049",
+    "number": "1049",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001314",
+        "district": 4,
+        "firstName": "Aaron",
+        "fullName": "Rep. Bean, Aaron [R-FL-4]",
+        "isByRequest": "N",
+        "lastName": "Bean",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001314?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/text?format=json"
+    },
+    "title": "Transparency in Reporting of Adversarial Contributions to Education Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1049/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-06T20:32:10Z",
+    "updateDateIncludingText": "2026-07-13T19:41:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001230",
+      "district": 7,
+      "firstName": "Ryan",
+      "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mackenzie",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001230?format=json"
+    },
+    {
+      "bioguideId": "B001282",
+      "district": 6,
+      "firstName": "Andy",
+      "fullName": "Rep. Barr, Andy [R-KY-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barr",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/B001282?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2025-02-12",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-04T17:39:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-05T22:37:18Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T15:01:05Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-06T15:06:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Transparency in Reporting of Adversarial Contributions to Education Act</strong></p><p>This bill requires each local educational agency (LEA), as a condition of receiving federal elementary and secondary education funds, to ensure that each elementary and secondary school served by the LEA notifies parents of their rights to request and receive information regarding foreign influence (e.g., influence by China) in schools.</p><p>These rights include the right to</p><ul><li>review (and make copies of at no cost) any curricular or professional development material used at the school that was obtained using funds received from a foreign government or a foreign entity of concern;</li><li>know, by written response, how many school personnel are compensated using funds received from a foreign government or a foreign entity of concern; and</li><li>know, by written response, information about funding from or agreements (e.g., contracts) with a foreign country or a foreign entity of concern.</li></ul><p>Parents must submit a written request for this information.</p><p>Each school must post on a publicly accessible website (or otherwise widely disseminate to the public) a summary notice of parental rights under the bill.&nbsp;</p><p>The bill requires the Department of Education to notify state educational agencies (SEAs) about the bill's requirements. Each SEA must, as a condition of receiving federal elementary and secondary education funds, notify&nbsp;LEAs about the bill's requirements.</p>",
+      "updateDate": "2025-04-23T20:13:09Z",
+      "versionCode": "00"
+    }
+  ]
+}

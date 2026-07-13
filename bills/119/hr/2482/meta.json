@@ -1,0 +1,135 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-63",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/63?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 57 (Monday, March 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LATTA:\nH.R. 2482.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Claure 3\n[Page H1375]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-31",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2482",
+    "number": "2482",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000566",
+        "district": 5,
+        "firstName": "Robert",
+        "fullName": "Rep. Latta, Robert E. [R-OH-5]",
+        "isByRequest": "N",
+        "lastName": "Latta",
+        "middleName": "E.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000566?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/text?format=json"
+    },
+    "title": "NTIA Reauthorization Act of 2025",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2482/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T02:58:23Z",
+    "updateDateIncludingText": "2026-07-12T14:55:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001163",
+      "district": 7,
+      "firstName": "Doris",
+      "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Matsui",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001163?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-29T16:03:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:35:43Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:31:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-31T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>National Telecommunications and Information Administration Reauthorization Act of 2025 or the NTIA Reauthorization Act of 2025</strong></p><p>This bill reauthorizes the National Telecommunications and Information Administration (NTIA) through FY2026 and makes certain changes to its leadership structure.</p><p>Specifically, the bill promotes the head of the NTIA, currently the Assistant Secretary of Commerce for Communications and Information, to the role of Under Secretary of Commerce for Communications and Information. The bill also promotes the Deputy Assistant Secretary of Commerce for Communications and Information to Deputy Under Secretary of Commerce for Communications and Information.&nbsp;</p><p>Further, the bill provides statutory authority for two existing offices within NTIA\u2014the Office of Spectrum Management and the Office of International Affairs.&nbsp;</p><p>The bill also repeals certain outdated or expired NTIA reporting requirements and consolidates certain remaining reporting requirements into one annual report to Congress.&nbsp;</p><p>Finally, the bill extends the obligation of the Office of the Inspector General for the Department of Commerce to audit the Connecting Minority Communities Pilot Program through FY2024.&nbsp;</p>",
+      "updateDate": "2025-04-23T18:31:32Z",
+      "versionCode": "00"
+    }
+  ]
+}

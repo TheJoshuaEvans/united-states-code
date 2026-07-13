@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/480/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/480/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/480/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-05",
+    "latestAction": {
+      "actionDate": "2025-06-09",
+      "actionTime": "19:10:45",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/480",
+    "number": "480",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/480/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/480/text?format=json"
+    },
+    "title": "Requiring each Member, officer, and employee of the House of Representatives to complete a program of training in workplace rights and responsibilities each session of each Congress, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/480/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T20:54:31Z",
+    "updateDateIncludingText": "2026-07-11T20:54:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001206",
+      "district": 25,
+      "firstName": "Joseph",
+      "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Morelle",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001206?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-09T23:10:32Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-06-05T14:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ]
+}

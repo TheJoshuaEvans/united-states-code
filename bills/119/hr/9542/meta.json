@@ -1,0 +1,88 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BOYLE of Pennsylvania:\nH.R. 9542.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the General Welfare Clause\n[Page H4365]\n</pre>",
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9542",
+    "number": "9542",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001296",
+        "district": 2,
+        "firstName": "Brendan",
+        "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+        "isByRequest": "N",
+        "lastName": "Boyle",
+        "middleName": "F.",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/B001296?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/text?format=json"
+    },
+    "title": "Protecting Health Care and Lowering Costs Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T14:17:34Z",
+    "updateDateIncludingText": "2026-07-13T14:17:34Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-286",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/286?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McCLINTOCK:\nH.R. 2302.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 2 of Section 3 of Article IV of the Constitution\n[Page H1219]\n</pre>",
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2302",
+    "number": "2302",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001177",
+        "district": 5,
+        "firstName": "Tom",
+        "fullName": "Rep. McClintock, Tom [R-CA-5]",
+        "isByRequest": "N",
+        "lastName": "McClintock",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/text?format=json"
+    },
+    "title": "Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2302/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-21T10:56:44Z",
+    "updateDateIncludingText": "2026-07-12T14:54:03Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T18:30:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T20:36:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-15T18:45:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T17:21:32Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T17:20:55Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-24T16:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-30T20:03:31Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-04-23T14:46:51Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Indian and Insular Affairs Subcommittee",
+          "systemCode": "hsii24",
+          "url": "https://api.congress.gov/v3/committee/house/hsii24?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Shingle Springs Band of Miwok Indians Land Transfer Act of 2025</strong></p><p>This bill takes approximately 204.14 acres&nbsp;of specified lands in El Dorado County, California, into trust for the benefit of the Shingle Springs Band of Miwok Indians.</p><p>The bill revokes a specified public land order and administratively transfers the land from the Forest Service to the Department of the Interior. (In the public land order, the land was designated for use by the Forest Service as an experiment station.)</p><p>The bill directs Interior to take the following lands into trust for the benefit of the tribe: (1) approximately 85.3 acres of federal land managed by Interior's Bureau of Land Management (which includes the land transferred&nbsp;from the Forest Service), and (2) approximately 118.84 acres of fee land held by the tribe. These combined lands, approximately 204.14 acres, shall be part of the tribe's reservation. Further, the bill prohibits gaming on the land taken into trust.</p>",
+      "updateDate": "2025-08-01T15:22:57Z",
+      "versionCode": "00"
+    }
+  ]
+}

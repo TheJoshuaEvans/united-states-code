@@ -1,0 +1,71 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9531/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9531/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SMITH of New Jersey:\nH.R. 9531.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the US Constitution\n[Page H4317]\n</pre>",
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9531",
+    "number": "9531",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000522",
+        "district": 4,
+        "firstName": "Christopher",
+        "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "middleName": "H.",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/S000522?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9531/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9531/text?format=json"
+    },
+    "title": "Preventing Stomach Cancer in Our Nation\u2019s Heroes Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9531/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:40:59Z",
+    "updateDateIncludingText": "2026-07-13T18:40:59Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:04:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

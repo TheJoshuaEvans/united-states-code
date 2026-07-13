@@ -1,0 +1,63 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/11/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-11",
+    "latestAction": {
+      "actionDate": "2025-02-20",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/11",
+    "number": "11",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001212",
+        "district": 8,
+        "firstName": "Pete",
+        "fullName": "Rep. Stauber, Pete [R-MN-8]",
+        "isByRequest": "N",
+        "lastName": "Stauber",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001212?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/11/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/11/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/11/text?format=json"
+    },
+    "title": "Providing for a joint session of Congress to receive a message from the President.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/11/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T14:58:31Z",
+    "updateDateIncludingText": "2026-07-13T18:33:57Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-02-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This concurrent resolution provides for a joint session of Congress on Tuesday, March 4, 2025, to receive a message from the President.</p>",
+      "updateDate": "2025-03-03T16:59:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

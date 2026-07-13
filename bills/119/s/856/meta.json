@@ -1,0 +1,152 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on July 30, 2025",
+        "pubDate": "2025-09-19T15:39:00Z",
+        "title": "S. 856, Disclosing Foreign Influence in Lobbying Act",
+        "url": "https://www.cbo.gov/publication/61754"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:21:51",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/856",
+    "number": "856",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000386",
+        "firstName": "Chuck",
+        "fullName": "Sen. Grassley, Chuck [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Grassley",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/G000386?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/text?format=json"
+    },
+    "title": "Disclosing Foreign Influence in Lobbying Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/856/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-18T12:50:00Z",
+    "updateDateIncludingText": "2026-07-12T15:05:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-03-05",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2025-03-05",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-03T22:06:06Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-05T17:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ]
+}

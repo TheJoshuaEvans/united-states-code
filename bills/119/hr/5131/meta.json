@@ -1,0 +1,171 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-397",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/397?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 145 (Thursday, September 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEGICH:\nH.R. 5131.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8.\n[Page H3862]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-04",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5131",
+    "number": "5131",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001323",
+        "firstName": "Nicholas",
+        "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+        "isByRequest": "N",
+        "lastName": "Begich",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/B001323?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/text?format=json"
+    },
+    "title": "Public Lands Military Readiness Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5131/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-13T18:50:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-10-08",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "name": "Bills of Interest - Exchange of Letters"
+        },
+        {
+          "date": "2025-12-09T18:58:34Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-04T13:05:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T20:38:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-12-09T18:58:18Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-11-20T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-11-20T14:00:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-09-04T13:05:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-18T20:38:57Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-09-11T20:14:13Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Public Lands Military Readiness Act of 2025</strong></p><p>This bill extends by 25 years the reservation of certain public lands for military use and the withdrawal of such lands from all forms of appropriation under the public land laws (e.g., mining laws). Specifically, the bill extends the withdrawal and reservation of the Fort&nbsp;Greely and Fort Wainwright Training Ranges in Alaska and the McGregor Range at Fort Bliss in New Mexico until November 6, 2051. It also extends the withdrawal and reservation of Fort Irwin military land in California until December 31, 2051.</p><p>The bill also makes technical changes to the land descriptions of the&nbsp;McGregor Range and Fort Irwin lands.</p>",
+      "updateDate": "2025-12-08T22:40:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

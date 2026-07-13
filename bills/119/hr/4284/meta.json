@@ -1,0 +1,175 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on January 14, 2026",
+        "pubDate": "2026-02-27T19:08:00Z",
+        "title": "H.R. 4284, Small Cemetery Conveyance Act",
+        "url": "https://www.cbo.gov/publication/62190"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-454",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/454?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 114 (Wednesday, July 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEGER FERNANDEZ:\nH.R. 4284.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3\n[Page H3189]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-02",
+    "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4284",
+    "number": "4284",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000273",
+        "district": 3,
+        "firstName": "Teresa",
+        "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+        "isByRequest": "N",
+        "lastName": "Leger Fernandez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/text?format=json"
+    },
+    "title": "Small Cemetery Conveyance Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4284/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T05:06:26Z",
+    "updateDateIncludingText": "2026-07-13T18:43:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-12-17",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-17T20:20:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-14T22:36:27Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-02T13:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-01-14T22:36:14Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-17T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-17T14:00:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-07-02T13:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-18T20:37:10Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-09-11T20:12:43Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-14",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Small Cemetery Conveyance Act</strong></p><p>This bill authorizes the Forest Service to convey, without a payment or exchange in land, a cemetery to a state government, local government, Indian tribe, or certain community land grant that has a bona fide interest or historic claim to the cemetery. This authorization applies to up to 40 acres of land that was used, or previously used, as a cemetery, including up to 1 acre adjacent to the land used as a cemetery.&nbsp;</p><p>The conveyed land must continue to be used as a cemetery. If it is not used for that purpose, the Forest Service may revert the land and any improvements back to the United States.&nbsp;</p><p>The Forest Service may waive certain conveyance costs upon the demonstrated need of a state government, local government, Indian tribe, or community land grant.</p>",
+      "updateDate": "2026-03-11T21:39:59Z",
+      "versionCode": "07"
+    }
+  ]
+}

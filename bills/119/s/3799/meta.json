@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-05",
+    "latestAction": {
+      "actionDate": "2026-06-22",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 442."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3799",
+    "number": "3799",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001198",
+        "firstName": "Roger",
+        "fullName": "Sen. Marshall, Roger [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Marshall",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/text?format=json"
+    },
+    "title": "Healthy Start Reauthorization Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3799/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T18:03:33Z",
+    "updateDateIncludingText": "2026-07-13T18:03:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "B001230",
+      "firstName": "Tammy",
+      "fullName": "Sen. Baldwin, Tammy [D-WI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baldwin",
+      "party": "D",
+      "sponsorshipDate": "2026-02-05",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/B001230?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2026-06-16",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-22T20:54:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-17T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-05T20:12:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-22",
+      "actionDesc": "Reported to Senate",
+      "text": "<p><strong>Healthy Start Reauthorization Act of 2026</strong></p><p>This bill reauthorizes through FY2031 the Healthy Start program, which is administered by the Maternal and Child Health Bureau within the Health Resources and Services Administration. This program provides grants and other support for communities experiencing high rates of infant mortality and adverse maternal health outcomes, including support for case management, medical care, and health education. (For additional information on the Healthy Start program see&nbsp;CRS Insight <a href=\"https://www.congress.gov/crs-product/IN12550?hl=healthy+start&amp;s=4&amp;r=1\">IN12550</a>.)</p>",
+      "updateDate": "2026-07-13T18:02:42Z",
+      "versionCode": "25"
+    }
+  ]
+}

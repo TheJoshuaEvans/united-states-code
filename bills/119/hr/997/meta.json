@@ -1,0 +1,142 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on March 31, 2025",
+        "pubDate": "2025-04-01T15:16:00Z",
+        "title": "H.R. 997, National Taxpayer Advocate Enhancement Act of 2025",
+        "url": "https://www.cbo.gov/publication/61283"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-46",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/46?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FEENSTRA:\nH.R. 997.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 1 (Taxing and Spending Clause)\n[Page H505]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/997",
+    "number": "997",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000446",
+        "district": 4,
+        "firstName": "Randy",
+        "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+        "isByRequest": "N",
+        "lastName": "Feenstra",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/F000446?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/text?format=json"
+    },
+    "title": "National Taxpayer Advocate Enhancement Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/997/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T22:08:22Z",
+    "updateDateIncludingText": "2026-07-11T22:08:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000096",
+      "district": 7,
+      "firstName": "Danny",
+      "fullName": "Rep. Davis, Danny K. [D-IL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davis",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-05",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000096?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-01T16:12:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-03-27T15:20:14Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-12T16:04:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-05T15:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>National Taxpayer Advocate Enhancement Act of 2025 </strong></p><p>This bill authorizes the National Taxpayer Advocate to appoint legal counsel within the Taxpayer Advocate Service (TAS) to report directly to the National Taxpayer Advocate. The bill also expands the authority of the National Taxpayer Advocate to take personnel actions with respect to local taxpayer advocates (located in each state) to include actions with respect to any employee of TAS.</p><p>Currently, pursuant to a Department of the Treasury order, all legal counsel whose duties include providing legal advice to any official in any office or bureau of Treasury are part of the Legal Division within Treasury and under the supervision of the General Counsel, with limited exceptions. TAS assists taxpayers in matters involving the Internal Revenue Service (IRS) and is part of the IRS, within Treasury.&nbsp;</p>",
+      "updateDate": "2025-03-27T15:54:42Z",
+      "versionCode": "00"
+    }
+  ]
+}

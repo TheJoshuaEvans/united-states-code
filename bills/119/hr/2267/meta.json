@@ -1,0 +1,149 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on the Judiciary on March 25, 2025",
+        "pubDate": "2025-04-08T19:41:00Z",
+        "title": "H.R. 2267, NICS Data Reporting Act of 2025",
+        "url": "https://www.cbo.gov/publication/61324"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-336",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/336?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MASSIE:\nH.R. 2267.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H1190]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2267",
+    "number": "2267",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001184",
+        "district": 4,
+        "firstName": "Thomas",
+        "fullName": "Rep. Massie, Thomas [R-KY-4]",
+        "isByRequest": "N",
+        "lastName": "Massie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/text?format=json"
+    },
+    "title": "NICS Data Reporting Act of 2026",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2267/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-15T03:08:24Z",
+    "updateDateIncludingText": "2026-07-12T14:53:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001118",
+      "district": 6,
+      "firstName": "Ben",
+      "fullName": "Rep. Cline, Ben [R-VA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cline",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001118?format=json"
+    },
+    {
+      "bioguideId": "S000929",
+      "district": 5,
+      "firstName": "Victoria",
+      "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Spartz",
+      "party": "R",
+      "sponsorshipDate": "2025-03-21",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S000929?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T16:16:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-10-03T20:43:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-25T16:43:48Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-21T20:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>NICS Data Reporting Act</strong></p><p>This bill requires the Department of Justice to report annually on the demographic data of persons who are determined to be ineligible to purchase a firearm based on a background check performed by the National Instant Criminal Background Check System.</p>",
+      "updateDate": "2025-09-03T19:24:42Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on April 24, 2025",
+        "pubDate": "2025-06-27T19:10:00Z",
+        "title": "H.R. 1664, Deploying American Blockchains Act of 2025, ",
+        "url": "https://www.cbo.gov/publication/61521"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-70",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/70?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. CAMMACK:\nH.R. 1664.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3\n[Page H919]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1664",
+    "number": "1664",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001039",
+        "district": 3,
+        "firstName": "Kat",
+        "fullName": "Rep. Cammack, Kat [R-FL-3]",
+        "isByRequest": "N",
+        "lastName": "Cammack",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/C001039?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/text?format=json"
+    },
+    "title": "Deploying American Blockchains Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1664/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T20:08:24Z",
+    "updateDateIncludingText": "2026-07-13T19:46:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:47:51Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:24:05Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-27T14:13:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Deploying American Blockchains Act of 2025</strong></p><p>This bill requires the Department of Commerce to support the leadership of the United States in the use of blockchain technology and other distributed ledger technology, tokens, and tokenization. Generally, blockchain technology is a distributed digital ledger that uses cryptography to share verified information across a network of computers. Tokens refer to the transferrable, digital representation of information recorded on blockchain technology and tokenization is the process of creating a token.</p><p>Specifically, Commerce must advise the President on policies related&nbsp;to the deployment and use of blockchain technology and other distributed ledger technology, applications built on blockchain technology or other distributed ledger technology, tokens, and tokenization. Commerce also must establish advisory committees to support the adoption of blockchain technology to facilitate the development of best practices with respect to blockchain technology, applications built on blockchain technology, tokens, and tokenization.</p><p>Commerce must report annually on the activities under this bill and provide any recommendations for additional legislation to strengthen U.S. competitiveness with respect to blockchain technology.</p>",
+      "updateDate": "2025-04-23T19:29:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

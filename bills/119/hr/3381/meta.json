@@ -1,0 +1,142 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-116",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/116?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 81 (Wednesday, May 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. WAGNER:\nH.R. 3381.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the U.S Constitution\n[Page H2052]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3381",
+    "number": "3381",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000812",
+        "district": 2,
+        "firstName": "Ann",
+        "fullName": "Rep. Wagner, Ann [R-MO-2]",
+        "isByRequest": "N",
+        "lastName": "Wagner",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/W000812?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/text?format=json"
+    },
+    "title": "Encouraging Public Offerings Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3381/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T01:08:23Z",
+    "updateDateIncludingText": "2026-07-12T15:02:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001137",
+      "district": 5,
+      "firstName": "Gregory",
+      "fullName": "Rep. Meeks, Gregory W. [D-NY-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meeks",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001137?format=json"
+    },
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T20:59:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T16:46:29Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-20T20:02:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-14T14:03:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Encouraging Public Offerings Act of 2025</strong></p><p>This bill provides statutory authority for all issuers of securities to use certain offering procedures that are available to emerging growth companies.</p><p>Specifically, the bill allows under statute issuers of securities to communicate with potential investors to ascertain interest in a contemplated securities offering, either before or after the filing of a registration statement (i.e., <em>test the waters</em>).</p><p>Additionally, issuers are allowed under statute to submit to the Securities and Exchange Commission, with respect to an initial public offering, initial registration, or follow-on offering, a confidential draft registration statement for review prior to public filing<em></em>.</p>",
+      "updateDate": "2025-06-23T19:54:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

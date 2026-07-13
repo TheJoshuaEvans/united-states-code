@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on February 11, 2026",
+        "pubDate": "2026-02-24T22:01:00Z",
+        "title": "H. Con. Res. 73, a concurrent resolution authorizing the use of the Capitol Grounds for the National Peace Officers\u2019 Memorial Service and the National Honor Guard and Pipe Band Exhibition",
+        "url": "https://www.cbo.gov/publication/62181"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-544",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/544?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-03",
+    "latestAction": {
+      "actionDate": "2026-05-14",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/73",
+    "number": "73",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000605",
+        "district": 10,
+        "firstName": "Scott",
+        "fullName": "Rep. Perry, Scott [R-PA-10]",
+        "isByRequest": "N",
+        "lastName": "Perry",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/P000605?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/text?format=json"
+    },
+    "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers\u2019 Memorial Service and the National Honor Guard and Pipe Band Exhibition.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/73/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-07-10T15:08:29Z",
+    "updateDateIncludingText": "2026-07-13T18:34:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2026-02-03",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-16T17:35:01Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-11T17:23:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-11T17:20:33Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2026-02-03T15:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-04T14:35:34Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-16",
+      "actionDesc": "Reported to House",
+      "text": "<p>This concurrent resolution authorizes the National Fraternal Order of Police to sponsor two public events on Capitol grounds: the 45th Annual National Peace Officers Memorial Service (on&nbsp;May 15, 2026) and the National Honor Guard and Pipe Band Exhibition (on May 14, 2026). The concurrent resolution also authorizes the Speaker of the House and the Committee on Rules and Administration of the Senate to&nbsp;jointly designate alternate dates.&nbsp;</p>",
+      "updateDate": "2026-03-19T19:26:21Z",
+      "versionCode": "07"
+    }
+  ]
+}

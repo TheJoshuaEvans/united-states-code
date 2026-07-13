@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Placed on the Union Calendar, Calendar No. 635."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7893",
+    "number": "7893",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000798",
+        "district": 5,
+        "firstName": "Tim",
+        "fullName": "Rep. Walberg, Tim [R-MI-5]",
+        "isByRequest": "N",
+        "lastName": "Walberg",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/W000798?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/text?format=json"
+    },
+    "title": "FAFSA Verification Efficiency Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7893/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-09T23:15:28Z",
+    "updateDateIncludingText": "2026-07-09T23:15:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2026-03-18",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T14:38:32Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-17T19:33:30Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-12T13:34:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-07-02",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>FAFSA Verification Efficiency Act</strong></p><p>This bill requires the Department of Education (ED) to verify the Social Security number (SSN) and citizenship status of any individual who is required to provide information to ED for&nbsp;federal student aid.&nbsp;</p><p>Currently, ED must work with the Social Security Administration (SSA) to verify the SSN of a student who is applying for federal student aid. This bill expands the requirement so that ED must work with the SSA to verify the SSN and citizenship status of any individual who is required to provide information to ED on the Free Application for Federal Student Aid (FAFSA) form, including contributors. A contributor refers to anyone (the student, the student\u2019s spouse, the student's biological or adoptive parent, or a parent\u2019s spouse) who is required to provide information on the FAFSA form.</p>",
+      "updateDate": "2026-07-13T19:26:24Z",
+      "versionCode": "07"
+    }
+  ]
+}

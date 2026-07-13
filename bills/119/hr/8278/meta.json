@@ -1,0 +1,117 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-711",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/711?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 65 (Tuesday, April 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STUTZMAN:\nH.R. 8278.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto Article I, Section 8 of the U.S. Constitution.\n[Page H2886]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-14",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Placed on the Union Calendar, Calendar No. 617."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8278",
+    "number": "8278",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001188",
+        "district": 3,
+        "firstName": "Marlin",
+        "fullName": "Rep. Stutzman, Marlin A. [R-IN-3]",
+        "isByRequest": "N",
+        "lastName": "Stutzman",
+        "middleName": "A.",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/S001188?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/text?format=json"
+    },
+    "title": "Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8278/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T18:12:40Z",
+    "updateDateIncludingText": "2026-07-13T18:12:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000454",
+      "district": 11,
+      "firstName": "Bill",
+      "fullName": "Rep. Foster, Bill [D-IL-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foster",
+      "party": "D",
+      "sponsorshipDate": "2026-04-14",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/F000454?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T20:09:17Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-13T15:55:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-14T16:03:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-24",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act</strong></p><p>This bill requires specified federal financial agencies to assess their technological capabilities and procurement practices.</p><p>Specifically, agencies (the Federal Reserve Board, the Consumer Financial Protection Bureau, the Federal Deposit Insurance Corporation, the Department of the Treasury, the Office of the Comptroller of the Currency, the Financial Crimes Enforcement Network, the Federal Housing Finance Agency, and the National Credit Union Administration) must assess the technology used by the agency and its capabilities to conduct real-time supervisory assessments of entities over which the agency has supervisory authority.</p><p>Additionally, the agencies must assess the applicable procurement rules and protocols when acquiring or developing new technological systems and identify any opportunities to streamline these procedures.</p><p>Every five years, these agencies must report to specified congressional committees. Among other topics, the report must contain an overview of the technology used in supervisory assessments and any anticipated upgrades, a description of procurement practices, an overview of the agency\u2019s technology development workforce, and details regarding data sharing procedures.</p>",
+      "updateDate": "2026-07-13T18:11:43Z",
+      "versionCode": "07"
+    }
+  ]
+}

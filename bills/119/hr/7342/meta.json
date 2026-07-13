@@ -1,0 +1,163 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-567",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/567?format=json"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 25 (Wednesday, February 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HURD of Colorado:\nH.R. 7342.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII of the U.S. Constitution\n[Page H2031]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-04",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7342",
+    "number": "7342",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001100",
+        "district": 3,
+        "firstName": "Jeff",
+        "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+        "isByRequest": "N",
+        "lastName": "Hurd",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H001100?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/text?format=json"
+    },
+    "title": "Made in America Jobs Act of 2026",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7342/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:28Z",
+    "updateDateIncludingText": "2026-07-13T19:19:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000481",
+      "district": 2,
+      "firstName": "Shomari",
+      "fullName": "Rep. Figures, Shomari [D-AL-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Figures",
+      "party": "D",
+      "sponsorshipDate": "2026-02-04",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/F000481?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-25T18:56:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-20T15:02:24Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-02-04T15:04:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-20T15:02:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-11T17:20:53Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-11T17:19:45Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2026-02-04T15:04:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-05T14:35:51Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+          "systemCode": "hspw13",
+          "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Made in America Jobs Act of 2026</strong></p><p>This bill expands the criteria for various grants under the Economic Development Administration's public works program to include projects that facilitate the relocation of employment opportunities&nbsp;into the&nbsp;United States or the growth of the manufacturing sector.</p><p>Specifically, the bill modifies grants for (1) public works and economic development; (2) planning and administrative expenses; (3) training, research, and technical assistance; and (4)&nbsp;regions experiencing adverse economic changes.</p>",
+      "updateDate": "2026-03-20T20:08:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

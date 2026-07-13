@@ -1,0 +1,174 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on February 11, 2026",
+        "pubDate": "2026-02-23T20:32:00Z",
+        "title": "H.R. 1945, America\u2019s National Churchill Museum National Historic Landmark Act",
+        "url": "https://www.cbo.gov/publication/62167"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-517",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/517?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ONDER:\nH.R. 1945.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H1040]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1945",
+    "number": "1945",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000177",
+        "district": 3,
+        "firstName": "Robert",
+        "fullName": "Rep. Onder, Robert [R-MO-3]",
+        "isByRequest": "N",
+        "lastName": "Onder",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/O000177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/text?format=json"
+    },
+    "title": "America's National Churchill Museum National Historic Landmark Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:41:26Z",
+    "updateDateIncludingText": "2026-07-12T14:34:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2025-12-01",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-24T16:15:29Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-11T18:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-11T17:00:00Z",
+          "name": "Discharged from"
+        },
+        {
+          "date": "2025-03-06T14:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-07-16T12:24:52Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-07-09T20:44:43Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Federal Lands Subcommittee",
+          "systemCode": "hsii10",
+          "url": "https://api.congress.gov/v3/committee/house/hsii10?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>America's National Churchill Museum National Historic Landmark Act</strong></p><p>This bill designates the America\u2019s National Churchill Museum, including the Winston Churchill Memorial, located at Westminster College in Fulton, Missouri, as the America\u2019s National Churchill Museum National Historic Landmark. (Former British Prime Minister Winston Churchill gave a speech titled <em>The Sinews of Peace</em>, also widely known as the Iron Curtain Speech, at the college in 1946.)</p><p>The bill permits the Department of the Interior to enter into cooperative agreements with public and private entities for the purposes of protecting historic resources at the landmark and providing educational and interpretive facilities for the public. Interior may provide technical and financial assistance to partner entities.&nbsp;</p><p>The bill also directs Interior to conduct a special resource study to evaluate the national significance of the landmark and to determine the suitability and feasibility of designating it as a unit of the National Park System. The study must consider alternatives to that designation for the preservation, protection, and interpretation of the landmark, and must include cost estimates associated with identified alternatives.</p>",
+      "updateDate": "2026-02-26T23:09:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

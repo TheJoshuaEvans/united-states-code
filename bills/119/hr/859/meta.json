@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives",
+        "pubDate": "2025-06-27T19:08:00Z",
+        "title": "H.R. 859, Informing Consumers about Smart Devices Act",
+        "url": "https://www.cbo.gov/publication/61516"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-72",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/72?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FULCHER:\nH.R. 859.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18 allows Congress to make all\nlaws ``which shall be necessary and proper for carrying into\nexecution'' any of Congress' enumerated powers, including\nCongress' powers over appropriations.\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-04-30",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 64."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/859",
+    "number": "859",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000469",
+        "district": 1,
+        "firstName": "Russ",
+        "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+        "isByRequest": "N",
+        "lastName": "Fulcher",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/F000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/text?format=json"
+    },
+    "title": "Informing Consumers about Smart Devices Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/859/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-11T23:53:19Z",
+    "updateDateIncludingText": "2026-07-13T17:17:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2025-01-31",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-24T15:49:22Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-08T19:27:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-31T15:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-31",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Informing Consumers about Smart Devices Act</strong></p> <p>This bill requires manufacturers of internet-connected devices (e.g., smart appliances) that are equipped with a camera or microphone to disclose to consumers prior to purchase that a camera or microphone is part of the device.</p> <p>The bill does not apply to mobile phones, laptops, or other devices that a consumer would reasonably expect to include a camera or microphone.</p>",
+      "updateDate": "2025-04-23T15:02:53Z",
+      "versionCode": "00"
+    }
+  ]
+}
