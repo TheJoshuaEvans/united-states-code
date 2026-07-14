@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9643/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9643/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9643",
+    "number": "9643",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "H001077",
+        "district": 3,
+        "firstName": "Clay",
+        "fullName": "Rep. Higgins, Clay [R-LA-3]",
+        "isByRequest": "N",
+        "lastName": "Higgins",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/H001077?format=json"
+      }
+    ],
+    "title": "To amend section 206 of the E-Government Act of 2002 to improve the integrity and management of mass comments and computer-generated comments in the regulatory review process, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9643/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:29Z",
+    "updateDateIncludingText": "2026-07-14T08:06:29Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

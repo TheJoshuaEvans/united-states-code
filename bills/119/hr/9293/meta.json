@@ -1,0 +1,125 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9293/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9293/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 99 (Thursday, June 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OBERNOLTE:\nH.R. 9293.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4113]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9293/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-11",
+    "latestAction": {
+      "actionDate": "2026-06-11",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9293",
+    "number": "9293",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000019",
+        "district": 23,
+        "firstName": "Jay",
+        "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+        "isByRequest": "N",
+        "lastName": "Obernolte",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/O000019?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9293/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9293/text?format=json"
+    },
+    "title": "ReCement Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9293/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:09Z",
+    "updateDateIncludingText": "2026-07-14T08:07:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000484",
+      "district": 6,
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-06-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000484?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "M001230",
+      "district": 7,
+      "firstName": "Ryan",
+      "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mackenzie",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001230?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T13:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

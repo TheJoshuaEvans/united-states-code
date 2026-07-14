@@ -1,0 +1,558 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/971/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/971/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 39,
+      "countIncludingWithdrawnCosponsors": 39,
+      "url": "https://api.congress.gov/v3/bill/119/hres/971/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-19",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 45 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/971",
+    "number": "971",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000397",
+        "district": 40,
+        "firstName": "Young",
+        "fullName": "Rep. Kim, Young [R-CA-40]",
+        "isByRequest": "N",
+        "lastName": "Kim",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000397?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/971/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/971/text?format=json"
+    },
+    "title": "Condemning the coercive actions of the People's Republic of China against Japan in response to statements regarding Taiwan and reaffirming the United States commitment to its allies in the Indo-Pacific region.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/971/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-14T08:06:14Z",
+    "updateDateIncludingText": "2026-07-14T08:06:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001287",
+      "district": 6,
+      "firstName": "Ami",
+      "fullName": "Rep. Bera, Ami [D-CA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bera",
+      "party": "D",
+      "sponsorshipDate": "2025-12-19",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    },
+    {
+      "bioguideId": "B001282",
+      "district": 6,
+      "firstName": "Andy",
+      "fullName": "Rep. Barr, Andy [R-KY-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barr",
+      "party": "R",
+      "sponsorshipDate": "2025-12-19",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/B001282?format=json"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2025-12-19",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/D000197?format=json"
+    },
+    {
+      "bioguideId": "C001091",
+      "district": 20,
+      "firstName": "Joaquin",
+      "fullName": "Rep. Castro, Joaquin [D-TX-20]",
+      "isOriginalCosponsor": true,
+      "lastName": "Castro",
+      "party": "D",
+      "sponsorshipDate": "2025-12-19",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001091?format=json"
+    },
+    {
+      "bioguideId": "W000795",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Wilson, Joe [R-SC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/W000795?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2026-01-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-23",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "S001193",
+      "district": 14,
+      "firstName": "Eric",
+      "fullName": "Rep. Swalwell, Eric [D-CA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Swalwell",
+      "party": "D",
+      "sponsorshipDate": "2026-01-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001193?format=json"
+    },
+    {
+      "bioguideId": "R000600",
+      "district": 0,
+      "firstName": "Aumua Amata",
+      "fullName": "Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Radewagen",
+      "middleName": "Coleman",
+      "party": "R",
+      "sponsorshipDate": "2026-01-23",
+      "state": "AS",
+      "url": "https://api.congress.gov/v3/member/R000600?format=json"
+    },
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "O000176",
+      "district": 2,
+      "firstName": "Johnny",
+      "fullName": "Rep. Olszewski, Johnny [D-MD-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Olszewski",
+      "party": "D",
+      "sponsorshipDate": "2026-02-04",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/O000176?format=json"
+    },
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2026-02-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "D000634",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Downing, Troy [R-MT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Downing",
+      "party": "R",
+      "sponsorshipDate": "2026-02-09",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000634?format=json"
+    },
+    {
+      "bioguideId": "A000379",
+      "district": 4,
+      "firstName": "Mark",
+      "fullName": "Rep. Alford, Mark [R-MO-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Alford",
+      "party": "R",
+      "sponsorshipDate": "2026-02-10",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/A000379?format=json"
+    },
+    {
+      "bioguideId": "H001082",
+      "district": 1,
+      "firstName": "Kevin",
+      "fullName": "Rep. Hern, Kevin [R-OK-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hern",
+      "party": "R",
+      "sponsorshipDate": "2026-02-10",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/H001082?format=json"
+    },
+    {
+      "bioguideId": "M001236",
+      "district": 14,
+      "firstName": "Tim",
+      "fullName": "Rep. Moore, Tim [R-NC-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-02-10",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001236?format=json"
+    },
+    {
+      "bioguideId": "S001229",
+      "district": 6,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shreve",
+      "party": "R",
+      "sponsorshipDate": "2026-02-11",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001229?format=json"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2026-02-11",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    },
+    {
+      "bioguideId": "M001230",
+      "district": 7,
+      "firstName": "Ryan",
+      "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mackenzie",
+      "party": "R",
+      "sponsorshipDate": "2026-02-11",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001230?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-13",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "W000816",
+      "district": 25,
+      "firstName": "Roger",
+      "fullName": "Rep. Williams, Roger [R-TX-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000816?format=json"
+    },
+    {
+      "bioguideId": "P000048",
+      "district": 11,
+      "firstName": "August",
+      "fullName": "Rep. Pfluger, August [R-TX-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pfluger",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/P000048?format=json"
+    },
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2026-02-13",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2026-02-13",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-02-20",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "P000034",
+      "district": 6,
+      "firstName": "Frank",
+      "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pallone",
+      "party": "D",
+      "sponsorshipDate": "2026-02-20",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000034?format=json"
+    },
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2026-02-20",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    },
+    {
+      "bioguideId": "T000480",
+      "district": 4,
+      "firstName": "William",
+      "fullName": "Rep. Timmons, William R. [R-SC-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Timmons",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-20",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/T000480?format=json"
+    },
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-24",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-03",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2026-03-03",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": 36,
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2026-03-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000582?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-26T16:08:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-19T19:30:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ]
+}

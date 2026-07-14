@@ -1,0 +1,206 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9408",
+    "number": "9408",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000288",
+        "district": 4,
+        "firstName": "Henry",
+        "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+        "isByRequest": "N",
+        "lastName": "Johnson",
+        "middleName": "C. \"Hank\"",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/J000288?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/text?format=json"
+    },
+    "title": "Open Meetings Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9408/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:55Z",
+    "updateDateIncludingText": "2026-07-14T08:06:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001068",
+      "district": 9,
+      "firstName": "Steve",
+      "fullName": "Rep. Cohen, Steve [D-TN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cohen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/C001068?format=json"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": 17,
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000530?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "R000617",
+      "district": 3,
+      "firstName": "Delia",
+      "fullName": "Rep. Ramirez, Delia C. [D-IL-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ramirez",
+      "middleName": "C.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/R000617?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "G000586",
+      "district": 4,
+      "firstName": "Jes\u00fas",
+      "fullName": "Rep. Garc\u00eda, Jes\u00fas G. \"Chuy\" [D-IL-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garc\u00eda",
+      "middleName": "G. \"Chuy\"",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/G000586?format=json"
+    },
+    {
+      "bioguideId": "L000602",
+      "district": 12,
+      "firstName": "Summer",
+      "fullName": "Rep. Lee, Summer L. [D-PA-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/L000602?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-23T16:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

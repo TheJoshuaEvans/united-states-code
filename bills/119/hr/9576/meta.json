@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9576/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9576/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 110 (Thursday, July 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FINSTAD:\nH.R. 9576.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4370]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9576/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9576",
+    "number": "9576",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000475",
+        "district": 1,
+        "firstName": "Brad",
+        "fullName": "Rep. Finstad, Brad [R-MN-1]",
+        "isByRequest": "N",
+        "lastName": "Finstad",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000475?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9576/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9576/text?format=json"
+    },
+    "title": "National Fraud Enforcement Division Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9576/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-13T21:14:37Z",
+    "updateDateIncludingText": "2026-07-13T21:14:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2026-07-02",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T13:00:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

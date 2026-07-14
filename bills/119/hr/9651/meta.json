@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9651/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9651/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9651",
+    "number": "9651",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "H001099",
+        "district": 8,
+        "firstName": "Mike",
+        "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+        "isByRequest": "N",
+        "lastName": "Haridopolos",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/H001099?format=json"
+      }
+    ],
+    "title": "To authorize the Administrator of the National Aeronautics and Space Administration to conduct a pilot program for investment in infrastructure projects at NASA Centers, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9651/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:04Z",
+    "updateDateIncludingText": "2026-07-14T08:06:04Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:00:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

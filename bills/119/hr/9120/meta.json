@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 94 (Wednesday, June 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. CRAIG:\nH.R. 9120.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H3829]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9120",
+    "number": "9120",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001119",
+        "district": 2,
+        "firstName": "Angie",
+        "fullName": "Rep. Craig, Angie [D-MN-2]",
+        "isByRequest": "N",
+        "lastName": "Craig",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/C001119?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/text?format=json"
+    },
+    "title": "To require the Postal Service to implement recommendations from the Inspector General of the United States Postal Service for improving identification and notification of undelivered and partially delivered routes, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9120/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:22Z",
+    "updateDateIncludingText": "2026-07-14T08:06:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000597",
+      "district": 1,
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/P000597?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T14:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 88 (Friday, May 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. QUIGLEY:\nH.R. 3604.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H2369]\n</pre>",
+    "cosponsors": {
+      "count": 47,
+      "countIncludingWithdrawnCosponsors": 47,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-23",
+    "latestAction": {
+      "actionDate": "2025-05-23",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3604",
+    "number": "3604",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "Q000023",
+        "district": 5,
+        "firstName": "Mike",
+        "fullName": "Rep. Quigley, Mike [D-IL-5]",
+        "isByRequest": "N",
+        "lastName": "Quigley",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/Q000023?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/text?format=json"
+    },
+    "title": "Reducing Waste in National Parks Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3604/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:43Z",
+    "updateDateIncludingText": "2026-07-14T08:06:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001285",
+      "district": 26,
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001285?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": 6,
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-06-10",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/C001117?format=json"
+    },
+    {
+      "bioguideId": "R000606",
+      "district": 8,
+      "firstName": "Jamie",
+      "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Raskin",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/R000606?format=json"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    },
+    {
+      "bioguideId": "N000002",
+      "district": 12,
+      "firstName": "Jerrold",
+      "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Nadler",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/N000002?format=json"
+    },
+    {
+      "bioguideId": "S001145",
+      "district": 9,
+      "firstName": "Janice",
+      "fullName": "Rep. Schakowsky, Janice D. [D-IL-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schakowsky",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001145?format=json"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "B001300",
+      "district": 44,
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001300?format=json"
+    },
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "P000034",
+      "district": 6,
+      "firstName": "Frank",
+      "fullName": "Rep. Pallone, Frank [D-NJ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pallone",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000034?format=json"
+    },
+    {
+      "bioguideId": "J000305",
+      "district": 51,
+      "firstName": "Sara",
+      "fullName": "Rep. Jacobs, Sara [D-CA-51]",
+      "isOriginalCosponsor": false,
+      "lastName": "Jacobs",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/J000305?format=json"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": 4,
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000288?format=json"
+    },
+    {
+      "bioguideId": "M001143",
+      "district": 4,
+      "firstName": "Betty",
+      "fullName": "Rep. McCollum, Betty [D-MN-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCollum",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/M001143?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    },
+    {
+      "bioguideId": "B001292",
+      "district": 8,
+      "firstName": "Donald",
+      "fullName": "Rep. Beyer, Donald S. [D-VA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Beyer",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/B001292?format=json"
+    },
+    {
+      "bioguideId": "T000469",
+      "district": 20,
+      "firstName": "Paul",
+      "fullName": "Rep. Tonko, Paul [D-NY-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tonko",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000469?format=json"
+    },
+    {
+      "bioguideId": "C001068",
+      "district": 9,
+      "firstName": "Steve",
+      "fullName": "Rep. Cohen, Steve [D-TN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cohen",
+      "party": "D",
+      "sponsorshipDate": "2025-06-11",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/C001068?format=json"
+    },
+    {
+      "bioguideId": "H001081",
+      "district": 5,
+      "firstName": "Jahana",
+      "fullName": "Rep. Hayes, Jahana [D-CT-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hayes",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001081?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    },
+    {
+      "bioguideId": "J000298",
+      "district": 7,
+      "firstName": "Pramila",
+      "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Jayapal",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/J000298?format=json"
+    },
+    {
+      "bioguideId": "L000593",
+      "district": 49,
+      "firstName": "Mike",
+      "fullName": "Rep. Levin, Mike [D-CA-49]",
+      "isOriginalCosponsor": false,
+      "lastName": "Levin",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000593?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": 36,
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2025-06-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000582?format=json"
+    },
+    {
+      "bioguideId": "F000476",
+      "district": 10,
+      "firstName": "Maxwell",
+      "fullName": "Rep. Frost, Maxwell [D-FL-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Frost",
+      "party": "D",
+      "sponsorshipDate": "2025-06-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000476?format=json"
+    },
+    {
+      "bioguideId": "M001208",
+      "district": 6,
+      "firstName": "Lucy",
+      "fullName": "Rep. McBath, Lucy [D-GA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBath",
+      "party": "D",
+      "sponsorshipDate": "2025-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001208?format=json"
+    },
+    {
+      "bioguideId": "F000477",
+      "district": 4,
+      "firstName": "Valerie",
+      "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Foushee",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-25",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000477?format=json"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2025-06-26",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/D000197?format=json"
+    },
+    {
+      "bioguideId": "M001163",
+      "district": 7,
+      "firstName": "Doris",
+      "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Matsui",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-26",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001163?format=json"
+    },
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-26",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    },
+    {
+      "bioguideId": "S000510",
+      "district": 9,
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S000510?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "L000598",
+      "district": 1,
+      "firstName": "Nick",
+      "fullName": "Rep. LaLota, Nick [R-NY-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "LaLota",
+      "party": "R",
+      "sponsorshipDate": "2025-07-25",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000598?format=json"
+    },
+    {
+      "bioguideId": "C001127",
+      "district": 20,
+      "firstName": "Sheila",
+      "fullName": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cherfilus-McCormick",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001127?format=json"
+    },
+    {
+      "bioguideId": "L000397",
+      "district": 18,
+      "firstName": "Zoe",
+      "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lofgren",
+      "party": "D",
+      "sponsorshipDate": "2025-09-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000397?format=json"
+    },
+    {
+      "bioguideId": "W000797",
+      "district": 25,
+      "firstName": "Debbie",
+      "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wasserman Schultz",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000797?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-12-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "D000635",
+      "district": 3,
+      "firstName": "Maxine",
+      "fullName": "Rep. Dexter, Maxine [D-OR-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dexter",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/D000635?format=json"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": 28,
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2026-01-06",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001080?format=json"
+    },
+    {
+      "bioguideId": "T000460",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Thompson, Mike [D-CA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thompson",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000460?format=json"
+    },
+    {
+      "bioguideId": "F000462",
+      "district": 22,
+      "firstName": "Lois",
+      "fullName": "Rep. Frankel, Lois [D-FL-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Frankel",
+      "party": "D",
+      "sponsorshipDate": "2026-02-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000462?format=json"
+    },
+    {
+      "bioguideId": "S001216",
+      "district": 8,
+      "firstName": "Kim",
+      "fullName": "Rep. Schrier, Kim [D-WA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schrier",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S001216?format=json"
+    },
+    {
+      "bioguideId": "F000483",
+      "district": 30,
+      "firstName": "Laura",
+      "fullName": "Rep. Friedman, Laura [D-CA-30]",
+      "isOriginalCosponsor": false,
+      "lastName": "Friedman",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/F000483?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-23T14:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

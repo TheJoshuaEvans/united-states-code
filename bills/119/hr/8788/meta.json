@@ -1,0 +1,256 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 81 (Wednesday, May 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DELUZIO:\nH.R. 8788.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H3453]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-13",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8788",
+    "number": "8788",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000530",
+        "district": 17,
+        "firstName": "Christopher",
+        "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+        "isByRequest": "N",
+        "lastName": "Deluzio",
+        "middleName": "R.",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/D000530?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/text?format=json"
+    },
+    "title": "Let Kids Play Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8788/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:57Z",
+    "updateDateIncludingText": "2026-07-14T08:06:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "J000298",
+      "district": 7,
+      "firstName": "Pramila",
+      "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Jayapal",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/J000298?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "R000579",
+      "district": 18,
+      "firstName": "Patrick",
+      "fullName": "Rep. Ryan, Patrick [D-NY-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ryan",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000579?format=json"
+    },
+    {
+      "bioguideId": "C001131",
+      "district": 35,
+      "firstName": "Greg",
+      "fullName": "Rep. Casar, Greg [D-TX-35]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casar",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001131?format=json"
+    },
+    {
+      "bioguideId": "L000602",
+      "district": 12,
+      "firstName": "Summer",
+      "fullName": "Rep. Lee, Summer L. [D-PA-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/L000602?format=json"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": 10,
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001229?format=json"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "H001094",
+      "district": 4,
+      "firstName": "Val",
+      "fullName": "Rep. Hoyle, Val T. [D-OR-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hoyle",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/H001094?format=json"
+    },
+    {
+      "bioguideId": "M001231",
+      "district": 22,
+      "firstName": "John",
+      "fullName": "Rep. Mannion, John W. [D-NY-22]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mannion",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001231?format=json"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": 12,
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000481?format=json"
+    },
+    {
+      "bioguideId": "L000593",
+      "district": 49,
+      "firstName": "Mike",
+      "fullName": "Rep. Levin, Mike [D-CA-49]",
+      "isOriginalCosponsor": false,
+      "lastName": "Levin",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000593?format=json"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": 7,
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000606?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T14:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T14:02:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T14:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

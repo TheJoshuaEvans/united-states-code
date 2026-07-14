@@ -1,0 +1,115 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9271/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9271/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 99 (Thursday, June 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ESPAILIAT:\nH.R. 9271.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\nThe Congress shall have Power to . . . provide for the . .\n. general Welfare of the United States; . . .\n[Page H4112]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9271/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-11",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9271",
+    "number": "9271",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000297",
+        "district": 13,
+        "firstName": "Adriano",
+        "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+        "isByRequest": "N",
+        "lastName": "Espaillat",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/E000297?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9271/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9271/text?format=json"
+    },
+    "title": "Governors\u2019 Right to Inspect Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9271/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:05Z",
+    "updateDateIncludingText": "2026-07-14T08:07:05Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T13:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:54:58Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T13:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

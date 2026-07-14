@@ -1,0 +1,98 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8684/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8684/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 78 (Thursday, May 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. FOXX:\nH.R. 8684.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3343]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8684/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-07",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Placed on the Union Calendar, Calendar No. 652."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8684",
+    "number": "8684",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8684/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8684/text?format=json"
+    },
+    "title": "Transparency in Billing Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8684/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:43Z",
+    "updateDateIncludingText": "2026-07-14T08:06:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000185",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Scott, Robert C. \"Bobby\" [D-VA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "middleName": "C. \"Bobby\"",
+      "party": "D",
+      "sponsorshipDate": "2026-05-07",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/S000185?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T19:30:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-21T20:09:31Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-07T13:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

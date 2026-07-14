@@ -1,0 +1,155 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 73 (Monday, April 27, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALKINSHAW:\nH.R. 8535.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H3125]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-27",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "16:56:59",
+      "text": "The title of the measure was amended. Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8535",
+    "number": "8535",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000831",
+        "district": 11,
+        "firstName": "James",
+        "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Walkinshaw",
+        "middleName": "R.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000831?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/text?format=json"
+    },
+    "title": "Measuring Illicit Fentanyl Trafficking Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:17Z",
+    "updateDateIncludingText": "2026-07-14T08:06:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "C001110",
+      "district": 46,
+      "firstName": "J.",
+      "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+      "isOriginalCosponsor": true,
+      "lastName": "Correa",
+      "middleName": "Luis",
+      "party": "D",
+      "sponsorshipDate": "2026-04-27",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001110?format=json"
+    },
+    {
+      "bioguideId": "G000591",
+      "district": 3,
+      "firstName": "Michael",
+      "fullName": "Rep. Guest, Michael [R-MS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guest",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/G000591?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:26:30Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T20:30:19Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-27T16:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-24T20:30:07Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-04-28T04:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Measuring Illicit Fentanyl Trafficking Act</strong></p><p>This bill requires the components of the Department of Homeland Security (DHS) engaged in the detection, deterrence, and seizure of fentanyl to collaborate and share relevant information and data with each other. The bill also requires DHS to establish performance metrics related to the detection, deterrence, and seizure of fentanyl for DHS and its&nbsp;components.</p>",
+      "updateDate": "2026-07-08T20:02:17Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 72 (Thursday, April 23, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HURD of Colorado:\nH.R. 8461.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII of the U.S. Constitution\n[Page H3092]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-23",
+    "latestAction": {
+      "actionDate": "2026-04-23",
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8461",
+    "number": "8461",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001100",
+        "district": 3,
+        "firstName": "Jeff",
+        "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+        "isByRequest": "N",
+        "lastName": "Hurd",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H001100?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/text?format=json"
+    },
+    "title": "Western Tribal Water Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8461/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:01Z",
+    "updateDateIncludingText": "2026-07-14T08:07:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2026-04-23",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "C001121",
+      "district": 6,
+      "firstName": "Jason",
+      "fullName": "Rep. Crow, Jason [D-CO-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crow",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001121?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-23T13:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-23T13:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ]
+}

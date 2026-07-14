@@ -1,0 +1,255 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 158 (Friday, September 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. JAMES:\nH.R. 5582.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to clause 7(c)(1) of Rule XII the following\nstatement is submitted regarding the specific powers granted\nto Congress in the U.S. Constitution to enact the\naccompanying bill or joint resolution.\n[Page H4502]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-26",
+    "latestAction": {
+      "actionDate": "2025-09-26",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5582",
+    "number": "5582",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000307",
+        "district": 10,
+        "firstName": "John",
+        "fullName": "Rep. James, John [R-MI-10]",
+        "isByRequest": "N",
+        "lastName": "James",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/J000307?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/text?format=json"
+    },
+    "title": "Patients Deserve Price Tags Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5582/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:38Z",
+    "updateDateIncludingText": "2026-07-14T08:06:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2025-09-26",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-26",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-26",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2025-10-10",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2025-12-19",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    },
+    {
+      "bioguideId": "V000136",
+      "district": 2,
+      "firstName": "Gabe",
+      "fullName": "Rep. Vasquez, Gabe [D-NM-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vasquez",
+      "party": "D",
+      "sponsorshipDate": "2025-12-19",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/V000136?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2026-01-16",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "W000814",
+      "district": 14,
+      "firstName": "Randy",
+      "fullName": "Rep. Weber, Randy K. Sr. [R-TX-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Weber",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-21",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/W000814?format=json"
+    },
+    {
+      "bioguideId": "S000929",
+      "district": 5,
+      "firstName": "Victoria",
+      "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Spartz",
+      "party": "R",
+      "sponsorshipDate": "2026-02-05",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S000929?format=json"
+    },
+    {
+      "bioguideId": "F000110",
+      "district": 6,
+      "firstName": "Cleo",
+      "fullName": "Rep. Fields, Cleo [D-LA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fields",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/F000110?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-26T14:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-26T14:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-26T14:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

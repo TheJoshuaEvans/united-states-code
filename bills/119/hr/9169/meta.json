@@ -1,0 +1,150 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9169/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9169/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 95 (Thursday, June 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. WASSERMAN SCHULTZ:\nH.R. 9169.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H3909]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9169/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-04",
+    "latestAction": {
+      "actionDate": "2026-06-04",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9169",
+    "number": "9169",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000797",
+        "district": 25,
+        "firstName": "Debbie",
+        "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+        "isByRequest": "N",
+        "lastName": "Wasserman Schultz",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/W000797?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9169/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9169/text?format=json"
+    },
+    "title": "PKD Cures Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9169/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:35Z",
+    "updateDateIncludingText": "2026-07-14T08:06:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001205",
+      "district": 1,
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001205?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2026-06-04",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "W000795",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Wilson, Joe [R-SC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/W000795?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-04T14:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

@@ -10,6 +10,11 @@
     },
     "congress": 119,
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OGLES:\nH.R. 9562.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section VIII\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/cosponsors?format=json"
+    },
     "introducedDate": "2026-06-30",
     "latestAction": {
       "actionDate": "2026-06-30",
@@ -21,6 +26,10 @@
     "originChamberCode": "H",
     "policyArea": {
       "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/relatedbills?format=json"
     },
     "sponsors": [
       {
@@ -49,9 +58,36 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9562/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-13T11:57:28Z",
-    "updateDateIncludingText": "2026-07-13T11:57:28Z"
+    "updateDate": "2026-07-14T08:06:35Z",
+    "updateDateIncludingText": "2026-07-14T08:06:35Z"
   },
+  "cosponsors": [
+    {
+      "bioguideId": "M000194",
+      "district": 1,
+      "firstName": "Nancy",
+      "fullName": "Rep. Mace, Nancy [R-SC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mace",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/M000194?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    }
+  ],
   "committees": [
     {
       "activities": [

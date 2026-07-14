@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9210/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9210/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 97 (Tuesday, June 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RASKIN:\nH.R. 9210.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article 1, Section 8 of the United States\nConstitution.\n[Page H4054]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9210/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-09",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9210",
+    "number": "9210",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000606",
+        "district": 8,
+        "firstName": "Jamie",
+        "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+        "isByRequest": "N",
+        "lastName": "Raskin",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/R000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9210/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9210/text?format=json"
+    },
+    "title": "BLANCHE Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9210/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:46Z",
+    "updateDateIncludingText": "2026-07-14T08:06:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "M001246",
+      "district": 11,
+      "firstName": "Analilia",
+      "fullName": "Rep. Mejia, Analilia [D-NJ-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mejia",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001246?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray [D-CA-31]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2026-07-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    },
+    {
+      "bioguideId": "L000560",
+      "district": 2,
+      "firstName": "Rick",
+      "fullName": "Rep. Larsen, Rick [D-WA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Larsen",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/L000560?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-09T14:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

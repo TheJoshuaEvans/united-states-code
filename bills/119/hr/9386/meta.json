@@ -1,0 +1,96 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9386/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9386/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 104 (Monday, June 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. NORTON:\nH.R. 9386.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 18 of section 8 of article I of the Constitution.\n[Page H4131]\n</pre>",
+    "introducedDate": "2026-06-22",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Oversight, Investigations, and Accountability."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9386",
+    "number": "9386",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000147",
+        "firstName": "Eleanor",
+        "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+        "isByRequest": "N",
+        "lastName": "Norton",
+        "middleName": "Holmes",
+        "party": "D",
+        "state": "DC",
+        "url": "https://api.congress.gov/v3/member/N000147?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9386/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9386/text?format=json"
+    },
+    "title": "United States Commission on an Open Society with Security Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9386/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:14Z",
+    "updateDateIncludingText": "2026-07-14T08:06:14Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-22T16:00:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:56:27Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Oversight, Investigations, and Accountability Subcommittee",
+          "systemCode": "hshm09",
+          "url": "https://api.congress.gov/v3/committee/house/hshm09?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-22T16:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9649/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9649/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9649",
+    "number": "9649",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "B001309",
+        "district": 2,
+        "firstName": "Tim",
+        "fullName": "Rep. Burchett, Tim [R-TN-2]",
+        "isByRequest": "N",
+        "lastName": "Burchett",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001309?format=json"
+      }
+    ],
+    "title": "To amend the Food and Nutrition Act of 2008 to improve the accuracy of estimates of retail food store trafficking in the supplemental nutrition assistance program benefits, to strengthen penalties for trafficking violations, to require reporting information to the Congress; and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9649/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:18Z",
+    "updateDateIncludingText": "2026-07-14T08:06:18Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

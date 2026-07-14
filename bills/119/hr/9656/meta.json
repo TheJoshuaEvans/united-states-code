@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9656/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9656/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9656/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9656",
+    "number": "9656",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "R000614",
+        "district": 21,
+        "firstName": "Chip",
+        "fullName": "Rep. Roy, Chip [R-TX-21]",
+        "isByRequest": "N",
+        "lastName": "Roy",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/R000614?format=json"
+      }
+    ],
+    "title": "To amend title XI of the Social Security Act to require hospitals participating in Federal health care programs to report certain information related to immigration status.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9656/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:54Z",
+    "updateDateIncludingText": "2026-07-14T08:06:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001115",
+      "district": 27,
+      "firstName": "Michael",
+      "fullName": "Rep. Cloud, Michael [R-TX-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cloud",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001115?format=json"
+    },
+    {
+      "bioguideId": "B001317",
+      "district": 2,
+      "firstName": "Josh",
+      "fullName": "Rep. Brecheen, Josh [R-OK-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Brecheen",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B001317?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:00:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:00:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

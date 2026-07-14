@@ -1,0 +1,134 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-738",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/738?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 60 (Monday, March 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VAN EPPS:\nH.R. 8168.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution\n[Page H2818]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-30",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "16:51:24",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8168",
+    "number": "8168",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000139",
+        "district": 7,
+        "firstName": "Matt",
+        "fullName": "Rep. Van Epps, Matt [R-TN-7]",
+        "isByRequest": "N",
+        "lastName": "Van Epps",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/V000139?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/text?format=json"
+    },
+    "title": "Major Non-NATO Ally Terror Threat Assessment Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8168/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:55Z",
+    "updateDateIncludingText": "2026-07-14T08:05:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000621",
+      "district": 9,
+      "firstName": "Nellie",
+      "fullName": "Rep. Pou, Nellie [D-NJ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pou",
+      "party": "D",
+      "sponsorshipDate": "2026-06-04",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000621?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T20:31:42Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T20:31:17Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-30T16:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-24T20:30:59Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-03-31T04:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Major Non-NATO Ally Terror Threat Assessment Act</strong></p><p>This bill requires the Department of Homeland Security to provide Congress with an assessment of terrorism threats to the United States posed by foreign terrorist organizations (FTOs) and Specially Designated Global Terrorists (SDGTs) present in countries operating or designated as major non-NATO allies.</p><p>The assessment must include various elements, including (1) an identification of each FTO or SDGT present in each ally, (2) a description of all activities of each such&nbsp;FTO or SDGT within each ally, and (3) a description of efforts by the government of each ally to disrupt or degrade the activities of each such&nbsp;FTO or SDGT.&nbsp;</p><p>There are currently 19 countries designated as major non-NATO allies (Argentina, Australia, Bahrain, Brazil, Colombia, Egypt, Israel, Japan, Jordan, Kenya, Kuwait, Morocco, New Zealand, Pakistan, Philippines, Qatar, South Korea, Thailand, and Tunisia). Additionally, while Taiwan is not designated as a major non-NATO ally, federal law provides that it be treated as one for certain purposes.</p>",
+      "updateDate": "2026-07-08T16:51:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

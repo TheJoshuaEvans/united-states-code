@@ -1,0 +1,364 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 156 (Tuesday, September 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GRIFFITH:\nH.R. 5549.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H4494]\n</pre>",
+    "cosponsors": {
+      "count": 23,
+      "countIncludingWithdrawnCosponsors": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-23",
+    "latestAction": {
+      "actionDate": "2025-09-23",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5549",
+    "number": "5549",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000568",
+        "district": 9,
+        "firstName": "H.",
+        "fullName": "Rep. Griffith, H. Morgan [R-VA-9]",
+        "isByRequest": "N",
+        "lastName": "Griffith",
+        "middleName": "Morgan",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/G000568?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/text?format=json"
+    },
+    "title": "Efficient Nuclear Licensing Hearings Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5549/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:55Z",
+    "updateDateIncludingText": "2026-07-14T08:06:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001216",
+      "district": 8,
+      "firstName": "Kim",
+      "fullName": "Rep. Schrier, Kim [D-WA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schrier",
+      "party": "D",
+      "sponsorshipDate": "2025-09-23",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S001216?format=json"
+    },
+    {
+      "bioguideId": "V000131",
+      "district": 33,
+      "firstName": "Marc",
+      "fullName": "Rep. Veasey, Marc A. [D-TX-33]",
+      "isOriginalCosponsor": true,
+      "lastName": "Veasey",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000131?format=json"
+    },
+    {
+      "bioguideId": "B001316",
+      "district": 7,
+      "firstName": "Eric",
+      "fullName": "Rep. Burlison, Eric [R-MO-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Burlison",
+      "party": "R",
+      "sponsorshipDate": "2025-09-30",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/B001316?format=json"
+    },
+    {
+      "bioguideId": "H001086",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. Harshbarger, Diana [R-TN-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harshbarger",
+      "party": "R",
+      "sponsorshipDate": "2025-10-06",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/H001086?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2025-10-06",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2025-10-21",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2025-10-24",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
+    },
+    {
+      "bioguideId": "W000804",
+      "district": 1,
+      "firstName": "Robert",
+      "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wittman",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-10-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000804?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2025-10-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    },
+    {
+      "bioguideId": "G000600",
+      "district": 3,
+      "firstName": "Marie",
+      "fullName": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Perez",
+      "middleName": "Gluesenkamp",
+      "party": "D",
+      "sponsorshipDate": "2025-11-12",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/G000600?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-01-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "A000148",
+      "district": 4,
+      "firstName": "Jake",
+      "fullName": "Rep. Auchincloss, Jake [D-MA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Auchincloss",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/A000148?format=json"
+    },
+    {
+      "bioguideId": "F000478",
+      "district": 7,
+      "firstName": "Russell",
+      "fullName": "Rep. Fry, Russell [R-SC-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fry",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/F000478?format=json"
+    },
+    {
+      "bioguideId": "O000177",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Onder, Robert F. [R-MO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Onder",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/O000177?format=json"
+    },
+    {
+      "bioguideId": "P000048",
+      "district": 11,
+      "firstName": "August",
+      "fullName": "Rep. Pfluger, August [R-TX-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pfluger",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/P000048?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "O000019",
+      "district": 23,
+      "firstName": "Jay",
+      "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Obernolte",
+      "party": "R",
+      "sponsorshipDate": "2026-07-02",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/O000019?format=json"
+    },
+    {
+      "bioguideId": "S000929",
+      "district": 5,
+      "firstName": "Victoria",
+      "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Spartz",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S000929?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "M001236",
+      "district": 14,
+      "firstName": "Tim",
+      "fullName": "Rep. Moore, Tim [R-NC-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001236?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-23T13:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

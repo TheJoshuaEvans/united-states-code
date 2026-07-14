@@ -1,0 +1,78 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9650/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9650/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9650/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9650",
+    "number": "9650",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "E000235",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Ezell, Mike [R-MS-4]",
+        "isByRequest": "N",
+        "lastName": "Ezell",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/E000235?format=json"
+      }
+    ],
+    "title": "To amend title 18, United States Code, to establish a crime for altering, removing, or affixing unauthorized vessel identification numbers and trafficking certain vessels, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9650/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:14Z",
+    "updateDateIncludingText": "2026-07-14T08:07:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001112",
+      "district": 24,
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001112?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

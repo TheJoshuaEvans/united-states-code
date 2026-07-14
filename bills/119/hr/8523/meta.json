@@ -1,0 +1,139 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8523/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8523/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 73 (Monday, April 27, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEGUSE:\nH.R. 8523.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H3124]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8523/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-27",
+    "latestAction": {
+      "actionDate": "2026-04-27",
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8523",
+    "number": "8523",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000191",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Neguse, Joe [D-CO-2]",
+        "isByRequest": "N",
+        "lastName": "Neguse",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/N000191?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8523/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8523/text?format=json"
+    },
+    "title": "Public Lands Workforce Stability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8523/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:28Z",
+    "updateDateIncludingText": "2026-07-14T08:05:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2026-04-27",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "V000136",
+      "district": 2,
+      "firstName": "Gabe",
+      "fullName": "Rep. Vasquez, Gabe [D-NM-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vasquez",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/V000136?format=json"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/D000197?format=json"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": 7,
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000606?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-27T16:03:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-27T16:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

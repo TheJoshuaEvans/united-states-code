@@ -1,0 +1,498 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9370/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9370/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. STEVENS:\nH.R. 9370.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I, Section 8, Clause 18 of the United\nStates Constitution.\n[Page H4127]\n</pre>",
+    "cosponsors": {
+      "count": 34,
+      "countIncludingWithdrawnCosponsors": 34,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9370/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9370",
+    "number": "9370",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001215",
+        "district": 11,
+        "firstName": "Haley",
+        "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+        "isByRequest": "N",
+        "lastName": "Stevens",
+        "middleName": "M.",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/S001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9370/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9370/text?format=json"
+    },
+    "title": "Protect Local Funding Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9370/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:38Z",
+    "updateDateIncludingText": "2026-07-14T08:06:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001196",
+      "district": 6,
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M001196?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "S001218",
+      "district": 1,
+      "firstName": "Melanie",
+      "fullName": "Rep. Stansbury, Melanie A. [D-NM-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stansbury",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/S001218?format=json"
+    },
+    {
+      "bioguideId": "H001085",
+      "district": 6,
+      "firstName": "Chrissy",
+      "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houlahan",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/H001085?format=json"
+    },
+    {
+      "bioguideId": "M001160",
+      "district": 4,
+      "firstName": "Gwen",
+      "fullName": "Rep. Moore, Gwen [D-WI-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/M001160?format=json"
+    },
+    {
+      "bioguideId": "F000454",
+      "district": 11,
+      "firstName": "Bill",
+      "fullName": "Rep. Foster, Bill [D-IL-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foster",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/F000454?format=json"
+    },
+    {
+      "bioguideId": "B001315",
+      "district": 13,
+      "firstName": "Nikki",
+      "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budzinski",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001315?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "Q000023",
+      "district": 5,
+      "firstName": "Mike",
+      "fullName": "Rep. Quigley, Mike [D-IL-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Quigley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/Q000023?format=json"
+    },
+    {
+      "bioguideId": "W000797",
+      "district": 25,
+      "firstName": "Debbie",
+      "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wasserman Schultz",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000797?format=json"
+    },
+    {
+      "bioguideId": "R000622",
+      "district": 19,
+      "firstName": "Josh",
+      "fullName": "Rep. Riley, Josh [D-NY-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Riley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000622?format=json"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": 7,
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000606?format=json"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": 1,
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/L000601?format=json"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": 17,
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000530?format=json"
+    },
+    {
+      "bioguideId": "S001205",
+      "district": 5,
+      "firstName": "Mary Gay",
+      "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scanlon",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001205?format=json"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "H001103",
+      "district": 0,
+      "firstName": "Pablo",
+      "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hern\u00e1ndez",
+      "middleName": "Jose",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "PR",
+      "url": "https://api.congress.gov/v3/member/H001103?format=json"
+    },
+    {
+      "bioguideId": "L000607",
+      "district": 16,
+      "firstName": "Sam",
+      "fullName": "Rep. Liccardo, Sam T. [D-CA-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Liccardo",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000607?format=json"
+    },
+    {
+      "bioguideId": "D000635",
+      "district": 3,
+      "firstName": "Maxine",
+      "fullName": "Rep. Dexter, Maxine [D-OR-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dexter",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/D000635?format=json"
+    },
+    {
+      "bioguideId": "L000557",
+      "district": 1,
+      "firstName": "John",
+      "fullName": "Rep. Larson, John B. [D-CT-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Larson",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/L000557?format=json"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    },
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray [D-CA-31]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    },
+    {
+      "bioguideId": "B001313",
+      "district": 11,
+      "firstName": "Shontel",
+      "fullName": "Rep. Brown, Shontel M. [D-OH-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brown",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001313?format=json"
+    },
+    {
+      "bioguideId": "S001221",
+      "district": 3,
+      "firstName": "Hillary",
+      "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scholten",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001221?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "D000631",
+      "district": 4,
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000631?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T14:03:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

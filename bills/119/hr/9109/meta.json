@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9109/actions?format=json"
+    },
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9109/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 93 (Tuesday, June 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STEUBE:\nH.R. 9109.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3775]\n</pre>",
+    "introducedDate": "2026-06-02",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Counterterrorism and Intelligence."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9109",
+    "number": "9109",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9109/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001214",
+        "district": 17,
+        "firstName": "W.",
+        "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+        "isByRequest": "N",
+        "lastName": "Steube",
+        "middleName": "Gregory",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001214?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9109/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9109/text?format=json"
+    },
+    "title": "Stop ANTIFA Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9109/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:02Z",
+    "updateDateIncludingText": "2026-07-14T08:06:02Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:52:07Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

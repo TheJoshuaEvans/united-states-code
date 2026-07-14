@@ -1,0 +1,501 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 203 (Thursday, December 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. GRIJALVA:\nH.R. 6440.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Sec. 1 and Sec. 8\n[Page H5051]\n</pre>",
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-04",
+    "latestAction": {
+      "actionDate": "2025-12-04",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6440",
+    "number": "6440",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000606",
+        "district": 7,
+        "firstName": "Adelita",
+        "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+        "isByRequest": "N",
+        "lastName": "Grijalva",
+        "middleName": "S.",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/text?format=json"
+    },
+    "title": "Right to Read Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6440/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:02Z",
+    "updateDateIncludingText": "2026-07-14T08:07:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001281",
+      "district": 3,
+      "firstName": "Joyce",
+      "fullName": "Rep. Beatty, Joyce [D-OH-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Beatty",
+      "party": "D",
+      "sponsorshipDate": "2025-12-04",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001281?format=json"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": 1,
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-12-04",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001278?format=json"
+    },
+    {
+      "bioguideId": "L000602",
+      "district": 12,
+      "firstName": "Summer",
+      "fullName": "Rep. Lee, Summer L. [D-PA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-04",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/L000602?format=json"
+    },
+    {
+      "bioguideId": "R000621",
+      "district": 6,
+      "firstName": "Emily",
+      "fullName": "Rep. Randall, Emily [D-WA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Randall",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/R000621?format=json"
+    },
+    {
+      "bioguideId": "W000808",
+      "district": 24,
+      "firstName": "Frederica",
+      "fullName": "Rep. Wilson, Frederica S. [D-FL-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000808?format=json"
+    },
+    {
+      "bioguideId": "G000586",
+      "district": 4,
+      "firstName": "Jes\u00fas",
+      "fullName": "Rep. Garc\u00eda, Jes\u00fas G. \"Chuy\" [D-IL-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garc\u00eda",
+      "middleName": "G. \"Chuy\"",
+      "party": "D",
+      "sponsorshipDate": "2025-12-16",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/G000586?format=json"
+    },
+    {
+      "bioguideId": "D000617",
+      "district": 1,
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-16",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/D000617?format=json"
+    },
+    {
+      "bioguideId": "C001055",
+      "district": 1,
+      "firstName": "Ed",
+      "fullName": "Rep. Case, Ed [D-HI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Case",
+      "party": "D",
+      "sponsorshipDate": "2025-12-17",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/C001055?format=json"
+    },
+    {
+      "bioguideId": "H001081",
+      "district": 5,
+      "firstName": "Jahana",
+      "fullName": "Rep. Hayes, Jahana [D-CT-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hayes",
+      "party": "D",
+      "sponsorshipDate": "2025-12-18",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001081?format=json"
+    },
+    {
+      "bioguideId": "B001315",
+      "district": 13,
+      "firstName": "Nikki",
+      "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budzinski",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001315?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "M000312",
+      "district": 2,
+      "firstName": "James",
+      "fullName": "Rep. McGovern, James P. [D-MA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGovern",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-08",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000312?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2026-01-16",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": 12,
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2026-02-02",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000481?format=json"
+    },
+    {
+      "bioguideId": "M001223",
+      "district": 2,
+      "firstName": "Seth",
+      "fullName": "Rep. Magaziner, Seth [D-RI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Magaziner",
+      "party": "D",
+      "sponsorshipDate": "2026-02-02",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/M001223?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2026-02-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "I000058",
+      "district": 4,
+      "firstName": "Glenn",
+      "fullName": "Rep. Ivey, Glenn [D-MD-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ivey",
+      "party": "D",
+      "sponsorshipDate": "2026-02-10",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/I000058?format=json"
+    },
+    {
+      "bioguideId": "H001103",
+      "district": 0,
+      "firstName": "Pablo",
+      "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hern\u00e1ndez",
+      "middleName": "Jose",
+      "party": "D",
+      "sponsorshipDate": "2026-02-20",
+      "state": "PR",
+      "url": "https://api.congress.gov/v3/member/H001103?format=json"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "S001231",
+      "district": 12,
+      "firstName": "Lateefah",
+      "fullName": "Rep. Simon, Lateefah [D-CA-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-02-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001231?format=json"
+    },
+    {
+      "bioguideId": "L000560",
+      "district": 2,
+      "firstName": "Rick",
+      "fullName": "Rep. Larsen, Rick [D-WA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Larsen",
+      "party": "D",
+      "sponsorshipDate": "2026-02-25",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/L000560?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2026-03-03",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "S001145",
+      "district": 9,
+      "firstName": "Janice",
+      "fullName": "Rep. Schakowsky, Janice D. [D-IL-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schakowsky",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-03",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001145?format=json"
+    },
+    {
+      "bioguideId": "B001287",
+      "district": 6,
+      "firstName": "Ami",
+      "fullName": "Rep. Bera, Ami [D-CA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bera",
+      "party": "D",
+      "sponsorshipDate": "2026-03-04",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    },
+    {
+      "bioguideId": "P000597",
+      "district": 1,
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2026-03-24",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/P000597?format=json"
+    },
+    {
+      "bioguideId": "W000831",
+      "district": 11,
+      "firstName": "James",
+      "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Walkinshaw",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-26",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000831?format=json"
+    },
+    {
+      "bioguideId": "D000635",
+      "district": 3,
+      "firstName": "Maxine",
+      "fullName": "Rep. Dexter, Maxine [D-OR-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dexter",
+      "party": "D",
+      "sponsorshipDate": "2026-04-14",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/D000635?format=json"
+    },
+    {
+      "bioguideId": "J000305",
+      "district": 51,
+      "firstName": "Sara",
+      "fullName": "Rep. Jacobs, Sara [D-CA-51]",
+      "isOriginalCosponsor": false,
+      "lastName": "Jacobs",
+      "party": "D",
+      "sponsorshipDate": "2026-04-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/J000305?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2026-05-11",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "F000481",
+      "district": 2,
+      "firstName": "Shomari",
+      "fullName": "Rep. Figures, Shomari [D-AL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Figures",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/F000481?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-04T14:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Right to Read Act of 2025</strong></p><p>This bill expands access to school libraries and literacy skills support for elementary and secondary school students. It also outlines certain constitutional rights and liability protections related to school libraries.</p><p>Specifically, the bill reauthorizes through FY2030 (1) the Comprehensive Literacy State Development Program, which provides grants to ensure high-quality instruction and effective strategies in reading and writing for children through 12th grade; and (2) the Innovative Approaches to Literacy Program, which provides grants to support the development of literacy skills in low-income communities.</p><p>Additionally, the bill allows Supporting Effective Instruction State Grants to be used to assist local educational agencies (LEAs) and schools in recruiting, hiring, and retaining state-certified school librarians.</p><p>Further, the bill authorizes states and LEAs to use Student Support and Academic Enrichment grants for programs and activities that promote the development of digital literacy and information literacy skills.</p><p>The Department of Education (ED) must direct the National Center for Education Statistics to biennially collect data on school libraries.</p><p>ED must require an assurance from each state and LEA receiving certain funds confirming that it will (1) protect the First Amendment rights of students in school libraries, and (2) provide equal protection in the conduct of school libraries in compliance with the requirements of the Fourteenth Amendment and nondiscrimination laws.</p><p>The bill also provides liability protection to teachers, school librarians, school leaders, paraprofessionals, and other staff for actions that conform with state or local policies regarding the right to read.</p>",
+      "updateDate": "2026-03-05T20:08:20Z",
+      "versionCode": "00"
+    }
+  ]
+}

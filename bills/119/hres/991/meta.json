@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/991/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-13",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "actionTime": "18:34:23",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/991",
+    "number": "991",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000598",
+        "district": 1,
+        "firstName": "Nick",
+        "fullName": "Rep. LaLota, Nick [R-NY-1]",
+        "isByRequest": "N",
+        "lastName": "LaLota",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000598?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/991/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/991/text?format=json"
+    },
+    "title": "Requesting return of official papers on H.R. 1834.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/991/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-01-21T16:20:27Z",
+    "updateDateIncludingText": "2026-07-13T21:34:14Z"
+  }
+}

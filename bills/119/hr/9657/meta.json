@@ -1,0 +1,115 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9657/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9657/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9657/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9657",
+    "number": "9657",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "S000510",
+        "district": 9,
+        "firstName": "Adam",
+        "fullName": "Rep. Smith, Adam [D-WA-9]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/S000510?format=json"
+      }
+    ],
+    "title": "To impose an excise tax on the failure of certain hedge funds owning excess single-family residences to dispose of such residences, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9657/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:30Z",
+    "updateDateIncludingText": "2026-07-14T08:05:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000389",
+      "district": 17,
+      "firstName": "Ro",
+      "fullName": "Rep. Khanna, Ro [D-CA-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Khanna",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000389?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "S001156",
+      "district": 38,
+      "firstName": "Linda",
+      "fullName": "Rep. S\u00e1nchez, Linda T. [D-CA-38]",
+      "isOriginalCosponsor": true,
+      "lastName": "S\u00e1nchez",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001156?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:01:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

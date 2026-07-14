@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1051/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1051/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1051/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-13",
+    "latestAction": {
+      "actionDate": "2025-05-26",
+      "actionTime": "09:16:28",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1051",
+    "number": "1051",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000575",
+        "firstName": "James",
+        "fullName": "Sen. Lankford, James [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Lankford",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/1051/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1051/text?format=json"
+    },
+    "title": "Historic Greenwood District\u2014Black Wall Street National Monument Establishment Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1051/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-13T21:34:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2025-03-13",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-22T20:03:09Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-13T19:41:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

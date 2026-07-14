@@ -1,0 +1,151 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-736",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/736?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 31 (Friday, February 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EVANS of Colorado:\nH.R. 7574.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2225]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "17:04:47",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7574",
+    "number": "7574",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000300",
+        "district": 8,
+        "firstName": "Gabe",
+        "fullName": "Rep. Evans, Gabe [R-CO-8]",
+        "isByRequest": "N",
+        "lastName": "Evans",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/E000300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/text?format=json"
+    },
+    "title": "ELO Realignment and Strategic Engagement Reform Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7574/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:17Z",
+    "updateDateIncludingText": "2026-07-14T08:07:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "P000621",
+      "district": 9,
+      "firstName": "Nellie",
+      "fullName": "Rep. Pou, Nellie [D-NJ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pou",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000621?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T20:13:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T13:56:36Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-13T15:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-05-14T13:56:45Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-05-14T04:00:00Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-02-14T14:55:51Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Counterterrorism and Intelligence Subcommittee",
+          "systemCode": "hshm05",
+          "url": "https://api.congress.gov/v3/committee/house/hshm05?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>ELO Realignment and Strategic Engagement Reform Act of 2026</strong></p><p>This bill&nbsp;requires the Department of Homeland Security (DHS) to develop a comprehensive plan to reorganize its Engagement, Liaison, and Outreach (ELO) Office and submit such plan to Congress. The bill also limits certain DHS actions until DHS submits the plan to Congress and certifies that it is being implemented.</p><p>ELO is part of DHS's Office of Intelligence and Analysis (I&amp;A). ELO manages strategic relationships with I&amp;A\u2019s international stakeholders&nbsp;and&nbsp;federal, state, local, tribal, territorial, and&nbsp;private sector partners, including by facilitating intelligence and information sharing.</p><p>Under the bill, the plan must</p><ul><li>identify redundant or non-essential positions, programs, or functions within&nbsp;ELO;&nbsp;</li><li>specify how reorganization of ELO will address such redundant or non-essential positions, programs, or functions;</li><li>realign essential functions and personnel of&nbsp;ELO within the Partner Engagement directorate of I&amp;A; and</li><li>improve the management and coordination of strategic relationships with priority law enforcement agencies.</li></ul><p>Until DHS submits this plan to Congress and certifies that it is being implemented, DHS may not (1) expand the staffing, budget, or programmatic scope of&nbsp;ELO; or (2) establish new offices duplicating the mission of ELO or the Partner Engagement directorate without congressional authorization.</p>",
+      "updateDate": "2026-07-10T13:02:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

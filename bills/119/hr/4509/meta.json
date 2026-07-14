@@ -1,0 +1,503 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4509/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4509/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LANDSMAN:\nH.R. 4509.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 of the U.S. Constitution\n[Page H3476]\n</pre>",
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4509/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4509",
+    "number": "4509",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000601",
+        "district": 1,
+        "firstName": "Greg",
+        "fullName": "Rep. Landsman, Greg [D-OH-1]",
+        "isByRequest": "N",
+        "lastName": "Landsman",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000601?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4509/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4509/text?format=json"
+    },
+    "title": "NOPAIN for Veterans Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4509/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:45Z",
+    "updateDateIncludingText": "2026-07-14T08:06:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    },
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    },
+    {
+      "bioguideId": "S001185",
+      "district": 7,
+      "firstName": "Terri",
+      "fullName": "Rep. Sewell, Terri A. [D-AL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sewell",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/S001185?format=json"
+    },
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    },
+    {
+      "bioguideId": "K000389",
+      "district": 17,
+      "firstName": "Ro",
+      "fullName": "Rep. Khanna, Ro [D-CA-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Khanna",
+      "party": "D",
+      "sponsorshipDate": "2025-07-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000389?format=json"
+    },
+    {
+      "bioguideId": "S001211",
+      "district": 4,
+      "firstName": "Greg",
+      "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stanton",
+      "party": "D",
+      "sponsorshipDate": "2025-10-03",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001211?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-10-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2025-10-08",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2025-10-31",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "M001234",
+      "district": 3,
+      "firstName": "Kelly",
+      "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Morrison",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/M001234?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-11-21",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": 0,
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-12-01",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/M001238?format=json"
+    },
+    {
+      "bioguideId": "K000402",
+      "district": 26,
+      "firstName": "Timothy",
+      "fullName": "Rep. Kennedy, Timothy M. [D-NY-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/K000402?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "D000617",
+      "district": 1,
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/D000617?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2025-12-19",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-01-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2026-01-22",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "M001206",
+      "district": 25,
+      "firstName": "Joseph",
+      "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Morelle",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-11",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001206?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-26",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    },
+    {
+      "bioguideId": "T000491",
+      "district": 45,
+      "firstName": "Derek",
+      "fullName": "Rep. Tran, Derek [D-CA-45]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tran",
+      "party": "D",
+      "sponsorshipDate": "2026-03-05",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000491?format=json"
+    },
+    {
+      "bioguideId": "G000604",
+      "district": 2,
+      "firstName": "Maggie",
+      "fullName": "Rep. Goodlander, Maggie [D-NH-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Goodlander",
+      "party": "D",
+      "sponsorshipDate": "2026-03-26",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/G000604?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-02",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-23",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    },
+    {
+      "bioguideId": "K000375",
+      "district": 9,
+      "firstName": "William",
+      "fullName": "Rep. Keating, William R. [D-MA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Keating",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/K000375?format=json"
+    },
+    {
+      "bioguideId": "B001281",
+      "district": 3,
+      "firstName": "Joyce",
+      "fullName": "Rep. Beatty, Joyce [D-OH-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Beatty",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001281?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2026-05-26",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "B001315",
+      "district": 13,
+      "firstName": "Nikki",
+      "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budzinski",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001315?format=json"
+    },
+    {
+      "bioguideId": "B001318",
+      "district": 0,
+      "firstName": "Becca",
+      "fullName": "Rep. Balint, Becca [D-VT-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Balint",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/B001318?format=json"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": 5,
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/C001061?format=json"
+    },
+    {
+      "bioguideId": "H001047",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Himes, James A. [D-CT-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Himes",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001047?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-17T13:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-01-13T17:12:52Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-12-19T19:01:07Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsvr03",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr03?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ]
+}

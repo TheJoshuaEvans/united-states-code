@@ -1,0 +1,71 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9644/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9644/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9644",
+    "number": "9644",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "M001224",
+        "district": 1,
+        "firstName": "Nathaniel",
+        "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+        "isByRequest": "N",
+        "lastName": "Moran",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/M001224?format=json"
+      }
+    ],
+    "title": "To amend title XVIII of the Social Security Act to promote transparency of Medicare Advantage plan information.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9644/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:51Z",
+    "updateDateIncludingText": "2026-07-14T08:06:51Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

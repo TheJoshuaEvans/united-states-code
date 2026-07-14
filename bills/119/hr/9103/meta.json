@@ -1,0 +1,225 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9103/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9103/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 93 (Tuesday, June 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NORMAN:\nH.R. 9103.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3775]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9103/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-02",
+    "latestAction": {
+      "actionDate": "2026-06-02",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9103",
+    "number": "9103",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000190",
+        "district": 5,
+        "firstName": "Ralph",
+        "fullName": "Rep. Norman, Ralph [R-SC-5]",
+        "isByRequest": "N",
+        "lastName": "Norman",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/N000190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9103/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9103/text?format=json"
+    },
+    "title": "Merit Restoration Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9103/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:39Z",
+    "updateDateIncludingText": "2026-07-14T08:06:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "S001224",
+      "district": 3,
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S001224?format=json"
+    },
+    {
+      "bioguideId": "B001309",
+      "district": 2,
+      "firstName": "Tim",
+      "fullName": "Rep. Burchett, Tim [R-TN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Burchett",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001309?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "F000484",
+      "district": 6,
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000484?format=json"
+    },
+    {
+      "bioguideId": "C001116",
+      "district": 9,
+      "firstName": "Andrew",
+      "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Clyde",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001116?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9417/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9417/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 106 (Wednesday, June 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BACON:\nH.R. 9417.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4246]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9417/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9417",
+    "number": "9417",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001298",
+        "district": 2,
+        "firstName": "Don",
+        "fullName": "Rep. Bacon, Don [R-NE-2]",
+        "isByRequest": "N",
+        "lastName": "Bacon",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/B001298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9417/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9417/text?format=json"
+    },
+    "title": "Artemis II Congressional Gold Medal Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9417/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:26Z",
+    "updateDateIncludingText": "2026-07-14T08:05:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000830",
+      "district": 27,
+      "firstName": "George",
+      "fullName": "Rep. Whitesides, George [D-CA-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitesides",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/W000830?format=json"
+    },
+    {
+      "bioguideId": "E000300",
+      "district": 8,
+      "firstName": "Gabe",
+      "fullName": "Rep. Evans, Gabe [R-CO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Evans",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/E000300?format=json"
+    },
+    {
+      "bioguideId": "I000058",
+      "district": 4,
+      "firstName": "Glenn",
+      "fullName": "Rep. Ivey, Glenn [D-MD-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ivey",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/I000058?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "R000395",
+      "district": 5,
+      "firstName": "Harold",
+      "fullName": "Rep. Rogers, Harold [R-KY-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rogers",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/R000395?format=json"
+    },
+    {
+      "bioguideId": "M001240",
+      "district": 6,
+      "firstName": "Addison",
+      "fullName": "Rep. McDowell, Addison P. [R-NC-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McDowell",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001240?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T14:05:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ]
+}

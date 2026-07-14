@@ -1,0 +1,315 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9099/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9099/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 93 (Tuesday, June 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KENNEDY of New York:\nH.R. 9099.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the U.S. Constitution\n[Page H3775]\n</pre>",
+    "cosponsors": {
+      "count": 17,
+      "countIncludingWithdrawnCosponsors": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9099/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-02",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9099",
+    "number": "9099",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000402",
+        "district": 26,
+        "firstName": "Timothy",
+        "fullName": "Rep. Kennedy, Timothy M. [D-NY-26]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/K000402?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9099/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9099/text?format=json"
+    },
+    "title": "DHS Release Transparency Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9099/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:10Z",
+    "updateDateIncludingText": "2026-07-14T08:07:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000193",
+      "district": 2,
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/T000193?format=json"
+    },
+    {
+      "bioguideId": "M001188",
+      "district": 6,
+      "firstName": "Grace",
+      "fullName": "Rep. Meng, Grace [D-NY-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meng",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001188?format=json"
+    },
+    {
+      "bioguideId": "R000606",
+      "district": 8,
+      "firstName": "Jamie",
+      "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Raskin",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/R000606?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    },
+    {
+      "bioguideId": "W000831",
+      "district": 11,
+      "firstName": "James",
+      "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Walkinshaw",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000831?format=json"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "N000002",
+      "district": 12,
+      "firstName": "Jerrold",
+      "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nadler",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/N000002?format=json"
+    },
+    {
+      "bioguideId": "E000297",
+      "district": 13,
+      "firstName": "Adriano",
+      "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Espaillat",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/E000297?format=json"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2026-06-04",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-04",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": 28,
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001080?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "B001300",
+      "district": 44,
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001300?format=json"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": 10,
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/M001229?format=json"
+    },
+    {
+      "bioguideId": "J000310",
+      "district": 32,
+      "firstName": "Julie",
+      "fullName": "Rep. Johnson, Julie [D-TX-32]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/J000310?format=json"
+    },
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray [D-CA-31]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2026-07-06",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:51:47Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-02T16:00:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

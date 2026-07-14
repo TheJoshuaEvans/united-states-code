@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9468/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9468/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HERN of Oklahoma:\nH.R. 9468.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H4263]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9468/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9468",
+    "number": "9468",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001082",
+        "district": 1,
+        "firstName": "Kevin",
+        "fullName": "Rep. Hern, Kevin [R-OK-1]",
+        "isByRequest": "N",
+        "lastName": "Hern",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/H001082?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9468/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9468/text?format=json"
+    },
+    "title": "STAR Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9468/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:31Z",
+    "updateDateIncludingText": "2026-07-14T08:05:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001205",
+      "district": 1,
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001205?format=json"
+    },
+    {
+      "bioguideId": "S001199",
+      "district": 11,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smucker",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001199?format=json"
+    },
+    {
+      "bioguideId": "K000376",
+      "district": 16,
+      "firstName": "Mike",
+      "fullName": "Rep. Kelly, Mike [R-PA-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/K000376?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:05:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

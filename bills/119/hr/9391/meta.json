@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "16:24:42",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9391",
+    "number": "9391",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000597",
+        "district": 2,
+        "firstName": "Andrew",
+        "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+        "isByRequest": "N",
+        "lastName": "Garbarino",
+        "middleName": "R.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/G000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/text?format=json"
+    },
+    "title": "Reimbursable Screening Services Program Extension Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9391/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:15Z",
+    "updateDateIncludingText": "2026-07-14T08:07:15Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000621",
+      "district": 9,
+      "firstName": "Nellie",
+      "fullName": "Rep. Pou, Nellie [D-NJ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pou",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/P000621?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:24:46Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T13:57:54Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-23T16:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Reimbursable Screening Services Program Extension Act of 2026</strong></p><p>This bill extends the Transportation Security Administration (TSA) Reimbursable Screening Services Program&nbsp;through FY2031. The bill also allows&nbsp;TSA&nbsp;to expand the pilot program to up to 14 locations, from the current limit of not more than 8 locations.&nbsp;</p><p>The Reimbursable Screening Services Program is a pilot program that allows TSA to be reimbursed for establishing and providing screening services outside an airport terminal\u2019s existing primary screening area for passengers.</p>",
+      "updateDate": "2026-07-08T16:55:22Z",
+      "versionCode": "00"
+    }
+  ]
+}

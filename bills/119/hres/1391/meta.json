@@ -1,0 +1,319 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1391/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1391/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1391/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1391",
+    "number": "1391",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001278",
+        "district": 1,
+        "firstName": "Suzanne",
+        "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+        "isByRequest": "N",
+        "lastName": "Bonamici",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/B001278?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1391/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1391/text?format=json"
+    },
+    "title": "Impeaching Linda M. McMahon, Secretary of Education, for high crimes and misdemeanors.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1391/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-14T08:06:54Z",
+    "updateDateIncludingText": "2026-07-14T08:06:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000623",
+      "district": 10,
+      "firstName": "Mark",
+      "fullName": "Rep. DeSaulnier, Mark [D-CA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "DeSaulnier",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/D000623?format=json"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": 7,
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000606?format=json"
+    },
+    {
+      "bioguideId": "T000472",
+      "district": 39,
+      "firstName": "Mark",
+      "fullName": "Rep. Takano, Mark [D-CA-39]",
+      "isOriginalCosponsor": true,
+      "lastName": "Takano",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000472?format=json"
+    },
+    {
+      "bioguideId": "H001081",
+      "district": 5,
+      "firstName": "Jahana",
+      "fullName": "Rep. Hayes, Jahana [D-CT-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hayes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/H001081?format=json"
+    },
+    {
+      "bioguideId": "E000299",
+      "district": 16,
+      "firstName": "Veronica",
+      "fullName": "Rep. Escobar, Veronica [D-TX-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Escobar",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/E000299?format=json"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
+    },
+    {
+      "bioguideId": "S001231",
+      "district": 12,
+      "firstName": "Lateefah",
+      "fullName": "Rep. Simon, Lateefah [D-CA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001231?format=json"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": 12,
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000481?format=json"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "Q000023",
+      "district": 5,
+      "firstName": "Mike",
+      "fullName": "Rep. Quigley, Mike [D-IL-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Quigley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/Q000023?format=json"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": 8,
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000559?format=json"
+    },
+    {
+      "bioguideId": "M001163",
+      "district": 7,
+      "firstName": "Doris",
+      "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Matsui",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/M001163?format=json"
+    },
+    {
+      "bioguideId": "D000635",
+      "district": 3,
+      "firstName": "Maxine",
+      "fullName": "Rep. Dexter, Maxine [D-OR-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dexter",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/D000635?format=json"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": 13,
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/T000488?format=json"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    },
+    {
+      "bioguideId": "P000607",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Pocan, Mark [D-WI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pocan",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/P000607?format=json"
+    },
+    {
+      "bioguideId": "B001324",
+      "district": 1,
+      "firstName": "Wesley",
+      "fullName": "Rep. Bell, Wesley [D-MO-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bell",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/B001324?format=json"
+    },
+    {
+      "bioguideId": "B001285",
+      "district": 26,
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001285?format=json"
+    },
+    {
+      "bioguideId": "O000173",
+      "district": 5,
+      "firstName": "Ilhan",
+      "fullName": "Rep. Omar, Ilhan [D-MN-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Omar",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/O000173?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:03:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

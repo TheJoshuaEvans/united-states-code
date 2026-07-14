@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1416/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1416/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1416/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1416",
+    "number": "1416",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000610",
+        "firstName": "Stacey",
+        "fullName": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+        "isByRequest": "N",
+        "lastName": "Plaskett",
+        "middleName": "E.",
+        "party": "D",
+        "state": "VI",
+        "url": "https://api.congress.gov/v3/member/P000610?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1416/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1416/text?format=json"
+    },
+    "title": "Reaffirming the consent of the governed as the United States marks 250 years of independence.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1416/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-13T21:00:16Z",
+    "updateDateIncludingText": "2026-07-13T21:00:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001103",
+      "district": 0,
+      "firstName": "Pablo",
+      "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hern\u00e1ndez",
+      "middleName": "Jose",
+      "party": "D",
+      "sponsorshipDate": "2026-07-02",
+      "state": "PR",
+      "url": "https://api.congress.gov/v3/member/H001103?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T13:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

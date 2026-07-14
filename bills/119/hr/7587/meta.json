@@ -1,0 +1,108 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 31 (Friday, February 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VINDMAN:\nH.R. 7587.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\n[Page H2225]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-13",
+    "latestAction": {
+      "actionDate": "2026-02-13",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7587",
+    "number": "7587",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000138",
+        "district": 7,
+        "firstName": "Eugene",
+        "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "isByRequest": "N",
+        "lastName": "Vindman",
+        "middleName": "Simon",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/V000138?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/text?format=json"
+    },
+    "title": "United States-Israel Agriculture Cooperation Improvement and Expansion Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7587/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:10Z",
+    "updateDateIncludingText": "2026-07-14T08:07:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-13T15:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

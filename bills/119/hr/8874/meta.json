@@ -1,0 +1,143 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 85 (Tuesday, May 19, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARTER of Louisiana:\nH.R. 8874.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto Article I, Section 8 of the Constitution.\n[Page H3628]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-19",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "16:20:43",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8874",
+    "number": "8874",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001125",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+        "isByRequest": "N",
+        "lastName": "Carter",
+        "middleName": "A.",
+        "party": "D",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001125?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/text?format=json"
+    },
+    "title": "Homeland Security Capabilities Preservation Reporting Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8874/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:23Z",
+    "updateDateIncludingText": "2026-07-14T08:06:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000193",
+      "district": 2,
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/T000193?format=json"
+    },
+    {
+      "bioguideId": "G000593",
+      "district": 28,
+      "firstName": "Carlos",
+      "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gimenez",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/G000593?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:27:02Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T20:28:35Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-19T16:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-24T20:28:26Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-05-20T17:52:54Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Emergency Management and Technology Subcommittee",
+          "systemCode": "hshm12",
+          "url": "https://api.congress.gov/v3/committee/house/hshm12?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-19",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Homeland Security Capabilities Preservation Reporting Act of 2026</strong></p><p>This bill requires the Federal Emergency Management Agency (FEMA) to submit a report to Congress every three years (current law requires only one report) regarding urban areas\u2019 security capabilities previously supported with funding from the Urban Area Security Initiative (UASI) and at risk of being reduced or eliminated without additional federal assistance. FEMA\u2019s UASI grants assist designated high-risk urban areas with developing and sustaining capabilities to prevent, prepare for, protect against, and respond to acts of terrorism.</p><p>Each report must contain a proposal for&nbsp;FEMA to provide financial assistance for at least three consecutive years to urban areas previously receiving UASI funds to allow them to transition to other funding sources to preserve their security capabilities.</p>",
+      "updateDate": "2026-07-08T15:08:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

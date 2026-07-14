@@ -1,0 +1,180 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-29",
+    "latestAction": {
+      "actionDate": "2025-01-29",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/304",
+    "number": "304",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000359",
+        "firstName": "Lindsey",
+        "fullName": "Sen. Graham, Lindsey [R-SC]",
+        "isByRequest": "N",
+        "lastName": "Graham",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/G000359?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/text?format=json"
+    },
+    "title": "Birthright Citizenship Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/304/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-13T20:36:23Z",
+    "updateDateIncludingText": "2026-07-13T20:36:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-01-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2025-01-29",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-05-06",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-05-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2025-05-19",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-12-16",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-29T18:35:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-29",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Birthright Citizenship Act of 2025 </strong></p><p>This bill limits birthright citizenship by redefining what it means to be <em>subject to the jurisdiction</em> of the United States.</p><p>Currently, a person born in the United States and subject to U.S. jurisdiction is entitled to citizenship. Under the bill, a person is subject to U.S. jurisdiction if he or she is born to a parent who is (1) a U.S. citizen or national, (2) a lawful permanent resident residing in the United States, or (3) a non-U.S. national (<em>alien </em>under federal law)&nbsp;in lawful status who is performing active service in the Armed Forces.</p><p>The bill does not affect the citizenship or nationality status of any person born before the bill's enactment date.</p>",
+      "updateDate": "2025-05-23T19:37:08Z",
+      "versionCode": "00"
+    }
+  ]
+}

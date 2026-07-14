@@ -1,0 +1,362 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 187 (Friday, November 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FLOOD:\nH.R. 5945.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Sec. 8\n[Page H4586]\n</pre>",
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-07",
+    "latestAction": {
+      "actionDate": "2025-11-07",
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5945",
+    "number": "5945",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000474",
+        "district": 1,
+        "firstName": "Mike",
+        "fullName": "Rep. Flood, Mike [R-NE-1]",
+        "isByRequest": "N",
+        "lastName": "Flood",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000474?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/text?format=json"
+    },
+    "title": "USS Frank E. Evans Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5945/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:21Z",
+    "updateDateIncludingText": "2026-07-14T08:06:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001080",
+      "district": 28,
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": true,
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001080?format=json"
+    },
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2025-11-07",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-11-07",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "S000344",
+      "district": 32,
+      "firstName": "Brad",
+      "fullName": "Rep. Sherman, Brad [D-CA-32]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sherman",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S000344?format=json"
+    },
+    {
+      "bioguideId": "B001300",
+      "district": 44,
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001300?format=json"
+    },
+    {
+      "bioguideId": "T000460",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Thompson, Mike [D-CA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/T000460?format=json"
+    },
+    {
+      "bioguideId": "L000593",
+      "district": 49,
+      "firstName": "Mike",
+      "fullName": "Rep. Levin, Mike [D-CA-49]",
+      "isOriginalCosponsor": true,
+      "lastName": "Levin",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000593?format=json"
+    },
+    {
+      "bioguideId": "C001069",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Courtney, Joe [D-CT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Courtney",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/C001069?format=json"
+    },
+    {
+      "bioguideId": "G000598",
+      "district": 42,
+      "firstName": "Robert",
+      "fullName": "Rep. Garcia, Robert [D-CA-42]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garcia",
+      "party": "D",
+      "sponsorshipDate": "2025-11-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000598?format=json"
+    },
+    {
+      "bioguideId": "S001172",
+      "district": 3,
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-11-12",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/S001172?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-11-17",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-11-19",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "C001121",
+      "district": 6,
+      "firstName": "Jason",
+      "fullName": "Rep. Crow, Jason [D-CO-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crow",
+      "party": "D",
+      "sponsorshipDate": "2025-11-19",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001121?format=json"
+    },
+    {
+      "bioguideId": "C001112",
+      "district": 24,
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001112?format=json"
+    },
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-12-18",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    },
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2026-01-08",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "R000622",
+      "district": 19,
+      "firstName": "Josh",
+      "fullName": "Rep. Riley, Josh [D-NY-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Riley",
+      "party": "D",
+      "sponsorshipDate": "2026-02-02",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000622?format=json"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-04-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "C001118",
+      "district": 6,
+      "firstName": "Ben",
+      "fullName": "Rep. Cline, Ben [R-VA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cline",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001118?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-07T19:04:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-11-07T19:04:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p><b>USS Frank E. Evans Act</b></p> <p>This bill requires the Department of Defense to authorize inclusion on the Vietnam Veterans Memorial Wall in the District of Columbia of the names of the 74 crew members of the USS <i>Frank E. Evans</i> killed on June 3, 1969.</p>",
+      "updateDate": "2026-04-08T20:28:03Z",
+      "versionCode": "00"
+    }
+  ]
+}

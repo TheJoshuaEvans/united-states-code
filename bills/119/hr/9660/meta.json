@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9660/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9660/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Permanent Select Committee on Intelligence."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9660",
+    "number": "9660",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "T000478",
+        "district": 24,
+        "firstName": "Claudia",
+        "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+        "isByRequest": "N",
+        "lastName": "Tenney",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000478?format=json"
+      }
+    ],
+    "title": "To prohibit the use of funds by the intelligence community for research, development, or technical support performed by any National Laboratory that lacks certain security measures.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9660/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:46Z",
+    "updateDateIncludingText": "2026-07-14T08:06:46Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8981/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8981/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 87 (Thursday, May 21, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. McCLAIN DELANEY:\nH.R. 8981.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3 (Commerce Clause)\n[Page H3725]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8981/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-21",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8981",
+    "number": "8981",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001232",
+        "district": 6,
+        "firstName": "April",
+        "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+        "isByRequest": "N",
+        "lastName": "McClain Delaney",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/M001232?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8981/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8981/text?format=json"
+    },
+    "title": "SCALE Biology Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8981/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:51Z",
+    "updateDateIncludingText": "2026-07-14T08:06:51Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000019",
+      "district": 23,
+      "firstName": "Jay",
+      "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Obernolte",
+      "party": "R",
+      "sponsorshipDate": "2026-05-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/O000019?format=json"
+    },
+    {
+      "bioguideId": "L000397",
+      "district": 18,
+      "firstName": "Zoe",
+      "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lofgren",
+      "party": "D",
+      "sponsorshipDate": "2026-05-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000397?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-21",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-06-15",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-21T14:05:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

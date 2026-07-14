@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-11",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Placed on the Union Calendar, Calendar No. 651."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8720",
+    "number": "8720",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/text?format=json"
+    },
+    "title": "Campaign Finance Transparency Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8720/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:36Z",
+    "updateDateIncludingText": "2026-07-14T08:06:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001211",
+      "district": 15,
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/M001211?format=json"
+    },
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:28:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-14T17:14:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-11T14:30:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Campaign Finance Transparency Act</strong></p><p>This bill addresses campaign finance in federal elections, including by expanding contribution and disclosure requirements.</p><p>Specifically, the bill requires political committees, when accepting a credit&nbsp;or debit card contribution over the internet, to collect the credit or debit card's (1) verification value or verification code, and (2) ZIP Code of the billing address associated with the card.&nbsp;The bill generally&nbsp;requires an individual or entity making a contribution to have a U.S. mailing address; however, the bill provides an exception for&nbsp;U.S. citizens, nationals, or those lawfully admitted for permanent residence who provide the political committee with&nbsp;specified identifying information.</p><p>The bill prohibits political committees from (1) accepting any credit or debit card contribution unless the name on the card used to make such contribution matches the name of the individual or entity donating the contribution, or (2) accepting a contribution made through the use of a gift certificate or store gift card.</p><p>The bill removes a $200 threshold requirement for disclosing contributions, thereby requiring political committees to report identifying information about contributors, regardless of the amount contributed.</p><p>The bill also prohibits knowingly directing, helping, or assisting any person in making a contribution in the name of another person.&nbsp;Any recipient of a contribution who suspects that the contribution was&nbsp;made by one person in the name of another person shall report it to the Federal Election Commission (FEC).</p><p>The FEC must promulgate regulations to carry out this bill.</p>",
+      "updateDate": "2026-07-10T13:37:52Z",
+      "versionCode": "00"
+    }
+  ]
+}

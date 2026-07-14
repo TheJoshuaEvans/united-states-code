@@ -1,0 +1,141 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8757/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8757/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 80 (Tuesday, May 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of Utah:\nH.R. 8757.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H3394]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8757/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-12",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8757",
+    "number": "8757",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Families"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001213",
+        "district": 1,
+        "firstName": "Blake",
+        "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "D.",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/M001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8757/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8757/text?format=json"
+    },
+    "title": "Promoting Childhood Independence and Resilience Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8757/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:44Z",
+    "updateDateIncludingText": "2026-07-14T08:06:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001227",
+      "district": 4,
+      "firstName": "Jennifer",
+      "fullName": "Rep. McClellan, Jennifer L. [D-VA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClellan",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001227?format=json"
+    },
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": 17,
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-15",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000530?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-12T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-12T16:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9191/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9191/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9191/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-08",
+    "latestAction": {
+      "actionDate": "2026-06-08",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9191",
+    "number": "9191",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9191/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9191/text?format=json"
+    },
+    "title": "National Fossil Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9191/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:06Z",
+    "updateDateIncludingText": "2026-07-14T08:07:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000624",
+      "district": 6,
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/D000624?format=json"
+    },
+    {
+      "bioguideId": "J000301",
+      "district": 0,
+      "firstName": "Dusty",
+      "fullName": "Rep. Johnson, Dusty [R-SD-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/J000301?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "M000871",
+      "district": 1,
+      "firstName": "Tracey",
+      "fullName": "Rep. Mann, Tracey [R-KS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mann",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000871?format=json"
+    },
+    {
+      "bioguideId": "G000576",
+      "district": 6,
+      "firstName": "Glenn",
+      "fullName": "Rep. Grothman, Glenn [R-WI-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grothman",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/G000576?format=json"
+    },
+    {
+      "bioguideId": "S001205",
+      "district": 5,
+      "firstName": "Mary Gay",
+      "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scanlon",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001205?format=json"
+    },
+    {
+      "bioguideId": "O000177",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Onder, Robert F. [R-MO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Onder",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/O000177?format=json"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": 24,
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000134?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-08T16:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

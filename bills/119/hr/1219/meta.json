@@ -1,0 +1,177 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 28 (Tuesday, February 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VAN DREW:\nH.R. 1219.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Sec. 8\n[Page H646]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-11",
+    "latestAction": {
+      "actionDate": "2025-02-11",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1219",
+    "number": "1219",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000133",
+        "district": 2,
+        "firstName": "Jefferson",
+        "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+        "isByRequest": "N",
+        "lastName": "Van Drew",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/V000133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/text?format=json"
+    },
+    "title": "Oral Health Products Inclusion Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1219/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:01Z",
+    "updateDateIncludingText": "2026-07-14T08:07:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001190",
+      "district": 10,
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001190?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-02-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    },
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    },
+    {
+      "bioguideId": "M001205",
+      "district": 1,
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001205?format=json"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": 24,
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000134?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-11T15:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Oral Health Products Inclusion Act</strong></p><p>This bill allows individuals to use funds in a flexible spending arrangement (FSA), health reimbursement arrangement (HRA), health savings account (HSA), or Archer medical savings account (Archer MSA) to pay for toothbrushes (manual or electric), water flossers, and oral health products.</p><p>Under current law, reimbursements from an FSA or HRA and tax-free distributions from an HSA or Archer MSA may be used to pay for the qualified medical expenses. Reimbursements from an FSA or HRA for nonmedical expenses generally are not allowed and distributions from an HSA or Archer MSA for nonmedical expenses generally are taxed as income and may be subject to an additional penalty.</p><p>Under the bill, the definition of qualified medical expenses is expanded to include toothbrushes (manual or electric), water flossers, and oral health products.</p><p>The bill defines an <em>oral health product</em> as an over-the-counter product that is (1) used for preventing or treating dental cavities, plaque, or gingivitis;&nbsp;(2) suitable for topical administration to the teeth or gums; and (3) generally recognized as safe and effective.&nbsp;</p>",
+      "updateDate": "2025-06-27T16:31:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

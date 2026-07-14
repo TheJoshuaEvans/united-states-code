@@ -1,0 +1,226 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1426/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1426/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1426/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1426",
+    "number": "1426",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "K000376",
+        "district": 16,
+        "firstName": "Mike",
+        "fullName": "Rep. Kelly, Mike [R-PA-16]",
+        "isByRequest": "N",
+        "lastName": "Kelly",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/K000376?format=json"
+      }
+    ],
+    "title": "Remembering the life of Corey Comperatore who passed away on Saturday, July 13, 2024.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1426/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-14T08:05:57Z",
+    "updateDateIncludingText": "2026-07-14T08:05:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "C001115",
+      "district": 27,
+      "firstName": "Michael",
+      "fullName": "Rep. Cloud, Michael [R-TX-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cloud",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001115?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "T000467",
+      "district": 15,
+      "firstName": "Glenn",
+      "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/T000467?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    },
+    {
+      "bioguideId": "H001095",
+      "district": 38,
+      "firstName": "Wesley",
+      "fullName": "Rep. Hunt, Wesley [R-TX-38]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hunt",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/H001095?format=json"
+    },
+    {
+      "bioguideId": "M001240",
+      "district": 6,
+      "firstName": "Addison",
+      "fullName": "Rep. McDowell, Addison P. [R-NC-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "McDowell",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001240?format=json"
+    },
+    {
+      "bioguideId": "L000600",
+      "district": 23,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Langworthy",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000600?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

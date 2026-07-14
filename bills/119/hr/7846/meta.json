@@ -1,0 +1,168 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 42 (Thursday, March 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RULLI:\nH.R. 7846.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2473]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-03-05",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7846",
+    "number": "7846",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000619",
+        "district": 6,
+        "firstName": "Michael",
+        "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+        "isByRequest": "N",
+        "lastName": "Rulli",
+        "middleName": "A.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/R000619?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/text?format=json"
+    },
+    "title": "Halo Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7846/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:07Z",
+    "updateDateIncludingText": "2026-07-14T08:07:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "S001148",
+      "district": 2,
+      "firstName": "Michael",
+      "fullName": "Rep. Simpson, Michael K. [R-ID-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Simpson",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/S001148?format=json"
+    },
+    {
+      "bioguideId": "F000484",
+      "district": 6,
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000484?format=json"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": 26,
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2026-03-26",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000603?format=json"
+    },
+    {
+      "bioguideId": "B001291",
+      "district": 36,
+      "firstName": "Brian",
+      "fullName": "Rep. Babin, Brian [R-TX-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Babin",
+      "party": "R",
+      "sponsorshipDate": "2026-05-11",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/B001291?format=json"
+    },
+    {
+      "bioguideId": "F000246",
+      "district": 4,
+      "firstName": "Pat",
+      "fullName": "Rep. Fallon, Pat [R-TX-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fallon",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000246?format=json"
+    },
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-05T15:05:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

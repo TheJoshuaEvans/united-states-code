@@ -1,0 +1,151 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7813/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Science, Space, and Technology on March 18, 2026",
+        "pubDate": "2026-05-27T15:32:00Z",
+        "title": "H.R. 7813, NOAA Weather Radio Modernization Act",
+        "url": "https://www.cbo.gov/publication/62483"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7813/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 42 (Thursday, March 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BABIN:\nH.R. 7813.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Constitution, Article I, Section 8, Clause 18:\n``The Congress shall have Power. . . To make all Laws which\nshall be necessary and proper for carrying into Execution the\nforgoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.''\n[Page H2472]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7813/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Ordered to be Reported (Amended) by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7813",
+    "number": "7813",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001291",
+        "district": 36,
+        "firstName": "Brian",
+        "fullName": "Rep. Babin, Brian [R-TX-36]",
+        "isByRequest": "N",
+        "lastName": "Babin",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/B001291?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7813/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7813/text?format=json"
+    },
+    "title": "NOAA Weather Radio Modernization Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7813/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:46Z",
+    "updateDateIncludingText": "2026-07-14T08:06:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    },
+    {
+      "bioguideId": "S001225",
+      "district": 17,
+      "firstName": "Eric",
+      "fullName": "Rep. Sorensen, Eric [D-IL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sorensen",
+      "party": "D",
+      "sponsorshipDate": "2026-03-05",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001225?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "A000380",
+      "district": 1,
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2026-03-05",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/A000380?format=json"
+    },
+    {
+      "bioguideId": "K000399",
+      "district": 2,
+      "firstName": "Jennifer",
+      "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kiggans",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000399?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-05T15:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

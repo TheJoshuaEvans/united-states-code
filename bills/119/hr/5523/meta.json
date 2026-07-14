@@ -1,0 +1,129 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 154 (Friday, September 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEHLS:\nH.R. 5523.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H4489]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-19",
+    "latestAction": {
+      "actionDate": "2025-09-20",
+      "text": "Referred to the Subcommittee on Aviation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5523",
+    "number": "5523",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000026",
+        "district": 22,
+        "firstName": "Troy",
+        "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+        "isByRequest": "N",
+        "lastName": "Nehls",
+        "middleName": "E.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/N000026?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/text?format=json"
+    },
+    "title": "Let Experienced Pilots Fly Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5523/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:29Z",
+    "updateDateIncludingText": "2026-07-14T08:06:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2025-09-23",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    },
+    {
+      "bioguideId": "A000369",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Amodei, Mark E. [R-NV-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Amodei",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/A000369?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-19T13:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-09-20T21:47:42Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Aviation Subcommittee",
+          "systemCode": "hspw05",
+          "url": "https://api.congress.gov/v3/committee/house/hspw05?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-19",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Let Experienced Pilots Fly Act</strong> <strong>of 2025</strong></p><p>This bill raises the mandatory retirement age for pilots engaged in commercial aviation operations from 65 to 67 years of age. This age standard does not apply to commercial&nbsp;operations that&nbsp;take&nbsp;place in (1) the territorial airspace of a foreign country that prohibits&nbsp;such operations, or (2) international airspace where such operations are not in compliance with the Annexes to the Convention on International Civil Aviation.</p><p>The bill specifies that a pilot who is over 65 years of age on the date of the bill's enactment may return to service in commercial aviation&nbsp;operations until 67 years of age.</p><p>The Federal Aviation Administration must also submit a report to Congress on further increasing the age limitation for pilots engaged in commercial aviation operations.</p>",
+      "updateDate": "2026-06-16T12:50:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

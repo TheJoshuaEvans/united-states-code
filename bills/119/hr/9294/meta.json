@@ -1,0 +1,139 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9294/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9294/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 99 (Thursday, June 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. PETTERSEN:\nH.R. 9294.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H4113]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9294/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-11",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9294",
+    "number": "9294",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000620",
+        "district": 7,
+        "firstName": "Brittany",
+        "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+        "isByRequest": "N",
+        "lastName": "Pettersen",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/P000620?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9294/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9294/text?format=json"
+    },
+    "title": "Oversight of Temporary ICE Holding Cells Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9294/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:26Z",
+    "updateDateIncludingText": "2026-07-14T08:05:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    },
+    {
+      "bioguideId": "C001121",
+      "district": 6,
+      "firstName": "Jason",
+      "fullName": "Rep. Crow, Jason [D-CO-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crow",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001121?format=json"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/D000197?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T13:06:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:55:12Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T13:06:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

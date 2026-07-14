@@ -1,0 +1,163 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 101 (Thursday, June 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. HOULAHAN:\nH.R. 3969.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H2822]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3969",
+    "number": "3969",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001085",
+        "district": 6,
+        "firstName": "Chrissy",
+        "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+        "isByRequest": "N",
+        "lastName": "Houlahan",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/H001085?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/text?format=json"
+    },
+    "title": "MARCH for Military Servicemembers Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3969/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:02Z",
+    "updateDateIncludingText": "2026-07-14T08:07:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001159",
+      "district": 10,
+      "firstName": "Marilyn",
+      "fullName": "Rep. Strickland, Marilyn [D-WA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Strickland",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S001159?format=json"
+    },
+    {
+      "bioguideId": "J000305",
+      "district": 51,
+      "firstName": "Sara",
+      "fullName": "Rep. Jacobs, Sara [D-CA-51]",
+      "isOriginalCosponsor": true,
+      "lastName": "Jacobs",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/J000305?format=json"
+    },
+    {
+      "bioguideId": "B001285",
+      "district": 26,
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001285?format=json"
+    },
+    {
+      "bioguideId": "S001207",
+      "district": 11,
+      "firstName": "Mikie",
+      "fullName": "Rep. Sherrill, Mikie [D-NJ-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sherrill",
+      "party": "D",
+      "sponsorshipDate": "2025-06-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S001207?format=json"
+    },
+    {
+      "bioguideId": "V000081",
+      "district": 7,
+      "firstName": "Nydia",
+      "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vel\u00e1zquez",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-24",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/V000081?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-12T14:02:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Military Access to Reproductive Care and Health for Military Servicemembers Act or the MARCH for Military Servicemembers Act</strong></p><p>This bill allows Department of Defense (DOD) funds and facilities to be used to perform abortions without restrictions on the reason.&nbsp;Currently, DOD funds and facilities may only be used to perform abortions if the abortion is due to rape, incest, or endangerment of the mother.</p>",
+      "updateDate": "2026-03-18T21:11:34Z",
+      "versionCode": "00"
+    }
+  ]
+}

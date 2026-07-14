@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/978/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "actionTime": "12:04:14",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/978",
+    "number": "978",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000059",
+        "district": 41,
+        "firstName": "Ken",
+        "fullName": "Rep. Calvert, Ken [R-CA-41]",
+        "isByRequest": "N",
+        "lastName": "Calvert",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C000059?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/978/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/978/text?format=json"
+    },
+    "title": "Expressing the profound sorrow of the House of Representatives on the death of the Honorable Doug LaMalfa.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/978/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-01-12T15:50:58Z",
+    "updateDateIncludingText": "2026-07-13T21:34:09Z"
+  }
+}

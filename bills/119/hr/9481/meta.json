@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9481/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9481/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. ROSS:\nH.R. 9481.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4263]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9481/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9481",
+    "number": "9481",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000305",
+        "district": 2,
+        "firstName": "Deborah",
+        "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+        "isByRequest": "N",
+        "lastName": "Ross",
+        "middleName": "K.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000305?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9481/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9481/text?format=json"
+    },
+    "title": "RETURN Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9481/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:31Z",
+    "updateDateIncludingText": "2026-07-14T08:05:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "D000216",
+      "district": 3,
+      "firstName": "Rosa",
+      "fullName": "Rep. DeLauro, Rosa L. [D-CT-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "DeLauro",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/D000216?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:01:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

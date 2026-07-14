@@ -1,0 +1,197 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9340/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9340/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. EVANS of Colorado:\nH.R. 9340.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4126]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9340/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9340",
+    "number": "9340",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000300",
+        "district": 8,
+        "firstName": "Gabe",
+        "fullName": "Rep. Evans, Gabe [R-CO-8]",
+        "isByRequest": "N",
+        "lastName": "Evans",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/E000300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9340/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9340/text?format=json"
+    },
+    "title": "Ratepayer Protection Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9340/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:56Z",
+    "updateDateIncludingText": "2026-07-14T08:06:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001066",
+      "district": 14,
+      "firstName": "Kathy",
+      "fullName": "Rep. Castor, Kathy [D-FL-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Castor",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001066?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "J000302",
+      "district": 13,
+      "firstName": "John",
+      "fullName": "Rep. Joyce, John [R-PA-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Joyce",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/J000302?format=json"
+    },
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "B001322",
+      "district": 5,
+      "firstName": "Michael",
+      "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baumgartner",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/B001322?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "W000804",
+      "district": 1,
+      "firstName": "Robert",
+      "fullName": "Rep. Wittman, Robert J. [R-VA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wittman",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000804?format=json"
+    },
+    {
+      "bioguideId": "O000177",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Onder, Robert F. [R-MO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Onder",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/O000177?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T14:06:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-24T15:05:57Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-06-24T15:05:46Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-06-18T15:05:38Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "hsif03",
+          "url": "https://api.congress.gov/v3/committee/house/hsif03?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

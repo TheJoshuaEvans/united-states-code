@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9654/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9654/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9654",
+    "number": "9654",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "N000147",
+        "firstName": "Eleanor",
+        "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+        "isByRequest": "N",
+        "lastName": "Norton",
+        "middleName": "Holmes",
+        "party": "D",
+        "state": "DC",
+        "url": "https://api.congress.gov/v3/member/N000147?format=json"
+      }
+    ],
+    "title": "To amend the National Capital Revitalization and Self-Government Improvement Act of 1997 to treat domestic partnerships as marriage for purposes of the program of benefits paid by the Federal government for survivors of a District of Columbia police officer, firefighter, or teacher in the same manner and to the same extent that domestic partnerships are treated as marriage for purposes of such benefits which are paid by the District of Columbia, to conform the age limit after which a surviving spouse of a police officer, firefighter, or teacher may remarry without losing survivor benefits under such program to the age limit established with respect to survivor benefits of Federal employees, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9654/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:11Z",
+    "updateDateIncludingText": "2026-07-14T08:07:11Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T16:00:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

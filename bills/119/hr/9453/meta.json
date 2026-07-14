@@ -1,0 +1,372 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLYDE:\nH.R. 9453.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3: ``[The Congress shall have\nPower] To regulate Commerce with foreign Nations, and among\nthe several States, and with the Indian Tribes;''\n[Page H4263]\n</pre>",
+    "cosponsors": {
+      "count": 24,
+      "countIncludingWithdrawnCosponsors": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9453",
+    "number": "9453",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001116",
+        "district": 9,
+        "firstName": "Andrew",
+        "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+        "isByRequest": "N",
+        "lastName": "Clyde",
+        "middleName": "S.",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/C001116?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/text?format=json"
+    },
+    "title": "End EPA Abuse Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:09Z",
+    "updateDateIncludingText": "2026-07-14T08:07:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000609",
+      "district": 6,
+      "firstName": "Gary",
+      "fullName": "Rep. Palmer, Gary J. [R-AL-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Palmer",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/P000609?format=json"
+    },
+    {
+      "bioguideId": "S001214",
+      "district": 17,
+      "firstName": "W.",
+      "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steube",
+      "middleName": "Gregory",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001214?format=json"
+    },
+    {
+      "bioguideId": "R000612",
+      "district": 6,
+      "firstName": "John",
+      "fullName": "Rep. Rose, John W. [R-TN-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rose",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/R000612?format=json"
+    },
+    {
+      "bioguideId": "P000605",
+      "district": 10,
+      "firstName": "Scott",
+      "fullName": "Rep. Perry, Scott [R-PA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Perry",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/P000605?format=json"
+    },
+    {
+      "bioguideId": "B001295",
+      "district": 12,
+      "firstName": "Mike",
+      "fullName": "Rep. Bost, Mike [R-IL-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bost",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001295?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "S001183",
+      "district": 1,
+      "firstName": "David",
+      "fullName": "Rep. Schweikert, David [R-AZ-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schweikert",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/S001183?format=json"
+    },
+    {
+      "bioguideId": "F000469",
+      "district": 1,
+      "firstName": "Russ",
+      "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fulcher",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/F000469?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "C001115",
+      "district": 27,
+      "firstName": "Michael",
+      "fullName": "Rep. Cloud, Michael [R-TX-27]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cloud",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001115?format=json"
+    },
+    {
+      "bioguideId": "M001211",
+      "district": 15,
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/M001211?format=json"
+    },
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "F000484",
+      "district": 6,
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000484?format=json"
+    },
+    {
+      "bioguideId": "J000311",
+      "district": 3,
+      "firstName": "Brian",
+      "fullName": "Rep. Jack, Brian [R-GA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Jack",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/J000311?format=json"
+    },
+    {
+      "bioguideId": "A000372",
+      "district": 12,
+      "firstName": "Rick",
+      "fullName": "Rep. Allen, Rick W. [R-GA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Allen",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/A000372?format=json"
+    },
+    {
+      "bioguideId": "C001129",
+      "district": 10,
+      "firstName": "Mike",
+      "fullName": "Rep. Collins, Mike [R-GA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001129?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    },
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    },
+    {
+      "bioguideId": "C001118",
+      "district": 6,
+      "firstName": "Ben",
+      "fullName": "Rep. Cline, Ben [R-VA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cline",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001118?format=json"
+    },
+    {
+      "bioguideId": "R000614",
+      "district": 21,
+      "firstName": "Chip",
+      "fullName": "Rep. Roy, Chip [R-TX-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Roy",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/R000614?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "H001102",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Harris, Mark [R-NC-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001102?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:03:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

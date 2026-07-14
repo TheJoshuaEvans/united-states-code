@@ -1,0 +1,40 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1424/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "19:13:44",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1424",
+    "number": "1424",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "W000795",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Wilson, Joe [R-SC-2]",
+        "isByRequest": "N",
+        "lastName": "Wilson",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/W000795?format=json"
+      }
+    ],
+    "title": "Expressing the profound sorrow of the House of Representatives on the death of the Honorable Lindsey Graham.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1424/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-14T08:06:48Z",
+    "updateDateIncludingText": "2026-07-14T08:06:48Z"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9516/actions?format=json"
+    },
+    "committees": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9516/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARRIGAN:\nH.R. 9516.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the U.S. Constitution\n[Page H4317]\n</pre>",
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9516",
+    "number": "9516",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001101",
+        "district": 10,
+        "firstName": "Pat",
+        "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+        "isByRequest": "N",
+        "lastName": "Harrigan",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/H001101?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9516/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9516/text?format=json"
+    },
+    "title": "To codify Executive Order 14412, entitled \"Securing the Nation Against Advanced Cryptographic Attacks\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9516/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:35Z",
+    "updateDateIncludingText": "2026-07-14T08:06:35Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:56:55Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Cybersecurity and Infrastructure Protection Subcommittee",
+          "systemCode": "hshm08",
+          "url": "https://api.congress.gov/v3/committee/house/hshm08?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:01:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

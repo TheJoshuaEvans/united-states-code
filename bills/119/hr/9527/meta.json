@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9527/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9527/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OWENS:\nH.R. 9527.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the authority to enact this legislation\npursuant to Article I, Section 8, Clauses 1 and 18 of the\nConstitution of the United States. Clause 1 authorizes\nCongress to provide for the general welfare of the United\nStates, and Clause 18 authorizes Congress to make all laws\nnecessary and proper for carrying into execution the powers\nvested in the Government of the United States and its\nofficers. This legislation governs the administration of a\nfederal statistical classification system maintained by the\nOffice of Management and Budget and requires reporting to\nCongress.\n[Page H4317]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9527/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9527",
+    "number": "9527",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Sports and Recreation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000086",
+        "district": 4,
+        "firstName": "Burgess",
+        "fullName": "Rep. Owens, Burgess [R-UT-4]",
+        "isByRequest": "N",
+        "lastName": "Owens",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/O000086?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9527/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9527/text?format=json"
+    },
+    "title": "STRONG Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9527/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:09Z",
+    "updateDateIncludingText": "2026-07-14T08:07:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001210",
+      "district": 3,
+      "firstName": "Gregory",
+      "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murphy",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001210?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

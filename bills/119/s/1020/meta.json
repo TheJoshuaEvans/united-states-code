@@ -1,0 +1,188 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-13",
+    "latestAction": {
+      "actionDate": "2026-05-11",
+      "text": "Became Public Law No: 119-90."
+    },
+    "laws": [
+      {
+        "number": "119-90",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1020",
+    "number": "1020",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000618",
+        "firstName": "Steve",
+        "fullName": "Sen. Daines, Steve [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Daines",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/text?format=json"
+    },
+    "title": "A bill to require the Federal Energy Regulatory Commission to extend the time period during which licensees are required to commence construction of certain hydropower projects.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1020/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-16T12:16:14Z",
+    "updateDateIncludingText": "2026-07-13T21:34:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000479?format=json"
+    },
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-03-13",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-03-13",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    },
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-03-13",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-03-13",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-31",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-29T20:29:33Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-13T17:11:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-29",
+      "actionDesc": "Passed Senate",
+      "text": "<p>This bill authorizes the Federal Energy Regulatory Commission (FERC) to extend construction deadlines for hydropower projects that were issued a license before March 13, 2020. FERC is authorized, upon the request of the licensees, to extend the deadline for beginning construction on such projects&nbsp;an additional six years beyond the eight-year extension FERC is authorized to provide under current law. The extension must&nbsp;consist of no more than three consecutive two-year periods.</p><p>The bill also provides that&nbsp;FERC may reinstate certain expired licenses for projects with construction deadlines extended under this bill, effective as of the date they expire.</p>",
+      "updateDate": "2026-04-15T14:04:48Z",
+      "versionCode": "55"
+    },
+    {
+      "actionDate": "2026-05-11",
+      "actionDesc": "Public Law",
+      "text": "<p>This act authorizes the Federal Energy Regulatory Commission (FERC) to extend construction deadlines for hydropower projects that were issued a license before March 13, 2020. FERC is authorized, upon the request of the licensees, to extend the deadline for beginning construction on such projects&nbsp;an additional six years beyond the eight-year extension FERC is authorized to provide under current law. The extension must&nbsp;consist of no more than three consecutive two-year periods.</p><p>The act also provides that&nbsp;FERC may reinstate certain expired licenses for projects with construction deadlines extended under this act, effective as of the date they expire.</p>",
+      "updateDate": "2026-06-16T12:13:42Z",
+      "versionCode": "49"
+    }
+  ]
+}

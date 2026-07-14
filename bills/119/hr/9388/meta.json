@@ -1,0 +1,112 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "16:32:45",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9388",
+    "number": "9388",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000593",
+        "district": 28,
+        "firstName": "Carlos",
+        "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+        "isByRequest": "N",
+        "lastName": "Gimenez",
+        "middleName": "A.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/G000593?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/text?format=json"
+    },
+    "title": "One-Stop Pilot Program Extension Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9388/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:41Z",
+    "updateDateIncludingText": "2026-07-14T08:06:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:25:25Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T13:58:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-23T16:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>One-Stop Pilot Program Extension Act</strong></p><p>This bill revises and extends the&nbsp;One Stop Security program of the Transportation Security Administration (TSA). Under this&nbsp;pilot program, eligible passengers and their checked baggage arriving in the United States from certain foreign airports&nbsp;with connecting flights may be eligible to continue without additional&nbsp;TSA security re-screening.</p><p>The bill extends the pilot program through&nbsp;December 23, 2032, from the current December 23, 2028.</p><p>The bill also revises the security requirements for excluding checked baggage from additional&nbsp;TSA security re-screening. Among other things, the bill specifies that a passenger must be unable to access their checked baggage until arrival at their final destination and that U.S. Customs and Border Protection&nbsp;must have received timely images of the baggage from the participating foreign&nbsp;airport prior to a passenger\u2019s arrival in the United States.</p>",
+      "updateDate": "2026-07-09T13:51:52Z",
+      "versionCode": "00"
+    }
+  ]
+}

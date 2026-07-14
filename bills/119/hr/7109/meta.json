@@ -1,0 +1,105 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 11 (Thursday, January 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Nevada:\nH.R. 7109.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 provides Congress with the\npower to ``lay and collect Taxes, Duties, Imposts and\nExcises''\n[Page H921]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-15",
+    "latestAction": {
+      "actionDate": "2026-01-15",
+      "text": "Referred to the House Committee on Small Business."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7109",
+    "number": "7109",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000590",
+        "district": 3,
+        "firstName": "Susie",
+        "fullName": "Rep. Lee, Susie [D-NV-3]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/L000590?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/text?format=json"
+    },
+    "title": "Small Business Child Care Investment Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7109/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:32Z",
+    "updateDateIncludingText": "2026-07-14T08:05:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001212",
+      "district": 8,
+      "firstName": "Pete",
+      "fullName": "Rep. Stauber, Pete [R-MN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stauber",
+      "party": "R",
+      "sponsorshipDate": "2026-01-15",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001212?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-15T14:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ]
+}

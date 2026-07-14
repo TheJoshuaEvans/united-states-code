@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9152/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9152/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 95 (Thursday, June 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LAWLER:\nH.R. 9152.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H3908]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9152/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-04",
+    "latestAction": {
+      "actionDate": "2026-06-04",
+      "text": "Referred to the House Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9152",
+    "number": "9152",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000599",
+        "district": 17,
+        "firstName": "Michael",
+        "fullName": "Rep. Lawler, Michael [R-NY-17]",
+        "isByRequest": "N",
+        "lastName": "Lawler",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/L000599?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9152/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9152/text?format=json"
+    },
+    "title": "VETRA Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9152/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:06Z",
+    "updateDateIncludingText": "2026-07-14T08:07:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000478",
+      "district": 7,
+      "firstName": "Russell",
+      "fullName": "Rep. Fry, Russell [R-SC-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fry",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/F000478?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-04T14:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ]
+}

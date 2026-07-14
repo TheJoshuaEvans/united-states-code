@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on House Administration on May 14, 2026",
+        "pubDate": "2026-07-08T17:29:00Z",
+        "title": "H.R. 3535, Stop Foreign Funds in Elections Act",
+        "url": "https://www.cbo.gov/publication/62557"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 86 (Wednesday, May 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FITZPATRICK:\nH.R. 3535.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 Clause 18\n[Page H2361]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "17:17:25",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3535",
+    "number": "3535",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000466",
+        "district": 1,
+        "firstName": "Brian",
+        "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+        "isByRequest": "N",
+        "lastName": "Fitzpatrick",
+        "middleName": "K.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/F000466?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/text?format=json"
+    },
+    "title": "Stop Foreign Funds in Elections Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:48Z",
+    "updateDateIncludingText": "2026-07-14T08:06:48Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000592",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Golden, Jared F. [D-ME-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Golden",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/G000592?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-08-19",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:28:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-14T17:17:33Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-21T14:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsha00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Stop Foreign Funds in Elections Act</strong></p> <p>This bill prohibits contributions or donations by foreign nationals in connection with state or local ballot initiatives, referenda, or recall elections.</p>",
+      "updateDate": "2025-08-15T21:15:27Z",
+      "versionCode": "00"
+    }
+  ]
+}

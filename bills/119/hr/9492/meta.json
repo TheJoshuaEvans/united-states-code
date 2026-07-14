@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9492/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9492/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALKINSHAW:\nH.R. 9492.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8\n[Page H4264]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9492/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-25",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9492",
+    "number": "9492",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "W000831",
+        "district": 11,
+        "firstName": "James",
+        "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Walkinshaw",
+        "middleName": "R.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000831?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9492/text?format=json"
+    },
+    "title": "Cybersecurity Logging Enforcement and Accountability Reporting Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9492/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:59Z",
+    "updateDateIncludingText": "2026-07-14T08:06:59Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001298",
+      "district": 2,
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2026-06-25",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/B001298?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:56:40Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Cybersecurity and Infrastructure Protection Subcommittee",
+          "systemCode": "hshm08",
+          "url": "https://api.congress.gov/v3/committee/house/hshm08?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ]
+}

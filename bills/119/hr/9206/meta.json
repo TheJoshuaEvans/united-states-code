@@ -1,0 +1,103 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9206/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9206/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 96 (Monday, June 8, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. THANEDAR:\nH.R. 9206.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Clause 18 of Article I, Section 8 of the\nUnited States Constitution.\n[Page H3992]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9206/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-08",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Oversight, Investigations, and Accountability."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9206",
+    "number": "9206",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000488",
+        "district": 13,
+        "firstName": "Shri",
+        "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+        "isByRequest": "N",
+        "lastName": "Thanedar",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000488?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9206/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9206/text?format=json"
+    },
+    "title": "DHS CANDOR Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9206/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:54Z",
+    "updateDateIncludingText": "2026-07-14T08:06:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000193",
+      "district": 2,
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/T000193?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-08T16:04:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:53:48Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Oversight, Investigations, and Accountability Subcommittee",
+          "systemCode": "hshm09",
+          "url": "https://api.congress.gov/v3/committee/house/hshm09?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ]
+}

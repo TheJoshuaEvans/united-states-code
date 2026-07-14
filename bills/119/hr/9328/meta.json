@@ -1,0 +1,125 @@
+{
+  "status": {
+    "actions": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. BIGGS of South Carolina:\nH.R. 9328.\nCongress has the power to enact this legislation pursuant\nto the following:\nUnder Article I, Section 8 of the Constitution, Congress\nhas the power ``to make all Laws which shall be necessary and\nproper for carrying into the Execution for the foregoing\nPowers, and all other Powers vested by this Constitution in\nthe Government of the United States, or any Department or\nOfficer thereof.'\n[Page H4126]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "actionTime": "16:11:10",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9328",
+    "number": "9328",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001325",
+        "district": 3,
+        "firstName": "Sheri",
+        "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/B001325?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/text?format=json"
+    },
+    "title": "Improving Travel for Military Members Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9328/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:00Z",
+    "updateDateIncludingText": "2026-07-14T08:06:00Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000599",
+      "district": 10,
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000599?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T17:25:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-24T13:57:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-18T14:07:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-18",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Improving Travel for Military Members Act</strong></p><p>This bill allows the Transportation Security Administration (TSA) to establish a pilot program to expedite access to security screening for traveling active-duty military personnel and accompanying family members.</p><p>In selecting airports to participate in the pilot program, TSA must give priority to airports in proximity to certain military installations.</p>",
+      "updateDate": "2026-07-08T17:27:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

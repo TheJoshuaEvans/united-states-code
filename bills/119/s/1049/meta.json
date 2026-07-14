@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-13",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:22:06",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1049",
+    "number": "1049",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000174",
+        "firstName": "Jon",
+        "fullName": "Sen. Ossoff, Jon [D-GA]",
+        "isByRequest": "N",
+        "lastName": "Ossoff",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/O000174?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/text?format=json"
+    },
+    "title": "Preventing Child Trafficking Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1049/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-01-10T07:09:37Z",
+    "updateDateIncludingText": "2026-07-13T21:34:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-03-13",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T17:13:06Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-13T19:31:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

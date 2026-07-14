@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 91 (Friday, May 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEGUSE:\nH.R. 9070.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Const., art. I, sec. 8.\n[Page H3741]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-29",
+    "latestAction": {
+      "actionDate": "2026-07-07",
+      "text": "Referred to the Subcommittee on Oversight, Investigations, and Accountability."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9070",
+    "number": "9070",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000191",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Neguse, Joe [D-CO-2]",
+        "isByRequest": "N",
+        "lastName": "Neguse",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/N000191?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/text?format=json"
+    },
+    "title": "OPEN Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9070/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:27Z",
+    "updateDateIncludingText": "2026-07-14T08:05:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    },
+    {
+      "bioguideId": "C001121",
+      "district": 6,
+      "firstName": "Jason",
+      "fullName": "Rep. Crow, Jason [D-CO-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crow",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001121?format=json"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": 1,
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/D000197?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-29T16:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Homeland Security Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:51:26Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Border Security and Enforcement Subcommittee",
+          "systemCode": "hshm11",
+          "url": "https://api.congress.gov/v3/committee/house/hshm11?format=json"
+        },
+        {
+          "activities": [
+            {
+              "date": "2026-07-07T13:51:26Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Oversight, Investigations, and Accountability Subcommittee",
+          "systemCode": "hshm09",
+          "url": "https://api.congress.gov/v3/committee/house/hshm09?format=json"
+        }
+      ],
+      "systemCode": "hshm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hshm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-29T16:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9265/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9265/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 99 (Thursday, June 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARSON:\nH.R. 9265.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of section 8 of Article I of the Constitution.\n[Page H4112]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9265/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-11",
+    "latestAction": {
+      "actionDate": "2026-06-11",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9265",
+    "number": "9265",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001072",
+        "district": 7,
+        "firstName": "Andr\u00e9",
+        "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+        "isByRequest": "N",
+        "lastName": "Carson",
+        "party": "D",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/C001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9265/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9265/text?format=json"
+    },
+    "title": "To amend the Richard B. Russell National School Lunch Act to require participation in the summer EBT program as a condition of participating in the school lunch program, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9265/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:05:27Z",
+    "updateDateIncludingText": "2026-07-14T08:05:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "C001068",
+      "district": 9,
+      "firstName": "Steve",
+      "fullName": "Rep. Cohen, Steve [D-TN-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cohen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/C001068?format=json"
+    },
+    {
+      "bioguideId": "B001313",
+      "district": 11,
+      "firstName": "Shontel",
+      "fullName": "Rep. Brown, Shontel M. [D-OH-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Brown",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001313?format=json"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": 1,
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/T000468?format=json"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": 16,
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": false,
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000606?format=json"
+    },
+    {
+      "bioguideId": "U000040",
+      "district": 14,
+      "firstName": "Lauren",
+      "fullName": "Rep. Underwood, Lauren [D-IL-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Underwood",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/U000040?format=json"
+    },
+    {
+      "bioguideId": "F000481",
+      "district": 2,
+      "firstName": "Shomari",
+      "fullName": "Rep. Figures, Shomari [D-AL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Figures",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/F000481?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T13:06:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

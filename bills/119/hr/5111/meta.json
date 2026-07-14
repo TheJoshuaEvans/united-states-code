@@ -1,0 +1,155 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 144 (Wednesday, September 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COSTA:\nH.R. 5111.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt. 1, Sec. 8\n[Page H3829]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-03",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5111",
+    "number": "5111",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001059",
+        "district": 21,
+        "firstName": "Jim",
+        "fullName": "Rep. Costa, Jim [D-CA-21]",
+        "isByRequest": "N",
+        "lastName": "Costa",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001059?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/text?format=json"
+    },
+    "title": "CRP Improvement and Flexibility Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5111/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:09Z",
+    "updateDateIncludingText": "2026-07-14T08:07:09Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000446",
+      "district": 4,
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2025-09-03",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/F000446?format=json"
+    },
+    {
+      "bioguideId": "J000301",
+      "district": 0,
+      "firstName": "Dusty",
+      "fullName": "Rep. Johnson, Dusty [R-SD-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2026-01-22",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/J000301?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": 6,
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/C001117?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-03T14:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-01-13T19:53:21Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Conservation, Research, and Biotechnology Subcommittee",
+          "systemCode": "hsag14",
+          "url": "https://api.congress.gov/v3/committee/house/hsag14?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>CRP Improvement and Flexibility Act of 2025</strong></p><p>This bill increases federal assistance and incentives for eligible participants and entities in&nbsp;the Conservation Reserve Program (CRP) of the Farm Service Agency. CRP is a land conservation program that provides an annual rental payment to farmers in exchange for farmers removing environmentally sensitive land from agricultural production and planting species that will improve environmental health and quality.</p><p>The bill increases the CRP annual rental payment limitation from $50,000 to $125,000.</p><p>The bill also permanently establishes a continuous enrollment procedure for land that will be enrolled under the State Acres for Wildlife Enhancement Initiative.</p><p>Additionally, the bill provides federal cost sharing payments for the establishment of grazing infrastructure on all CRP contracts and practices, if grazing is included in the conservation plan and addresses a resource concern. It also provides federal cost sharing payments under CRP for management activities to implement the conservation plan that are not related to haying or grazing.</p><p>Further, the bill allows emergency haying on CRP land during the primary nesting season&nbsp;in response to drought, flooding, wildfire, or other emergencies if certain conditions are met. It also modifies the conditions under which haying and grazing may be permitted on&nbsp;CRP land.</p>",
+      "updateDate": "2026-06-12T13:58:48Z",
+      "versionCode": "00"
+    }
+  ]
+}

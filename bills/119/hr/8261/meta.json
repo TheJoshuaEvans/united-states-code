@@ -1,0 +1,205 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 65 (Tuesday, April 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. DelBENE:\nH.R. 8261.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 , Section 8\n[Page H2886]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-14",
+    "latestAction": {
+      "actionDate": "2026-04-14",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8261",
+    "number": "8261",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000617",
+        "district": 1,
+        "firstName": "Suzan",
+        "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+        "isByRequest": "N",
+        "lastName": "DelBene",
+        "middleName": "K.",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/D000617?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/text?format=json"
+    },
+    "title": "Chronic Care Management Improvement Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8261/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:07:02Z",
+    "updateDateIncludingText": "2026-07-14T08:07:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000376",
+      "district": 16,
+      "firstName": "Mike",
+      "fullName": "Rep. Kelly, Mike [R-PA-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2026-04-14",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/K000376?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "S001156",
+      "district": 38,
+      "firstName": "Linda",
+      "fullName": "Rep. S\u00e1nchez, Linda T. [D-CA-38]",
+      "isOriginalCosponsor": false,
+      "lastName": "S\u00e1nchez",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001156?format=json"
+    },
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    },
+    {
+      "bioguideId": "S001225",
+      "district": 17,
+      "firstName": "Eric",
+      "fullName": "Rep. Sorensen, Eric [D-IL-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sorensen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/S001225?format=json"
+    },
+    {
+      "bioguideId": "V000131",
+      "district": 33,
+      "firstName": "Marc",
+      "fullName": "Rep. Veasey, Marc A. [D-TX-33]",
+      "isOriginalCosponsor": false,
+      "lastName": "Veasey",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000131?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "B001287",
+      "district": 6,
+      "firstName": "Ami",
+      "fullName": "Rep. Bera, Ami [D-CA-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bera",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-14T16:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-14T16:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-14",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Chronic Care Management Improvement Act of </strong><strong>2026</strong></p><p>This bill eliminates cost-sharing for chronic care management services under Medicare.</p>",
+      "updateDate": "2026-05-12T20:07:48Z",
+      "versionCode": "00"
+    }
+  ]
+}

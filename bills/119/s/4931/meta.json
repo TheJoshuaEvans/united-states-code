@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4931/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4931/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4931",
+    "number": "4931",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000577",
+        "firstName": "Mike",
+        "fullName": "Sen. Lee, Mike [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/L000577?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4931/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4931/text?format=json"
+    },
+    "title": "End EPA Abuse Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4931/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T04:18:48Z",
+    "updateDateIncludingText": "2026-07-14T04:18:48Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T23:07:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ]
+}
