@@ -1,0 +1,329 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 22,
+      "countIncludingWithdrawnCosponsors": 22,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-17",
+    "latestAction": {
+      "actionDate": "2026-06-17",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4814",
+    "number": "4814",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000133",
+        "firstName": "Edward",
+        "fullName": "Sen. Markey, Edward J. [D-MA]",
+        "isByRequest": "N",
+        "lastName": "Markey",
+        "middleName": "J.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/text?format=json"
+    },
+    "title": "A bill to require the Secretary of Homeland Security to designate Haiti for temporary protected status.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4814/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:25Z",
+    "updateDateIncludingText": "2026-07-14T10:56:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001303",
+      "firstName": "Lisa",
+      "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blunt Rochester",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/B001303?format=json"
+    },
+    {
+      "bioguideId": "S000148",
+      "firstName": "Charles",
+      "fullName": "Sen. Schumer, Charles E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schumer",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S000148?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "K000394",
+      "firstName": "Andy",
+      "fullName": "Sen. Kim, Andy [D-NJ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kim",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000394?format=json"
+    },
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "A000382",
+      "firstName": "Angela",
+      "fullName": "Sen. Alsobrooks, Angela D. [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Alsobrooks",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/A000382?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "M001111",
+      "firstName": "Patty",
+      "fullName": "Sen. Murray, Patty [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murray",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/M001111?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2026-06-17",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": false,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "S001194",
+      "firstName": "Brian",
+      "fullName": "Sen. Schatz, Brian [D-HI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schatz",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/S001194?format=json"
+    },
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/C001113?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-17T19:19:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

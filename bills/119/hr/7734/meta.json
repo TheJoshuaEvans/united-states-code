@@ -1,0 +1,132 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 38 (Thursday, February 26, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SCOTT FRANKLIN of Florida:\nH.R. 7734.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H2333]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-26",
+    "latestAction": {
+      "actionDate": "2026-03-20",
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7734",
+    "number": "7734",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000472",
+        "district": 18,
+        "firstName": "Scott",
+        "fullName": "Rep. Franklin, Scott [R-FL-18]",
+        "isByRequest": "N",
+        "lastName": "Franklin",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/F000472?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/text?format=json"
+    },
+    "title": "Land Grant Research Prioritization Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7734/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:11Z",
+    "updateDateIncludingText": "2026-07-15T08:07:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B000490",
+      "district": 2,
+      "firstName": "Sanford",
+      "fullName": "Rep. Bishop, Sanford D. [D-GA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bishop",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-26",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/B000490?format=json"
+    },
+    {
+      "bioguideId": "C001066",
+      "district": 14,
+      "firstName": "Kathy",
+      "fullName": "Rep. Castor, Kathy [D-FL-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Castor",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001066?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-26T14:32:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-03-20T19:32:11Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Conservation, Research, and Biotechnology Subcommittee",
+          "systemCode": "hsag14",
+          "url": "https://api.congress.gov/v3/committee/house/hsag14?format=json"
+        }
+      ],
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Land Grant Research Prioritization Act of 2026</strong></p><p>This bill includes additional priorities as Department of Agriculture (USDA) high-priority research and extension areas.</p><p>Under the bill, USDA may award&nbsp;grants for developing and evaluating (1) technologies to mechanize agricultural processes (and may emphasize processes for harvesting specialty crops), and (2) agricultural uses of artificial intelligence (and may emphasize uses for improving specialty crop production).</p><p>Further, USDA may award grants&nbsp;to support research projects at land-grant colleges and universities to develop and apply</p><ul><li>methods to manage and eradicate invasive species of plants and animals, including through methods of biocontrol; and</li><li>aquaculture methods, including through the propagation and rearing of economically and ecologically valuable aquatic and marine species.&nbsp;</li></ul>",
+      "updateDate": "2026-04-06T14:25:14Z",
+      "versionCode": "00"
+    }
+  ]
+}

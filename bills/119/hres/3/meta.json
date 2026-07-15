@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/3/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "15:46:36",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/3",
+    "number": "3",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001176",
+        "district": 1,
+        "firstName": "Steve",
+        "fullName": "Rep. Scalise, Steve [R-LA-1]",
+        "isByRequest": "N",
+        "lastName": "Scalise",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/S001176?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/3/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/3/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/3/text?format=json"
+    },
+    "title": "Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/3/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-01-15T18:19:16Z",
+    "updateDateIncludingText": "2026-07-14T12:15:17Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides for the House of Representatives (together with the Senate) to notify the President that a quorum of each chamber of Congress has assembled.</p>",
+      "updateDate": "2025-01-14T14:55:04Z",
+      "versionCode": "00"
+    }
+  ]
+}

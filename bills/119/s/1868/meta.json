@@ -1,0 +1,117 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1868/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-07-09T17:04:00Z",
+        "title": "S. 1868, Critical Access for Veterans Care Act",
+        "url": "https://www.cbo.gov/publication/62548"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1868/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1868/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-22",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1868",
+    "number": "1868",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001096",
+        "firstName": "Kevin",
+        "fullName": "Sen. Cramer, Kevin [R-ND]",
+        "isByRequest": "N",
+        "lastName": "Cramer",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/C001096?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/1868/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1868/text?format=json"
+    },
+    "title": "Critical Access for Veterans Care Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1868/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:28Z",
+    "updateDateIncludingText": "2026-07-14T11:00:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-05-22",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2026-03-25",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:10Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:12Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:12Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-05-22T16:25:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

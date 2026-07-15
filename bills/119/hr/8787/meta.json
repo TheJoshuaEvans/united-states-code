@@ -1,0 +1,236 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8787/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8787/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 81 (Wednesday, May 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLINE:\nH.R. 8787.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3453]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8787/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-13",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8787",
+    "number": "8787",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001118",
+        "district": 6,
+        "firstName": "Ben",
+        "fullName": "Rep. Cline, Ben [R-VA-6]",
+        "isByRequest": "N",
+        "lastName": "Cline",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/C001118?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8787/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8787/text?format=json"
+    },
+    "title": "Servicemember Payment Data Privacy and Security Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8787/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:26Z",
+    "updateDateIncludingText": "2026-07-15T08:07:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001194",
+      "district": 2,
+      "firstName": "John",
+      "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moolenaar",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/M001194?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "S001224",
+      "district": 3,
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S001224?format=json"
+    },
+    {
+      "bioguideId": "F000471",
+      "district": 5,
+      "firstName": "Scott",
+      "fullName": "Rep. Fitzgerald, Scott [R-WI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzgerald",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/F000471?format=json"
+    },
+    {
+      "bioguideId": "C001115",
+      "district": 27,
+      "firstName": "Michael",
+      "fullName": "Rep. Cloud, Michael [R-TX-27]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cloud",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001115?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-05-22",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "L000583",
+      "district": 11,
+      "firstName": "Barry",
+      "fullName": "Rep. Loudermilk, Barry [R-GA-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Loudermilk",
+      "party": "R",
+      "sponsorshipDate": "2026-05-26",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/L000583?format=json"
+    },
+    {
+      "bioguideId": "D000628",
+      "district": 2,
+      "firstName": "Neal",
+      "fullName": "Rep. Dunn, Neal P. [R-FL-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dunn",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000628?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-15",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-13T14:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

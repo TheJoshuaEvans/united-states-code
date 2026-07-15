@@ -1,0 +1,107 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/828",
+    "number": "828",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000622",
+        "firstName": "Tammy",
+        "fullName": "Sen. Duckworth, Tammy [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Duckworth",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000622?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/text?format=json"
+    },
+    "title": "School Bus Safety Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/828/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:21Z",
+    "updateDateIncludingText": "2026-07-14T11:03:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T17:17:17Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-03-04T17:17:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-04",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>School Bus Safety Act of&nbsp;2025</strong></p><p>This bill directs the Department of Transportation (DOT) to issue rules requiring school buses to have certain safety features.&nbsp;DOT must also establish a grant program to assist in the implementation of the requirements.</p><p>Specifically, DOT must issue rules requiring school buses to include</p><ul><li>three-point safety belts for all seats,</li><li>a fire suppression system which addresses engine fires,</li><li>a firewall between the engine and passenger compartment&nbsp;that prevents hazardous quantities of gas or flames from passing through the firewall,</li><li>increased&nbsp;performance standards for interior flammability and smoke emissions,</li><li>an automatic emergency braking system,</li><li>an event data recorder, and</li><li>an electronic stability control system.</li></ul><p>DOT must also require at least eight hours of behind-the-wheel training for school bus operators that meets specified requirements.</p><p>Further, the Federal Motor Carrier Safety Administration and the National Highway Traffic Safety Administration (NHTSA) must issue rules on&nbsp;the evaluation of safety sensitive personnel for moderate-to-severe obstructive sleep apnea.</p><p>NHTSA&nbsp;must also study the benefits of requiring school buses manufactured in, or imported into, the United States to be equipped with a motion-activated detection system that is capable of&nbsp;detecting road users (e.g., pedestrians and bicyclists) and alerting the bus operator of their presence.&nbsp;NHTSA must issue rules implementing such a requirement.</p><p>Finally, DOT must establish a grant program to assist local educational agencies in (1) purchasing school buses equipped with three-point safety belts or any of the other safety features required under this bill, and (2) modifying&nbsp;existing school buses.</p>",
+      "updateDate": "2025-07-29T15:38:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

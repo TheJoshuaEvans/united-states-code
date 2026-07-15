@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7493/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7493/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 29 (Wednesday, February 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DOGGETT:\nH.R. 7493.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 1 of Section 8 of Article I of the United States\nConstitution\n[Page H2187]\n</pre>",
+    "introducedDate": "2026-02-11",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7493",
+    "number": "7493",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7493/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000399",
+        "district": 37,
+        "firstName": "Lloyd",
+        "fullName": "Rep. Doggett, Lloyd [D-TX-37]",
+        "isByRequest": "N",
+        "lastName": "Doggett",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000399?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7493/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7493/text?format=json"
+    },
+    "title": "Stop Corporate Inversions Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7493/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T16:35:02Z",
+    "updateDateIncludingText": "2026-07-14T16:35:02Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T16:03:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

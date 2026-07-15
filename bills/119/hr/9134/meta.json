@@ -1,0 +1,153 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9134/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9134/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 94 (Wednesday, June 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. RANDALL:\nH.R. 9134.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle One Section 8\n[Page H3830]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9134/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9134",
+    "number": "9134",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000621",
+        "district": 6,
+        "firstName": "Emily",
+        "fullName": "Rep. Randall, Emily [D-WA-6]",
+        "isByRequest": "N",
+        "lastName": "Randall",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/R000621?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9134/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9134/text?format=json"
+    },
+    "title": "Protecting Student Privacy Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9134/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:20Z",
+    "updateDateIncludingText": "2026-07-15T08:07:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001131",
+      "district": 35,
+      "firstName": "Greg",
+      "fullName": "Rep. Casar, Greg [D-TX-35]",
+      "isOriginalCosponsor": true,
+      "lastName": "Casar",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001131?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "L000607",
+      "district": 16,
+      "firstName": "Sam",
+      "fullName": "Rep. Liccardo, Sam T. [D-CA-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Liccardo",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000607?format=json"
+    },
+    {
+      "bioguideId": "L000557",
+      "district": 1,
+      "firstName": "John",
+      "fullName": "Rep. Larson, John B. [D-CT-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Larson",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/L000557?format=json"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": 7,
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000606?format=json"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": 8,
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/K000391?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T14:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

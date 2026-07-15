@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4893/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4893/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4893",
+    "number": "4893",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001104",
+        "firstName": "Jon",
+        "fullName": "Sen. Husted, Jon [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Husted",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/H001104?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4893/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4893/text?format=json"
+    },
+    "title": "U.S. Swine Health Improvement Plan Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4893/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:30:28Z",
+    "updateDateIncludingText": "2026-07-14T21:30:28Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T19:14:58Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

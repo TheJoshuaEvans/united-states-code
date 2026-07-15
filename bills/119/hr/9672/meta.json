@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9672/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9672/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9672/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9672",
+    "number": "9672",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "D000399",
+        "district": 37,
+        "firstName": "Lloyd",
+        "fullName": "Rep. Doggett, Lloyd [D-TX-37]",
+        "isByRequest": "N",
+        "lastName": "Doggett",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000399?format=json"
+      }
+    ],
+    "title": "To amend the Public Health Service Act to make updates to the Vaccine Injury Compensation Program, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9672/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:18Z",
+    "updateDateIncludingText": "2026-07-15T08:07:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001199",
+      "district": 11,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smucker",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001199?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:00:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:00:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

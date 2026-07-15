@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-26",
+    "latestAction": {
+      "actionDate": "2026-02-26",
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S709)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3934",
+    "number": "3934",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001035",
+        "firstName": "Susan",
+        "fullName": "Sen. Collins, Susan M. [R-ME]",
+        "isByRequest": "N",
+        "lastName": "Collins",
+        "middleName": "M.",
+        "party": "R",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/C001035?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/text?format=json"
+    },
+    "title": "Medical Nutrition Therapy Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3934/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2026-02-26",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2026-04-13",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-26T18:08:23Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-26",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Medical Nutrition Therapy Act of </strong><strong>2026</strong></p><p>This bill expands Medicare coverage of medical nutrition therapy services.</p><p>Currently, Medicare covers such services for individuals with diabetes or kidney disease under certain circumstances; such services must also be provided by a registered dietitian or nutrition professional pursuant to a physician referral. The bill extends coverage to individuals with other diseases and conditions, including obesity, eating disorders, cancer, and HIV/AIDS; such services may also be referred by a physician assistant, nurse practitioner, clinical nurse specialist, or (for eating disorders) a clinical psychologist.</p>",
+      "updateDate": "2026-03-30T20:22:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

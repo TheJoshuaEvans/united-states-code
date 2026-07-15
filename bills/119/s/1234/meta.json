@@ -1,0 +1,230 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-01",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1234",
+    "number": "1234",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Social Welfare"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001113",
+        "firstName": "Catherine",
+        "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Cortez Masto",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/C001113?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/text?format=json"
+    },
+    "title": "SSI Savings Penalty Elimination Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1234/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:11Z",
+    "updateDateIncludingText": "2026-07-14T11:00:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    },
+    {
+      "bioguideId": "M001111",
+      "firstName": "Patty",
+      "fullName": "Sen. Murray, Patty [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murray",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/M001111?format=json"
+    },
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-04-01",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-09-29",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-29",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-01T20:16:30Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-04-01T20:16:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

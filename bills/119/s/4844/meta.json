@@ -1,0 +1,260 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4844",
+    "number": "4844",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001046",
+        "firstName": "Martin",
+        "fullName": "Sen. Heinrich, Martin [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Heinrich",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/H001046?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/text?format=json"
+    },
+    "title": "PFAS Alternatives Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4844/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:23Z",
+    "updateDateIncludingText": "2026-07-14T11:03:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Curtis",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    },
+    {
+      "bioguideId": "A000382",
+      "firstName": "Angela",
+      "fullName": "Sen. Alsobrooks, Angela D. [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Alsobrooks",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/A000382?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    },
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "M000133",
+      "firstName": "Edward",
+      "fullName": "Sen. Markey, Edward J. [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Markey",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000133?format=json"
+    },
+    {
+      "bioguideId": "H000273",
+      "firstName": "John",
+      "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hickenlooper",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    },
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T19:28:19Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

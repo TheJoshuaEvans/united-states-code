@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1381/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "actionTime": "12:08:52",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1381",
+    "number": "1381",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000474",
+        "district": 1,
+        "firstName": "Mike",
+        "fullName": "Rep. Flood, Mike [R-NE-1]",
+        "isByRequest": "N",
+        "lastName": "Flood",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000474?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1381/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1381/text?format=json"
+    },
+    "title": "Electing a Member to certain standing committees of the House of Representatives.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1381/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-08T15:58:06Z",
+    "updateDateIncludingText": "2026-07-14T12:12:45Z"
+  }
+}

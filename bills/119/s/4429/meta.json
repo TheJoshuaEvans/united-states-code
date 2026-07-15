@@ -1,0 +1,339 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 23,
+      "countIncludingWithdrawnCosponsors": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-29",
+    "latestAction": {
+      "actionDate": "2026-04-29",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+    "number": "4429",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001242",
+        "firstName": "Bernie",
+        "fullName": "Sen. Moreno, Bernie [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Moreno",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/M001242?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/text?format=json"
+    },
+    "title": "Connected Vehicle Security Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4429/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    },
+    {
+      "bioguideId": "C001095",
+      "firstName": "Tom",
+      "fullName": "Sen. Cotton, Tom [R-AR]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cotton",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001095?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2026-05-19",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2026-05-21",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-05-21",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    },
+    {
+      "bioguideId": "B001230",
+      "firstName": "Tammy",
+      "fullName": "Sen. Baldwin, Tammy [D-WI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baldwin",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/B001230?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Curtis",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2026-06-11",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-11",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2026-06-16",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2026-06-17",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2026-06-17",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "S000148",
+      "firstName": "Charles",
+      "fullName": "Sen. Schumer, Charles E. [D-NY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schumer",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S000148?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T17:01:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

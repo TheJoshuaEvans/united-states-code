@@ -1,0 +1,205 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-26",
+    "latestAction": {
+      "actionDate": "2026-02-26",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3949",
+    "number": "3949",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/W000779?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/text?format=json"
+    },
+    "title": "Enhanced Cybersecurity for SNAP Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3949/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-26",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000479?format=json"
+    },
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2026-02-26",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2026-03-09",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "K000394",
+      "firstName": "Andy",
+      "fullName": "Sen. Kim, Andy [D-NJ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kim",
+      "party": "D",
+      "sponsorshipDate": "2026-03-17",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000394?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-18",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-18",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-14",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2026-04-14",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "S001184",
+      "firstName": "Tim",
+      "fullName": "Sen. Scott, Tim [R-SC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/S001184?format=json"
+    },
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-26T19:44:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

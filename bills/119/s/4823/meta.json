@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4823",
+    "number": "4823",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000394",
+        "firstName": "Andy",
+        "fullName": "Sen. Kim, Andy [D-NJ]",
+        "isByRequest": "N",
+        "lastName": "Kim",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/K000394?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/text?format=json"
+    },
+    "title": "Advancing American Quantum Leadership Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4823/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T22:07:07Z",
+    "updateDateIncludingText": "2026-07-14T22:07:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T15:04:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1336/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-685",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/685?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1336/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-04",
+      "actionTime": "17:50:55",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1336",
+    "number": "1336",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000450",
+        "district": 5,
+        "firstName": "Virginia",
+        "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+        "isByRequest": "N",
+        "lastName": "Foxx",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000450?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1336/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1336/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1336/text?format=json"
+    },
+    "title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1336/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-29T14:34:02Z",
+    "updateDateIncludingText": "2026-07-14T12:12:28Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T21:07:53Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides for the House of Representatives to consider&nbsp;on the same day without a two-thirds vote&nbsp;any resolution reported by the Committee on Rules through the legislative day of June 5, 2026, relating to a measure providing for reconciliation pursuant to title II of S.Con.Res.33. Specifically, the resolution waives a House Rule requiring a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House.</p>",
+      "updateDate": "2026-06-05T14:17:14Z",
+      "versionCode": "00"
+    }
+  ]
+}

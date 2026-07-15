@@ -1,0 +1,101 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6029/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6029/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 191 (Wednesday, November 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GUEST:\nH.R. 6029.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4667]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6029/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-12",
+    "latestAction": {
+      "actionDate": "2025-11-12",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6029",
+    "number": "6029",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000591",
+        "district": 3,
+        "firstName": "Michael",
+        "fullName": "Rep. Guest, Michael [R-MS-3]",
+        "isByRequest": "N",
+        "lastName": "Guest",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/G000591?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6029/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6029/text?format=json"
+    },
+    "title": "To amend the Bank Secrecy Act to exempt transactions with respect to cash reward payments by crime stopper organizations from certain currency transaction reports.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6029/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:41Z",
+    "updateDateIncludingText": "2026-07-15T08:07:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000235",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Ezell, Mike [R-MS-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ezell",
+      "party": "R",
+      "sponsorshipDate": "2026-02-04",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/E000235?format=json"
+    },
+    {
+      "bioguideId": "K000388",
+      "district": 1,
+      "firstName": "Trent",
+      "fullName": "Rep. Kelly, Trent [R-MS-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/K000388?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-12T17:00:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ]
+}

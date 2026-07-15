@@ -1,0 +1,167 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9363/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9363/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OBERNOLTE:\nH.R. 9363.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4127]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9363/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+    "number": "9363",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000019",
+        "district": 23,
+        "firstName": "Jay",
+        "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+        "isByRequest": "N",
+        "lastName": "Obernolte",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/O000019?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9363/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9363/text?format=json"
+    },
+    "title": "AI Security and Innovation Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9363/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:34Z",
+    "updateDateIncludingText": "2026-07-15T08:07:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000477",
+      "district": 4,
+      "firstName": "Valerie",
+      "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foushee",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000477?format=json"
+    },
+    {
+      "bioguideId": "B001291",
+      "district": 36,
+      "firstName": "Brian",
+      "fullName": "Rep. Babin, Brian [R-TX-36]",
+      "isOriginalCosponsor": true,
+      "lastName": "Babin",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/B001291?format=json"
+    },
+    {
+      "bioguideId": "M000871",
+      "district": 1,
+      "firstName": "Tracey",
+      "fullName": "Rep. Mann, Tracey [R-KS-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mann",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000871?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    },
+    {
+      "bioguideId": "T000482",
+      "district": 3,
+      "firstName": "Lori",
+      "fullName": "Rep. Trahan, Lori [D-MA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Trahan",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/T000482?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2026-06-22",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    },
+    {
+      "bioguideId": "C001087",
+      "district": 1,
+      "firstName": "Eric",
+      "fullName": "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crawford",
+      "middleName": "A. \"Rick\"",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001087?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-18T14:05:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

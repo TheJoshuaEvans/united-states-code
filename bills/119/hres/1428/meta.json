@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 2,
-      "countIncludingWithdrawnCosponsors": 2,
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
       "url": "https://api.congress.gov/v3/bill/119/hres/1428/cosponsors?format=json"
     },
     "introducedDate": "2026-07-13",
@@ -36,14 +36,18 @@
         "url": "https://api.congress.gov/v3/member/S001231?format=json"
       }
     ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1428/text?format=json"
+    },
     "title": "Expressing support for Reproductive Justice on the 250th Anniversary of the United States of America.",
     "titles": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hres/1428/titles?format=json"
     },
     "type": "HRES",
-    "updateDate": "2026-07-14T08:06:25Z",
-    "updateDateIncludingText": "2026-07-14T08:06:25Z"
+    "updateDate": "2026-07-15T08:07:50Z",
+    "updateDateIncludingText": "2026-07-15T08:07:50Z"
   },
   "cosponsors": [
     {
@@ -69,6 +73,43 @@
       "sponsorshipDate": "2026-07-13",
       "state": "CA",
       "url": "https://api.congress.gov/v3/member/K000400?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    },
+    {
+      "bioguideId": "B001285",
+      "district": 26,
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001285?format=json"
     }
   ],
   "committees": [

@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4947/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4947/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4947",
+    "number": "4947",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "S001227",
+        "firstName": "Eric",
+        "fullName": "Sen. Schmitt, Eric [R-MO]",
+        "isByRequest": "N",
+        "lastName": "Schmitt",
+        "middleName": "S.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/S001227?format=json"
+      }
+    ],
+    "title": "A bill to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4947/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:24Z",
+    "updateDateIncludingText": "2026-07-14T10:56:24Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:22:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-06-17",
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4009",
+    "number": "4009",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/text?format=json"
+    },
+    "title": "Falun Gong and Victims of Forced Organ Harvesting Protection Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4009/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2026-03-05",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-01",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "J000293",
+      "firstName": "Ron",
+      "fullName": "Sen. Johnson, Ron [R-WI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/J000293?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-17T14:00:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-05T18:56:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ]
+}

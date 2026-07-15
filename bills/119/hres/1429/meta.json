@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1429/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1429/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1429/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1429",
+    "number": "1429",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "T000490",
+        "district": 2,
+        "firstName": "David",
+        "fullName": "Rep. Taylor, David J. [R-OH-2]",
+        "isByRequest": "N",
+        "lastName": "Taylor",
+        "middleName": "J.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/T000490?format=json"
+      }
+    ],
+    "title": "Expressing support for continued efforts to safeguard the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 from fraud, waste, and abuse for the Nation's most vulnerable.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1429/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-15T08:07:33Z",
+    "updateDateIncludingText": "2026-07-15T08:07:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001095",
+      "district": 38,
+      "firstName": "Wesley",
+      "fullName": "Rep. Hunt, Wesley [R-TX-38]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hunt",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/H001095?format=json"
+    },
+    {
+      "bioguideId": "F000484",
+      "district": 6,
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000484?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    },
+    {
+      "bioguideId": "G000576",
+      "district": 6,
+      "firstName": "Glenn",
+      "fullName": "Rep. Grothman, Glenn [R-WI-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grothman",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/G000576?format=json"
+    },
+    {
+      "bioguideId": "V000135",
+      "district": 3,
+      "firstName": "Derrick",
+      "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Orden",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:03:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

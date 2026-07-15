@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9665/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9665/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9665",
+    "number": "9665",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "V000135",
+        "district": 3,
+        "firstName": "Derrick",
+        "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+        "isByRequest": "N",
+        "lastName": "Van Orden",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/V000135?format=json"
+      }
+    ],
+    "title": "To amend title 38, United States Code, to expand the jurisdiction of Department of Veterans Affairs police officers, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9665/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:33Z",
+    "updateDateIncludingText": "2026-07-15T08:07:33Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ]
+}

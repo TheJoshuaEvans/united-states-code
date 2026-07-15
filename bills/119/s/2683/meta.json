@@ -1,0 +1,155 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-03-31T16:45:00Z",
+        "title": "S. 2683, Veterans Scam And Fraud Evasion Act of 2026",
+        "url": "https://www.cbo.gov/publication/62284"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-02",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2683",
+    "number": "2683",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/text?format=json"
+    },
+    "title": "VSAFE Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2683/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:45Z",
+    "updateDateIncludingText": "2026-07-14T11:00:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-09-02",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2025-12-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:26Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:30Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:30Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-09-02T20:34:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

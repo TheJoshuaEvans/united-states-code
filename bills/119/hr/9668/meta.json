@@ -1,0 +1,78 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9668/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9668/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9668/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9668",
+    "number": "9668",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "D000230",
+        "district": 1,
+        "firstName": "Donald",
+        "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+        "isByRequest": "N",
+        "lastName": "Davis",
+        "middleName": "G.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/D000230?format=json"
+      }
+    ],
+    "title": "To authorize financial institutions to delay or refuse transactions that may involve the financial exploitation of older adults and vulnerable persons, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9668/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:18Z",
+    "updateDateIncludingText": "2026-07-15T08:07:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000193",
+      "district": 3,
+      "firstName": "Zachary",
+      "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Nunn",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/N000193?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ]
+}

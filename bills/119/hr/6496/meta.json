@@ -1,0 +1,149 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6496/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6496/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 204 (Friday, December 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. THOMPSON of California:\nH.R. 6496.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 1\nArticle 1, Section 8, Clause 18\n[Page H5057]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6496/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-05",
+    "latestAction": {
+      "actionDate": "2025-12-05",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6496",
+    "number": "6496",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000460",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Thompson, Mike [D-CA-4]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/T000460?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6496/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6496/text?format=json"
+    },
+    "title": "Specialty Crop & Wine Producer Tariff Relief Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6496/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:39Z",
+    "updateDateIncludingText": "2026-07-15T08:07:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000189",
+      "district": 4,
+      "firstName": "Dan",
+      "fullName": "Rep. Newhouse, Dan [R-WA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Newhouse",
+      "party": "R",
+      "sponsorshipDate": "2025-12-05",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/N000189?format=json"
+    },
+    {
+      "bioguideId": "L000578",
+      "district": 1,
+      "firstName": "Doug",
+      "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaMalfa",
+      "party": "R",
+      "sponsorshipDate": "2025-12-05",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000578?format=json"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": 6,
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2025-12-05",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/S001226?format=json"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "S001216",
+      "district": 8,
+      "firstName": "Kim",
+      "fullName": "Rep. Schrier, Kim [D-WA-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schrier",
+      "party": "D",
+      "sponsorshipDate": "2026-01-14",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/S001216?format=json"
+    },
+    {
+      "bioguideId": "G000607",
+      "district": 1,
+      "firstName": "James",
+      "fullName": "Rep. Gallagher, James [R-CA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gallagher",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000607?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-05T16:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

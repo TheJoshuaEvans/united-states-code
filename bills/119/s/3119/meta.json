@@ -1,0 +1,119 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-03-30T20:36:00Z",
+        "title": "S. 3119, Fisher House Availability Act of 2026",
+        "url": "https://www.cbo.gov/publication/62272"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-06",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3119",
+    "number": "3119",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000934",
+        "firstName": "Jerry",
+        "fullName": "Sen. Moran, Jerry [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Moran",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M000934?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/text?format=json"
+    },
+    "title": "Fisher House Availability Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3119/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-11-06",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:38Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:38Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-11-06T16:26:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-06",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Fisher House Availability Act of 2025</strong></p><p>This bill expands eligibility for temporary lodging at a Fisher House to additional individuals receiving medical care or treatment at a Department of Veteran Affairs (VA) or non-VA facility or those accompanying individuals receiving such treatment. (Fisher Houses are where the VA furnishes no-cost lodging to veterans and others when receiving treatment or accompanying an individual receiving treatment.)</p><p>Specifically, the bill authorizes the VA to provide lodging at a Fisher House on a space-available basis to</p><ul><li>members of the Armed Forces, regardless of duty status, or any individual on active duty (i.e., eligible individuals) who must travel a significant distance to receive care or services;</li><li>family members and others accompanying such eligible individuals to receive care or services;</li><li>veterans, members of a veteran's family, and others who must travel a significant distance for a member of a veteran's family to receive care or services; and</li><li>eligible individuals, members of an eligible individual\u2019s family, and others who must travel a significant distance for a member of an eligible individual\u2019s family to receive care or services.</li></ul>",
+      "updateDate": "2026-06-02T14:57:35Z",
+      "versionCode": "00"
+    }
+  ]
+}

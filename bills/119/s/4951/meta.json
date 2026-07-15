@@ -1,0 +1,77 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4951/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4951/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4951/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4951",
+    "number": "4951",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "S001150",
+        "firstName": "Adam",
+        "fullName": "Sen. Schiff, Adam B. [D-CA]",
+        "isByRequest": "N",
+        "lastName": "Schiff",
+        "middleName": "B.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S001150?format=json"
+      }
+    ],
+    "title": "A bill to direct the Secretary of Agriculture to submit to Congress a report on barriers to participation in Department of Agriculture programs faced by certified organic farms and farms that may be interested in transitioning to organic production, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4951/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:19Z",
+    "updateDateIncludingText": "2026-07-14T10:56:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:35:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

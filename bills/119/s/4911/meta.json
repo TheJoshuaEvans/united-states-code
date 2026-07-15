@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4911/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4911/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4911/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4911",
+    "number": "4911",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001181",
+        "firstName": "Jeanne",
+        "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Shaheen",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/S001181?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4911/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4911/text?format=json"
+    },
+    "title": "Investing in State Energy Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4911/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T19:21:25Z",
+    "updateDateIncludingText": "2026-07-14T19:21:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T21:11:24Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

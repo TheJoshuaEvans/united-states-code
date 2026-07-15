@@ -1,0 +1,98 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3303/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3303/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3303/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-02",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3303",
+    "number": "3303",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/3303/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3303/text?format=json"
+    },
+    "title": "LINC VA Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3303/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-12-02",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:34Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:40Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:40Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-02T17:55:49Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

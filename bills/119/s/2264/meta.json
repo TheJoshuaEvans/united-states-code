@@ -1,0 +1,118 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2264/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-04-01T18:50:00Z",
+        "title": "S. 2264, Advancing Department of Veterans Affairs Emergency Response to Crises Act of 2026",
+        "url": "https://www.cbo.gov/publication/62291"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2264/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2264/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-14",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2264",
+    "number": "2264",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001277",
+        "firstName": "Richard",
+        "fullName": "Sen. Blumenthal, Richard [D-CT]",
+        "isByRequest": "N",
+        "lastName": "Blumenthal",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/B001277?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2264/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2264/text?format=json"
+    },
+    "title": "Advancing VA\u2019s Emergency Response to (AVERT) Crises Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2264/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:36Z",
+    "updateDateIncludingText": "2026-07-14T11:00:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-14",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2025-07-16",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:20Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:20Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-14T20:47:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4826",
+    "number": "4826",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/text?format=json"
+    },
+    "title": "SABER Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4826/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T14:56:34Z",
+    "updateDateIncludingText": "2026-07-14T14:56:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T15:10:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ]
+}

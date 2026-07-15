@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-676",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/676?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "actionTime": "14:32:12",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1333",
+    "number": "1333",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1333/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-30T18:43:25Z",
+    "updateDateIncludingText": "2026-07-14T12:12:26Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T13:18:43Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-03",
+      "actionDesc": "Reported to House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+      "updateDate": "2026-06-04T08:19:40Z",
+      "versionCode": "07"
+    }
+  ]
+}

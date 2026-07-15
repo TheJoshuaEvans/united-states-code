@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 15,
+      "count": 16,
       "url": "https://api.congress.gov/v3/bill/119/hr/7305/actions?format=json"
     },
     "cboCostEstimates": [
@@ -19,7 +19,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/7305/committees?format=json"
     },
     "congress": 119,
@@ -31,9 +31,8 @@
     },
     "introducedDate": "2026-02-02",
     "latestAction": {
-      "actionDate": "2026-06-29",
-      "actionTime": "16:43:35",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7305",
     "number": "7305",
@@ -73,8 +72,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/7305/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-01T08:06:06Z",
-    "updateDateIncludingText": "2026-07-12T14:06:20Z"
+    "updateDate": "2026-07-14T10:56:29Z",
+    "updateDateIncludingText": "2026-07-14T10:56:29Z"
   },
   "cosponsors": [
     {
@@ -91,6 +90,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:48:42Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
     {
       "activities": [
         {

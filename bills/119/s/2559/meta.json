@@ -1,0 +1,72 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2559/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2559/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-30",
+    "latestAction": {
+      "actionDate": "2025-07-30",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2559",
+    "number": "2559",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2559/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000394",
+        "firstName": "Andy",
+        "fullName": "Sen. Kim, Andy [D-NJ]",
+        "isByRequest": "N",
+        "lastName": "Kim",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/K000394?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2559/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2559/text?format=json"
+    },
+    "title": "Summer Meals REACH Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2559/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T22:13:24Z",
+    "updateDateIncludingText": "2026-07-14T22:13:24Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-30T23:09:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

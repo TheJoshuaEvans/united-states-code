@@ -1,0 +1,157 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-12",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4505",
+    "number": "4505",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/text?format=json"
+    },
+    "title": "A bill to require the United States Postal Service to designate ZIP Codes for certain communities.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4505/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:26Z",
+    "updateDateIncludingText": "2026-07-14T10:56:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    },
+    {
+      "bioguideId": "B001261",
+      "firstName": "John",
+      "fullName": "Sen. Barrasso, John [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrasso",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2026-05-12",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-05-19",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-12T22:19:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ]
+}

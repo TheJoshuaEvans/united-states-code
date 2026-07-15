@@ -9,6 +9,12 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9642/committees?format=json"
     },
     "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 113 (Monday, July 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOOLENAAR:\nH.R. 9642.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3: To regulate commerce with\nforeign nations, and among the several states, and with the\nIndian tribes; and\n[Page H4408]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9642/cosponsors?format=json"
+    },
     "introducedDate": "2026-07-13",
     "latestAction": {
       "actionDate": "2026-07-13",
@@ -32,15 +38,71 @@
         "url": "https://api.congress.gov/v3/member/M001194?format=json"
       }
     ],
-    "title": "To amend title XVIII of the Social Security Act to provide payment under part A of the Medicare program on a reasonable cost basis for anesthesia services furnished by an anesthesiologist in certain rural hospitals and critical access hospitals.",
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9642/text?format=json"
+    },
+    "title": "Medicare Access to Rural Anesthesiology Act",
     "titles": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/9642/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:06:42Z",
-    "updateDateIncludingText": "2026-07-14T08:06:42Z"
+    "updateDate": "2026-07-15T08:07:35Z",
+    "updateDateIncludingText": "2026-07-15T08:07:35Z"
   },
+  "cosponsors": [
+    {
+      "bioguideId": "H001068",
+      "district": 2,
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/H001068?format=json"
+    },
+    {
+      "bioguideId": "M001210",
+      "district": 3,
+      "firstName": "Gregory",
+      "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murphy",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001210?format=json"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": 3,
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001201?format=json"
+    },
+    {
+      "bioguideId": "M001204",
+      "district": 9,
+      "firstName": "Daniel",
+      "fullName": "Rep. Meuser, Daniel [R-PA-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Meuser",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001204?format=json"
+    }
+  ],
   "committees": [
     {
       "activities": [

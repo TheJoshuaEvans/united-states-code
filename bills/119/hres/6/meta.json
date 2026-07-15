@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/6/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "18:13:30",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/6",
+    "number": "6",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/6/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000470",
+        "district": 7,
+        "firstName": "Michelle",
+        "fullName": "Rep. Fischbach, Michelle [R-MN-7]",
+        "isByRequest": "N",
+        "lastName": "Fischbach",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000470?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/6/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/6/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/6/text?format=json"
+    },
+    "title": "Fixing the daily hour of meeting of the First Session of the One Hundred Nineteenth Congress.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/6/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-01-09T13:12:14Z",
+    "updateDateIncludingText": "2026-07-14T12:17:22Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides that, unless otherwise ordered, the hour of daily meeting of the House of Representatives is</p><ul><li>Monday at 2:00 p.m.;&nbsp;</li><li>Tuesday at 12:00 p.m. (noon) or, if no legislative business was conducted on the preceding Monday, at 2:00 p.m.;</li><li>Wednesdays and Thursdays at 12:00 pm (noon); and</li><li>9:00 a.m. on all other days of the week.</li></ul>",
+      "updateDate": "2025-01-23T14:21:24Z",
+      "versionCode": "00"
+    }
+  ]
+}

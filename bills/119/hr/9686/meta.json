@@ -1,0 +1,78 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9686/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9686/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9686/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9686",
+    "number": "9686",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "N000193",
+        "district": 3,
+        "firstName": "Zachary",
+        "fullName": "Rep. Nunn, Zachary [R-IA-3]",
+        "isByRequest": "N",
+        "lastName": "Nunn",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/N000193?format=json"
+      }
+    ],
+    "title": "To increase access to artificial intelligence through programs of the Department of Agriculture, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9686/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:06Z",
+    "updateDateIncludingText": "2026-07-15T08:07:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

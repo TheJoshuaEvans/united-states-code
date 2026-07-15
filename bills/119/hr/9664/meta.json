@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9664/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9664/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9664",
+    "number": "9664",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "V000135",
+        "district": 3,
+        "firstName": "Derrick",
+        "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+        "isByRequest": "N",
+        "lastName": "Van Orden",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/V000135?format=json"
+      }
+    ],
+    "title": "To require the establishment of a grant program to assist with certain veterinary expenses of retired Federal working dogs, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9664/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:52Z",
+    "updateDateIncludingText": "2026-07-15T08:07:52Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ]
+}

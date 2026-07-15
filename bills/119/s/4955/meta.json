@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4955/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4955/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S3746)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4955",
+    "number": "4955",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "D000563",
+        "firstName": "Richard",
+        "fullName": "Sen. Durbin, Richard J. [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Durbin",
+        "middleName": "J.",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000563?format=json"
+      }
+    ],
+    "title": "A bill to amend the Act of May 17, 1954, to revise the boundary of Gateway Arch National Park.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4955/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T19:37:14Z",
+    "updateDateIncludingText": "2026-07-14T19:37:14Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T22:03:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

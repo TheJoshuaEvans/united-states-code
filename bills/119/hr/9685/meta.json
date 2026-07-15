@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9685/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9685/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9685",
+    "number": "9685",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "N000147",
+        "firstName": "Eleanor",
+        "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+        "isByRequest": "N",
+        "lastName": "Norton",
+        "middleName": "Holmes",
+        "party": "D",
+        "state": "DC",
+        "url": "https://api.congress.gov/v3/member/N000147?format=json"
+      }
+    ],
+    "title": "To prohibit the use of Federal, State, foreign, or private funds to install permanent fencing around the White House complex.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9685/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:30Z",
+    "updateDateIncludingText": "2026-07-15T08:07:30Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ]
+}

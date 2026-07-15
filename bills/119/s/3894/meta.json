@@ -1,0 +1,158 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-23",
+    "latestAction": {
+      "actionDate": "2026-02-23",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3894",
+    "number": "3894",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001181",
+        "firstName": "Jeanne",
+        "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Shaheen",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/S001181?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/text?format=json"
+    },
+    "title": "Respect for Local Communities Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3894/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2026-03-03",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2026-03-10",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2026-03-25",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-14",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-05-18",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-23T20:40:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ]
+}

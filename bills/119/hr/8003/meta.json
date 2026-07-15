@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8003/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8003/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 50 (Thursday, March 19, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DELUZIO:\nH.R. 8003.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H2622]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8003/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-19",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8003",
+    "number": "8003",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000530",
+        "district": 17,
+        "firstName": "Christopher",
+        "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+        "isByRequest": "N",
+        "lastName": "Deluzio",
+        "middleName": "R.",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/D000530?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8003/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8003/text?format=json"
+    },
+    "title": "Expanding the Fast Track Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8003/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:42Z",
+    "updateDateIncludingText": "2026-07-15T08:07:42Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001137",
+      "district": 5,
+      "firstName": "Jeff",
+      "fullName": "Rep. Crank, Jeff [R-CO-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crank",
+      "party": "R",
+      "sponsorshipDate": "2026-03-19",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/C001137?format=json"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": 3,
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H001100?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2026-06-30",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-19T13:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-14T17:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

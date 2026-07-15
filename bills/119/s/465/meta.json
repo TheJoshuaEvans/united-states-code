@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 119-366."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/465",
+    "number": "465",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001061",
+        "firstName": "John",
+        "fullName": "Sen. Hoeven, John [R-ND]",
+        "isByRequest": "N",
+        "lastName": "Hoeven",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/H001061?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/text?format=json"
+    },
+    "title": "GRID Power Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/465/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:21Z",
+    "updateDateIncludingText": "2026-07-14T11:03:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-02-26",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2025-04-28",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-06T19:25:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-04-15T19:37:20Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "sseg01",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg01?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-06",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Guaranteeing Reliability through the Interconnection of Dispatchable Power Act or the GRID Power Act</strong></p><p>This bill requires the Federal Energy Regulatory Commission (FERC) to issue and periodically review a rule that revises the approval process for interconnection requests of generating units that produce&nbsp;electricity to prioritize dispatchable power projects (e.g., certain fossil fuel projects).&nbsp;</p><p>Under the bill,<em> d</em><em>ispatchable power</em> generally refers to an electric energy generation resource, such as a generating unit that produces electricity from fossil fuels, capable of providing known and forecastable electric supply in time intervals necessary to ensure grid reliability.&nbsp;Currently, FERC receives interconnection requests&nbsp;from those projects and other generating units, such as units that produce electricity from renewable energy. Interconnection requests are&nbsp;requests from generating units to connect to the high voltage transmission lines of the electric grid.</p><p>First, the rule must address the&nbsp;efficiency and effectiveness of the existing procedures&nbsp;for processing interconnection&nbsp;requests to ensure that new dispatchable power projects that improve grid reliability and resource adequacy can interconnect to the electric grid quickly, cost-effectively, and reliably.&nbsp;</p><p>Second, the rule must revise the pro forma Large Generator Interconnection Procedures, and the pro forma Large Generator Interconnection Agreement as appropriate,&nbsp;to authorize transmission providers to submit proposals to FERC to prioritize new dispatchable power projects that will improve grid reliability and resource adequacy by assigning those projects higher positions in the interconnection queue of the provider. FERC must review and approve or deny such proposals within 60 days after the proposal is submitted.</p>",
+      "updateDate": "2026-04-17T13:08:49Z",
+      "versionCode": "00"
+    }
+  ]
+}

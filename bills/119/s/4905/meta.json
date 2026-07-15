@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4905/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4905/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4905",
+    "number": "4905",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001244",
+        "firstName": "Ashley",
+        "fullName": "Sen. Moody, Ashley [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Moody",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001244?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4905/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4905/text?format=json"
+    },
+    "title": "Space Ready 2.0 Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4905/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T19:16:25Z",
+    "updateDateIncludingText": "2026-07-14T19:16:25Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T20:43:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

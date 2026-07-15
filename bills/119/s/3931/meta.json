@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-26",
+    "latestAction": {
+      "actionDate": "2026-02-26",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3931",
+    "number": "3931",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000880",
+        "firstName": "Mike",
+        "fullName": "Sen. Crapo, Mike [R-ID]",
+        "isByRequest": "N",
+        "lastName": "Crapo",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/C000880?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/text?format=json"
+    },
+    "title": "TAS Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3931/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:59:23Z",
+    "updateDateIncludingText": "2026-07-14T21:59:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2026-02-26",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-26T16:50:32Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

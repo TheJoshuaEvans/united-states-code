@@ -1,0 +1,76 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4948/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4948/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4948/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4948",
+    "number": "4948",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "S001150",
+        "firstName": "Adam",
+        "fullName": "Sen. Schiff, Adam B. [D-CA]",
+        "isByRequest": "N",
+        "lastName": "Schiff",
+        "middleName": "B.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S001150?format=json"
+      }
+    ],
+    "title": "A bill to require the Administrator of the Small Business Administration to implement certain recommendations relating to information technology modernization, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4948/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:24Z",
+    "updateDateIncludingText": "2026-07-14T10:56:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Curtis",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:25:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    }
+  ]
+}

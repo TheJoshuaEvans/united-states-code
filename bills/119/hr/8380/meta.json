@@ -1,0 +1,164 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8380/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8380/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 69 (Monday, April 20, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McCLINTOCK:\nH.R. 8380.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 18 of section 8 of article I of the Constitution\n[Page H2996]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8380/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-20",
+    "latestAction": {
+      "actionDate": "2026-04-20",
+      "text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8380",
+    "number": "8380",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Economics and Public Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001177",
+        "district": 5,
+        "firstName": "Tom",
+        "fullName": "Rep. McClintock, Tom [R-CA-5]",
+        "isByRequest": "N",
+        "lastName": "McClintock",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8380/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8380/text?format=json"
+    },
+    "title": "To amend the Congressional Budget and Impoundment Control Act of 1974 to establish certain procedures for consideration of annual appropriation bills, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8380/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:58Z",
+    "updateDateIncludingText": "2026-07-15T08:07:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001053",
+      "district": 4,
+      "firstName": "Tom",
+      "fullName": "Rep. Cole, Tom [R-OK-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cole",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/C001053?format=json"
+    },
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "R000612",
+      "district": 6,
+      "firstName": "John",
+      "fullName": "Rep. Rose, John W. [R-TN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rose",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-19",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/R000612?format=json"
+    },
+    {
+      "bioguideId": "F000485",
+      "district": 14,
+      "firstName": "Clay",
+      "fullName": "Rep. Fuller, Clay [R-GA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fuller",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/F000485?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-20T16:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsbu00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-20T16:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

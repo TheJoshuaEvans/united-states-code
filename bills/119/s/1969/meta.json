@@ -1,0 +1,185 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-05",
+    "latestAction": {
+      "actionDate": "2025-06-05",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1969",
+    "number": "1969",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000618",
+        "firstName": "Pete",
+        "fullName": "Sen. Ricketts, Pete [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Ricketts",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/R000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/text?format=json"
+    },
+    "title": "AFIDA Improvements Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1969/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:30Z",
+    "updateDateIncludingText": "2026-07-14T11:00:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-05",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000479?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-06-09",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-06-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-05",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-05T17:02:27Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-06-05T17:02:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

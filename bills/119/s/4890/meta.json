@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Indian Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4890",
+    "number": "4890",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000570",
+        "firstName": "Ben",
+        "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Luj\u00e1n",
+        "middleName": "R.",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000570?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/text?format=json"
+    },
+    "title": "Protecting Indian Water Rights Settlements Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4890/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:54:16Z",
+    "updateDateIncludingText": "2026-07-14T21:54:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T18:53:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ]
+}

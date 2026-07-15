@@ -1,0 +1,101 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9692/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9692/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9692/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9692",
+    "number": "9692",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "W000830",
+        "district": 27,
+        "firstName": "George",
+        "fullName": "Rep. Whitesides, George [D-CA-27]",
+        "isByRequest": "N",
+        "lastName": "Whitesides",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/W000830?format=json"
+      }
+    ],
+    "title": "To require the Director of the National Institute of Standards and Technology to support the development of a voluntary technical standard for setting a screentime limit across certain devices, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9692/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:54Z",
+    "updateDateIncludingText": "2026-07-15T08:07:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

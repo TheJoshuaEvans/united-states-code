@@ -11,8 +11,8 @@
     "congress": 119,
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLYDE:\nH.R. 9453.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3: ``[The Congress shall have\nPower] To regulate Commerce with foreign Nations, and among\nthe several States, and with the Indian Tribes;''\n[Page H4263]\n</pre>",
     "cosponsors": {
-      "count": 24,
-      "countIncludingWithdrawnCosponsors": 24,
+      "count": 25,
+      "countIncludingWithdrawnCosponsors": 25,
       "url": "https://api.congress.gov/v3/bill/119/hr/9453/cosponsors?format=json"
     },
     "introducedDate": "2026-06-25",
@@ -26,6 +26,10 @@
     "originChamberCode": "H",
     "policyArea": {
       "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9453/relatedbills?format=json"
     },
     "sponsors": [
       {
@@ -55,8 +59,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9453/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:07:09Z",
-    "updateDateIncludingText": "2026-07-14T08:07:09Z"
+    "updateDate": "2026-07-15T08:07:56Z",
+    "updateDateIncludingText": "2026-07-15T08:07:56Z"
   },
   "cosponsors": [
     {
@@ -352,6 +356,19 @@
       "sponsorshipDate": "2026-07-13",
       "state": "NC",
       "url": "https://api.congress.gov/v3/member/H001102?format=json"
+    },
+    {
+      "bioguideId": "R000619",
+      "district": 6,
+      "firstName": "Michael",
+      "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rulli",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/R000619?format=json"
     }
   ],
   "committees": [

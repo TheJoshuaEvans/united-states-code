@@ -1,0 +1,69 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1/amendments?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "15:40:18",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1",
+    "number": "1",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001136",
+        "district": 9,
+        "firstName": "Lisa",
+        "fullName": "Rep. McClain, Lisa C. [R-MI-9]",
+        "isByRequest": "N",
+        "lastName": "McClain",
+        "middleName": "C.",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/M001136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1/text?format=json"
+    },
+    "title": "Electing officers of the House of Representatives.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-01-23T14:39:27Z",
+    "updateDateIncludingText": "2026-07-14T12:13:34Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides that Kevin McCumber of Illinois is elected Clerk,&nbsp;William McFarland of Maryland is elected Sergeant-at-Arms, and Catherine Szpindor of Virginia is elected Chief Administrative Officer of the House of Representatives.</p>",
+      "updateDate": "2025-01-23T14:39:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

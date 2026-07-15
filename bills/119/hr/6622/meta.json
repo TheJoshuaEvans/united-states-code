@@ -1,0 +1,102 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6622/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on the Judiciary on January 8, 2026",
+        "pubDate": "2026-07-14T19:58:00Z",
+        "title": "H.R. 6622, Sunshine for Regulatory Decrees and Settlements Act",
+        "url": "https://www.cbo.gov/publication/62569"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6622/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 209 (Thursday, December 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLINE:\nH.R. 6622.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution\n[Page H5810]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6622/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2026-01-08",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 8."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6622",
+    "number": "6622",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001118",
+        "district": 6,
+        "firstName": "Ben",
+        "fullName": "Rep. Cline, Ben [R-VA-6]",
+        "isByRequest": "N",
+        "lastName": "Cline",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/C001118?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6622/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6622/text?format=json"
+    },
+    "title": "Sunshine for Regulatory Decrees and Settlements Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6622/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T20:05:22Z",
+    "updateDateIncludingText": "2026-07-14T20:05:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000165",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Tiffany, Thomas P. [R-WI-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tiffany",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-11",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/T000165?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-08T20:43:30Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-11T16:04:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

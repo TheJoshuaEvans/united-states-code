@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-04-21T15:28:00Z",
+        "title": "S. 2397, CARING for Our Veterans Health Act of 2026",
+        "url": "https://www.cbo.gov/publication/62302"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2397",
+    "number": "2397",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000618",
+        "firstName": "Pete",
+        "fullName": "Sen. Ricketts, Pete [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Ricketts",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/R000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/text?format=json"
+    },
+    "title": "CARING for Our Veterans Health Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2397/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:39Z",
+    "updateDateIncludingText": "2026-07-14T11:00:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-07-23",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2025-12-10",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:24Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:28Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:28Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-23T16:19:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

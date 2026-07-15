@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S8207)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/499",
+    "number": "499",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001104",
+        "firstName": "Jon",
+        "fullName": "Sen. Husted, Jon [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Husted",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/H001104?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/text?format=json"
+    },
+    "title": "A resolution supporting the goals and ideals of \"Creutzfeldt-Jakob Disease (CJD) Awareness Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/499/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-14T10:56:31Z",
+    "updateDateIncludingText": "2026-07-14T10:56:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H000273",
+      "firstName": "John",
+      "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hickenlooper",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T22:12:10Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-11-18T22:12:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BIGGS of Arizona:\nH.J. Res. 1.\nCongress has the power to enact this legislation pursuant\nto the following:\nArtcile 5\nThe single subject of this legislation is:\nProposing an amendment to the Constitution of the United\nStates to require the Supreme Court of the United States be\ncomposed of nine justices.\n[Page H43]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2026-07-06",
+      "text": "Placed on the House Calendar, Calendar No. 84."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/1",
+    "number": "1",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001302",
+        "district": 5,
+        "firstName": "Andy",
+        "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/B001302?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/text?format=json"
+    },
+    "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/1/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-07-14T17:17:08Z",
+    "updateDateIncludingText": "2026-07-14T17:17:08Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000372",
+      "district": 12,
+      "firstName": "Rick",
+      "fullName": "Rep. Allen, Rick W. [R-GA-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Allen",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-16",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/A000372?format=json"
+    },
+    {
+      "bioguideId": "S001228",
+      "district": 2,
+      "firstName": "Derek",
+      "fullName": "Rep. Schmidt, Derek [R-KS-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmidt",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/S001228?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-06T14:51:46Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-06-03T21:16:50Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-03T16:06:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This joint resolution proposes a constitutional amendment requiring the Supreme Court to be composed&nbsp;of nine Justices\u2014one Chief Justice and eight Associate Justices.</p>",
+      "updateDate": "2025-01-14T14:53:17Z",
+      "versionCode": "00"
+    }
+  ]
+}

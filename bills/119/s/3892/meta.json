@@ -1,0 +1,205 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-12",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3892",
+    "number": "3892",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000570",
+        "firstName": "Ben",
+        "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Luj\u00e1n",
+        "middleName": "R.",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000570?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/text?format=json"
+    },
+    "title": "Stop Price Gouging in Grocery Stores Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3892/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2026-02-12",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2026-02-12",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-02-12",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "S000033",
+      "firstName": "Bernie",
+      "fullName": "Sen. Sanders, Bernard [I-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sanders",
+      "party": "I",
+      "sponsorshipDate": "2026-03-17",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/S000033?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "sponsorshipWithdrawnDate": "2026-05-12",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-08",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-12T21:27:29Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

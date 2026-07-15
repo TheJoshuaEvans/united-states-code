@@ -1,0 +1,76 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2737/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2737/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-09-09",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-247."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2737",
+    "number": "2737",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000278",
+        "firstName": "Tommy",
+        "fullName": "Sen. Tuberville, Tommy [R-AL]",
+        "isByRequest": "N",
+        "lastName": "Tuberville",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/T000278?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/2737/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2737/text?format=json"
+    },
+    "title": "Veterans National Traumatic Brain Injury Treatment Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2737/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:46Z",
+    "updateDateIncludingText": "2026-07-14T11:00:46Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T21:00:32Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:32Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-09-09T16:04:31Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

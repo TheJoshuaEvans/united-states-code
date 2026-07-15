@@ -1,0 +1,51 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/191/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-05",
+    "latestAction": {
+      "actionDate": "2025-03-05",
+      "actionTime": "16:01:11",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/191",
+    "number": "191",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000468",
+        "district": 7,
+        "firstName": "Lizzie",
+        "fullName": "Rep. Fletcher, Lizzie [D-TX-7]",
+        "isByRequest": "N",
+        "lastName": "Fletcher",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/F000468?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/191/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/191/text?format=json"
+    },
+    "title": "Expressing the profound sorrow of the House of Representatives on the death of the Honorable Sylvester Turner.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/191/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-05-15T18:28:36Z",
+    "updateDateIncludingText": "2026-07-14T12:13:30Z"
+  }
+}

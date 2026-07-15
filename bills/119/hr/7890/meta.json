@@ -1,0 +1,140 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-717",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/717?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-06-29",
+      "text": "Placed on the Union Calendar, Calendar No. 623."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7890",
+    "number": "7890",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001093",
+        "district": 9,
+        "firstName": "Erin",
+        "fullName": "Rep. Houchin, Erin [R-IN-9]",
+        "isByRequest": "N",
+        "lastName": "Houchin",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/H001093?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/text?format=json"
+    },
+    "title": "Science of Reading Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7890/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T17:48:52Z",
+    "updateDateIncludingText": "2026-07-14T17:48:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001231",
+      "district": 22,
+      "firstName": "John",
+      "fullName": "Rep. Mannion, John W. [D-NY-22]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mannion",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001231?format=json"
+    },
+    {
+      "bioguideId": "K000401",
+      "district": 3,
+      "firstName": "Kevin",
+      "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kiley",
+      "party": "R",
+      "sponsorshipDate": "2026-03-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000401?format=json"
+    },
+    {
+      "bioguideId": "F000450",
+      "district": 5,
+      "firstName": "Virginia",
+      "fullName": "Rep. Foxx, Virginia [R-NC-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Foxx",
+      "party": "R",
+      "sponsorshipDate": "2026-03-18",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000450?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-29T16:13:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-17T19:30:07Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-03-12T13:30:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-29",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Science of Reading Act of 2026</strong></p><p>This bill revises the Comprehensive Literacy State Development (CLSD) grant program&nbsp;to prioritize literacy instruction that is aligned to the science of reading.</p><p>Under the bill,&nbsp;<em>science of reading</em> is defined as an interdisciplinary body of evidence-based research about reading and issues related to reading and writing that (1) identifies instruction in phonemic awareness, phonics, vocabulary, fluency, comprehension, and writing as essential components to skilled reading; (2) demonstrates the importance of background knowledge, oral language, the connection between reading and writing, and strong writing instruction; (3) explains why some students have difficulty with reading and writing; and (4) does not use a three-cueing model. <em>Three-cueing model</em> means an instructional approach or model that (1) uses meaning drawn from context, pictures, or syntax as the primary basis for teaching word recognition; or (2) teaches visual memory as the primary basis for word recognition.</p><p>Current law authorizes competitive CLSD grants to state educational agencies (SEAs) and, through them, competitive&nbsp;subgrants to local educational agencies for the development and implementation of a comprehensive literacy instruction plan, professional development, and other activities. Eligible early childhood education programs may also receive subgrants for early literacy services.</p><p>The bill (1) specifies that comprehensive literacy instruction for CLSD grants does not include the use of a three-cueing model, and (2) requires the Department of Education and&nbsp;SEAs to prioritize awarding CLSD grants and&nbsp;subgrants for evidence-based activities that are aligned to the science of reading.</p>",
+      "updateDate": "2026-07-14T17:47:29Z",
+      "versionCode": "07"
+    }
+  ]
+}

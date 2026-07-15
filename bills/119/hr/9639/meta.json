@@ -1,0 +1,108 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9639/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9639/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 112 (Thursday, July 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. TLAIB:\nH.R. 9639.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto the following: Article 1, Section 1 of the Constitution.\n[Page H4381]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9639/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9639",
+    "number": "9639",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "T000481",
+        "district": 12,
+        "firstName": "Rashida",
+        "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+        "isByRequest": "N",
+        "lastName": "Tlaib",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000481?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9639/text?format=json"
+    },
+    "title": "FAIR Credit Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9639/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T16:32:30Z",
+    "updateDateIncludingText": "2026-07-14T16:32:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "S001218",
+      "district": 1,
+      "firstName": "Melanie",
+      "fullName": "Rep. Stansbury, Melanie A. [D-NM-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stansbury",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/S001218?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:02:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ]
+}

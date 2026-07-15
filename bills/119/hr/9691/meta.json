@@ -1,0 +1,59 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Small Business."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9691",
+    "number": "9691",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "V000081",
+        "district": 7,
+        "firstName": "Nydia",
+        "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+        "isByRequest": "N",
+        "lastName": "Vel\u00e1zquez",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/V000081?format=json"
+      }
+    ],
+    "title": "To amend the Small Business Act to modify the annual report of the Office of Credit Risk Management, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:22Z",
+    "updateDateIncludingText": "2026-07-15T08:07:22Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ]
+}

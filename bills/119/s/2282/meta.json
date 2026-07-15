@@ -1,0 +1,219 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-15",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2282",
+    "number": "2282",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001230",
+        "firstName": "Tammy",
+        "fullName": "Sen. Baldwin, Tammy [D-WI]",
+        "isByRequest": "N",
+        "lastName": "Baldwin",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/B001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/text?format=json"
+    },
+    "title": "Farmers First Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2282/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:37Z",
+    "updateDateIncludingText": "2026-07-14T11:00:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-07-28",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2025-08-01",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2025-08-01",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-09-11",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-10-09",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2026-03-02",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-15T19:31:03Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-07-15T19:31:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-15",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Farmers First Act of 2025</strong></p><p>This bill extends through FY2030 and revises the Farm and Ranch Stress Assistance Network (FRSAN). This Department of Agriculture program provides competitive grants to states, Indian tribes, and qualified nonprofit organizations to provide stress assistance programs (i.e., professional agricultural behavioral health counseling, helplines, and resources) to individuals engaged in farming, ranching, and agriculture-related occupations.</p><p>The bill specifies that the grant funding for farm telephone helplines and websites may also be used for crisis lines.</p><p>Further, FRSAN grant recipients may establish referral relationships with providers, including Certified Community Behavioral Health Clinics, health centers, rural health clinics, and critical access hospitals.</p>",
+      "updateDate": "2025-08-07T18:23:35Z",
+      "versionCode": "00"
+    }
+  ]
+}

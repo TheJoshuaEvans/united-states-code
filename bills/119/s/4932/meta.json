@@ -1,0 +1,86 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4932/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4932/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4932/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4932",
+    "number": "4932",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000174",
+        "firstName": "Jon",
+        "fullName": "Sen. Ossoff, Jon [D-GA]",
+        "isByRequest": "N",
+        "lastName": "Ossoff",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/O000174?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4932/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4932/text?format=json"
+    },
+    "title": "No Lead in Toys Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4932/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T22:09:23Z",
+    "updateDateIncludingText": "2026-07-14T22:09:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T23:26:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

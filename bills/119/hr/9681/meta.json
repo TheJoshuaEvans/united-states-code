@@ -1,0 +1,78 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9681/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9681/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9681/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9681",
+    "number": "9681",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "M000312",
+        "district": 2,
+        "firstName": "James",
+        "fullName": "Rep. McGovern, James P. [D-MA-2]",
+        "isByRequest": "N",
+        "lastName": "McGovern",
+        "middleName": "P.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000312?format=json"
+      }
+    ],
+    "title": "To amend the Leahy-Smith America Invents Act to limit intellectual property protection for plants, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9681/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:14Z",
+    "updateDateIncludingText": "2026-07-15T08:07:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001131",
+      "district": 35,
+      "firstName": "Greg",
+      "fullName": "Rep. Casar, Greg [D-TX-35]",
+      "isOriginalCosponsor": true,
+      "lastName": "Casar",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001131?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:04:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

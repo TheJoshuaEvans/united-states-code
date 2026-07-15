@@ -1,0 +1,87 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4923/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4923/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4923/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4923",
+    "number": "4923",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001303",
+        "firstName": "Lisa",
+        "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+        "isByRequest": "N",
+        "lastName": "Blunt Rochester",
+        "party": "D",
+        "state": "DE",
+        "url": "https://api.congress.gov/v3/member/B001303?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4923/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4923/text?format=json"
+    },
+    "title": "Food Assurance and Security Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4923/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:23:12Z",
+    "updateDateIncludingText": "2026-07-14T21:23:12Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-24",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T22:15:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ]
+}

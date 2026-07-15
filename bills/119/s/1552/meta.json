@@ -1,0 +1,668 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 50,
+      "countIncludingWithdrawnCosponsors": 50,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-01",
+    "latestAction": {
+      "actionDate": "2026-03-11",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 352."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1552",
+    "number": "1552",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001095",
+        "firstName": "Tom",
+        "fullName": "Sen. Cotton, Tom [R-AR]",
+        "isByRequest": "N",
+        "lastName": "Cotton",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/C001095?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/text?format=json"
+    },
+    "title": "Living Donor Protection Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1552/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:20Z",
+    "updateDateIncludingText": "2026-07-14T11:00:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "H001079",
+      "firstName": "Cindy",
+      "fullName": "Sen. Hyde-Smith, Cindy [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hyde-Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/H001079?format=json"
+    },
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-05-01",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-05-01",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "K000394",
+      "firstName": "Andy",
+      "fullName": "Sen. Kim, Andy [D-NJ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kim",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000394?format=json"
+    },
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    },
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "M001169",
+      "firstName": "Christopher",
+      "fullName": "Sen. Murphy, Christopher [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murphy",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/M001169?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": false,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2025-05-20",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2025-06-03",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-26",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-08-01",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-30",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2025-10-20",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-10-27",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    },
+    {
+      "bioguideId": "A000382",
+      "firstName": "Angela",
+      "fullName": "Sen. Alsobrooks, Angela D. [D-MD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Alsobrooks",
+      "party": "D",
+      "sponsorshipDate": "2025-11-05",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/A000382?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-12-02",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-12-10",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2026-01-29",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-02-23",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2026-02-24",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2026-02-25",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2026-03-10",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2026-03-11",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-03-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-03-17",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2026-04-17",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000479?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-11T20:20:47Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-26T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-01T16:02:05Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-05-01T16:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-01",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Living Donor Protection Act of </strong><strong>2025</strong></p><p>This bill prohibits life insurance, disability insurance, and long-term insurance&nbsp;carriers from denying or otherwise restricting coverage for&nbsp;living organ donors.</p><p>Specifically, carriers may not deny, cancel, vary premiums, or otherwise impose conditions on policies based on an individual's status as a living organ donor.</p><p>The bill also expressly specifies that recovery from organ-donation surgery constitutes a serious health condition that entitles eligible employees to job-protected medical leave.</p><p>In addition, the Department of Health and Human Services must update educational materials on living organ donation to include information about the benefits and risks of living organ donation and the impact of donation on insurance access, particularly with respect to the bill's changes.</p>",
+      "updateDate": "2026-02-26T23:06:33Z",
+      "versionCode": "00"
+    }
+  ]
+}

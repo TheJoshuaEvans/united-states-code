@@ -1,0 +1,106 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3033/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-07-10T18:44:00Z",
+        "title": "S. 3033, Improving Access to Care for Rural Veterans Act",
+        "url": "https://www.cbo.gov/publication/62559"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3033/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3033/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-22",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3033",
+    "number": "3033",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000622",
+        "firstName": "Tammy",
+        "fullName": "Sen. Duckworth, Tammy [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Duckworth",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000622?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/3033/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3033/text?format=json"
+    },
+    "title": "Improving Access to Care for Rural Veterans Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3033/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-10-22",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:30Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:36Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:36Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-10-22T21:53:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

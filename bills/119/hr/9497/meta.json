@@ -1,0 +1,135 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9497/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9497/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 108 (Monday, June 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GRAVES:\nH.R. 9497.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3.\n[Page H4316]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9497/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-29",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 66 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9497",
+    "number": "9497",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000546",
+        "district": 6,
+        "firstName": "Sam",
+        "fullName": "Rep. Graves, Sam [R-MO-6]",
+        "isByRequest": "N",
+        "lastName": "Graves",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/G000546?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9497/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9497/text?format=json"
+    },
+    "title": "Water Resources Development Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9497/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:52Z",
+    "updateDateIncludingText": "2026-07-15T08:07:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000560",
+      "district": 2,
+      "firstName": "Rick",
+      "fullName": "Rep. Larsen, Rick [D-WA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Larsen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/L000560?format=json"
+    },
+    {
+      "bioguideId": "C001129",
+      "district": 10,
+      "firstName": "Mike",
+      "fullName": "Rep. Collins, Mike [R-GA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001129?format=json"
+    },
+    {
+      "bioguideId": "W000808",
+      "district": 24,
+      "firstName": "Frederica",
+      "fullName": "Rep. Wilson, Frederica S. [D-FL-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wilson",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000808?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T18:59:03Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-29T16:03:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-14T18:58:54Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2026-06-30T20:28:28Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02",
+          "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+        }
+      ],
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ]
+}

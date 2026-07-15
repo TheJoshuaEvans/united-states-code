@@ -1,0 +1,166 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Small Business on June 3, 2026",
+        "pubDate": "2026-06-16T17:25:00Z",
+        "title": "H.R. 915, Small Business Technological Act of 2025",
+        "url": "https://www.cbo.gov/publication/62527"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-678",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/678?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ALFORD:\nH.R. 915.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 ``The Congress shall have\npower to . . . provide for the . . . general welfare of the\nUnited States; . . . ''\n[Page H460]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/915",
+    "number": "915",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000379",
+        "district": 4,
+        "firstName": "Mark",
+        "fullName": "Rep. Alford, Mark [R-MO-4]",
+        "isByRequest": "N",
+        "lastName": "Alford",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/A000379?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/text?format=json"
+    },
+    "title": "Small Business Technological Advancement Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/915/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T10:56:39Z",
+    "updateDateIncludingText": "2026-07-14T12:04:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "M001214",
+      "district": 1,
+      "firstName": "Frank",
+      "fullName": "Rep. Mrvan, Frank J. [D-IN-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mrvan",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-18",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/M001214?format=json"
+    },
+    {
+      "bioguideId": "M001220",
+      "district": 3,
+      "firstName": "Morgan",
+      "fullName": "Rep. McGarvey, Morgan [D-KY-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "McGarvey",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/M001220?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:45:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T17:56:06Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-20T21:46:44Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-04T17:05:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-03",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Small Business Technological Act of 2025</strong></p><p>This bill authorizes the Small Business Administration (SBA) to finance under the 7(a) loan program business software or cloud computing services that facilitate business operations, product or service delivery, payroll processing, human resources functions, sales and billing functions, or accounting or tracking of inventory. Such software or services include business tools that utilize artificial intelligence.</p><p>The 7(a) loan program is the SBA's primary business loan program that provides loan guaranties for participating lenders to provide financing to small businesses that are otherwise unable obtain reasonable credit terms.</p>",
+      "updateDate": "2026-06-18T14:18:47Z",
+      "versionCode": "07"
+    }
+  ]
+}

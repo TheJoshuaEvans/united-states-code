@@ -1,0 +1,78 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9683/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9683/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9683/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9683",
+    "number": "9683",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "M001236",
+        "district": 14,
+        "firstName": "Tim",
+        "fullName": "Rep. Moore, Tim [R-NC-14]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/M001236?format=json"
+      }
+    ],
+    "title": "To direct the Comptroller General of the United States to submit a report to Congress on case management personnel turnover of the Federal Emergency Management Agency, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9683/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:56Z",
+    "updateDateIncludingText": "2026-07-15T08:07:56Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000477",
+      "district": 4,
+      "firstName": "Valerie",
+      "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foushee",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/F000477?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:01:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hspw00?format=json"
+    }
+  ]
+}

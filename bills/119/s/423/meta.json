@@ -1,0 +1,258 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-08-14",
+      "text": "Became Public Law No: 119-33."
+    },
+    "laws": [
+      {
+        "number": "119-33",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/423",
+    "number": "423",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/text?format=json"
+    },
+    "title": "PRO Veterans Act of 2025",
+    "titles": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/423/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T16:44:31Z",
+    "updateDateIncludingText": "2026-07-14T16:44:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-08T23:22:20Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-05T20:39:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Protecting Regular Order for Veterans Act of 2025 or the PRO Veterans Act of 2025</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to provide quarterly budget briefings to Congress and prohibits the VA from providing specified pay incentives to senior level employees.</p><p>First, the bill requires VA to provide quarterly budget briefings to Congress, which must include information on&nbsp;any budget shortfalls the VA may be experiencing. The VA must present its plans to address or mitigate shortfalls during such briefings.</p><p>Next, the bill prohibits the VA from providing certain senior level employees with a critical skill incentive, which is generally a payment bonus for employees possessing a high-demand skill or skill that is at a shortage. Specifically, the VA may not provide such an incentive to an employee in a Senior Executive Service position or other comparable position at the central office of the VA (e.g., the Veterans Health Administration), regardless of the actual location where the employee performs the functions of the position.</p><p>The bill also provides that an incentive may be provided to senior-level employees on an individual basis and upon approval by specified officers (e.g., the Under Secretary for Health). Additionally, senior-level employees whose positions are primarily at the central office of the VA but perform some portion of the job function&nbsp;at other VA facilities are exempt from the prohibition.</p><p>The VA must report to Congress annually regarding senior-level employees who were provided a critical skill incentive.</p>",
+      "updateDate": "2025-07-18T15:52:51Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-08-14",
+      "actionDesc": "Public Law",
+      "text": "<p>This bill requires the Department of Veterans Affairs (VA) to provide quarterly budget briefings to Congress, prohibits the VA from providing specified pay incentives to senior-level employees, and establishes an office to carry out customer service initiatives of the VA.</p><p><em>Protecting Regular Order for Veterans Act of 2025 or the PRO Veterans Act of 2025</em></p><p>(Sec. 1) This section requires the VA to provide quarterly budget briefings to Congress, which must include information on&nbsp;any budget shortfalls the VA may be experiencing. The VA must present its plans to address or mitigate shortfalls during such briefings.</p><p>Next, the section prohibits the VA from providing certain senior-level employees with a critical skill incentive, which is generally a payment bonus for employees possessing a high-demand skill or skill that is at a shortage. Specifically, the VA may not provide such an incentive to an employee in a Senior Executive Service position or other comparable position in the VA Central Office, regardless of the actual location where the employee performs the functions of the position.&nbsp; Senior-level employees whose positions are primarily in the VA Central Office but perform some portion of their job function based out of non-Central Office VA facilities are eligible for an incentive for&nbsp;their non-Central Office work.</p><p>The section also provides that an incentive may only be provided to senior-level employees on an individual basis and upon approval by specified officers (e.g., the Under Secretary for Health).</p><p>The VA must report to Congress annually regarding senior-level employees who were provided a critical skill incentive.</p><p><em>Improving Veterans\u2019 Experience Act of 2025</em></p><p>(Sec. 2) This section establishes the Veterans Experience Office through&nbsp;FY2028 to carry out the key customer experience initiatives of the VA relating to veteran and beneficiary satisfaction with and usage of VA benefits and services.</p><p>The Government Accountability Office must complete an analysis of and report on the methodology, effectiveness, and implementation of findings and feedback of veterans and beneficiaries used by the VA, including the Veterans Experience Office, to improve customer experience and satisfaction.</p>",
+      "updateDate": "2026-07-14T16:43:50Z",
+      "versionCode": "49"
+    }
+  ]
+}

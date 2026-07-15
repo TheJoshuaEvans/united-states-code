@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 3,
+      "count": 4,
       "url": "https://api.congress.gov/v3/bill/119/hr/9640/actions?format=json"
     },
     "committees": {
@@ -17,8 +17,8 @@
     },
     "introducedDate": "2026-07-09",
     "latestAction": {
-      "actionDate": "2026-07-09",
-      "text": "Referred to the House Committee on Natural Resources."
+      "actionDate": "2026-07-14",
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9640",
     "number": "9640",
@@ -48,8 +48,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9640/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-12T13:49:30Z",
-    "updateDateIncludingText": "2026-07-12T13:49:30Z"
+    "updateDate": "2026-07-15T08:07:36Z",
+    "updateDateIncludingText": "2026-07-15T08:07:36Z"
   },
   "cosponsors": [
     {
@@ -75,6 +75,19 @@
       ],
       "chamber": "House",
       "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-14T17:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
       "systemCode": "hsii00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"

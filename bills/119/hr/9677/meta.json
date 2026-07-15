@@ -1,0 +1,59 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9677/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9677/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9677",
+    "number": "9677",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "F000477",
+        "district": 4,
+        "firstName": "Valerie",
+        "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+        "isByRequest": "N",
+        "lastName": "Foushee",
+        "middleName": "P.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000477?format=json"
+      }
+    ],
+    "title": "To require the Secretary of Housing and Urban Development to establish a program to provide housing assistance to graduate students.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9677/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:56Z",
+    "updateDateIncludingText": "2026-07-15T08:07:56Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:03:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ]
+}

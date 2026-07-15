@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 13,
-      "countIncludingWithdrawnCosponsors": 13,
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
       "url": "https://api.congress.gov/v3/bill/119/hres/1426/cosponsors?format=json"
     },
     "introducedDate": "2026-07-13",
@@ -36,14 +36,18 @@
         "url": "https://api.congress.gov/v3/member/K000376?format=json"
       }
     ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1426/text?format=json"
+    },
     "title": "Remembering the life of Corey Comperatore who passed away on Saturday, July 13, 2024.",
     "titles": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hres/1426/titles?format=json"
     },
     "type": "HRES",
-    "updateDate": "2026-07-14T08:05:57Z",
-    "updateDateIncludingText": "2026-07-14T08:05:57Z"
+    "updateDate": "2026-07-15T08:07:10Z",
+    "updateDateIncludingText": "2026-07-15T08:07:10Z"
   },
   "cosponsors": [
     {
@@ -206,6 +210,30 @@
       "sponsorshipDate": "2026-07-13",
       "state": "AL",
       "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "H001077",
+      "district": 3,
+      "firstName": "Clay",
+      "fullName": "Rep. Higgins, Clay [R-LA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Higgins",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/H001077?format=json"
+    },
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
     }
   ],
   "committees": [

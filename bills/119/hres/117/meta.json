@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/117/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-02-06",
+      "actionTime": "16:49:59",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/117",
+    "number": "117",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000798",
+        "district": 5,
+        "firstName": "Tim",
+        "fullName": "Rep. Walberg, Tim [R-MI-5]",
+        "isByRequest": "N",
+        "lastName": "Walberg",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/W000798?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/117/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/117/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/117/text?format=json"
+    },
+    "title": "Electing a Member to a certain standing committee of the House of Representatives.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/117/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-06-30T14:38:53Z",
+    "updateDateIncludingText": "2026-07-14T12:10:51Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-02-06",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution elects Representative Michael Guest of Mississippi as Chair of the Committee on Ethics.</p>",
+      "updateDate": "2025-03-11T19:15:28Z",
+      "versionCode": "00"
+    }
+  ]
+}

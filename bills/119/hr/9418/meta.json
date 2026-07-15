@@ -1,0 +1,116 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 106 (Wednesday, June 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BARRAGAN:\nH.R. 9418.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 of the United States Constitution\n[Page H4246]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9418",
+    "number": "9418",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001300",
+        "district": 44,
+        "firstName": "Nanette",
+        "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+        "isByRequest": "N",
+        "lastName": "Barrag\u00e1n",
+        "middleName": "Diaz",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/B001300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/text?format=json"
+    },
+    "title": "Access to Innovative Treatments Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9418/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T20:22:41Z",
+    "updateDateIncludingText": "2026-07-14T20:22:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "J000302",
+      "district": 13,
+      "firstName": "John",
+      "fullName": "Rep. Joyce, John [R-PA-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Joyce",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/J000302?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T14:04:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T14:04:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Access to Innovative Treatments Act of 2026</strong></p><p>This bill requires the Centers for Medicare &amp; Medicaid Services (CMS) to review adverse national coverage determinations of drugs under Medicare within 30 days of receiving a request to do so.</p><p>Specifically, the CMS must review within 30 days any denials or limitations of coverage that are inconsistent with the drug's approval by the Food and Drug Administration (FDA). The bill's requirements do not apply if the CMS already conducted such a review within a two-year period.</p><p>The bill also prohibits the CMS from applying prior coverage determinations that were made for drugs before they were approved by the FDA if such determinations are inconsistent with the drug's approval.</p>",
+      "updateDate": "2026-07-14T20:22:07Z",
+      "versionCode": "00"
+    }
+  ]
+}

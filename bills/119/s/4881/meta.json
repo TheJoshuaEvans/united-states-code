@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4881",
+    "number": "4881",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/text?format=json"
+    },
+    "title": "Unlocking Low-Income Taxpayer Clinic Funding Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4881/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:59:31Z",
+    "updateDateIncludingText": "2026-07-14T21:59:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T16:06:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

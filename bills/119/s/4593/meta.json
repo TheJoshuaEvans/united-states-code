@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4593/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4593/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4593/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4593",
+    "number": "4593",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001305",
+        "firstName": "Ted",
+        "fullName": "Sen. Budd, Ted [R-NC]",
+        "isByRequest": "N",
+        "lastName": "Budd",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/B001305?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4593/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4593/text?format=json"
+    },
+    "title": "Detention Authority Clarification Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4593/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:23Z",
+    "updateDateIncludingText": "2026-07-14T11:03:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001184",
+      "firstName": "Tim",
+      "fullName": "Sen. Scott, Tim [R-SC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-05-20",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/S001184?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2026-05-20",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "G000359",
+      "firstName": "Lindsey",
+      "fullName": "Sen. Graham, Lindsey [R-SC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graham",
+      "party": "R",
+      "sponsorshipDate": "2026-05-20",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/G000359?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2026-05-20",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T18:01:02Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

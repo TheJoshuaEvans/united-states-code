@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4944/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4944/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4944/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Environment and Public Works. (text: CR S3206-3214)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4944",
+    "number": "4944",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "A000383",
+        "firstName": "Alan",
+        "fullName": "Sen. Armstrong, Alan [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Armstrong",
+        "middleName": "Stuart",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/A000383?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4944/text?format=json"
+    },
+    "title": "American Energy and Mineral Infrastructure Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4944/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T16:32:20Z",
+    "updateDateIncludingText": "2026-07-14T16:32:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T02:54:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ]
+}

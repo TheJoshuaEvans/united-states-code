@@ -9,9 +9,10 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9641/committees?format=json"
     },
     "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 113 (Monday, July 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. TENNEY:\nH.R. 9641.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I\n[Page H4408]\n</pre>",
     "cosponsors": {
-      "count": 1,
-      "countIncludingWithdrawnCosponsors": 1,
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/9641/cosponsors?format=json"
     },
     "introducedDate": "2026-07-13",
@@ -36,14 +37,18 @@
         "url": "https://api.congress.gov/v3/member/T000478?format=json"
       }
     ],
-    "title": "To amend titles XVIII and XIX of the Social Security Act to require certain facilities to permit visits from an essential caregiver during certain periods.",
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9641/text?format=json"
+    },
+    "title": "Essential Caregivers Act of 2026",
     "titles": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/9641/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:06:33Z",
-    "updateDateIncludingText": "2026-07-14T08:06:33Z"
+    "updateDate": "2026-07-15T08:07:19Z",
+    "updateDateIncludingText": "2026-07-15T08:07:19Z"
   },
   "cosponsors": [
     {
@@ -58,6 +63,18 @@
       "sponsorshipDate": "2026-07-13",
       "state": "CT",
       "url": "https://api.congress.gov/v3/member/L000557?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
     }
   ],
   "committees": [

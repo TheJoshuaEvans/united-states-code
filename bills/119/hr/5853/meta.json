@@ -1,0 +1,110 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 179 (Tuesday, October 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MAST:\nH.R. 5853.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to regulate commerce with foreign\nnations pursuant to Article I, Section 8, Clause 3 of the\nConstitution of the United States.\n[Page H4560]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-28",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Ordered to be Reported by the Yeas and Nays: 44 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5853",
+    "number": "5853",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001224",
+        "district": 3,
+        "firstName": "Keith",
+        "fullName": "Rep. Self, Keith [R-TX-3]",
+        "isByRequest": "N",
+        "lastName": "Self",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/S001224?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/text?format=json"
+    },
+    "title": "To amend the Export Control Reform Act of 2018 to increase the civil penalties that may be imposed under such Act.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T21:53:19Z",
+    "updateDateIncludingText": "2026-07-14T21:53:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001157",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "McCaul",
+      "middleName": "T.",
+      "party": "R",
+      "sponsorshipDate": "2025-10-28",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/M001157?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-22T20:10:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-10-28T17:05:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ]
+}

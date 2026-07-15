@@ -1,0 +1,218 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-05",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3788",
+    "number": "3788",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001217",
+        "firstName": "Rick",
+        "fullName": "Sen. Scott, Rick [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001217?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/text?format=json"
+    },
+    "title": "CLEAR LABELS Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3788/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-05",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-02-05",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2026-02-05",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "J000293",
+      "firstName": "Ron",
+      "fullName": "Sen. Johnson, Ron [R-WI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2026-02-05",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/J000293?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2026-03-09",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2026-03-11",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": false,
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-23",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/R000584?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2026-03-25",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2026-03-25",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2026-04-13",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "A000383",
+      "firstName": "Alan",
+      "fullName": "Sen. Armstrong, Alan [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Armstrong",
+      "middleName": "Stuart",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/A000383?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-19T14:01:14Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2026-02-05T18:19:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

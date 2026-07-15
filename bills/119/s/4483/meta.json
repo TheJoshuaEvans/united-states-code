@@ -1,0 +1,103 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-11",
+    "latestAction": {
+      "actionDate": "2026-05-11",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4483",
+    "number": "4483",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001203",
+        "firstName": "Tina",
+        "fullName": "Sen. Smith, Tina [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001203?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/text?format=json"
+    },
+    "title": "Promoting Access to Local Agriculture Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4483/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-11T20:26:53Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-11",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Promoting Access to Local Agriculture Act of 2026</strong></p><p>This bill directs the Department of Agriculture (USDA) to establish a streamlined process for farmers and ranchers to provide benefits under certain federal nutrition programs. These programs include&nbsp;the Supplemental Nutrition Assistance Program (SNAP); the Senior Farmers Market Nutrition Program (SFMNP); the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC); and the Gus Schumacher Nutrition Incentive Program (GusNIP).</p><p>Specifically, USDA must establish a streamlined application process&nbsp;for farmers and ranchers to apply to be vendors under the nutrition programs, including by developing a single application for the programs or an information sharing system. USDA must also develop a streamlined process for these vendors to use standardized technology&nbsp;to process program benefits&nbsp;(such as a single piece of equipment or a mobile application).</p><p>Further, USDA must ensure that the program benefit processing equipment and systems made available by a state agency are appropriate for the entity. For example, this includes ensuring wireless or mobile processing equipment and technology systems are appropriate&nbsp;for farmers markets and other direct-to-consumer markets.</p>",
+      "updateDate": "2026-05-29T17:58:41Z",
+      "versionCode": "00"
+    }
+  ]
+}

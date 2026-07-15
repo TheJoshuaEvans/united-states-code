@@ -1,0 +1,86 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4832/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4832/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4832/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Read twice and referred to the Committee on Indian Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4832",
+    "number": "4832",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001203",
+        "firstName": "Tina",
+        "fullName": "Sen. Smith, Tina [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001203?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4832/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4832/text?format=json"
+    },
+    "title": "SNAP Tribal Food Sovereignty Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4832/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:58:30Z",
+    "updateDateIncludingText": "2026-07-14T21:58:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2026-06-18",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T16:48:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ]
+}

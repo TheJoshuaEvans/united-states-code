@@ -1,0 +1,193 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 150 (Monday, September 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BUCHANAN:\nH.R. 5347.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4311]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-15",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5347",
+    "number": "5347",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001260",
+        "district": 16,
+        "firstName": "Vern",
+        "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+        "isByRequest": "N",
+        "lastName": "Buchanan",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001260?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/text?format=json"
+    },
+    "title": "Health Care Efficiency Through Flexibility Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5347/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T10:56:32Z",
+    "updateDateIncludingText": "2026-07-14T10:56:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000613",
+      "district": 19,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": true,
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-09-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000613?format=json"
+    },
+    {
+      "bioguideId": "C001120",
+      "district": 2,
+      "firstName": "Dan",
+      "fullName": "Rep. Crenshaw, Dan [R-TX-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crenshaw",
+      "party": "R",
+      "sponsorshipDate": "2025-09-15",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001120?format=json"
+    },
+    {
+      "bioguideId": "L000585",
+      "district": 16,
+      "firstName": "Darin",
+      "fullName": "Rep. LaHood, Darin [R-IL-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaHood",
+      "party": "R",
+      "sponsorshipDate": "2025-09-15",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/L000585?format=json"
+    },
+    {
+      "bioguideId": "L000599",
+      "district": 17,
+      "firstName": "Michael",
+      "fullName": "Rep. Lawler, Michael [R-NY-17]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lawler",
+      "party": "R",
+      "sponsorshipDate": "2026-01-12",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/L000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:46:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-21T13:51:35Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-15T16:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-05-13T14:59:28Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-05-13T14:59:04Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-09-15T14:58:17Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsif14",
+          "url": "https://api.congress.gov/v3/committee/house/hsif14?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-09-17T13:27:44Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-15T16:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Health Care Efficiency Through Flexibility Act</strong></p><p>This bill delays certain requirements relating to the reporting of quality measures by accountable care organizations (ACOs) under the Medicare Shared Savings Program. It also requires the Centers for Medicare &amp; Medicaid Services (CMS) to establish a pilot program that tests alternative digital reporting methods for ACOs.</p><p>The Medicare Shared Savings Program enables ACOs to receive payments for savings stemming from care coordination and management. In 2024, the CMS issued a rule requiring ACOs to report on quality measures using a certain electronic system beginning in 2025.&nbsp;</p><p>The bill allows ACOs to continue to use prior methods of reporting quality measures through 2029. Additionally, the CMS must establish a pilot program to test other digital reporting methods from 2028-2032; ACOs that participate in the pilot program are exempt from using other methods. The CMS must publicly post an analysis of the program and any related recommendations for using the tested methods.</p>",
+      "updateDate": "2026-06-24T16:14:36Z",
+      "versionCode": "00"
+    }
+  ]
+}

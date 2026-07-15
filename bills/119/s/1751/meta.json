@@ -1,0 +1,151 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1751",
+    "number": "1751",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/text?format=json"
+    },
+    "title": "STOP Screwworms Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1751/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:25Z",
+    "updateDateIncludingText": "2026-07-14T11:00:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-14",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2025-05-14",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "H001079",
+      "firstName": "Cindy",
+      "fullName": "Sen. Hyde-Smith, Cindy [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hyde-Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/H001079?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2025-05-22",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T15:52:28Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-05-14T15:52:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

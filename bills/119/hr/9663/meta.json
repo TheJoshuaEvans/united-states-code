@@ -1,0 +1,59 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9663/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9663/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9663",
+    "number": "9663",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "B001307",
+        "district": 4,
+        "firstName": "James",
+        "fullName": "Rep. Baird, James R. [R-IN-4]",
+        "isByRequest": "N",
+        "lastName": "Baird",
+        "middleName": "R.",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/B001307?format=json"
+      }
+    ],
+    "title": "To amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to establish in the Environmental Protection Agency the State Standing Committee, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9663/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:45Z",
+    "updateDateIncludingText": "2026-07-15T08:07:45Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:00:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Science, Space, and Technology Committee",
+      "systemCode": "hssy00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssy00?format=json"
+    }
+  ]
+}

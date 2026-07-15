@@ -1,0 +1,75 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/800/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/800/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/800/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Referred to the Committee on Foreign Relations. (text: CR S3746)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/800",
+    "number": "800",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "S001217",
+        "firstName": "Rick",
+        "fullName": "Sen. Scott, Rick [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001217?format=json"
+      }
+    ],
+    "title": "A resolution commending the courage, bravery, and resolve of the fathers, mothers, sons, and daughters of Cuba, whom 5 years ago, stood in the face of brutal harassment, beatings, and torture to protest against the Communist Cuban regime, demanding access to their fundamental rights to life, dignity, and freedom.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/800/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-14T19:37:40Z",
+    "updateDateIncludingText": "2026-07-14T19:37:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:29:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ]
+}

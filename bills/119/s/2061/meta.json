@@ -1,0 +1,188 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2061/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2061/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/2061/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2061",
+    "number": "2061",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001277",
+        "firstName": "Richard",
+        "fullName": "Sen. Blumenthal, Richard [D-CT]",
+        "isByRequest": "N",
+        "lastName": "Blumenthal",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/B001277?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/2061/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2061/text?format=json"
+    },
+    "title": "Molly R. Loomis Research for Descendants of Toxic Exposed Veterans Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2061/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:32Z",
+    "updateDateIncludingText": "2026-07-14T11:00:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001111",
+      "firstName": "Patty",
+      "fullName": "Sen. Murray, Patty [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murray",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/M001111?format=json"
+    },
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2025-12-10",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    },
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2026-01-08",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-01-28",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2026-01-28",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2026-03-05",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-24",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2026-04-14",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:16Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:16Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-06-12T17:42:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

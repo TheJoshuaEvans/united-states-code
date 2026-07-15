@@ -1,0 +1,273 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-09",
+    "latestAction": {
+      "actionDate": "2025-12-09",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3392",
+    "number": "3392",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/W000779?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/text?format=json"
+    },
+    "title": "AGRITOURISM Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3392/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "B001230",
+      "firstName": "Tammy",
+      "fullName": "Sen. Baldwin, Tammy [D-WI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baldwin",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/B001230?format=json"
+    },
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "M001111",
+      "firstName": "Patty",
+      "fullName": "Sen. Murray, Patty [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murray",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/M001111?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2025-12-10",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-10",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-09T19:27:55Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-12-09T19:27:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-09",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Accelerating the Growth of Rural Innovation and Tourism Opportunities to Uphold Rural Industries and Sustainable Marketplaces Act or the AGRITOURISM Act</strong></p><p>This bill directs the Department of Agriculture to designate an&nbsp;Agritourism Advisor within the&nbsp;Office of the Under Secretary for Rural Development. The advisor must encourage and promote&nbsp;agritourism activities and businesses in each state and on land under the jurisdiction of Indian tribes.</p><p>Under the bill, agritourism&nbsp;activities and agritourism businesses include educational experiences,&nbsp;outdoor recreation,&nbsp;entertainment and special events,&nbsp;direct sales, and accommodations.</p>",
+      "updateDate": "2026-04-08T14:00:03Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4950/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4950/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4950",
+    "number": "4950",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "D000622",
+        "firstName": "Tammy",
+        "fullName": "Sen. Duckworth, Tammy [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Duckworth",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000622?format=json"
+      }
+    ],
+    "title": "A bill to amend the National Telecommunications and Information Administration Organization Act to codify the Institute for Telecommunication Sciences, to direct the Assistant Secretary of Commerce for Communications and Information to establish an initiative to support the development of emergency communication and tracking technologies, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4950/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:19Z",
+    "updateDateIncludingText": "2026-07-14T10:56:19Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:33:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

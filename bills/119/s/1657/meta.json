@@ -1,0 +1,124 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-03-27T16:11:00Z",
+        "title": "S. 1657, Review Every Veteran\u2019s Claim Act of 2025",
+        "url": "https://www.cbo.gov/publication/62276"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-07",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported without amendment favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1657",
+    "number": "1657",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001299",
+        "firstName": "Jim",
+        "fullName": "Sen. Banks, Jim [R-IN]",
+        "isByRequest": "N",
+        "lastName": "Banks",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/B001299?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/text?format=json"
+    },
+    "title": "Review Every Veteran\u2019s Claim Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1657/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:23Z",
+    "updateDateIncludingText": "2026-07-14T11:00:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-05-07",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:08Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:08Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-05-07T21:08:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-07",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Review Every Veteran's Claim Act of 2025</strong></p><p>This bill prohibits the Department of Veterans Affairs (VA) from denying a claim for benefits on the sole basis that a veteran failed to appear for a medical examination provided by the VA in conjunction with the claim for benefits.</p>",
+      "updateDate": "2025-06-30T22:21:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

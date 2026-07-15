@@ -1,0 +1,297 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 19,
+      "countIncludingWithdrawnCosponsors": 19,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-15",
+    "latestAction": {
+      "actionDate": "2025-05-15",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1779",
+    "number": "1779",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/text?format=json"
+    },
+    "title": "LOCOMOTIVES Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1779/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:25Z",
+    "updateDateIncludingText": "2026-07-14T11:00:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "B001261",
+      "firstName": "John",
+      "fullName": "Sen. Barrasso, John [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrasso",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/R000584?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/C000880?format=json"
+    },
+    {
+      "bioguideId": "S001184",
+      "firstName": "Tim",
+      "fullName": "Sen. Scott, Tim [R-SC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/S001184?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-22",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-06-02",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-06-28",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-07-30",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2025-12-17",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-15T16:43:38Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-05-15T16:43:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ]
+}

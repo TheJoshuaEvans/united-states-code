@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4940/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4940/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4940",
+    "number": "4940",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4940/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4940/text?format=json"
+    },
+    "title": "Specialized Infant Formula Protection Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4940/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T19:48:15Z",
+    "updateDateIncludingText": "2026-07-14T19:48:15Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T00:06:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

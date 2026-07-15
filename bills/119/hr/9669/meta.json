@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9669/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9669/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9669/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9669",
+    "number": "9669",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "A000370",
+        "district": 12,
+        "firstName": "Alma",
+        "fullName": "Rep. Adams, Alma S. [D-NC-12]",
+        "isByRequest": "N",
+        "lastName": "Adams",
+        "middleName": "S.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/A000370?format=json"
+      }
+    ],
+    "title": "To direct the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to establish a 5-year pilot program under which the Secretary will award grants to eligible entities for purposes of expanding forensic assertive community treatment team programs.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9669/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:17Z",
+    "updateDateIncludingText": "2026-07-15T08:07:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001067",
+      "district": 9,
+      "firstName": "Yvette",
+      "fullName": "Rep. Clarke, Yvette D. [D-NY-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Clarke",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/C001067?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

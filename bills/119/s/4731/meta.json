@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4731",
+    "number": "4731",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000570",
+        "firstName": "Ben",
+        "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Luj\u00e1n",
+        "middleName": "R.",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000570?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/text?format=json"
+    },
+    "title": "Protecting Indian Water Rights Settlements Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4731/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:54:06Z",
+    "updateDateIncludingText": "2026-07-14T21:54:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-06-10",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T16:01:38Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

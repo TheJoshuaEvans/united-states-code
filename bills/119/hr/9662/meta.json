@@ -1,0 +1,103 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9662/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9662/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9662/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9662",
+    "number": "9662",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "S001214",
+        "district": 17,
+        "firstName": "W.",
+        "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+        "isByRequest": "N",
+        "lastName": "Steube",
+        "middleName": "Gregory",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001214?format=json"
+      }
+    ],
+    "title": "To amend the Immigration and Nationality Act to impose limits on birthright citizenship for aliens and illegal migrants.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9662/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:49Z",
+    "updateDateIncludingText": "2026-07-15T08:07:49Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B000740",
+      "district": 5,
+      "firstName": "Stephanie",
+      "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bice",
+      "middleName": "I.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B000740?format=json"
+    },
+    {
+      "bioguideId": "N000190",
+      "district": 5,
+      "firstName": "Ralph",
+      "fullName": "Rep. Norman, Ralph [R-SC-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norman",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/N000190?format=json"
+    },
+    {
+      "bioguideId": "B001309",
+      "district": 2,
+      "firstName": "Tim",
+      "fullName": "Rep. Burchett, Tim [R-TN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Burchett",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001309?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T14:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

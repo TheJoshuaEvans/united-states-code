@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/2/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "15:45:35",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/2",
+    "number": "2",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001176",
+        "district": 1,
+        "firstName": "Steve",
+        "fullName": "Rep. Scalise, Steve [R-LA-1]",
+        "isByRequest": "N",
+        "lastName": "Scalise",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/S001176?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/2/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/2/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/2/text?format=json"
+    },
+    "title": "To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/2/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-01-15T18:17:55Z",
+    "updateDateIncludingText": "2026-07-14T12:14:41Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution informs the Senate that a quorum of the House of Representatives has assembled, that Rep. Mike Johnson of Louisiana has been elected Speaker, and that Kevin McCumber has been elected Clerk of the House of Representatives of the 119th Congress.</p>",
+      "updateDate": "2025-01-14T14:57:14Z",
+      "versionCode": "00"
+    }
+  ]
+}

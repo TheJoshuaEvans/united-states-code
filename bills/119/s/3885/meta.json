@@ -1,0 +1,191 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-12",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3885",
+    "number": "3885",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/text?format=json"
+    },
+    "title": "Aviation Innovation and Global Competitiveness Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3885/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Curtis",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    },
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-12",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2026-02-12",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-02-12",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-06-22",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-12T20:11:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

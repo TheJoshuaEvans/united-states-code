@@ -1,0 +1,86 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4906/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4906/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4906/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4906",
+    "number": "4906",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4906/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4906/text?format=json"
+    },
+    "title": "Milk From Family Dairies Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4906/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:28:31Z",
+    "updateDateIncludingText": "2026-07-14T21:28:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000033",
+      "firstName": "Bernie",
+      "fullName": "Sen. Sanders, Bernard [I-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sanders",
+      "party": "I",
+      "sponsorshipDate": "2026-06-24",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/S000033?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T20:45:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

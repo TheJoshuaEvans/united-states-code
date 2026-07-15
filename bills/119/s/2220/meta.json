@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-09",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2220",
+    "number": "2220",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000608",
+        "firstName": "Jacky",
+        "fullName": "Sen. Rosen, Jacky [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Rosen",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/R000608?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/text?format=json"
+    },
+    "title": "Fighting for the Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada (FORGOTTEN) Veterans Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2220/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:36Z",
+    "updateDateIncludingText": "2026-07-14T11:00:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2025-07-09",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/C001113?format=json"
+    },
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:18Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:18Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-09T18:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-09",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Fighting for the Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada (FORGOTTEN) Veterans Act of 2025</strong></p><p>This bill requires increased Department of Defense (DOD) documentation related to toxic exposures by military personnel and establishes eligibility for certain disability compensation and benefits for individuals who served at the Nevada Test and Training Range (NTTR).</p><p>DOD must (1) expand the Individual Longitudinal Exposure Record to include specified medical information and document all toxic exposures of members of the Armed Forces, and (2) document in service records whether a member of the Armed Forces served at a location with potential toxic exposure.</p><p>Members of the Armed Forces and civilian DOD employees who are or have been stationed at specified nuclear facilities must be presumed to have been exposed to toxic substances.</p><p>DOD must classify the&nbsp;NTTR as a location where contamination occurred and the Department of the Air Force must identify those who have been stationed there since January 27, 1951.</p><p>The bill establishes that onsite participation on or after January 27, 1951, at&nbsp;NTTR locations where there was a potential of toxic exposure is a radiation-risk activity, therefore providing a presumption of service-connection for specified conditions.</p><p>The bill also establishes a presumption of toxic exposure for veterans who performed active service at&nbsp;NTTR locations with&nbsp;potential toxic exposure, including airspace above such locations. Additionally, lipomas and tumor related conditions must be considered as service-connected conditions for veterans who served at the NTTR locations.</p>",
+      "updateDate": "2026-02-20T15:01:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

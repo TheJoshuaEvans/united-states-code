@@ -1,0 +1,159 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 67 (Thursday, April 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of West Virginia:\nH.R. 2951.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 Clause 3\n[Page H1613]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-04-17",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2951",
+    "number": "2951",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001235",
+        "district": 2,
+        "firstName": "Riley",
+        "fullName": "Rep. Moore, Riley [R-WV-2]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/M001235?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/text?format=json"
+    },
+    "title": "Easter Monday Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2951/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:08Z",
+    "updateDateIncludingText": "2026-07-15T08:07:08Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001240",
+      "district": 6,
+      "firstName": "Addison",
+      "fullName": "Rep. McDowell, Addison [R-NC-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "McDowell",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-17",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001240?format=json"
+    },
+    {
+      "bioguideId": "H001102",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Harris, Mark [R-NC-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2026-04-09",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001102?format=json"
+    },
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-09",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-07",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    },
+    {
+      "bioguideId": "F000459",
+      "district": 3,
+      "firstName": "Charles",
+      "fullName": "Rep. Fleischmann, Charles J. \"Chuck\" [R-TN-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fleischmann",
+      "middleName": "J. \"Chuck\"",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/F000459?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-17T13:37:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-17",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Easter Monday Act of 2025</strong></p><p>This bill establishes Easter Monday as a federal holiday.</p>",
+      "updateDate": "2025-07-02T16:30:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

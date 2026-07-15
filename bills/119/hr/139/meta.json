@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 4,
+      "count": 11,
       "url": "https://api.congress.gov/v3/bill/119/hr/139/actions?format=json"
     },
     "committees": {
@@ -12,14 +12,14 @@
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BUCHANAN:\nH.R. 139.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\nThe single subject of this legislation is:\nTo make daylight savings time permanent, and for other\npurposes.\n[Page H40]\n</pre>",
     "cosponsors": {
       "count": 34,
-      "countIncludingWithdrawnCosponsors": 34,
+      "countIncludingWithdrawnCosponsors": 35,
       "url": "https://api.congress.gov/v3/bill/119/hr/139/cosponsors?format=json"
     },
     "introducedDate": "2025-01-03",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "17:59:05",
-      "text": "Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill."
+      "actionDate": "2026-07-14",
+      "actionTime": "17:18:52",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/139",
     "number": "139",
@@ -63,8 +63,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/139/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:07:01Z",
-    "updateDateIncludingText": "2026-07-14T08:07:01Z"
+    "updateDate": "2026-07-15T08:07:50Z",
+    "updateDateIncludingText": "2026-07-15T08:07:50Z"
   },
   "cosponsors": [
     {
@@ -126,6 +126,7 @@
       "lastName": "Newhouse",
       "party": "R",
       "sponsorshipDate": "2025-02-04",
+      "sponsorshipWithdrawnDate": "2026-07-14",
       "state": "WA",
       "url": "https://api.congress.gov/v3/member/N000189?format=json"
     },
@@ -484,6 +485,18 @@
       "sponsorshipDate": "2026-06-10",
       "state": "CA",
       "url": "https://api.congress.gov/v3/member/K000397?format=json"
+    },
+    {
+      "bioguideId": "P000622",
+      "district": 1,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Patronis",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/P000622?format=json"
     }
   ],
   "committees": [

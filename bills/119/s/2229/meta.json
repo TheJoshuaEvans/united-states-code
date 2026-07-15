@@ -1,0 +1,184 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-09",
+    "latestAction": {
+      "actionDate": "2025-07-09",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2229",
+    "number": "2229",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/text?format=json"
+    },
+    "title": "United States Foreign Service Commemorative Coin Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2229/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:36Z",
+    "updateDateIncludingText": "2026-07-14T11:00:36Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2025-07-09",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2025-10-01",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-10-07",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-10-22",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-10-22",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-10-27",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-12-03",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-12-03",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-09T21:22:20Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-07-09T21:22:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

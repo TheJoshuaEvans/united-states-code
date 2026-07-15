@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-26",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "actionTime": "17:31:11",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1140",
+    "number": "1140",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000188",
+        "district": 1,
+        "firstName": "Donald",
+        "fullName": "Rep. Norcross, Donald [D-NJ-1]",
+        "isByRequest": "N",
+        "lastName": "Norcross",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/N000188?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/text?format=json"
+    },
+    "title": "Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under the National Labor Relations Act.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1140/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-16T14:14:53Z",
+    "updateDateIncludingText": "2026-07-14T12:10:37Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T21:26:58Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-03-26T14:04:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-26",
+      "actionDesc": "Introduced in House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under the National Labor Relations Act.",
+      "updateDate": "2026-04-03T12:59:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

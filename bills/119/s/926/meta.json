@@ -1,0 +1,157 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-247."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/926",
+    "number": "926",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000383",
+        "firstName": "Angus",
+        "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+        "isByRequest": "N",
+        "lastName": "King",
+        "middleName": "S.",
+        "party": "I",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/K000383?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/text?format=json"
+    },
+    "title": "Saving Our Veterans Lives Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/926/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:21Z",
+    "updateDateIncludingText": "2026-07-14T11:03:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-01",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2025-12-01",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": false,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2026-02-10",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2026-02-10",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T21:00:04Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:04Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-03-11T15:45:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Saving Our Veterans Lives Act of 2025</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to implement a program to provide, upon request, a firearm lockbox (or voucher for such item) to eligible individuals. Currently, there is a pilot program under which certain veterans may be prescribed a lockbox by a VA clinician.</p><p>The VA must also provide information with respect to the benefits of and options for secure firearm storage.</p><p>The VA must develop an informational video on the secure storage of firearms as a suicide prevention strategy and publish the video on its website. Additionally, the VA must publish information to inform individuals who participate in the lockbox program that such lockboxes are not for resale. The VA must also implement a public education campaign to educate eligible individuals about the availability of lockboxes under the program and that participation in the program does not affect the rights of an individual with respect to the lawful ownership of a firearm.</p>",
+      "updateDate": "2026-06-12T13:38:56Z",
+      "versionCode": "00"
+    }
+  ]
+}

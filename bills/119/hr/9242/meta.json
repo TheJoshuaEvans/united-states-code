@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9242/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9242/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 98 (Wednesday, June 10, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HAMADEH of Arizona:\nH.R. 9242.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the authority to enact the No American Left\nBehind Act pursuant to Article 1, Section 8 of the\nConstitution, including its powers to provide for the common\ndefense, make rules for the government and regulation of the\nArmed Forces, and make all laws necessary and proper for\ncarrying those powers into execution.\n[Page H4085]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9242/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9242",
+    "number": "9242",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001098",
+        "district": 8,
+        "firstName": "Abraham",
+        "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+        "isByRequest": "N",
+        "lastName": "Hamadeh",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/H001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9242/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9242/text?format=json"
+    },
+    "title": "No American Left Behind Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9242/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:46Z",
+    "updateDateIncludingText": "2026-07-15T08:07:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001233",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Messmer, Mark B. [R-IN-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Messmer",
+      "middleName": "B.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/M001233?format=json"
+    },
+    {
+      "bioguideId": "M001216",
+      "district": 7,
+      "firstName": "Cory",
+      "fullName": "Rep. Mills, Cory [R-FL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mills",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001216?format=json"
+    },
+    {
+      "bioguideId": "D000230",
+      "district": 1,
+      "firstName": "Donald",
+      "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Davis",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/D000230?format=json"
+    },
+    {
+      "bioguideId": "M001218",
+      "district": 7,
+      "firstName": "Richard",
+      "fullName": "Rep. McCormick, Richard [R-GA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/M001218?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T14:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

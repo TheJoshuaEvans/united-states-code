@@ -1,0 +1,80 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1665/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1665/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-07",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1665",
+    "number": "1665",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001277",
+        "firstName": "Richard",
+        "fullName": "Sen. Blumenthal, Richard [D-CT]",
+        "isByRequest": "N",
+        "lastName": "Blumenthal",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/B001277?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1665/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1665/text?format=json"
+    },
+    "title": "OATH Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1665/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:23Z",
+    "updateDateIncludingText": "2026-07-14T11:00:23Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:10Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:10Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-05-07T21:33:57Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

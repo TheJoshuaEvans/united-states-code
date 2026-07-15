@@ -1,0 +1,135 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7083/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on May 14, 2026",
+        "pubDate": "2026-07-02T17:34:00Z",
+        "title": "H.R. 7083, Centralized Reimbursement for Upgraded Innovative Service Equipment Act",
+        "url": "https://www.cbo.gov/publication/62505"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7083/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 11 (Thursday, January 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BARRETT:\nH.R. 7083.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H920]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7083/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-15",
+    "latestAction": {
+      "actionDate": "2026-05-14",
+      "text": "Ordered to be Reported in the Nature of a Substitute by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7083",
+    "number": "7083",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001321",
+        "district": 7,
+        "firstName": "Tom",
+        "fullName": "Rep. Barrett, Tom [R-MI-7]",
+        "isByRequest": "N",
+        "lastName": "Barrett",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/B001321?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7083/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7083/text?format=json"
+    },
+    "title": "CRUISE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7083/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:23Z",
+    "updateDateIncludingText": "2026-07-15T08:07:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
+    },
+    {
+      "bioguideId": "S001221",
+      "district": 3,
+      "firstName": "Hillary",
+      "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scholten",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001221?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-14T21:07:57Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-01-15T14:01:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-24T21:53:39Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-02-24T14:03:05Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-02-02T19:42:02Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ]
+}

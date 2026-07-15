@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-04-02T20:26:00Z",
+        "title": "S. 2328, Military Learning for Credit Act of 2026",
+        "url": "https://www.cbo.gov/publication/62287"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2328",
+    "number": "2328",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001088",
+        "firstName": "Christopher",
+        "fullName": "Sen. Coons, Christopher A. [D-DE]",
+        "isByRequest": "N",
+        "lastName": "Coons",
+        "middleName": "A.",
+        "party": "D",
+        "state": "DE",
+        "url": "https://api.congress.gov/v3/member/C001088?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/text?format=json"
+    },
+    "title": "Military Learning for Credit Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2328/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:38Z",
+    "updateDateIncludingText": "2026-07-14T11:00:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:20Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:24Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:24Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-17T17:20:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

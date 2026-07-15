@@ -1,0 +1,99 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4956/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4956/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4956/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4956",
+    "number": "4956",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "L000571",
+        "firstName": "Cynthia",
+        "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+        "isByRequest": "N",
+        "lastName": "Lummis",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/L000571?format=json"
+      }
+    ],
+    "title": "A bill to amend the Federal Water Pollution Control Act to clarify the scope of an exemption from permits for the discharge of dredged or fill material, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4956/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:20Z",
+    "updateDateIncludingText": "2026-07-14T10:56:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000383",
+      "firstName": "Alan",
+      "fullName": "Sen. Armstrong, Alan [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Armstrong",
+      "middleName": "Stuart",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/A000383?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T22:04:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ]
+}

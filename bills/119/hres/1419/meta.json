@@ -1,0 +1,82 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1419/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1419/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-06",
+    "latestAction": {
+      "actionDate": "2026-07-06",
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1419",
+    "number": "1419",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000812",
+        "district": 2,
+        "firstName": "Ann",
+        "fullName": "Rep. Wagner, Ann [R-MO-2]",
+        "isByRequest": "N",
+        "lastName": "Wagner",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/W000812?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1419/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1419/text?format=json"
+    },
+    "title": "Celebrating the 200th anniversary of Jefferson Barracks in Missouri and recognizing its contributions to the military history and national security of the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1419/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-14T22:11:19Z",
+    "updateDateIncludingText": "2026-07-14T22:11:19Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-06T14:31:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-07-06T14:31:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on March 18, 2026",
+        "pubDate": "2026-03-27T16:11:00Z",
+        "title": "S. 1116, Ensuring Veterans\u2019 Final Resting Place Act of 2026",
+        "url": "https://www.cbo.gov/publication/62274"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-25",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1116",
+    "number": "1116",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001299",
+        "firstName": "Jim",
+        "fullName": "Sen. Banks, Jim [R-IN]",
+        "isByRequest": "N",
+        "lastName": "Banks",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/B001299?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/text?format=json"
+    },
+    "title": "Ensuring Veterans\u2019 Final Resting Place Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1116/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:08Z",
+    "updateDateIncludingText": "2026-07-14T11:00:08Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-25",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:06Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:06Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-03-25T19:05:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-25",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Ensuring Veterans\u2019 Final Resting Place Act of 2025</strong></p><p>This bill provides that the provision of an urn or commemorative plaque does not prohibit an individual from receiving a headstone or marker or other burial benefits (i.e., interment at a national cemetery) from the Department of Veterans Affairs. Under current law, individuals who request an urn or plaque do so in lieu of being furnished a headstone or burial benefit.</p>",
+      "updateDate": "2025-06-24T19:17:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

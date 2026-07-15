@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4945/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4945/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-13",
+    "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4945",
+    "number": "4945",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001075?format=json"
+      }
+    ],
+    "title": "A bill to impose tariff-rate quotas on certain imports.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4945/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T10:56:20Z",
+    "updateDateIncludingText": "2026-07-14T10:56:20Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T19:43:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

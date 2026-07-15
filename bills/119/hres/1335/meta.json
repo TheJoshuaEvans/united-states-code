@@ -1,0 +1,194 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-11",
+      "actionTime": "10:45:26",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1335",
+    "number": "1335",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000246",
+        "district": 4,
+        "firstName": "Pat",
+        "fullName": "Rep. Fallon, Pat [R-TX-4]",
+        "isByRequest": "N",
+        "lastName": "Fallon",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/F000246?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/text?format=json"
+    },
+    "title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1335/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-15T18:48:45Z",
+    "updateDateIncludingText": "2026-07-14T12:12:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000250",
+      "district": 17,
+      "firstName": "Pete",
+      "fullName": "Rep. Sessions, Pete [R-TX-17]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sessions",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S000250?format=json"
+    },
+    {
+      "bioguideId": "M001239",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. McGuire, John J. [R-VA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "McGuire",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001239?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "B000825",
+      "district": 4,
+      "firstName": "Lauren",
+      "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Boebert",
+      "party": "R",
+      "sponsorshipDate": "2026-06-08",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B000825?format=json"
+    },
+    {
+      "bioguideId": "P000609",
+      "district": 6,
+      "firstName": "Gary",
+      "fullName": "Rep. Palmer, Gary J. [R-AL-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Palmer",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-09",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/P000609?format=json"
+    },
+    {
+      "bioguideId": "E000246",
+      "district": 11,
+      "firstName": "Chuck",
+      "fullName": "Rep. Edwards, Chuck [R-NC-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Edwards",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/E000246?format=json"
+    },
+    {
+      "bioguideId": "T000463",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. Turner, Michael R. [R-OH-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Turner",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000463?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T14:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution condemns the actions of those seeking to defraud the U.S. government.&nbsp;</p><p>The resolution also expresses&nbsp;the belief of the House of Representatives that (1) legislative and policy reforms to prevent fraud and improper payment will meaningfully improve the continued financial prosperity of the U.S. government and the American taxpayer, and (2) federal program eligibility and spending activities should be verified prior to payments being issued.</p>",
+      "updateDate": "2026-06-05T15:06:04Z",
+      "versionCode": "00"
+    }
+  ]
+}

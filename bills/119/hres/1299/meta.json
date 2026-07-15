@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-19",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "actionTime": "13:04:39",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1299",
+    "number": "1299",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001072",
+        "district": 2,
+        "firstName": "J.",
+        "fullName": "Rep. Hill, J. French [R-AR-2]",
+        "isByRequest": "N",
+        "lastName": "Hill",
+        "middleName": "French",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/H001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 27,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/text?format=json"
+    },
+    "title": "Providing for the concurrence by the House in the Senate amendment to H.R. 6644, with amendment.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1299/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-18T15:50:50Z",
+    "updateDateIncludingText": "2026-07-14T12:11:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000187",
+      "district": 43,
+      "firstName": "Maxine",
+      "fullName": "Rep. Waters, Maxine [D-CA-43]",
+      "isOriginalCosponsor": true,
+      "lastName": "Waters",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/W000187?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-19T16:05:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsru00?format=json"
+    }
+  ]
+}

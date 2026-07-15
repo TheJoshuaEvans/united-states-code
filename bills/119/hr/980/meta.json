@@ -1,0 +1,143 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/980/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on May 6, 2025",
+        "pubDate": "2025-05-28T13:51:00Z",
+        "title": "H.R. 980, Veterans Readiness and Employment Improvement Act of 2025",
+        "url": "https://www.cbo.gov/publication/61409"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-228",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/228?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/980/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VAN ORDEN:\nH.R. 980.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\n[Page H505]\n</pre>",
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2026-02-03",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/980",
+    "number": "980",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000135",
+        "district": 3,
+        "firstName": "Derrick",
+        "fullName": "Rep. Van Orden, Derrick [R-WI-3]",
+        "isByRequest": "N",
+        "lastName": "Van Orden",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/V000135?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/980/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/980/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/980/text?format=json"
+    },
+    "title": "Veterans Readiness and Employment Improvement Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/980/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-05T04:08:16Z",
+    "updateDateIncludingText": "2026-07-14T12:09:07Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-03T20:35:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-08-15T16:43:36Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-06T14:16:35Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-05T15:06:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-04-09T18:45:54Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2025-04-09T18:45:41Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2025-03-11T17:38:56Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-03-07T22:44:05Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Economic Opportunity Subcommittee",
+          "systemCode": "hsvr10",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr10?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Modernizing the Veterans On-Campus Experience Act of 2025</strong></p><p>This bill removes the requirement that educational and vocational counseling services provided by the Department of Veterans Affairs (VA) on&nbsp;campus at institutions of higher learning must be provided by VA counselors.</p>",
+      "updateDate": "2025-03-25T16:44:21Z",
+      "versionCode": "00"
+    }
+  ]
+}

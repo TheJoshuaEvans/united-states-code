@@ -1,0 +1,84 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2333/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2333/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2333",
+    "number": "2333",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2333/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2333/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2333/text?format=json"
+    },
+    "title": "Health Records Enhancement Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2333/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:38Z",
+    "updateDateIncludingText": "2026-07-14T11:00:38Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T20:00:22Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T21:00:26Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:26Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-17T17:32:37Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

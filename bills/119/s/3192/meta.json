@@ -1,0 +1,82 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3192/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3192/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 119-366."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3192",
+    "number": "3192",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000563",
+        "firstName": "Richard",
+        "fullName": "Sen. Durbin, Richard J. [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Durbin",
+        "middleName": "J.",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000563?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3192/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3192/text?format=json"
+    },
+    "title": "REDUCE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3192/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T22:52:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-04-15T19:37:26Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "sseg01",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg01?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

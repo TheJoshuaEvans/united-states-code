@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-28",
+    "latestAction": {
+      "actionDate": "2025-07-28",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2477",
+    "number": "2477",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000133",
+        "firstName": "Edward",
+        "fullName": "Sen. Markey, Edward J. [D-MA]",
+        "isByRequest": "N",
+        "lastName": "Markey",
+        "middleName": "J.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/text?format=json"
+    },
+    "title": "End Solitary Confinement Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2477/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:41Z",
+    "updateDateIncludingText": "2026-07-14T11:00:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-28",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    },
+    {
+      "bioguideId": "S000033",
+      "firstName": "Bernie",
+      "fullName": "Sen. Sanders, Bernard [I-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sanders",
+      "party": "I",
+      "sponsorshipDate": "2025-07-28",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/S000033?format=json"
+    },
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-28",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    },
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2025-07-28",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-28T21:01:28Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-07-28T21:01:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-28",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>End Solitary Confinement Act</strong></p><p>This bill restricts the use of solitary confinement and establishes minimum standards for incarceration at the federal, state, and local levels.</p><p>At the federal level, the bill generally prohibits the use of solitary confinement in federal facilities with limited exceptions, such as if necessary to de-escalate an emergency situation. The bill also establishes minimum standards for incarceration,&nbsp;including at least 14 hours per day of out-of-cell congregate interaction in a shared space that is conducive to meaningful group interaction.</p><p>The bill requires state and local governments to implement laws, policies, and programs that substantially comply with the restrictions on solitary confinement and minimum standards for incarceration in order to receive full funding under the Edward Byrne Memorial Justice Assistance Grant program.</p><p>The bill establishes an independent community monitoring body, as well as an advisory body of stakeholders, to help provide oversight.</p><p>Finally, the bill allows a prisoner to file a federal civil action for mental or emotional injury suffered if there is a prior showing of placement in solitary confinement or an alternative unit.</p>",
+      "updateDate": "2026-06-03T15:59:49Z",
+      "versionCode": "00"
+    }
+  ]
+}

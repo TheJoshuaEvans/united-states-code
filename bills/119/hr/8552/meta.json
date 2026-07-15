@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 74 (Tuesday, April 28, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LUTTRELL:\nH.R. 8552.\nCongress has the power to enact this legislation pursuant\nto the following:\nUnder Article 1, Section 8 of the Constitution, Congress\nhas the power ``To make all Laws which shall be necessary and\nproper for carrying into Execution the foregoing Powers, and\nall other Powers vested by this Constitution in the\nGovernment of the United States, or in any Department or\nOfficer thereof.''\n[Page H3133]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-28",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8552",
+    "number": "8552",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000603",
+        "district": 8,
+        "firstName": "Morgan",
+        "fullName": "Rep. Luttrell, Morgan [R-TX-8]",
+        "isByRequest": "N",
+        "lastName": "Luttrell",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/L000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/text?format=json"
+    },
+    "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8552/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:50Z",
+    "updateDateIncludingText": "2026-07-15T08:07:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001220",
+      "district": 3,
+      "firstName": "Morgan",
+      "fullName": "Rep. McGarvey, Morgan [D-KY-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "McGarvey",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/M001220?format=json"
+    },
+    {
+      "bioguideId": "R000622",
+      "district": 19,
+      "firstName": "Josh",
+      "fullName": "Rep. Riley, Josh [D-NY-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Riley",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/R000622?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T13:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-30T20:47:53Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-06-30T13:38:43Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-06-26T03:23:58Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2026-06-23T03:23:47Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Disability Assistance and Memorial Affairs Subcommittee",
+          "systemCode": "hsvr09",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr09?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 50 (Thursday, March 19, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FULCHER:\nH.R. 8007.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\n[Page H2622]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-19",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8007",
+    "number": "8007",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000469",
+        "district": 1,
+        "firstName": "Russ",
+        "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+        "isByRequest": "N",
+        "lastName": "Fulcher",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/F000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/text?format=json"
+    },
+    "title": "SILVER Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8007/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:35Z",
+    "updateDateIncludingText": "2026-07-15T08:07:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001102",
+      "district": 8,
+      "firstName": "Mark",
+      "fullName": "Rep. Harris, Mark [R-NC-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2026-03-19",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001102?format=json"
+    },
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2026-06-04",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "R000612",
+      "district": 6,
+      "firstName": "John",
+      "fullName": "Rep. Rose, John W. [R-TN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rose",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-23",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/R000612?format=json"
+    },
+    {
+      "bioguideId": "M001240",
+      "district": 6,
+      "firstName": "Addison",
+      "fullName": "Rep. McDowell, Addison P. [R-NC-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McDowell",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-24",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/M001240?format=json"
+    },
+    {
+      "bioguideId": "M001211",
+      "district": 15,
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/M001211?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-19T13:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

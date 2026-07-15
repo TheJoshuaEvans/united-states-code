@@ -1,0 +1,194 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4822/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/4822/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-17",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "actionTime": "10:12:37",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4822",
+    "number": "4822",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001153",
+        "firstName": "Lisa",
+        "fullName": "Sen. Murkowski, Lisa [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Murkowski",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/M001153?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/4822/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4822/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4822/text?format=json"
+    },
+    "title": "Saving the OOI Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4822/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T18:01:52Z",
+    "updateDateIncludingText": "2026-07-14T18:01:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-17",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "C000127",
+      "firstName": "Maria",
+      "fullName": "Sen. Cantwell, Maria [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cantwell",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/C000127?format=json"
+    },
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    },
+    {
+      "bioguideId": "M001176",
+      "firstName": "Jeff",
+      "fullName": "Sen. Merkley, Jeff [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Merkley",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/M001176?format=json"
+    },
+    {
+      "bioguideId": "M001111",
+      "firstName": "Patty",
+      "fullName": "Sen. Murray, Patty [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murray",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/M001111?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "B001230",
+      "firstName": "Tammy",
+      "fullName": "Sen. Baldwin, Tammy [D-WI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Baldwin",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/B001230?format=json"
+    },
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "M000133",
+      "firstName": "Edward",
+      "fullName": "Sen. Markey, Edward J. [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Markey",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000133?format=json"
+    },
+    {
+      "bioguideId": "W000817",
+      "firstName": "Elizabeth",
+      "fullName": "Sen. Warren, Elizabeth [D-MA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warren",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-17",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/W000817?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-17",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Saving the OOI Act of 2026</strong></p><p>This bill prohibits the National Science Foundation (NSF) from using federal funds to decommission or descope Ocean Observatories Initiative (OOI) instruments until a thorough review of OOI is completed.</p><p>OOI measures and observes ocean conditions using a series of in-water instruments that gather physical, chemical, geological, and biological data. On May 21, 2026, NSF announced that it would remove all in-water infrastructure from four of the five active OOI arrays.</p><p>Under the bill, NSF must conduct a thorough review of OOI with engagement from the scientific and coastal communities before decommissioning or descoping specified OOI instruments. This includes OOI instruments anchored off of Oregon, Washington, Alaska, and North Carolina, as well as instruments anchored in the Irminger Sea. NSF is required to maintain full and consistent OOI operations, including monitoring in states where instruments have already been decommissioned, until the review is complete.</p>",
+      "updateDate": "2026-07-14T18:00:55Z",
+      "versionCode": "55"
+    }
+  ]
+}

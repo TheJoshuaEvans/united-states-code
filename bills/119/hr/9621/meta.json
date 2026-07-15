@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9621/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9621/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 112 (Thursday, July 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BAUMGARTNER:\nH.R. 9621.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1. Section 8 of the Constitution\n[Page H4380]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9621/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the Subcommittee on Water, Wildlife and Fisheries."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9621",
+    "number": "9621",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "B001322",
+        "district": 5,
+        "firstName": "Michael",
+        "fullName": "Rep. Baumgartner, Michael [R-WA-5]",
+        "isByRequest": "N",
+        "lastName": "Baumgartner",
+        "party": "R",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/B001322?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9621/text?format=json"
+    },
+    "title": "Northwest Endangered Salmon Predation Prevention Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9621/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:02Z",
+    "updateDateIncludingText": "2026-07-15T08:07:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000621",
+      "district": 6,
+      "firstName": "Emily",
+      "fullName": "Rep. Randall, Emily [D-WA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Randall",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/R000621?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:02:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-14T17:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Water, Wildlife and Fisheries Subcommittee",
+          "systemCode": "hsii13",
+          "url": "https://api.congress.gov/v3/committee/house/hsii13?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4825/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4825/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4825",
+    "number": "4825",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4825/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000033",
+        "firstName": "Bernie",
+        "fullName": "Sen. Sanders, Bernard [I-VT]",
+        "isByRequest": "N",
+        "lastName": "Sanders",
+        "party": "I",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/S000033?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4825/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4825/text?format=json"
+    },
+    "title": "American A.I. Sovereign Wealth Fund Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4825/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T16:35:17Z",
+    "updateDateIncludingText": "2026-07-14T16:35:17Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T15:08:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

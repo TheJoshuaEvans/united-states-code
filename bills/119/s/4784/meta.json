@@ -1,0 +1,83 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/actions?format=json"
+    },
+    "amendments": {
+      "count": 837,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-127",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/127?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-15",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S3193)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4784",
+    "number": "4784",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000437",
+        "firstName": "Roger",
+        "fullName": "Sen. Wicker, Roger F. [R-MS]",
+        "isByRequest": "N",
+        "lastName": "Wicker",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/W000437?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/text?format=json"
+    },
+    "title": "An original bill to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4784/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:08:40Z",
+    "updateDateIncludingText": "2026-07-14T11:08:40Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-15T22:07:19Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Armed Services Committee",
+      "systemCode": "ssas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssas00?format=json"
+    }
+  ]
+}

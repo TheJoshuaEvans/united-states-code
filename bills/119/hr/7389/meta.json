@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7389/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7389/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 26 (Thursday, February 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GUTHRIE:\nH.R. 7389.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution.\n[Page H2041]\n</pre>",
+    "introducedDate": "2026-02-05",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 1."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7389",
+    "number": "7389",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000558",
+        "district": 2,
+        "firstName": "Brett",
+        "fullName": "Rep. Guthrie, Brett [R-KY-2]",
+        "isByRequest": "N",
+        "lastName": "Guthrie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/G000558?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7389/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7389/text?format=json"
+    },
+    "title": "Motor Vehicle Modernization Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7389/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T22:26:17Z",
+    "updateDateIncludingText": "2026-07-14T22:26:17Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-21T13:24:45Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-02-05T15:01:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-02-10T20:47:29Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-02-10T20:47:16Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-02-05T20:46:16Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Commerce, Manufacturing, and Trade Subcommittee",
+          "systemCode": "hsif17",
+          "url": "https://api.congress.gov/v3/committee/house/hsif17?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

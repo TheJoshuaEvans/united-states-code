@@ -1,0 +1,368 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 24,
+      "countIncludingWithdrawnCosponsors": 24,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-03",
+    "latestAction": {
+      "actionDate": "2025-04-03",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1296",
+    "number": "1296",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000476",
+        "firstName": "Thomas",
+        "fullName": "Sen. Tillis, Thomas [R-NC]",
+        "isByRequest": "N",
+        "lastName": "Tillis",
+        "middleName": "Roland",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/T000476?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/text?format=json"
+    },
+    "title": "DETERRENT Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1296/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:13Z",
+    "updateDateIncludingText": "2026-07-14T11:00:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-03",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/R000584?format=json"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2025-04-07",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/C000880?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-02",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-07-22",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2026-03-11",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-04-16",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "C001095",
+      "firstName": "Tom",
+      "fullName": "Sen. Cotton, Tom [R-AR]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cotton",
+      "party": "R",
+      "sponsorshipDate": "2026-05-11",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001095?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2026-05-20",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000479?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-03T20:19:13Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-04-03T20:19:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-03",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Defending Education Transparency and Ending Rogue Regimes Engaging in Nefarious Transactions Act or the DETERRENT Act</strong></p><p>This bill expands oversight and disclosure requirements related to foreign sources and institutions of higher education (IHEs).</p><p>Specifically, the bill requires an IHE to annually disclose to the Department of Education (ED) any year in which the IHE</p><ul><li>receives a gift from a foreign country of concern (e.g., China or Russia) or foreign entity of concern of any dollar amount;</li><li>receives a gift or contract from a foreign source (other than a foreign country of concern or foreign entity of concern) that is valued at $50,000 or more, considered alone or in combination with all other gifts or contracts within a calendar year (current disclosure threshold is $250,000 or more), or which has an undetermined monetary value;</li><li>enters into a contract with a foreign country of concern or foreign entity of concern after receiving a waiver for such contract; or</li><li>is substantially controlled by a foreign source.</li></ul><p>Additionally, the bill</p><ul><li>prohibits IHEs from entering into contracts with a foreign country of concern or with a foreign entity of concern without obtaining a waiver, and</li><li>requires certain IHEs to disclose gifts or contracts between covered individuals (e.g., researchers) and foreign sources.</li></ul><p>The bill requires ED to investigate possible violations of this bill and outlines the various penalties for each violation. Penalties may include losing eligibility for federal student financial aid.</p>",
+      "updateDate": "2025-12-12T20:25:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

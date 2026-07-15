@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4907/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4907/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4907",
+    "number": "4907",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001244",
+        "firstName": "Ashley",
+        "fullName": "Sen. Moody, Ashley [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Moody",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001244?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4907/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4907/text?format=json"
+    },
+    "title": "TRADES Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4907/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T21:29:49Z",
+    "updateDateIncludingText": "2026-07-14T21:29:49Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-24T20:57:32Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}

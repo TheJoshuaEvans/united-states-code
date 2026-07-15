@@ -1,0 +1,126 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-235",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/235?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 71 (Tuesday, April 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. McCLAIN:\nH.R. 3074.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 5\n[Page H1728]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-29",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "actionTime": "15:02:54",
+      "text": "The title of the measure was amended. Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3074",
+    "number": "3074",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001136",
+        "district": 9,
+        "firstName": "Lisa",
+        "fullName": "Rep. McClain, Lisa C. [R-MI-9]",
+        "isByRequest": "N",
+        "lastName": "McClain",
+        "middleName": "C.",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/M001136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/text?format=json"
+    },
+    "title": "Common Cents Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3074/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:17Z",
+    "updateDateIncludingText": "2026-07-15T08:07:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000598",
+      "district": 42,
+      "firstName": "Robert",
+      "fullName": "Rep. Garcia, Robert [D-CA-42]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garcia",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000598?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-04T18:14:27Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-23T16:54:39Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-22T16:54:25Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-29T14:04:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Common Cents Act</strong></p><p>This bill generally ends the production of the penny and requires rounding to the nearest amount divisible by five for the payment or transfer of cash.</p><p>The Department of the Treasury must stop producing the penny, except to meet collector needs. The penny shall continue to be legal tender.</p><p>Any person selling goods or services in a cash transaction, entering into other transfers of cash, or paying cash wages to an employee must round the payment up or down in accordance with the bill.</p><p>The bill takes effect one year after the date of enactment.</p>",
+      "updateDate": "2026-07-08T16:07:40Z",
+      "versionCode": "00"
+    }
+  ]
+}

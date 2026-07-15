@@ -1,0 +1,91 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Read twice and referred to the Committee on Rules and Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4602",
+    "number": "4602",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000033",
+        "firstName": "Bernie",
+        "fullName": "Sen. Sanders, Bernard [I-VT]",
+        "isByRequest": "N",
+        "lastName": "Sanders",
+        "party": "I",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/S000033?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/text?format=json"
+    },
+    "title": "Abolish Super PACs Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4602/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000555",
+      "firstName": "Kirsten",
+      "fullName": "Sen. Gillibrand, Kirsten E. [D-NY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gillibrand",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/G000555?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T19:48:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    }
+  ]
+}

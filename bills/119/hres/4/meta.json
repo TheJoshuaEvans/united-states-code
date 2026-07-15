@@ -1,0 +1,64 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/4/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "15:47:37",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/4",
+    "number": "4",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000395",
+        "district": 5,
+        "firstName": "Harold",
+        "fullName": "Rep. Rogers, Harold [R-KY-5]",
+        "isByRequest": "N",
+        "lastName": "Rogers",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/R000395?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/4/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/4/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/4/text?format=json"
+    },
+    "title": "Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/4/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-01-15T18:21:13Z",
+    "updateDateIncludingText": "2026-07-14T12:15:55Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This resolution provides for the President to be informed that Rep. Mike Johnson of Louisiana has been elected as Speaker and Kevin McCumber has been elected as Clerk of the House of Representatives of the 119th Congress.</p>",
+      "updateDate": "2025-01-14T16:40:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

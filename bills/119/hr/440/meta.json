@@ -1,0 +1,205 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 8 (Wednesday, January 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Florida:\nH.R. 440.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H186]\n</pre>",
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2025-01-15",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/440",
+    "number": "440",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000597",
+        "district": 15,
+        "firstName": "Laurel",
+        "fullName": "Rep. Lee, Laurel M. [R-FL-15]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "middleName": "M.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/L000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/text?format=json"
+    },
+    "title": "READY Accounts Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/440/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:55Z",
+    "updateDateIncludingText": "2026-07-15T08:07:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2025-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": 16,
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001260?format=json"
+    },
+    {
+      "bioguideId": "F000472",
+      "district": 18,
+      "firstName": "Scott",
+      "fullName": "Rep. Franklin, Scott [R-FL-18]",
+      "isOriginalCosponsor": true,
+      "lastName": "Franklin",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/F000472?format=json"
+    },
+    {
+      "bioguideId": "B001257",
+      "district": 12,
+      "firstName": "Gus",
+      "fullName": "Rep. Bilirakis, Gus M. [R-FL-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bilirakis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001257?format=json"
+    },
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2025-06-24",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    },
+    {
+      "bioguideId": "V000133",
+      "district": 2,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2025-08-22",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/V000133?format=json"
+    },
+    {
+      "bioguideId": "P000622",
+      "district": 1,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Patronis",
+      "party": "R",
+      "sponsorshipDate": "2025-11-20",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/P000622?format=json"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": 5,
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-09",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/R000609?format=json"
+    },
+    {
+      "bioguideId": "N000191",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/N000191?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-15T15:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>READY Accounts Act</strong></p><p>This bill establishes a new Residential Emergency Asset-accumulation Deferred Taxation Yield (READY) account, allows individuals to make tax-deductible contributions of up to $4,500 per year to such accounts (adjusted annually for inflation), and allows individuals to take tax-free distributions from such accounts to pay for qualified home disaster mitigation and recovery expenses related to a principal residence owned by the taxpayer.</p><p>Under the bill, qualified home disaster mitigation expenses include expenses certified by a qualified industry professional as meeting criteria to mitigate damage from a natural or other disaster, including</p><ul><li>installing a roofing underlayment to sheathing, impact-resistant windows, impact-resistant entry doors, or ground anchors;</li><li>replacing a roof covering;</li><li>applying a foam adhesive to reinforce the roof structure;</li><li>strengthening the connection of the&nbsp;roof deck to roof framing, roof-to-wall connections, soffits, or attic ventilation openings;</li><li>elevating a residence; or</li><li>achieving the current building code standard.</li></ul><p>Qualified home disaster recovery expenses include costs for&nbsp;repairing damage to a residence resulting from fire, storm, or other casualty (provided such costs are not reimbursed).</p><p>Distributions from a READY account used for anything other than qualified home disaster mitigation and recovery expenses must be included in gross income and are subject to a 20% penalty. (Some exceptions apply.)</p><p>Finally, the bill imposes a 6% tax on contributions in excess of the annual limit. (Some exceptions apply.)&nbsp;</p>",
+      "updateDate": "2025-03-19T19:25:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

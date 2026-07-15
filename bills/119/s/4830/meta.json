@@ -1,0 +1,100 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4830",
+    "number": "4830",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001194",
+        "firstName": "Brian",
+        "fullName": "Sen. Schatz, Brian [D-HI]",
+        "isByRequest": "N",
+        "lastName": "Schatz",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/S001194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/text?format=json"
+    },
+    "title": "A bill to designate the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4830/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T22:00:19Z",
+    "updateDateIncludingText": "2026-07-14T22:00:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T16:44:02Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-18",
+      "actionDesc": "Introduced in Senate",
+      "text": "This bill designates the facility of the United States Postal Service located at 86-014 Farrington Highway in Waianae, Hawaii, as the \"United States Representative Colleen Hanabusa Post Office Building\".",
+      "updateDate": "2026-07-07T04:52:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

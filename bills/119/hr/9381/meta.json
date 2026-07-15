@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9381/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9381/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 104 (Monday, June 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALBERG:\nH.R. 9381.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle1, Section 8, Clause 18 of the Constitution\n[Page H4131]\n</pre>",
+    "introducedDate": "2026-06-22",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 14."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9381",
+    "number": "9381",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000798",
+        "district": 5,
+        "firstName": "Tim",
+        "fullName": "Rep. Walberg, Tim [R-MI-5]",
+        "isByRequest": "N",
+        "lastName": "Walberg",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/W000798?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9381/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9381/text?format=json"
+    },
+    "title": "AWARE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9381/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T13:47:35Z",
+    "updateDateIncludingText": "2026-07-14T13:47:35Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-25T20:01:43Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-22T16:00:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

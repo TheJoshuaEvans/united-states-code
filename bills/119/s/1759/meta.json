@@ -1,0 +1,142 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1759",
+    "number": "1759",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001305",
+        "firstName": "Ted",
+        "fullName": "Sen. Budd, Ted [R-NC]",
+        "isByRequest": "N",
+        "lastName": "Budd",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/B001305?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/text?format=json"
+    },
+    "title": "Supersonic Aviation Modernization Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1759/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:25Z",
+    "updateDateIncludingText": "2026-07-14T11:00:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "H000273",
+      "firstName": "John",
+      "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hickenlooper",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-14T16:33:13Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-05-14T16:33:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-14",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Supersonic Aviation Modernization Act</strong></p><p>This bill directs the Federal Aviation Administration (FAA) to allow civil aircraft to operate at speeds above Mach 1 (i.e., supersonic) over land in the United States&nbsp;under certain conditions.</p><p>Specifically, the FAA must issue or revise regulations to allow for the operation of civil aircraft at speeds greater than Mach 1 in the national airspace system without a special authorization, so long as no sonic boom reaches the ground in the United States.</p><p>Current&nbsp;regulations prohibit civil aircraft from operating above Mach 1 speeds over land in the United States without a special flight authorization issued by the FAA.</p>",
+      "updateDate": "2026-03-20T15:15:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

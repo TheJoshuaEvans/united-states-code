@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9236/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9236/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 98 (Wednesday, June 10, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. YAKYM:\nH.R. 9236.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H4085]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9236/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9236",
+    "number": "9236",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "Y000067",
+        "district": 2,
+        "firstName": "Rudy",
+        "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+        "isByRequest": "N",
+        "lastName": "Yakym",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/Y000067?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9236/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9236/text?format=json"
+    },
+    "title": "HAILEY Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9236/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:55Z",
+    "updateDateIncludingText": "2026-07-15T08:07:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000929",
+      "district": 5,
+      "firstName": "Victoria",
+      "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Spartz",
+      "party": "R",
+      "sponsorshipDate": "2026-06-22",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S000929?format=json"
+    },
+    {
+      "bioguideId": "S001229",
+      "district": 6,
+      "firstName": "Jefferson",
+      "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shreve",
+      "party": "R",
+      "sponsorshipDate": "2026-06-29",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001229?format=json"
+    },
+    {
+      "bioguideId": "H001093",
+      "district": 9,
+      "firstName": "Erin",
+      "fullName": "Rep. Houchin, Erin [R-IN-9]",
+      "isOriginalCosponsor": false,
+      "lastName": "Houchin",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/H001093?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T14:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

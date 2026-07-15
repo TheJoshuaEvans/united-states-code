@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7909/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7909/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-03-12",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7909",
+    "number": "7909",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000391",
+        "district": 8,
+        "firstName": "Raja",
+        "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+        "isByRequest": "N",
+        "lastName": "Krishnamoorthi",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/K000391?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7909/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7909/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7909/text?format=json"
+    },
+    "title": "Medicare Expansion and Lowering Costs Now Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7909/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T20:21:42Z",
+    "updateDateIncludingText": "2026-07-14T20:21:42Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-12T13:35:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-12T13:35:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Medicare Expansion and Lowering Costs Now Act</strong></p><p>This bill establishes a Medicare buy-in option for certain qualifying individuals and makes a series of other changes relating to health care costs. It also repeals the health provisions that were enacted under what is commonly known as the&nbsp;One Big Beautiful Bill Act.</p><p>Specifically, the bill allows individuals aged 50 to 64 to enroll in Medicare if such individuals would otherwise qualify for Medicare at the age of 65. The Centers for Medicare &amp; Medicaid Services (CMS) must determine enrollment periods and set premiums for the buy-in option established under the bill, in accordance with specified requirements. The CMS must also award grants to states and nonprofit organizations for outreach and enrollment activities relating to the buy-in option.</p><p>Additionally, the bill repeals the health provisions that were enacted under what is commonly known as the&nbsp;One Big Beautiful Bill Act. Among other provisions, the act required&nbsp;individuals who are eligible for Medicaid as part of the Medicaid expansion population to engage in community service, work, or other activities in order to qualify for Medicaid. (For more information about these and other health provisions in the act, see CRS Report <a href=\"https://www.congress.gov/crs-product/R48633\">R48633</a>.)</p><p>The bill also (1) establishes a supplemental option under Medicare to cover cost-sharing for beneficiaries; (2) establishes an individual market reinsurance program relating to coverage of high-cost individuals, as specified; and (3) expands eligibility for the premium tax credit.</p>",
+      "updateDate": "2026-07-14T20:19:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

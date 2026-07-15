@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-475",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/475?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 208 (Wednesday, December 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LYNCH:\nH.R. 6556.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Cl. 18\n[Page H5561]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-10",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "actionTime": "15:16:22",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6556",
+    "number": "6556",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000562",
+        "district": 8,
+        "firstName": "Stephen",
+        "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+        "isByRequest": "N",
+        "lastName": "Lynch",
+        "middleName": "F.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/L000562?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/text?format=json"
+    },
+    "title": "Failing Bank Acquisition Fairness Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6556/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:53Z",
+    "updateDateIncludingText": "2026-07-15T08:07:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000583",
+      "district": 5,
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2025-12-16",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/G000583?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-02T15:19:06Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-17T17:46:56Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-16T17:46:48Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-12-10T15:06:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-10",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Failing Bank Acquisition Fairness Act</strong></p><p>This bill tightens restrictions on certain waivers granted by federal financial regulators to companies that acquire insured depository institutions. Under current law, a regulator may not approve an acquisition if it would result in&nbsp;an institution exceeding a set concentration limit (i.e., controlling more than 10% of total insured U.S. deposits). This may be waived if one or more of the institutions involved is in default or in danger of default or if the Federal Deposit Insurance Corporation (FDIC) is providing certain assistance.</p><p>In addition to these requirements, the bill requires the regulator to determine that (1) the merger is necessary to prevent significant economic disruption or financial instability, and (2)&nbsp;FDIC has not received a qualified bid from a company not subject to this concentration limit.</p><p>The bill also provides capitalization and management standards for qualified bids.</p><p>Regulators that waive these concentration limits must report to Congress on the circumstances and justification of the waiver.</p>",
+      "updateDate": "2026-07-01T20:22:05Z",
+      "versionCode": "00"
+    }
+  ]
+}

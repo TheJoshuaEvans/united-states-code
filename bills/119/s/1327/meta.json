@@ -1,0 +1,104 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-08",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 119-366."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1327",
+    "number": "1327",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/text?format=json"
+    },
+    "title": "Advancing GETs Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1327/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:13Z",
+    "updateDateIncludingText": "2026-07-14T11:00:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-04-08",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-08T16:29:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-04-15T19:37:22Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Energy Subcommittee",
+          "systemCode": "sseg01",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg01?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 94 (Wednesday, June 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Nevada:\nH.R. 9127.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 provides Congress with the\npower to ``make all Laws which shall be necessary and proper\nfor carrying into Execution the foregoing Powers, and all\nother Powers vested by this Constitution in the Government of\nthe United States, or in any Department or Officer thereof.''\n[Page H3830]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9127",
+    "number": "9127",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000590",
+        "district": 3,
+        "firstName": "Susie",
+        "fullName": "Rep. Lee, Susie [D-NV-3]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/L000590?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/text?format=json"
+    },
+    "title": "Sergeant Dave Crete FORGOTTEN Veterans Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9127/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:25Z",
+    "updateDateIncludingText": "2026-07-15T08:07:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "A000369",
+      "district": 2,
+      "firstName": "Mark",
+      "fullName": "Rep. Amodei, Mark E. [R-NV-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Amodei",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-03",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/A000369?format=json"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": 4,
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2026-06-23",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/H001066?format=json"
+    },
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T14:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T14:02:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ]
+}

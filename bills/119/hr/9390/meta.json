@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9390/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9390/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9390/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9390",
+    "number": "9390",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001215",
+        "district": 1,
+        "firstName": "Mariannette",
+        "fullName": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+        "isByRequest": "N",
+        "lastName": "Miller-Meeks",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/M001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9390/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9390/text?format=json"
+    },
+    "title": "Prices on the Wall Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9390/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:22Z",
+    "updateDateIncludingText": "2026-07-15T08:07:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-23T16:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-06-25T15:33:48Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-06-25T15:33:37Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-06-23T15:33:25Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsif14",
+          "url": "https://api.congress.gov/v3/committee/house/hsif14?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

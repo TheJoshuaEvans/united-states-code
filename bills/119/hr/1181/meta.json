@@ -1,8 +1,12 @@
 {
   "status": {
     "actions": {
-      "count": 11,
+      "count": 24,
       "url": "https://api.congress.gov/v3/bill/119/hr/1181/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1181/amendments?format=json"
     },
     "committeeReports": [
       {
@@ -23,9 +27,9 @@
     },
     "introducedDate": "2025-02-11",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "17:59:05",
-      "text": "Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill."
+      "actionDate": "2026-07-14",
+      "actionTime": "17:33:34",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1181",
     "number": "1181",
@@ -70,8 +74,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/1181/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:06:36Z",
-    "updateDateIncludingText": "2026-07-14T08:06:36Z"
+    "updateDate": "2026-07-15T08:09:20Z",
+    "updateDateIncludingText": "2026-07-15T08:09:20Z"
   },
   "cosponsors": [
     {
@@ -1701,6 +1705,14 @@
   "committees": [
     {
       "activities": [
+        {
+          "date": "2026-07-14T21:26:05Z",
+          "name": "Unknown"
+        },
+        {
+          "date": "2026-07-14T19:54:06Z",
+          "name": "Unknown"
+        },
         {
           "date": "2026-02-25T16:19:41Z",
           "name": "Reported By"

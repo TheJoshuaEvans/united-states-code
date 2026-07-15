@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 11,
+      "count": 12,
       "url": "https://api.congress.gov/v3/bill/119/hr/3350/actions?format=json"
     },
     "cboCostEstimates": [
@@ -13,7 +13,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/3350/committees?format=json"
     },
     "congress": 119,
@@ -25,9 +25,8 @@
     },
     "introducedDate": "2025-05-13",
     "latestAction": {
-      "actionDate": "2026-06-29",
-      "actionTime": "15:30:23",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-13",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3350",
     "number": "3350",
@@ -67,8 +66,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/3350/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-06T21:26:28Z",
-    "updateDateIncludingText": "2026-07-13T20:14:49Z"
+    "updateDate": "2026-07-14T10:56:36Z",
+    "updateDateIncludingText": "2026-07-14T10:56:36Z"
   },
   "cosponsors": [
     {
@@ -220,6 +219,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-13T20:45:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
     {
       "activities": [
         {

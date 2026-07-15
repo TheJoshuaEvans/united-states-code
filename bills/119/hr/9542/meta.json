@@ -44,6 +44,10 @@
       "count": 1,
       "url": "https://api.congress.gov/v3/bill/119/hr/9542/subjects?format=json"
     },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9542/summaries?format=json"
+    },
     "textVersions": {
       "count": 1,
       "url": "https://api.congress.gov/v3/bill/119/hr/9542/text?format=json"
@@ -54,8 +58,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9542/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-13T14:17:34Z",
-    "updateDateIncludingText": "2026-07-13T14:17:34Z"
+    "updateDate": "2026-07-14T20:26:41Z",
+    "updateDateIncludingText": "2026-07-14T20:26:41Z"
   },
   "committees": [
     {
@@ -83,6 +87,15 @@
       "systemCode": "hsif00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-30",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Protecting Health Care and Lowering Costs Act of 2026</strong></p><p>This bill repeals the Medicaid provisions that were enacted under what is commonly known as the One Big Beautiful Bill Act.</p><p>Among other provisions, the act (1) requires individuals who are eligible for Medicaid as part of the Medicaid expansion population to engage in community service, work, or other activities in order to qualify for Medicaid; (2) generally restricts, beginning in FY2027, federal payment for Medicaid and CHIP to services for individuals who are U.S. residents and are either U.S. citizens, lawful permanent residents, Cuban-Haitian entrants, or Compact of Free Association migrants lawfully residing in the United States; and (3) generally limits Medicaid provider taxes beginning in FY2027.</p><p>For more information about these and other Medicaid provisions in the act, see CRS Report <a href=\"https://www.congress.gov/crs-product/R48633\">R48633</a>.</p>",
+      "updateDate": "2026-07-14T20:24:26Z",
+      "versionCode": "00"
     }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STEUBE:\nH.R. 9568.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9568",
+    "number": "9568",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001214",
+        "district": 17,
+        "firstName": "W.",
+        "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+        "isByRequest": "N",
+        "lastName": "Steube",
+        "middleName": "Gregory",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001214?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/text?format=json"
+    },
+    "title": "HUSTLE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9568/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T22:08:17Z",
+    "updateDateIncludingText": "2026-07-14T22:08:17Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001296",
+      "district": 2,
+      "firstName": "Brendan",
+      "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boyle",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001296?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-30T14:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    }
+  ]
+}

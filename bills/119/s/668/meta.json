@@ -1,0 +1,123 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-20",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-247."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/668",
+    "number": "668",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000383",
+        "firstName": "Angus",
+        "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+        "isByRequest": "N",
+        "lastName": "King",
+        "middleName": "S.",
+        "party": "I",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/K000383?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/text?format=json"
+    },
+    "title": "SAFE STEPS for Veterans Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/668/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:21Z",
+    "updateDateIncludingText": "2026-07-14T11:03:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-02-20",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-12-10",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-10T21:00:02Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T21:00:02Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-02-20T19:41:24Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-20",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Supporting Access to Falls Education and Prevention and Strengthening Training Efforts and Promoting Safety Initiatives for Veterans Act of 2025 or the SAFE STEPS for Veterans Act of 2025</strong></p><p>This bill addresses certain mobility and aging care and services provided by the Department of Veterans Affairs (VA).</p><p>First, the bill requires the establishment and operation of the Office of Falls Prevention within the Veterans Health Administration (VHA) for purposes of providing, evaluating, and improving VA health care services related to falls prevention.</p><p>Among other duties, the office must oversee and support a national education campaign for veterans, their families, and health care providers that focuses on reducing falls and increases awareness of available benefits or services provided by the VA to reduce falls.</p><p>The bill also expands membership of the Interagency Coordinating Committee on Healthy Aging and Age-Friendly Communities by including the VA.</p><p>The VA must issue or update directives of the VHA for facilities and providers relating to safe patient handling and mobility policies.</p><p>Additionally, the VA must determine the feasibility and advisability of implementing a pilot program to provide home improvements and structural alterations to prevent falls for veterans who are eligible for such services under VA laws.</p><p>Finally, the bill requires the VA to ensure certain veterans receive a falls risk assessment from a licensed physical therapist or occupational therapist.</p>",
+      "updateDate": "2025-04-08T20:23:00Z",
+      "versionCode": "00"
+    }
+  ]
+}

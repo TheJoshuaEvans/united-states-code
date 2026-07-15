@@ -1,0 +1,112 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-04-16",
+      "text": "Read twice and referred to the Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4335",
+    "number": "4335",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/text?format=json"
+    },
+    "title": "HERO Child Care for Military Families Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4335/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:22Z",
+    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2026-04-16",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacky",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-16T21:08:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Armed Services Committee",
+      "systemCode": "ssas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssas00?format=json"
+    }
+  ]
+}

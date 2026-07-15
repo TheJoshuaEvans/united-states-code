@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-02",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 449."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4668",
+    "number": "4668",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Sports and Recreation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/text?format=json"
+    },
+    "title": "Protect College Sports Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4668/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:03:23Z",
+    "updateDateIncludingText": "2026-07-14T11:03:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C000127",
+      "firstName": "Maria",
+      "fullName": "Sen. Cantwell, Maria [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cantwell",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/C000127?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-06-02",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-07-13",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-18T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-06-02T21:19:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-02",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Protect College Sports Act of 2026</strong></p><p>This bill establishes requirements for name, image, or likeness (NIL) agreements for college student athletes and provides a limited antitrust exemption for schools and conferences to pool and sell certain college sports media rights. The requirements address elements of the court-approved agreement to settle&nbsp;<em>In re College Athlete NIL Litigation</em> (i.e., <em>House</em> <a href=\"https://www.congress.gov/crs-product/LSB11349\">settlement</a>).</p><p>First, the bill statutorily prohibits institutions, conferences, or interstate intercollegiate athletic associations (e.g., the National Collegiate Athletic Association [NCAA]) from restricting student athletes from entering NIL agreements (subject to specified limitations). Students must report to their institution NIL compensation greater than $600.</p><p>The bill requires agents to register with a state and caps agent endorsement contract fees at 5%.<br/><br/>The bill also provides student athletes with one transfer without losing athletic eligibility and restricts&nbsp;football personnel from becoming the head football coach at a different institution during the same season.</p><p>Further, the bill prohibits institutions, conferences, or specified entities acting for the benefit of an institution from providing athletes with compensation that circumvents&nbsp;the limit on sharing revenue with student athletes established under the <em>House</em> settlement. The bill also makes the limit permanent and provides for an annual inflation adjustment.</p><p>Additionally, the bill establishes (subject to specified conditions) a limited antitrust exemption for institutions or conferences that form joint agreements to transfer their sports telecasting rights to a third party. Such an agreement requires participation from at least 75% of the institutions in the Football Bowl Subdivision.</p>",
+      "updateDate": "2026-06-23T20:07:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

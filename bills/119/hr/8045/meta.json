@@ -1,0 +1,194 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 55 (Tuesday, March 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COURTNEY:\nH.R. 8045.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2676]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-24",
+    "latestAction": {
+      "actionDate": "2026-03-24",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8045",
+    "number": "8045",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001069",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Courtney, Joe [D-CT-2]",
+        "isByRequest": "N",
+        "lastName": "Courtney",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/C001069?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/text?format=json"
+    },
+    "title": "Student Loan Interest Elimination Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8045/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T08:07:50Z",
+    "updateDateIncludingText": "2026-07-15T08:07:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-03-24",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": 3,
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2026-04-22",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/E000296?format=json"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": 36,
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2026-04-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000582?format=json"
+    },
+    {
+      "bioguideId": "L000593",
+      "district": 49,
+      "firstName": "Mike",
+      "fullName": "Rep. Levin, Mike [D-CA-49]",
+      "isOriginalCosponsor": false,
+      "lastName": "Levin",
+      "party": "D",
+      "sponsorshipDate": "2026-04-27",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000593?format=json"
+    },
+    {
+      "bioguideId": "P000597",
+      "district": 1,
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2026-06-18",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/P000597?format=json"
+    },
+    {
+      "bioguideId": "S000185",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Scott, Robert C. \"Bobby\" [D-VA-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "middleName": "C. \"Bobby\"",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/S000185?format=json"
+    },
+    {
+      "bioguideId": "W000808",
+      "district": 24,
+      "firstName": "Frederica",
+      "fullName": "Rep. Wilson, Frederica S. [D-FL-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000808?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-24T16:02:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsbu00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-03-24T16:02:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Student Loan Interest Elimination Act</strong></p><p>This bill eliminates interest on existing and new federal student loans beginning on July 1, 2026.&nbsp;</p><p>Specifically, for existing federal student loans, the bill directs the Department of Education (ED) to establish and implement procedures to (1) modify the terms of Federal Direct Loans so that beginning on July 1, 2026, no interest shall accrue on such a loan; and (2) allow a borrower to opt out of this loan modification.</p><p>Additionally, ED must establish and implement procedures to (1) refinance eligible loans that are not Federal Direct Loans (e.g., privately held Federal Family Education Loans and Perkins Loans), and (2) allow a borrower to opt out of this loan refinancing. The bill outlines the terms and conditions of these refinanced loans, including by prohibiting ED from charging origination fees and specifying that no interest shall accrue on these loans.</p><p>For new federal student loans made on or after July 1, 2026, the bill sets the applicable interest rate at 0%.</p><p>The bill establishes the Education Affordability Trust Fund. ED must deposit all payments made on federal student loans into this trust fund. The Education Affordability Trust Fund Board, as established by this bill, must transfer the assets from investments of this trust fund to ED to pay for the administrative costs of carrying out federal student loan programs.</p><p>The bill allows ED to use excess amounts of funds in the trust fund to carry out a Supplemental Pell Grant Program.</p>",
+      "updateDate": "2026-06-04T16:21:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

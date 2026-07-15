@@ -1,0 +1,173 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-20",
+    "latestAction": {
+      "actionDate": "2025-05-20",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1821",
+    "number": "1821",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000476",
+        "firstName": "Thomas",
+        "fullName": "Sen. Tillis, Thomas [R-NC]",
+        "isByRequest": "N",
+        "lastName": "Tillis",
+        "middleName": "Roland",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/T000476?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/text?format=json"
+    },
+    "title": "Tackling Predatory Litigation Funding Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1821/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-14T11:00:27Z",
+    "updateDateIncludingText": "2026-07-14T11:00:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001104",
+      "firstName": "Jon",
+      "fullName": "Sen. Husted, Jon [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Husted",
+      "party": "R",
+      "sponsorshipDate": "2025-05-22",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/H001104?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2025-06-05",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-06-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-10-09",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2026-02-26",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2026-04-28",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-20T21:25:16Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-05-20T21:25:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ]
+}
