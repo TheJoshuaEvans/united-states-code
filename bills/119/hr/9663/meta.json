@@ -9,6 +9,7 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9663/committees?format=json"
     },
     "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 114 (Tuesday, July 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BAIRD:\nH.R. 9663.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3 (Commerce Clause)\n[Page H4467]\n</pre>",
     "introducedDate": "2026-07-14",
     "latestAction": {
       "actionDate": "2026-07-14",
@@ -18,6 +19,9 @@
     "number": "9663",
     "originChamber": "House",
     "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
     "sponsors": [
       {
         "bioguideId": "B001307",
@@ -32,14 +36,22 @@
         "url": "https://api.congress.gov/v3/member/B001307?format=json"
       }
     ],
-    "title": "To amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to establish in the Environmental Protection Agency the State Standing Committee, and for other purposes.",
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9663/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9663/text?format=json"
+    },
+    "title": "State Standing Committee Act",
     "titles": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/9663/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:45Z",
-    "updateDateIncludingText": "2026-07-15T08:07:45Z"
+    "updateDate": "2026-07-15T19:59:33Z",
+    "updateDateIncludingText": "2026-07-15T19:59:33Z"
   },
   "committees": [
     {

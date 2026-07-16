@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 6,
-      "countIncludingWithdrawnCosponsors": 6,
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
       "url": "https://api.congress.gov/v3/bill/119/hres/1429/cosponsors?format=json"
     },
     "introducedDate": "2026-07-14",
@@ -37,14 +37,18 @@
         "url": "https://api.congress.gov/v3/member/T000490?format=json"
       }
     ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1429/text?format=json"
+    },
     "title": "Expressing support for continued efforts to safeguard the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 from fraud, waste, and abuse for the Nation's most vulnerable.",
     "titles": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hres/1429/titles?format=json"
     },
     "type": "HRES",
-    "updateDate": "2026-07-15T08:07:33Z",
-    "updateDateIncludingText": "2026-07-15T08:07:33Z"
+    "updateDate": "2026-07-16T08:07:51Z",
+    "updateDateIncludingText": "2026-07-16T08:07:51Z"
   },
   "cosponsors": [
     {
@@ -118,6 +122,19 @@
       "sponsorshipDate": "2026-07-14",
       "state": "WI",
       "url": "https://api.congress.gov/v3/member/V000135?format=json"
+    },
+    {
+      "bioguideId": "M001211",
+      "district": 15,
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/M001211?format=json"
     }
   ],
   "committees": [

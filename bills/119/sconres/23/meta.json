@@ -1,0 +1,85 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-06",
+    "latestAction": {
+      "actionDate": "2025-11-06",
+      "text": "Referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/23",
+    "number": "23",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001303",
+        "firstName": "Lisa",
+        "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+        "isByRequest": "N",
+        "lastName": "Blunt Rochester",
+        "party": "D",
+        "state": "DE",
+        "url": "https://api.congress.gov/v3/member/B001303?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/text?format=json"
+    },
+    "title": "A concurrent resolution recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/23/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2026-07-15T21:00:05Z",
+    "updateDateIncludingText": "2026-07-15T21:00:05Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-06T20:54:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-06",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This concurrent resolution recognizes the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a nation. The concurrent resolution also recognizes the need for the Department of Veterans Affairs to continue to work to eliminate any health and benefit disparities for minority veterans.</p>",
+      "updateDate": "2026-07-15T20:59:37Z",
+      "versionCode": "00"
+    }
+  ]
+}

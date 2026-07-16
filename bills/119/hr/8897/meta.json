@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 18,
+      "count": 19,
       "url": "https://api.congress.gov/v3/bill/119/hr/8897/actions?format=json"
     },
     "committeeReports": [
@@ -11,7 +11,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/8897/committees?format=json"
     },
     "congress": 119,
@@ -23,9 +23,8 @@
     },
     "introducedDate": "2026-05-19",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "19:03:55",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8897",
     "number": "8897",
@@ -56,17 +55,17 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/8897/summaries?format=json"
     },
     "textVersions": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/8897/text?format=json"
     },
     "title": "Improving Travel for American Families Act",
     "titles": {
-      "count": 4,
+      "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/8897/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:05:46Z",
-    "updateDateIncludingText": "2026-07-15T08:05:46Z"
+    "updateDate": "2026-07-15T13:08:25Z",
+    "updateDateIncludingText": "2026-07-16T07:57:50Z"
   },
   "cosponsors": [
     {
@@ -97,6 +96,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T20:11:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    },
     {
       "activities": [
         {

@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 3,
-      "countIncludingWithdrawnCosponsors": 3,
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
       "url": "https://api.congress.gov/v3/bill/119/hr/9638/cosponsors?format=json"
     },
     "introducedDate": "2026-07-09",
@@ -46,8 +46,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9638/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:58Z",
-    "updateDateIncludingText": "2026-07-15T08:07:58Z"
+    "updateDate": "2026-07-16T08:07:08Z",
+    "updateDateIncludingText": "2026-07-16T08:07:08Z"
   },
   "cosponsors": [
     {
@@ -86,6 +86,31 @@
       "sponsorshipDate": "2026-07-14",
       "state": "KY",
       "url": "https://api.congress.gov/v3/member/M001220?format=json"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": 2,
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/T000487?format=json"
+    },
+    {
+      "bioguideId": "W000788",
+      "district": 5,
+      "firstName": "Nikema",
+      "fullName": "Rep. Williams, Nikema [D-GA-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Williams",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000788?format=json"
     }
   ],
   "committees": [

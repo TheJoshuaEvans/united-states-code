@@ -1,0 +1,118 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 98 (Wednesday, June 10, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MORRISON:\nH.R. 9251.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 1 Article 1 of the Constitution\n[Page H4086]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9251",
+    "number": "9251",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001234",
+        "district": 3,
+        "firstName": "Kelly",
+        "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+        "isByRequest": "N",
+        "lastName": "Morrison",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/M001234?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/text?format=json"
+    },
+    "title": "School Access to Naloxone Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9251/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:07:25Z",
+    "updateDateIncludingText": "2026-07-16T08:07:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "J000295",
+      "district": 14,
+      "firstName": "David",
+      "fullName": "Rep. Joyce, David P. [R-OH-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Joyce",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-06-10",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/J000295?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2026-06-25",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "P000620",
+      "district": 7,
+      "firstName": "Brittany",
+      "fullName": "Rep. Pettersen, Brittany [D-CO-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pettersen",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/P000620?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-10T14:01:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

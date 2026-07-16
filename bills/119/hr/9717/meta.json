@@ -1,0 +1,77 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9717/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9717/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9717/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9717",
+    "number": "9717",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "T000488",
+        "district": 13,
+        "firstName": "Shri",
+        "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+        "isByRequest": "N",
+        "lastName": "Thanedar",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000488?format=json"
+      }
+    ],
+    "title": "To amend the Commodity Exchange Act to authorize certain treatment of customer property during commodity broker bankruptcy.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9717/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:07:54Z",
+    "updateDateIncludingText": "2026-07-16T08:07:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001039",
+      "district": 3,
+      "firstName": "Kat",
+      "fullName": "Rep. Cammack, Kat [R-FL-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cammack",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/C001039?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T15:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Agriculture Committee",
+      "systemCode": "hsag00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+    }
+  ]
+}

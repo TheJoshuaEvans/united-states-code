@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 14,
+      "count": 15,
       "url": "https://api.congress.gov/v3/bill/119/hr/3535/actions?format=json"
     },
     "cboCostEstimates": [
@@ -13,7 +13,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/3535/committees?format=json"
     },
     "congress": 119,
@@ -25,9 +25,8 @@
     },
     "introducedDate": "2025-05-21",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "17:17:25",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3535",
     "number": "3535",
@@ -59,17 +58,17 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/3535/summaries?format=json"
     },
     "textVersions": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/3535/text?format=json"
     },
     "title": "Stop Foreign Funds in Elections Act",
     "titles": {
-      "count": 4,
+      "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/3535/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:05:55Z",
-    "updateDateIncludingText": "2026-07-15T08:05:55Z"
+    "updateDate": "2026-07-15T13:08:26Z",
+    "updateDateIncludingText": "2026-07-16T07:57:52Z"
   },
   "cosponsors": [
     {
@@ -99,6 +98,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T20:08:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    },
     {
       "activities": [
         {

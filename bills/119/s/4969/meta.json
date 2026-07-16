@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4969/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4969/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4969",
+    "number": "4969",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "S001232",
+        "firstName": "Tim",
+        "fullName": "Sen. Sheehy, Tim [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Sheehy",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/S001232?format=json"
+      }
+    ],
+    "title": "A bill to amend title 38, United States Code, to increase the amount of educational assistance paid by the Secretary of Veterans Affairs to an eligible individual during the first year of a full-time program of apprenticeship or other on-job training.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4969/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-15T10:56:24Z",
+    "updateDateIncludingText": "2026-07-15T10:56:24Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T19:04:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ]
+}

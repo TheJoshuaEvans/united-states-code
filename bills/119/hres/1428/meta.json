@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 5,
-      "countIncludingWithdrawnCosponsors": 5,
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
       "url": "https://api.congress.gov/v3/bill/119/hres/1428/cosponsors?format=json"
     },
     "introducedDate": "2026-07-13",
@@ -46,8 +46,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hres/1428/titles?format=json"
     },
     "type": "HRES",
-    "updateDate": "2026-07-15T08:07:50Z",
-    "updateDateIncludingText": "2026-07-15T08:07:50Z"
+    "updateDate": "2026-07-16T08:07:07Z",
+    "updateDateIncludingText": "2026-07-16T08:07:07Z"
   },
   "cosponsors": [
     {
@@ -110,6 +110,44 @@
       "sponsorshipDate": "2026-07-14",
       "state": "CA",
       "url": "https://api.congress.gov/v3/member/B001285?format=json"
+    },
+    {
+      "bioguideId": "R000617",
+      "district": 3,
+      "firstName": "Delia",
+      "fullName": "Rep. Ramirez, Delia C. [D-IL-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ramirez",
+      "middleName": "C.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/R000617?format=json"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": 28,
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001080?format=json"
+    },
+    {
+      "bioguideId": "V000081",
+      "district": 7,
+      "firstName": "Nydia",
+      "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vel\u00e1zquez",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/V000081?format=json"
     }
   ],
   "committees": [

@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 23,
-      "countIncludingWithdrawnCosponsors": 23,
+      "count": 27,
+      "countIncludingWithdrawnCosponsors": 27,
       "url": "https://api.congress.gov/v3/bill/119/s/4429/cosponsors?format=json"
     },
     "introducedDate": "2026-04-29",
@@ -56,8 +56,8 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4429/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-14T11:03:22Z",
-    "updateDateIncludingText": "2026-07-14T11:03:22Z"
+    "updateDate": "2026-07-15T11:03:24Z",
+    "updateDateIncludingText": "2026-07-15T11:03:24Z"
   },
   "cosponsors": [
     {
@@ -319,6 +319,50 @@
       "sponsorshipDate": "2026-07-13",
       "state": "IA",
       "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    },
+    {
+      "bioguideId": "H001104",
+      "firstName": "Jon",
+      "fullName": "Sen. Husted, Jon [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Husted",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/H001104?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
     }
   ],
   "committees": [

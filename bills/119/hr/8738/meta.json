@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 11,
+      "count": 12,
       "url": "https://api.congress.gov/v3/bill/119/hr/8738/actions?format=json"
     },
     "cboCostEstimates": [
@@ -13,7 +13,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/8738/committees?format=json"
     },
     "congress": 119,
@@ -25,9 +25,8 @@
     },
     "introducedDate": "2026-05-12",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "17:23:11",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8738",
     "number": "8738",
@@ -59,17 +58,17 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/8738/summaries?format=json"
     },
     "textVersions": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/8738/text?format=json"
     },
     "title": "FEC Administrative Improvements Act",
     "titles": {
-      "count": 3,
+      "count": 5,
       "url": "https://api.congress.gov/v3/bill/119/hr/8738/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:05:49Z",
-    "updateDateIncludingText": "2026-07-15T08:05:49Z"
+    "updateDate": "2026-07-15T13:08:27Z",
+    "updateDateIncludingText": "2026-07-16T07:57:53Z"
   },
   "cosponsors": [
     {
@@ -112,6 +111,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T20:10:34Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    },
     {
       "activities": [
         {

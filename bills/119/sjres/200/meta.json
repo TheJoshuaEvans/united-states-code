@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 4,
-      "countIncludingWithdrawnCosponsors": 4,
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
       "url": "https://api.congress.gov/v3/bill/119/sjres/200/cosponsors?format=json"
     },
     "introducedDate": "2026-07-13",
@@ -36,14 +36,18 @@
         "url": "https://api.congress.gov/v3/member/S001150?format=json"
       }
     ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/200/text?format=json"
+    },
     "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
     "titles": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/sjres/200/titles?format=json"
     },
     "type": "SJRES",
-    "updateDate": "2026-07-14T10:56:23Z",
-    "updateDateIncludingText": "2026-07-14T10:56:23Z"
+    "updateDate": "2026-07-15T13:51:46Z",
+    "updateDateIncludingText": "2026-07-15T13:51:46Z"
   },
   "cosponsors": [
     {
@@ -90,6 +94,18 @@
       "sponsorshipDate": "2026-07-13",
       "state": "MD",
       "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "M001169",
+      "firstName": "Christopher",
+      "fullName": "Sen. Murphy, Christopher [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murphy",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/M001169?format=json"
     }
   ],
   "committees": [

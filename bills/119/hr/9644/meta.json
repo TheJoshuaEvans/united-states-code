@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 4,
+      "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/9644/actions?format=json"
     },
     "committees": {
@@ -12,8 +12,8 @@
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 113 (Monday, July 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MORAN:\nH.R. 9644.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4408]\n</pre>",
     "introducedDate": "2026-07-13",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      "actionDate": "2026-07-15",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9644",
     "number": "9644",
@@ -42,10 +42,27 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9644/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T16:32:29Z",
-    "updateDateIncludingText": "2026-07-14T16:58:20Z"
+    "updateDate": "2026-07-16T08:07:35Z",
+    "updateDateIncludingText": "2026-07-16T08:07:35Z"
   },
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T15:10:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-07-13T16:02:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
     {
       "activities": [
         {
@@ -58,19 +75,6 @@
       "systemCode": "hsif00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
-    },
-    {
-      "activities": [
-        {
-          "date": "2026-07-13T16:02:05Z",
-          "name": "Referred To"
-        }
-      ],
-      "chamber": "House",
-      "name": "Ways and Means Committee",
-      "systemCode": "hswm00",
-      "type": "Standing",
-      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
     }
   ]
 }

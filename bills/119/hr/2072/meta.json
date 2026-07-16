@@ -67,6 +67,10 @@
       "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/2072/subjects?format=json"
     },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2072/summaries?format=json"
+    },
     "textVersions": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/2072/text?format=json"
@@ -77,8 +81,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/2072/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T17:57:41Z",
-    "updateDateIncludingText": "2026-07-14T17:57:41Z"
+    "updateDate": "2026-07-15T13:15:57Z",
+    "updateDateIncludingText": "2026-07-15T13:15:57Z"
   },
   "cosponsors": [
     {
@@ -214,6 +218,15 @@
       "systemCode": "hsif00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-02",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill authorizes the Federal Energy Regulatory Commission (FERC) to extend construction deadlines for hydropower projects that were issued a license before March 13, 2020. FERC is authorized, upon the request of the licensees, to extend the deadline for beginning construction on such projects an additional six years beyond the eight-year extension FERC is authorized to provide under current law. The extension must consist of no more than three consecutive two-year periods.</p><p>The bill also provides that FERC may reinstate certain expired licenses for projects with construction deadlines extended under this bill, effective as of the date they expire.</p>",
+      "updateDate": "2026-07-15T13:13:03Z",
+      "versionCode": "07"
     }
   ]
 }

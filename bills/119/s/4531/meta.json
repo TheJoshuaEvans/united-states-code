@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-14",
+    "latestAction": {
+      "actionDate": "2026-05-14",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4531",
+    "number": "4531",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001104",
+        "firstName": "Jon",
+        "fullName": "Sen. Husted, Jon [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Husted",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/H001104?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/text?format=json"
+    },
+    "title": "Student Aid Fraud Oversight and Accountability Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4531/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-15T16:29:13Z",
+    "updateDateIncludingText": "2026-07-15T16:29:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-05-14",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-14T16:15:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-14",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Student Aid Fraud Oversight and Accountability Act of 2026</strong></p><p>This bill requires the Department of Education (ED) to prioritize the review of institutions of higher education (IHEs) that disburse federal student aid without verifying the identity of a student whose Free Application for Federal Student Aid (FAFSA) presents a reasonable suspicion of identity fraud.</p><p>Specifically, the bill requires ED to identify each IHE that disburses, on or after October 1, 2026, federal financial aid for an award year to any student whose FAFSA presents a reasonable suspicion of identity fraud, as determined by ED's identity fraud detection system. However, the bill excludes from this identification any&nbsp;IHE that demonstrates to ED, for each student and before disbursing federal financial aid, that the IHE&nbsp;(1) verifies the student's identity in person or by live video, (2) notifies ED of the identify verification, and&nbsp;(3) maintains a record of such identity verification.</p><p>ED may use identification information to inform program reviews, audits, investigations, and other oversight activities related to federal student aid.</p><p>(On April 26, 2026, ED began implementing a real-time identity fraud detection process within the FAFSA form that places applicants into one of four risk categories. High-risk applicants must confirm their identity by presenting documentation during the online application process, including via a live camera process. Applicants who are rejected via this automated process must then have their identity verified in person by IHEs.)</p>",
+      "updateDate": "2026-07-15T16:28:57Z",
+      "versionCode": "00"
+    }
+  ]
+}

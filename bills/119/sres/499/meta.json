@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 3,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/sres/499/actions?format=json"
     },
     "committees": {
@@ -11,7 +11,7 @@
     "congress": 119,
     "cosponsors": {
       "count": 1,
-      "countIncludingWithdrawnCosponsors": 1,
+      "countIncludingWithdrawnCosponsors": 2,
       "url": "https://api.congress.gov/v3/bill/119/sres/499/cosponsors?format=json"
     },
     "introducedDate": "2025-11-18",
@@ -56,8 +56,8 @@
       "url": "https://api.congress.gov/v3/bill/119/sres/499/titles?format=json"
     },
     "type": "SRES",
-    "updateDate": "2026-07-14T10:56:31Z",
-    "updateDateIncludingText": "2026-07-14T10:56:31Z"
+    "updateDate": "2026-07-15T11:15:56Z",
+    "updateDateIncludingText": "2026-07-15T11:15:56Z"
   },
   "cosponsors": [
     {
@@ -69,8 +69,20 @@
       "middleName": "W.",
       "party": "D",
       "sponsorshipDate": "2026-07-13",
+      "sponsorshipWithdrawnDate": "2026-07-14",
       "state": "CO",
       "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
     }
   ],
   "committees": [

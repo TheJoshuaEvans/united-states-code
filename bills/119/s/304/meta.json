@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 8,
-      "countIncludingWithdrawnCosponsors": 8,
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
       "url": "https://api.congress.gov/v3/bill/119/s/304/cosponsors?format=json"
     },
     "introducedDate": "2025-01-29",
@@ -60,8 +60,8 @@
       "url": "https://api.congress.gov/v3/bill/119/s/304/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-13T20:36:23Z",
-    "updateDateIncludingText": "2026-07-13T20:36:23Z"
+    "updateDate": "2026-07-15T11:03:23Z",
+    "updateDateIncludingText": "2026-07-15T11:03:23Z"
   },
   "cosponsors": [
     {
@@ -151,11 +151,26 @@
       "sponsorshipDate": "2025-12-16",
       "state": "MT",
       "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
     }
   ],
   "committees": [
     {
       "activities": [
+        {
+          "date": "2025-01-29T18:35:26Z",
+          "name": "Referred To"
+        },
         {
           "date": "2025-01-29T18:35:26Z",
           "name": "Referred To"

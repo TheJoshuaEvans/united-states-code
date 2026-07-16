@@ -11,8 +11,8 @@
     "congress": 119,
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 106 (Wednesday, June 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BACON:\nH.R. 9417.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4246]\n</pre>",
     "cosponsors": {
-      "count": 11,
-      "countIncludingWithdrawnCosponsors": 11,
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
       "url": "https://api.congress.gov/v3/bill/119/hr/9417/cosponsors?format=json"
     },
     "introducedDate": "2026-06-24",
@@ -54,8 +54,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9417/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:34Z",
-    "updateDateIncludingText": "2026-07-15T08:07:34Z"
+    "updateDate": "2026-07-16T08:07:16Z",
+    "updateDateIncludingText": "2026-07-16T08:07:16Z"
   },
   "cosponsors": [
     {
@@ -192,6 +192,31 @@
       "sponsorshipDate": "2026-07-14",
       "state": "MN",
       "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "W000795",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Wilson, Joe [R-SC-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wilson",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/W000795?format=json"
+    },
+    {
+      "bioguideId": "B001307",
+      "district": 4,
+      "firstName": "James",
+      "fullName": "Rep. Baird, James R. [R-IN-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baird",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001307?format=json"
     }
   ],
   "committees": [

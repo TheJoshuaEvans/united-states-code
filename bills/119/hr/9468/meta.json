@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 3,
+      "count": 5,
       "url": "https://api.congress.gov/v3/bill/119/hr/9468/actions?format=json"
     },
     "committees": {
@@ -11,14 +11,14 @@
     "congress": 119,
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 107 (Thursday, June 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HERN of Oklahoma:\nH.R. 9468.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H4263]\n</pre>",
     "cosponsors": {
-      "count": 3,
-      "countIncludingWithdrawnCosponsors": 3,
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
       "url": "https://api.congress.gov/v3/bill/119/hr/9468/cosponsors?format=json"
     },
     "introducedDate": "2026-06-25",
     "latestAction": {
-      "actionDate": "2026-06-25",
-      "text": "Referred to the House Committee on Ways and Means."
+      "actionDate": "2026-07-15",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9468",
     "number": "9468",
@@ -54,8 +54,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9468/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:05:31Z",
-    "updateDateIncludingText": "2026-07-14T08:05:31Z"
+    "updateDate": "2026-07-16T08:07:58Z",
+    "updateDateIncludingText": "2026-07-16T08:07:58Z"
   },
   "cosponsors": [
     {
@@ -94,11 +94,27 @@
       "sponsorshipDate": "2026-07-13",
       "state": "PA",
       "url": "https://api.congress.gov/v3/member/K000376?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
     }
   ],
   "committees": [
     {
       "activities": [
+        {
+          "date": "2026-07-15T15:06:00Z",
+          "name": "Markup By"
+        },
         {
           "date": "2026-06-25T14:05:00Z",
           "name": "Referred To"

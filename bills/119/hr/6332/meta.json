@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 11,
+      "count": 12,
       "url": "https://api.congress.gov/v3/bill/119/hr/6332/actions?format=json"
     },
     "cboCostEstimates": [
@@ -13,7 +13,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/6332/committees?format=json"
     },
     "congress": 119,
@@ -25,9 +25,8 @@
     },
     "introducedDate": "2025-12-01",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "15:44:33",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6332",
     "number": "6332",
@@ -59,17 +58,17 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/6332/summaries?format=json"
     },
     "textVersions": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/6332/text?format=json"
     },
     "title": "To designate the facility of the United States Postal Service located at 10660 Page Avenue in Fairfax, Virginia, as the \"Congressman Gerald E. Connolly Post Office Building\".",
     "titles": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/6332/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:05:36Z",
-    "updateDateIncludingText": "2026-07-15T08:05:36Z"
+    "updateDate": "2026-07-15T13:09:45Z",
+    "updateDateIncludingText": "2026-07-16T07:57:52Z"
   },
   "cosponsors": [
     {
@@ -214,6 +213,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T20:09:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
     {
       "activities": [
         {

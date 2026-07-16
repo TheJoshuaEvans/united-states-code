@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-29",
+    "latestAction": {
+      "actionDate": "2026-04-29",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4428",
+    "number": "4428",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001244",
+        "firstName": "Ashley",
+        "fullName": "Sen. Moody, Ashley [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Moody",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001244?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/text?format=json"
+    },
+    "title": "No Aid for Ghost Students Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4428/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-15T16:34:45Z",
+    "updateDateIncludingText": "2026-07-15T16:34:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-04-29",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T16:47:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-29",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>No Aid for Ghost Students Act of 2026</strong></p><p>This bill requires the Department of Education (ED) to establish an identity fraud detection system for the Free Application for Federal Student Aid (FAFSA).</p><p>Beginning on October 1, 2026, ED must use an identity fraud detection system to review each submitted application to determine whether the applicant presents a reasonable suspicion of identity fraud. If ED makes such a determination, it must notify the applicant and each institution of higher education (IHE) designated on the application that the applicant  is subject to additional identity verification.</p><p>An IHE may not disburse federal financial aid to an applicant that presents a reasonable suspicion of fraud unless the IHE verifies the applicant's identity  in person or by live video. If the applicant's identity is confirmed, the IHE must notify ED that the applicant's identity has been verified.</p><p>ED must establish guidelines for the identity verification procedures conducted by IHEs.</p><p>(On April 26, 2026, ED began implementing a real-time identity fraud detection process within the FAFSA form that places applicants into one of four risk categories. High-risk applicants must confirm their identity by presenting documentation during the online application process, including via a live camera process. Applicants who are rejected via this automated process must then have their identity verified in person by IHEs.)</p>",
+      "updateDate": "2026-07-15T16:34:10Z",
+      "versionCode": "00"
+    }
+  ]
+}

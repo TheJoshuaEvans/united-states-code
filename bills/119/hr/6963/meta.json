@@ -1,0 +1,169 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 4 (Wednesday, January 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HIGGINS of Louisiana:\nH.R. 6963.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the U.S. Constitution\n[Page H135]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "actionTime": "11:37:02",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6963",
+    "number": "6963",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001077",
+        "district": 3,
+        "firstName": "Clay",
+        "fullName": "Rep. Higgins, Clay [R-LA-3]",
+        "isByRequest": "N",
+        "lastName": "Higgins",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/H001077?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/text?format=json"
+    },
+    "title": "To designate the community-based outpatient clinic of the Department of Veterans Affairs in Lafayette, Louisiana, as the \"Rodney C. Hamilton Sr. VA Clinic\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6963/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:07:10Z",
+    "updateDateIncludingText": "2026-07-16T08:07:10Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "J000299",
+      "district": 4,
+      "firstName": "Mike",
+      "fullName": "Rep. Johnson, Mike [R-LA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/J000299?format=json"
+    },
+    {
+      "bioguideId": "S001176",
+      "district": 1,
+      "firstName": "Steve",
+      "fullName": "Rep. Scalise, Steve [R-LA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scalise",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/S001176?format=json"
+    },
+    {
+      "bioguideId": "L000595",
+      "district": 5,
+      "firstName": "Julia",
+      "fullName": "Rep. Letlow, Julia [R-LA-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Letlow",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/L000595?format=json"
+    },
+    {
+      "bioguideId": "F000110",
+      "district": 6,
+      "firstName": "Cleo",
+      "fullName": "Rep. Fields, Cleo [D-LA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fields",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/F000110?format=json"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": 2,
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-07",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001125?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-07T15:03:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-01-29T16:42:30Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsvr03",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr03?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill designates the community-based outpatient clinic of the Department of Veterans Affairs in Lafayette, Louisiana, as the Rodney C. Hamilton Sr. VA Clinic.</p>",
+      "updateDate": "2026-07-08T13:58:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

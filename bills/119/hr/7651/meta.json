@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 3,
+      "count": 5,
       "url": "https://api.congress.gov/v3/bill/119/hr/7651/actions?format=json"
     },
     "committees": {
@@ -11,14 +11,14 @@
     "congress": 119,
     "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 35 (Monday, February 23, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ONDER:\nH.R. 7651.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution\n[Page H2258]\n</pre>",
     "cosponsors": {
-      "count": 80,
-      "countIncludingWithdrawnCosponsors": 80,
+      "count": 86,
+      "countIncludingWithdrawnCosponsors": 86,
       "url": "https://api.congress.gov/v3/bill/119/hr/7651/cosponsors?format=json"
     },
     "introducedDate": "2026-02-23",
     "latestAction": {
-      "actionDate": "2026-02-23",
-      "text": "Referred to the House Committee on the Judiciary."
+      "actionDate": "2026-07-15",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 8."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7651",
     "number": "7651",
@@ -55,8 +55,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/7651/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:26Z",
-    "updateDateIncludingText": "2026-07-15T08:07:26Z"
+    "updateDate": "2026-07-16T08:07:34Z",
+    "updateDateIncludingText": "2026-07-16T08:07:34Z"
   },
   "cosponsors": [
     {
@@ -1044,11 +1044,89 @@
       "sponsorshipDate": "2026-07-14",
       "state": "OH",
       "url": "https://api.congress.gov/v3/member/R000619?format=json"
+    },
+    {
+      "bioguideId": "M001216",
+      "district": 7,
+      "firstName": "Cory",
+      "fullName": "Rep. Mills, Cory [R-FL-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mills",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001216?format=json"
+    },
+    {
+      "bioguideId": "J000295",
+      "district": 14,
+      "firstName": "David",
+      "fullName": "Rep. Joyce, David P. [R-OH-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Joyce",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/J000295?format=json"
+    },
+    {
+      "bioguideId": "C000059",
+      "district": 41,
+      "firstName": "Ken",
+      "fullName": "Rep. Calvert, Ken [R-CA-41]",
+      "isOriginalCosponsor": false,
+      "lastName": "Calvert",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C000059?format=json"
+    },
+    {
+      "bioguideId": "C001103",
+      "district": 1,
+      "firstName": "Earl",
+      "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carter",
+      "middleName": "L. \"Buddy\"",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001103?format=json"
+    },
+    {
+      "bioguideId": "K000388",
+      "district": 1,
+      "firstName": "Trent",
+      "fullName": "Rep. Kelly, Trent [R-MS-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/K000388?format=json"
+    },
+    {
+      "bioguideId": "C001133",
+      "district": 6,
+      "firstName": "Juan",
+      "fullName": "Rep. Ciscomani, Juan [R-AZ-6]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ciscomani",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001133?format=json"
     }
   ],
   "committees": [
     {
       "activities": [
+        {
+          "date": "2026-07-15T18:58:12Z",
+          "name": "Markup By"
+        },
         {
           "date": "2026-02-23T17:01:50Z",
           "name": "Referred To"

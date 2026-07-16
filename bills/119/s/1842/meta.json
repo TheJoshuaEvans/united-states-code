@@ -1,0 +1,100 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2025-05-21",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1842",
+    "number": "1842",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000802",
+        "firstName": "Sheldon",
+        "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/W000802?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/text?format=json"
+    },
+    "title": "Wildfire Reduction and Carbon Removal Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1842/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-15T18:16:58Z",
+    "updateDateIncludingText": "2026-07-15T18:16:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-21T20:20:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-21",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Wildfire Reduction and Carbon Removal Act of 2025</strong></p><p>This bill establishes a new federal business tax credit for forest residue&nbsp;biomass carbon removal and storage.</p><p>Specifically, the bill allows a tax credit for qualified carbon dioxide equivalent that is (1) captured from qualified forest residue&nbsp;biomass using biomass equipment placed in service at a qualified forest residue biomass carbon removal and storage project on or after the date the bill is enacted, and (2) stored in secure geological storage or via long-duration utilization.&nbsp;</p><p><em>Qualified forest residue biomass</em> is forest residue from the thinning of certain trees, limbs, and bark and produced from certain wildfire hazard reduction or ecological restoration activities. Sustainability standards apply.</p><p>The tax credit&nbsp;amount is (1) $36 (adjusted for inflation) per metric ton of qualified carbon dioxide equivalent stored in secure geological storage, and (2) $12 (adjusted for inflation) per metric ton of qualified carbon dioxide equivalent stored via long-duration utilization. The tax credit is increased if certain wage and apprenticeship requirements are met.</p><p>The bill limits the tax credit for existing removal and storage projects to the qualified captured&nbsp;carbon dioxide  that generally is attributable to additional biomass equipment placed into service after the bill is enacted.</p><p>The tax credit may be transferred to an unrelated third party, and&nbsp;certain tax-exempt and government entities may receive the tax credit as a payment.</p><p>Finally, the bill requires the Internal Revenue Service to establish&nbsp;sustainability standards for the identification of qualified forest residue&nbsp;biomass and issue other regulations.</p>",
+      "updateDate": "2026-07-15T18:13:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

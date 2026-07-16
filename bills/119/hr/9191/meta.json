@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 3,
+      "count": 5,
       "url": "https://api.congress.gov/v3/bill/119/hr/9191/actions?format=json"
     },
     "committees": {
@@ -16,8 +16,8 @@
     },
     "introducedDate": "2026-06-08",
     "latestAction": {
-      "actionDate": "2026-06-08",
-      "text": "Referred to the House Committee on the Judiciary."
+      "actionDate": "2026-07-15",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 1."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9191",
     "number": "9191",
@@ -53,8 +53,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9191/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T08:07:06Z",
-    "updateDateIncludingText": "2026-07-14T08:07:06Z"
+    "updateDate": "2026-07-16T08:07:38Z",
+    "updateDateIncludingText": "2026-07-16T08:07:38Z"
   },
   "cosponsors": [
     {
@@ -171,6 +171,10 @@
   "committees": [
     {
       "activities": [
+        {
+          "date": "2026-07-15T18:51:26Z",
+          "name": "Markup By"
+        },
         {
           "date": "2026-06-08T16:04:00Z",
           "name": "Referred To"

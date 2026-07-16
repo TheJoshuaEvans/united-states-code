@@ -1,0 +1,103 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-21",
+    "latestAction": {
+      "actionDate": "2026-04-21",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4365",
+    "number": "4365",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000278",
+        "firstName": "Tommy",
+        "fullName": "Sen. Tuberville, Tommy [R-AL]",
+        "isByRequest": "N",
+        "lastName": "Tuberville",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/T000278?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/text?format=json"
+    },
+    "title": "FAFSA Verification Efficiency Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4365/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-15T16:28:07Z",
+    "updateDateIncludingText": "2026-07-15T16:28:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2026-05-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-21T21:26:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-21",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>FAFSA Verification Efficiency Act</strong></p><p>This bill requires the Department of Education (ED) to verify the Social Security number (SSN) and citizenship status of any individual who is required to provide information to ED for&nbsp;federal student aid.&nbsp;</p><p>Currently, ED must work with the Social Security Administration (SSA) to verify the SSN of a student who is applying for federal student aid. This bill expands the requirement so that ED must work with the SSA to verify the SSN and citizenship status of any individual who is required to provide information to ED on the Free Application for Federal Student Aid (FAFSA) form, including contributors. A contributor refers to anyone (the student, the student\u2019s spouse, the student's biological or adoptive parent, or a parent\u2019s spouse) who is required to provide information on the FAFSA form.</p>",
+      "updateDate": "2026-07-15T16:27:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

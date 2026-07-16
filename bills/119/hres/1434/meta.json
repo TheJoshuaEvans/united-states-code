@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1434/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1434/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1434",
+    "number": "1434",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "F000485",
+        "district": 14,
+        "firstName": "Clay",
+        "fullName": "Rep. Fuller, Clay [R-GA-14]",
+        "isByRequest": "N",
+        "lastName": "Fuller",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/F000485?format=json"
+      }
+    ],
+    "title": "Supporting the efforts of the Trump Administration to obtain a rehearing of the decision of the Supreme Court of the United States in Trump v. Barbara, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1434/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-16T08:08:06Z",
+    "updateDateIncludingText": "2026-07-16T08:08:06Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T15:03:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

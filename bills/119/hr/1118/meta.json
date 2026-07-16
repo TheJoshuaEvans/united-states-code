@@ -1,0 +1,131 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on February 5, 2026",
+        "pubDate": "2026-03-19T20:32:00Z",
+        "title": "H.R. 1118, Value Over Cost Act of 2026",
+        "url": "https://www.cbo.gov/publication/62247"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 26 (Friday, February 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DONALDS:\nH.R. 1118.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt. I, Sec. 8 of the U.S. Constitution\n[Page H585]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-07",
+    "latestAction": {
+      "actionDate": "2026-02-05",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 44 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1118",
+    "number": "1118",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000032",
+        "district": 19,
+        "firstName": "Byron",
+        "fullName": "Rep. Donalds, Byron [R-FL-19]",
+        "isByRequest": "N",
+        "lastName": "Donalds",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/D000032?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/text?format=json"
+    },
+    "title": "Value Over Cost Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1118/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T20:23:34Z",
+    "updateDateIncludingText": "2026-07-15T20:23:34Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001217",
+      "district": 23,
+      "firstName": "Jared",
+      "fullName": "Rep. Moskowitz, Jared [D-FL-23]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moskowitz",
+      "party": "D",
+      "sponsorshipDate": "2025-02-07",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001217?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T20:04:33Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-07T14:00:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-02-07T14:00:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-07",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Value Over Cost Act of 2025</strong></p><p>This bill specifies that contracts and orders under the multiple award schedule program of the General Services Administration (GSA) may be evaluated on <em>best value</em>, rather than lowest overall cost, if the GSA determines that to be in the best interests of the federal government. (<em>Best value</em> allows consideration of non-cost factors when evaluating contract proposals to determine the offer that provides the greatest overall benefit. The GSA's multiple award schedules provide federal agencies with a simplified process for obtaining commercial supplies and commercial services at prices associated with volume buying.)&nbsp;</p>",
+      "updateDate": "2026-07-15T20:23:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

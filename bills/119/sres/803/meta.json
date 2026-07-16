@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/803/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/803/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/803",
+    "number": "803",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "B001305",
+        "firstName": "Ted",
+        "fullName": "Sen. Budd, Ted [R-NC]",
+        "isByRequest": "N",
+        "lastName": "Budd",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/B001305?format=json"
+      }
+    ],
+    "title": "A resolution congratulating the 2025-2026 Carolina Hurricanes for winning the Stanley Cup.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/803/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-15T10:56:25Z",
+    "updateDateIncludingText": "2026-07-15T10:56:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2026-07-14",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    }
+  ]
+}

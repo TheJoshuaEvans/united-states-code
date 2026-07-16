@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9708/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9708/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9708",
+    "number": "9708",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "H001086",
+        "district": 1,
+        "firstName": "Diana",
+        "fullName": "Rep. Harshbarger, Diana [R-TN-1]",
+        "isByRequest": "N",
+        "lastName": "Harshbarger",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/H001086?format=json"
+      }
+    ],
+    "title": "To provide transparency in short-term rental listings, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9708/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:07:25Z",
+    "updateDateIncludingText": "2026-07-16T08:07:25Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T15:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ]
+}

@@ -9,9 +9,10 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9669/committees?format=json"
     },
     "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 114 (Tuesday, July 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. ADAMS:\nH.R. 9669.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of Section 8 of Article 1 of the Constitution\n[Page H4467]\n</pre>",
     "cosponsors": {
-      "count": 2,
-      "countIncludingWithdrawnCosponsors": 2,
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
       "url": "https://api.congress.gov/v3/bill/119/hr/9669/cosponsors?format=json"
     },
     "introducedDate": "2026-07-14",
@@ -43,8 +44,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9669/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:17Z",
-    "updateDateIncludingText": "2026-07-15T08:07:17Z"
+    "updateDate": "2026-07-16T08:07:32Z",
+    "updateDateIncludingText": "2026-07-16T08:07:32Z"
   },
   "cosponsors": [
     {
@@ -71,6 +72,30 @@
       "sponsorshipDate": "2026-07-14",
       "state": "IN",
       "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "I000058",
+      "district": 4,
+      "firstName": "Glenn",
+      "fullName": "Rep. Ivey, Glenn [D-MD-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ivey",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/I000058?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
     }
   ],
   "committees": [

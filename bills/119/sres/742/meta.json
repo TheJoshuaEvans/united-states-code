@@ -1,0 +1,95 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/742",
+    "number": "742",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001042",
+        "firstName": "Mazie",
+        "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+        "isByRequest": "N",
+        "lastName": "Hirono",
+        "middleName": "K.",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/H001042?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/text?format=json"
+    },
+    "title": "A resolution commemorating the 70th anniversary of the United States Forest Service Institute of Pacific Islands Forestry.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/742/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-15T15:06:55Z",
+    "updateDateIncludingText": "2026-07-15T15:06:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001194",
+      "firstName": "Brian",
+      "fullName": "Sen. Schatz, Brian [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schatz",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/S001194?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T22:06:12Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-05-20T15:03:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ]
+}

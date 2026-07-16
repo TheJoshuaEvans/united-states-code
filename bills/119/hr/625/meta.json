@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 13 (Wednesday, January 22, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McCAUL:\nH.R. 625.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\nAmends Title 28, United States Code, to authorize holding\ncourt in College Station, Texas and El Centro, California.\n[Page H300]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-22",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/625",
+    "number": "625",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001157",
+        "district": 10,
+        "firstName": "Michael",
+        "fullName": "Rep. McCaul, Michael T. [R-TX-10]",
+        "isByRequest": "N",
+        "lastName": "McCaul",
+        "middleName": "T.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/M001157?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/text?format=json"
+    },
+    "title": "LACA",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/625/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:07:30Z",
+    "updateDateIncludingText": "2026-07-16T08:07:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000599",
+      "district": 25,
+      "firstName": "Raul",
+      "fullName": "Rep. Ruiz, Raul [D-CA-25]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ruiz",
+      "party": "D",
+      "sponsorshipDate": "2025-01-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/R000599?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T18:54:24Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-22T15:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-22",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Local Access to Courts Act or LACA</strong></p><p>This bill adds College Station to the list of places where court must be held in the Galveston Division of the Southern District of Texas.</p><p>Additionally, the bill adds El Centro to the list of places where court must be held in the Southern District of California.</p>",
+      "updateDate": "2025-03-17T19:50:00Z",
+      "versionCode": "00"
+    }
+  ]
+}

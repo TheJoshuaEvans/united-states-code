@@ -1,0 +1,129 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-29",
+    "latestAction": {
+      "actionDate": "2025-04-29",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S2666-2668)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1509",
+    "number": "1509",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000250",
+        "firstName": "John",
+        "fullName": "Sen. Thune, John [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Thune",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/T000250?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/text?format=json"
+    },
+    "title": "Strengthening Local Processing Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1509/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-15T11:00:06Z",
+    "updateDateIncludingText": "2026-07-15T11:00:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-02-09",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-07-14",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-29T18:39:59Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-04-29T18:39:59Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-29",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Strengthening Local Processing Act of 2025</strong></p><p>This bill revises provisions related to meat and poultry processing establishments, including by establishing grants and a database&nbsp;to assist smaller establishments (i.e., at least 10 but fewer than 500 employees) and very small establishments (i.e., fewer than 10 employees or annual sales of less than $2.5 million).</p><p>For example, the Department of Agriculture (USDA) must establish a searchable database of peer-reviewed validation studies for use in developing Hazard Analysis and Critical Control Points plans for smaller and very small establishments.</p><p>The bill increases the maximum federal cost shares for (1) state meat and poultry inspection programs (from 50% to 65%), and (2) the Cooperative Interstate Shipment (CIS) program (from 60% to 80%).&nbsp;The CIS program allows state-inspected facilities to operate as federally-inspected facilities and ship their products in interstate commerce and internationally.</p><p>Additionally, USDA must conduct outreach to states that have meat and poultry inspection programs, but do not participate in the CIS program. The bill also allows certain establishments with up to 50 employees (currently up to 25 employees) to participate in the program.&nbsp;</p><p>USDA must also award grants to increase resiliency and diversification of the meat processing system, including activities that support (1) the health and safety of meat and poultry plant employees, suppliers, and customers; (2) increased processing capacity; and (3) the resilience of the small meat and poultry processing sector.</p><p>Further, the bill establishes a grant program for meat and poultry processing career training programs,&nbsp;including structured apprenticeships. </p>",
+      "updateDate": "2026-01-26T16:00:01Z",
+      "versionCode": "00"
+    }
+  ]
+}

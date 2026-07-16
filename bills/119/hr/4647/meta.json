@@ -1,0 +1,102 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. DeLAURO:\nH.R. 4647.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 17 of section 8 of article I of the Constitution\nclause 1 of section 8 of article I of the Constitution\n[Page H3647]\n</pre>",
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "actionTime": "11:49:09",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4647",
+    "number": "4647",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000216",
+        "district": 3,
+        "firstName": "Rosa",
+        "fullName": "Rep. DeLauro, Rosa L. [D-CT-3]",
+        "isByRequest": "N",
+        "lastName": "DeLauro",
+        "middleName": "L.",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/D000216?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/text?format=json"
+    },
+    "title": "Captain Paul W. Bud Bucha VA Medical Center Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4647/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:08:02Z",
+    "updateDateIncludingText": "2026-07-16T08:08:02Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-23T14:06:40Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-12-19T19:05:50Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsvr03",
+          "url": "https://api.congress.gov/v3/committee/house/hsvr03?format=json"
+        }
+      ],
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-23",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Captain Paul W. \"Bud\" Bucha VA Medical Center Act of 2025</strong></p><p>This bill designates the medical center of the Department of Veterans Affairs in West Haven, Connecticut, as the Captain Paul&nbsp;W. \"Bud\" Bucha Department of Veterans Affairs Medical Center or the Captain Paul W. \"Bud\" Bucha VA Medical Center.</p>",
+      "updateDate": "2026-07-08T19:43:22Z",
+      "versionCode": "00"
+    }
+  ]
+}

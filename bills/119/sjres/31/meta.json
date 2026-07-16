@@ -1,0 +1,166 @@
+{
+  "status": {
+    "actions": {
+      "count": 30,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-06-20",
+      "text": "Became Public Law No: 119-20."
+    },
+    "laws": [
+      {
+        "number": "119-20",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/31",
+    "number": "31",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001114",
+        "firstName": "John",
+        "fullName": "Sen. Curtis, John R. [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Curtis",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/C001114?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/text?format=json"
+    },
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/31/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-07-15T18:53:21Z",
+    "updateDateIncludingText": "2026-07-15T18:53:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2025-03-24",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "H001061",
+      "firstName": "John",
+      "fullName": "Sen. Hoeven, John [R-ND]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hoeven",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/H001061?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-14T20:07:22Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-06T15:55:59Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-06",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This joint resolution nullifies the Environmental Protection Agency rule titled <em>Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act</em> (89 Fed. Reg. 73293) and published on September 10, 2024. Among other elements, the rule requires sources of persistent and bioaccumulative hazardous air pollutants to continue to comply with certain major source emission standards under the Clean Air Act even if the sources reclassify as area sources.</p>",
+      "updateDate": "2025-04-07T22:00:26Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-06-20",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution removes the requirements for sources of persistent and&nbsp;bioaccumulative hazardous air pollutants to comply with certain major source emissions standards when those sources reclassify as area sources (which have less stringent standards). Specifically, the joint resolution nullifies the Environmental Protection Agency rule titled <a href=\"https://www.federalregister.gov/documents/2024/09/10/2024-20074/review-of-final-rule-reclassification-of-major-sources-as-area-sources-under-section-112-of-the\">Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act</a>. The rule requires sources that seek to reclassify as area sources to implement certain control methods (e.g., continue to employ emission control methods required under the major sources requirements) to ensure they do not increase emissions beyond the major source requirements applicable at the time of reclassification.</p>",
+      "updateDate": "2026-07-15T18:53:12Z",
+      "versionCode": "49"
+    }
+  ]
+}

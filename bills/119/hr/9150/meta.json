@@ -1,0 +1,114 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 95 (Thursday, June 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LaHOOD:\nH.R. 9150.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII\n[Page H3908]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-04",
+    "latestAction": {
+      "actionDate": "2026-06-04",
+      "text": "Referred to the House Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9150",
+    "number": "9150",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000585",
+        "district": 16,
+        "firstName": "Darin",
+        "fullName": "Rep. LaHood, Darin [R-IL-16]",
+        "isByRequest": "N",
+        "lastName": "LaHood",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/L000585?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/text?format=json"
+    },
+    "title": "Boxing Therapy for Parkinson\u2019s Access Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9150/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T08:07:16Z",
+    "updateDateIncludingText": "2026-07-16T08:07:16Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001315",
+      "district": 13,
+      "firstName": "Nikki",
+      "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budzinski",
+      "party": "D",
+      "sponsorshipDate": "2026-06-04",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/B001315?format=json"
+    },
+    {
+      "bioguideId": "U000040",
+      "district": 14,
+      "firstName": "Lauren",
+      "fullName": "Rep. Underwood, Lauren [D-IL-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Underwood",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/U000040?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-04T14:01:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "hsvr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsvr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-06-04",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Boxing Therapy for Parkinson's Access Act</strong></p><p>This bill requires the Department of Veterans Affairs (VA) to furnish boxing-based exercise classes to veterans who (1) are enrolled in the VA health care system, (2) have been diagnosed with Parkinson's disease (or a similar movement disorder), and (3) elect to participate in such classes to treat the disease or disorder.</p>",
+      "updateDate": "2026-06-24T13:56:42Z",
+      "versionCode": "00"
+    }
+  ]
+}

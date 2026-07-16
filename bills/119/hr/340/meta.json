@@ -1,0 +1,107 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 6 (Monday, January 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CRENSHAW:\nH.R. 340.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of article I of the Constitution.\n[Page H112]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2025-01-13",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/340",
+    "number": "340",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001120",
+        "district": 2,
+        "firstName": "Dan",
+        "fullName": "Rep. Crenshaw, Dan [R-TX-2]",
+        "isByRequest": "N",
+        "lastName": "Crenshaw",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001120?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/text?format=json"
+    },
+    "title": "The HCT/P Modernization Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/340/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T18:38:22Z",
+    "updateDateIncludingText": "2026-07-15T18:38:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001300",
+      "district": 44,
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2025-01-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001300?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-13T17:02:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-13",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>The HCT/P Modernization Act of 2025</strong></p><p>This bill requires the Food and Drug Administration (FDA) to provide information to stakeholders and report&nbsp;on the regulation of human cell and tissue products, also referred to as&nbsp;human cells, tissues, or cellular or tissue-based products (HCT/Ps), which are articles containing or consisting of human cells or tissues that are intended for use in a human recipient.</p><p>The bill requires the FDA to conduct workshops to educate stakeholders and facilitate discussion with them on advancing the science and regulation of human cell and tissue products.  The FDA must establish a public docket to receive written comments on this topic, and submit to Congress a report with recommendations on regulating these products.&nbsp;</p><p>Additionally,  the bill requires the FDA to publish on its website educational materials about the Tissue Reference Group and best practices for obtaining a recommendation about products from them. Also, annually for three years, the FDA must publish on its website information on the inquiries submitted and average response times for the Tissue Reference Group, as well as the number of human  cell and&nbsp;tissue manufacturers that have&nbsp;registered with the FDA and the number of inspections the FDA has conducted with respect to these manufacturers since 2019.  (The Tissue Reference Group is a working group within the FDA that receives product-specific questions from, and provides recommendations for, stakeholders on the regulation of human cell and tissue products under the FDA\u2019s rules.)&nbsp;<br/></p>",
+      "updateDate": "2025-03-21T16:27:58Z",
+      "versionCode": "00"
+    }
+  ]
+}

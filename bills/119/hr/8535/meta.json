@@ -1,11 +1,11 @@
 {
   "status": {
     "actions": {
-      "count": 17,
+      "count": 18,
       "url": "https://api.congress.gov/v3/bill/119/hr/8535/actions?format=json"
     },
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/8535/committees?format=json"
     },
     "congress": 119,
@@ -17,9 +17,8 @@
     },
     "introducedDate": "2026-04-27",
     "latestAction": {
-      "actionDate": "2026-07-13",
-      "actionTime": "16:56:59",
-      "text": "The title of the measure was amended. Agreed to without objection."
+      "actionDate": "2026-07-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8535",
     "number": "8535",
@@ -51,17 +50,17 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/8535/summaries?format=json"
     },
     "textVersions": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/8535/text?format=json"
     },
     "title": "Measuring Illicit Fentanyl Trafficking Act",
     "titles": {
-      "count": 4,
+      "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/8535/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:05:42Z",
-    "updateDateIncludingText": "2026-07-15T08:05:42Z"
+    "updateDate": "2026-07-15T13:08:26Z",
+    "updateDateIncludingText": "2026-07-16T07:57:51Z"
   },
   "cosponsors": [
     {
@@ -104,6 +103,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-14T20:10:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    },
     {
       "activities": [
         {

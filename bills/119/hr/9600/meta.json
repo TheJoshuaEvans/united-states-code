@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9600/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9600/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 111 (Monday, July 6, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RASKIN:\nH.R. 9600.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article IV, Section 3, Clause 2 of the United\nStates Constitution.\n[Page H4375]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9600/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-06",
+    "latestAction": {
+      "actionDate": "2026-07-06",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9600",
+    "number": "9600",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000606",
+        "district": 8,
+        "firstName": "Jamie",
+        "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+        "isByRequest": "N",
+        "lastName": "Raskin",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/R000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9600/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9600/text?format=json"
+    },
+    "title": "Common Sense 250 Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9600/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-15T13:37:02Z",
+    "updateDateIncludingText": "2026-07-15T13:37:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S000929",
+      "district": 5,
+      "firstName": "Victoria",
+      "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Spartz",
+      "party": "R",
+      "sponsorshipDate": "2026-07-06",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S000929?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-06T14:30:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ]
+}

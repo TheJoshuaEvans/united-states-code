@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 7,
+      "count": 9,
       "url": "https://api.congress.gov/v3/bill/119/hr/3514/actions?format=json"
     },
     "committees": {
@@ -17,8 +17,8 @@
     },
     "introducedDate": "2025-05-20",
     "latestAction": {
-      "actionDate": "2026-06-25",
-      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+      "actionDate": "2026-07-15",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3514",
     "number": "3514",
@@ -58,8 +58,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/3514/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:40Z",
-    "updateDateIncludingText": "2026-07-15T08:07:40Z"
+    "updateDate": "2026-07-16T08:07:52Z",
+    "updateDateIncludingText": "2026-07-16T08:07:52Z"
   },
   "cosponsors": [
     {
@@ -3726,6 +3726,23 @@
     {
       "activities": [
         {
+          "date": "2026-07-15T15:08:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-20T14:02:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
+    },
+    {
+      "activities": [
+        {
           "date": "2025-05-20T14:02:25Z",
           "name": "Referred To"
         }
@@ -3756,19 +3773,6 @@
       "systemCode": "hsif00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
-    },
-    {
-      "activities": [
-        {
-          "date": "2025-05-20T14:02:20Z",
-          "name": "Referred To"
-        }
-      ],
-      "chamber": "House",
-      "name": "Ways and Means Committee",
-      "systemCode": "hswm00",
-      "type": "Standing",
-      "url": "https://api.congress.gov/v3/committee/house/hswm00?format=json"
     }
   ]
 }
