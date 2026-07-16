@@ -20,6 +20,7 @@ from pathlib import Path
 from typing import Any
 
 from congress_bills_mirror.client import USER_AGENT
+from http_retry.fetch import fetch_with_retry
 
 logger = logging.getLogger(__name__)
 
@@ -74,7 +75,11 @@ def sync_latest_text(text_versions: list[dict[str, Any]], dest_dir: Path) -> Pat
             logger.info("Removed stale text version %s", stale)
 
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request) as response, dest_path.open("wb") as out_file:
-        shutil.copyfileobj(response, out_file)
+
+    def _consume(response: Any) -> None:
+        with dest_path.open("wb") as out_file:
+            shutil.copyfileobj(response, out_file)
+
+    fetch_with_retry(request, _consume, describe=url)
     logger.info("Downloaded %s -> %s", url, dest_path)
     return dest_path

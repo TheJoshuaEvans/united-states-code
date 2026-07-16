@@ -8,10 +8,12 @@ from __future__ import annotations
 
 import logging
 import shutil
-import urllib.request
 import zipfile
 from collections.abc import Sequence
 from pathlib import Path
+from typing import Any
+
+from http_retry.fetch import fetch_with_retry
 
 logger = logging.getLogger(__name__)
 
@@ -34,8 +36,12 @@ def download_zip(url: str, raw_dir: Path) -> Path:
     """Stream a title zip from `url` into `raw_dir`, named after the URL's own filename."""
     raw_dir.mkdir(parents=True, exist_ok=True)
     dest_path = raw_dir / url.rsplit("/", 1)[-1]
-    with urllib.request.urlopen(url) as response, dest_path.open("wb") as out_file:
-        shutil.copyfileobj(response, out_file)
+
+    def _consume(response: Any) -> None:
+        with dest_path.open("wb") as out_file:
+            shutil.copyfileobj(response, out_file)
+
+    fetch_with_retry(url, _consume, describe=url)
     logger.info("Downloaded %s -> %s", url, dest_path)
     return dest_path
 

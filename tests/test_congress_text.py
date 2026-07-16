@@ -51,7 +51,7 @@ def test_sync_latest_text_downloads_only_the_most_recent_version_by_date(
         requested_urls.append(request.full_url)
         return _FakeResponse(b"<bill>eah content</bill>")
 
-    monkeypatch.setattr("congress_bills_mirror.text.urllib.request.urlopen", fake_urlopen)
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", fake_urlopen)
 
     dest_path = sync_latest_text(MULTI_STAGE_VERSIONS, tmp_path)
 
@@ -66,7 +66,7 @@ def test_sync_latest_text_removes_stale_versions_from_before_the_latest_only_rul
     tmp_path.mkdir(parents=True, exist_ok=True)
     (tmp_path / "BILLS-119s1383is.xml").write_bytes(b"old introduced version")
     (tmp_path / "BILLS-119s1383rs.xml").write_bytes(b"old reported version")
-    monkeypatch.setattr("congress_bills_mirror.text.urllib.request.urlopen", lambda request: _FakeResponse(b"latest"))
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", lambda request: _FakeResponse(b"latest"))
 
     sync_latest_text(MULTI_STAGE_VERSIONS, tmp_path)
 
@@ -78,7 +78,7 @@ def test_sync_latest_text_removes_stale_versions_from_before_the_latest_only_rul
 def test_sync_latest_text_overwrites_when_a_newer_version_appears(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
     tmp_path.mkdir(parents=True, exist_ok=True)
     (tmp_path / TEXT_FILENAME).write_bytes(b"old text.xml content")
-    monkeypatch.setattr("congress_bills_mirror.text.urllib.request.urlopen", lambda request: _FakeResponse(b"new content"))
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", lambda request: _FakeResponse(b"new content"))
 
     sync_latest_text(MULTI_STAGE_VERSIONS, tmp_path)
 
@@ -114,7 +114,7 @@ def test_sync_latest_text_handles_a_null_date_without_crashing(monkeypatch: pyte
         requested_urls.append(request.full_url)
         return _FakeResponse(b"eah content")
 
-    monkeypatch.setattr("congress_bills_mirror.text.urllib.request.urlopen", fake_urlopen)
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", fake_urlopen)
 
     dest_path = sync_latest_text([null_dated, ENGROSSED_AMENDMENT_HOUSE], tmp_path)
 
@@ -123,7 +123,7 @@ def test_sync_latest_text_handles_a_null_date_without_crashing(monkeypatch: pyte
 
 
 def test_sync_latest_text_creates_dest_dir(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
-    monkeypatch.setattr("congress_bills_mirror.text.urllib.request.urlopen", lambda request: _FakeResponse(b"x"))
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", lambda request: _FakeResponse(b"x"))
     dest = tmp_path / "119" / "s" / "1383"
 
     sync_latest_text(MULTI_STAGE_VERSIONS, dest)

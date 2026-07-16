@@ -168,7 +168,7 @@ def test_fetch_release_points_index_returns_decoded_page(
         requested_urls.append(url)
         return _FakeResponse(SAMPLE_INDEX_HTML)
 
-    monkeypatch.setattr("uscode_mirror.release_points.urllib.request.urlopen", fake_urlopen)
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", fake_urlopen)
 
     html = fetch_release_points_index()
 
@@ -186,7 +186,7 @@ def test_fetch_release_point_page_returns_decoded_page(
         requested_urls.append(url)
         return _FakeResponse(SAMPLE_RELEASE_POINT_HTML)
 
-    monkeypatch.setattr("uscode_mirror.release_points.urllib.request.urlopen", fake_urlopen)
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", fake_urlopen)
 
     html = fetch_release_point_page(point)
 

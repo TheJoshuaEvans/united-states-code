@@ -50,7 +50,7 @@ def test_download_zip_streams_body_to_a_file_named_after_the_url(monkeypatch: py
         requested_urls.append(url)
         return _FakeResponse(zip_bytes)
 
-    monkeypatch.setattr("uscode_mirror.download.urllib.request.urlopen", fake_urlopen)
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", fake_urlopen)
 
     url = "https://uscode.house.gov/download/releasepoints/us/pl/119/99/xml_usc51@119-99.zip"
     dest_path = download_zip(url, tmp_path)
@@ -62,7 +62,7 @@ def test_download_zip_streams_body_to_a_file_named_after_the_url(monkeypatch: py
 
 def test_download_zip_logs_on_success(monkeypatch: pytest.MonkeyPatch, tmp_path: Path, caplog: pytest.LogCaptureFixture) -> None:
     zip_bytes = _build_zip({"usc51.xml": SAMPLE_XML})
-    monkeypatch.setattr("uscode_mirror.download.urllib.request.urlopen", lambda url: _FakeResponse(zip_bytes))
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", lambda url: _FakeResponse(zip_bytes))
     url = "https://uscode.house.gov/download/releasepoints/us/pl/119/99/xml_usc51@119-99.zip"
 
     with caplog.at_level(logging.INFO, logger="uscode_mirror.download"):
@@ -126,7 +126,7 @@ def test_fetch_title_xml_downloads_and_extracts_leaving_both_files_in_raw_dir(
 ) -> None:
     zip_bytes = _build_zip({"usc51.xml": SAMPLE_XML})
     monkeypatch.setattr(
-        "uscode_mirror.download.urllib.request.urlopen",
+        "http_retry.fetch.urllib.request.urlopen",
         lambda url: _FakeResponse(zip_bytes),
     )
 
@@ -149,7 +149,7 @@ def test_fetch_all_titles_processes_every_url_in_order(monkeypatch: pytest.Monke
         requested_urls.append(url)
         return _FakeResponse(zips_by_url[url])
 
-    monkeypatch.setattr("uscode_mirror.download.urllib.request.urlopen", fake_urlopen)
+    monkeypatch.setattr("http_retry.fetch.urllib.request.urlopen", fake_urlopen)
 
     xml_paths = fetch_all_titles(list(zips_by_url), tmp_path)
 
@@ -168,7 +168,7 @@ def test_fetch_all_titles_skips_reserved_titles_and_continues(
         "https://uscode.house.gov/.../xml_usc54@119-99.zip": _build_zip({"usc54.xml": b"title 54"}),
     }
     monkeypatch.setattr(
-        "uscode_mirror.download.urllib.request.urlopen",
+        "http_retry.fetch.urllib.request.urlopen",
         lambda url: _FakeResponse(zips_by_url[url]),
     )
 

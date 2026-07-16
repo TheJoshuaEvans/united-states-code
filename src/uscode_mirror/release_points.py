@@ -9,10 +9,12 @@ from __future__ import annotations
 
 import logging
 import re
-import urllib.request
 from collections.abc import Sequence
 from dataclasses import dataclass
 from html.parser import HTMLParser
+from typing import Any
+
+from http_retry.fetch import fetch_with_retry
 
 logger = logging.getLogger(__name__)
 
@@ -84,11 +86,14 @@ def parse_release_points(html: str) -> list[ReleasePoint]:
     return release_points
 
 
+def _decode_utf8(response: Any) -> str:
+    raw: bytes = response.read()
+    return raw.decode("utf-8")
+
+
 def fetch_release_points_index() -> str:
     """Fetch the raw HTML of the prior-release-points index page."""
-    with urllib.request.urlopen(RELEASE_POINTS_INDEX_URL) as response:
-        raw: bytes = response.read()
-        return raw.decode("utf-8")
+    return fetch_with_retry(RELEASE_POINTS_INDEX_URL, _decode_utf8, describe=RELEASE_POINTS_INDEX_URL)
 
 
 def latest_release_point(release_points: Sequence[ReleasePoint]) -> ReleasePoint:
@@ -165,9 +170,8 @@ def parse_titles(html: str, release_point: ReleasePoint) -> list[str]:
 
 def fetch_release_point_page(release_point: ReleasePoint) -> str:
     """Fetch the raw HTML of a release point's own download page."""
-    with urllib.request.urlopen(release_point_page_url(release_point)) as response:
-        raw: bytes = response.read()
-        return raw.decode("utf-8")
+    url = release_point_page_url(release_point)
+    return fetch_with_retry(url, _decode_utf8, describe=url)
 
 
 def full_code_urls(release_point: ReleasePoint, titles: Sequence[str]) -> list[str]:
