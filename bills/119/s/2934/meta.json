@@ -1,0 +1,107 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the Senate on April 28, 2026",
+        "pubDate": "2026-06-02T16:11:00Z",
+        "title": "S. 2934, Protecting Americans from Russian Litigation Act of 2025",
+        "url": "https://www.cbo.gov/publication/62496"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-29",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "actionTime": "10:33:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2934",
+    "number": "2934",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Law"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/text?format=json"
+    },
+    "title": "Protecting Americans from Russian Litigation Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2934/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-02T16:20:22Z",
+    "updateDateIncludingText": "2026-07-17T02:31:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2025-09-29",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-27T01:36:24Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-26T14:15:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-29T22:21:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

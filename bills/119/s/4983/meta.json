@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4983/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4983/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4983",
+    "number": "4983",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "M001242",
+        "firstName": "Bernie",
+        "fullName": "Sen. Moreno, Bernie [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Moreno",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/M001242?format=json"
+      }
+    ],
+    "title": "A bill to curb criminal activity by aliens, to defend against acts of international terrorism, to protect American workers from unfair labor competition, and to relieve pressure on public services by strengthening border security and stabilizing immigration into the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4983/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:24Z",
+    "updateDateIncludingText": "2026-07-16T10:56:24Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T14:48:52Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

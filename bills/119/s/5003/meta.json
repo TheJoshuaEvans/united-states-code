@@ -1,0 +1,75 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5003/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5003/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5003/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5003",
+    "number": "5003",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "B001230",
+        "firstName": "Tammy",
+        "fullName": "Sen. Baldwin, Tammy [D-WI]",
+        "isByRequest": "N",
+        "lastName": "Baldwin",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/B001230?format=json"
+      }
+    ],
+    "title": "A bill to amend the Securities Exchange Act of 1934 to address registration exemptions for securities of issuers that are rural telephone companies, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5003/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:20Z",
+    "updateDateIncludingText": "2026-07-16T10:56:20Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T21:15:06Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

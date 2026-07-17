@@ -1,0 +1,163 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Foreign Relations on October 30, 2025",
+        "pubDate": "2025-11-26T16:30:00Z",
+        "title": "S. 1744, Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
+        "url": "https://www.cbo.gov/publication/61917"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-13",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "actionTime": "16:19:16",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1744",
+    "number": "1744",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000618",
+        "firstName": "Pete",
+        "fullName": "Sen. Ricketts, Pete [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Ricketts",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/R000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/text?format=json"
+    },
+    "title": "PORCUPINE Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1744/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-11T14:26:38Z",
+    "updateDateIncludingText": "2026-07-17T04:29:40Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-13",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-05-14",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2025-05-22",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-06-10",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-10-21",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-30T15:05:48Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-22T14:03:35Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-13T21:04:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ]
+}

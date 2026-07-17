@@ -1,0 +1,132 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Environment and Public Works on October 29, 2025",
+        "pubDate": "2025-11-06T16:41:00Z",
+        "title": "S. 2878, Great Lakes Fishery Research Reauthorization Act",
+        "url": "https://www.cbo.gov/publication/61874"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-18",
+    "latestAction": {
+      "actionDate": "2025-12-26",
+      "text": "Became Public Law No: 119-67."
+    },
+    "laws": [
+      {
+        "number": "119-67",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2878",
+    "number": "2878",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/text?format=json"
+    },
+    "title": "Great Lakes Fishery Research Reauthorization Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2878/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-26T13:57:40Z",
+    "updateDateIncludingText": "2026-07-17T02:31:12Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001104",
+      "firstName": "Jon",
+      "fullName": "Sen. Husted, Jon [R-OH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Husted",
+      "party": "R",
+      "sponsorshipDate": "2025-09-18",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/H001104?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-29T21:38:14Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-29T14:00:10Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-18T19:01:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-11-19",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Great Lakes Fishery Research Reauthorization Act</strong></p><p>This bill reauthorizes through FY2030 research and monitoring conducted by the U.S. Geological Survey in support of binational fisheries within the Great Lakes Basin. This research is completed through the Great Lakes Science Center and may involve invasive species science, studies on fishery resources, and the use of biological assessment tools and other capabilities to support fishery management decisions.</p>",
+      "updateDate": "2025-12-15T18:56:02Z",
+      "versionCode": "55"
+    },
+    {
+      "actionDate": "2025-12-26",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Great Lakes Fishery Research Reauthorization Act</strong></p><p>This act reauthorizes through FY2030 research and monitoring conducted by the U.S. Geological Survey in support of binational fisheries within the Great Lakes Basin. This research is completed through the Great Lakes Science Center and may involve invasive species science, studies on fishery resources, and the use of biological assessment tools and other capabilities to support fishery management decisions.</p>",
+      "updateDate": "2026-06-26T13:57:21Z",
+      "versionCode": "49"
+    }
+  ]
+}

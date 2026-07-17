@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 5, 2025",
+        "pubDate": "2025-02-20T18:40:00Z",
+        "title": "S. 99, Strengthening Support for American Manufacturing Act",
+        "url": "https://www.cbo.gov/publication/61209"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-9",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/9?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2025-10-24",
+      "actionTime": "14:15:23",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/99",
+    "number": "99",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/text?format=json"
+    },
+    "title": "Strengthening Support for American Manufacturing Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/99/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T14:16:23Z",
+    "updateDateIncludingText": "2026-07-17T07:43:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-31T21:44:38Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-05T15:00:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-15T19:24:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Strengthening Support for American Manufacturing Act</strong></p><p>This bill requires the Department of Commerce to contract with the National Academy of Public Administration to study and report on the offices and bureaus of the department that are relevant to critical supply chain resilience and manufacturing and industrial innovation.</p><p>The report must evaluate the purpose, statutory authority, effectiveness, efficiency, and limitations of each such office and bureau and provide recommendations to improve their effectiveness, efficiency, and impact.</p>",
+      "updateDate": "2025-05-12T18:23:12Z",
+      "versionCode": "00"
+    }
+  ]
+}

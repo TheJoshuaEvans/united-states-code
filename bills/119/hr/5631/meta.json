@@ -1,0 +1,215 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-660",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/660?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 160 (Tuesday, September 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HURD of Colorado:\nH.R. 5631.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4509]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-30",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5631",
+    "number": "5631",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001100",
+        "district": 3,
+        "firstName": "Jeff",
+        "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+        "isByRequest": "N",
+        "lastName": "Hurd",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H001100?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/text?format=json"
+    },
+    "title": "Geothermal Energy Advancement Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5631/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T10:56:32Z",
+    "updateDateIncludingText": "2026-07-16T10:56:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000590",
+      "district": 3,
+      "firstName": "Susie",
+      "fullName": "Rep. Lee, Susie [D-NV-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "D",
+      "sponsorshipDate": "2026-05-19",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/L000590?format=json"
+    },
+    {
+      "bioguideId": "M001228",
+      "district": 2,
+      "firstName": "Celeste",
+      "fullName": "Rep. Maloy, Celeste [R-UT-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Maloy",
+      "party": "R",
+      "sponsorshipDate": "2026-05-19",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/M001228?format=json"
+    },
+    {
+      "bioguideId": "K000403",
+      "district": 3,
+      "firstName": "Mike",
+      "fullName": "Rep. Kennedy, Mike [R-UT-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2026-05-19",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/K000403?format=json"
+    },
+    {
+      "bioguideId": "A000381",
+      "district": 3,
+      "firstName": "Yassamin",
+      "fullName": "Rep. Ansari, Yassamin [D-AZ-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ansari",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/A000381?format=json"
+    },
+    {
+      "bioguideId": "O000172",
+      "district": 14,
+      "firstName": "Alexandria",
+      "fullName": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ocasio-Cortez",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/O000172?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-03T20:56:12Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-15T18:30:08Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T17:52:57Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-05T17:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-30T16:04:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-03-05T15:00:00Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2025-12-16T15:15:00Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-12-09T15:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-20",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Geothermal Ombudsman for National Deployment and Optimal Reviews Act</strong></p><p>This bill establishes a geothermal ombudsman and&nbsp;task force to oversee geothermal project permitting and authorizations on federal land.</p><p>The Department of the Interior must appoint a geothermal ombudsman from within the Bureau of Land Management (BLM). The ombudsman must act as a liaison among different parts of BLM, provide dispute resolution services between BLM and geothermal project applicants, and facilitate permit processing in different BLM field offices regarding geothermal projects on federal land.</p><p>The ombudsman must also lead the Geothermal Permitting Task Force established by this bill. The task force must support the ombudsman\u2019s duties. Through the task force, the ombudsman may reassign employees from other Interior bureaus or offices to assist in the completion of geothermal authorizations. The ombudsman may pay a retention allowance to reassigned employees.&nbsp;</p>",
+      "updateDate": "2026-05-29T12:28:16Z",
+      "versionCode": "07"
+    }
+  ]
+}

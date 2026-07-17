@@ -1,0 +1,107 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the Senate on November 19, 2025",
+        "pubDate": "2025-12-09T14:48:00Z",
+        "title": "S.3022, Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
+        "url": "https://www.cbo.gov/publication/61901"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-21",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "actionTime": "13:12:48",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3022",
+    "number": "3022",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/text?format=json"
+    },
+    "title": "Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/3022/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T15:49:04Z",
+    "updateDateIncludingText": "2026-07-17T02:32:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-29T21:39:54Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-29T14:00:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-10-21T20:06:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ]
+}

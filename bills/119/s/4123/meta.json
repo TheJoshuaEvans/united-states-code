@@ -1,0 +1,94 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-17",
+    "latestAction": {
+      "actionDate": "2026-03-24",
+      "actionTime": "14:11:54",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4123",
+    "number": "4123",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/text?format=json"
+    },
+    "title": "End Special Treatment for Congress at Airports Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4123/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-20T15:25:17Z",
+    "updateDateIncludingText": "2026-07-17T07:29:44Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-20T00:46:49Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2026-03-17T23:34:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-19",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>End Special Treatment for Congress at Airports Act of 2026</strong></p><p>This bill prohibits the Transportation Security Administration (TSA) from providing a Member of Congress with expedited or preferential access to or through airport security screenings.</p><p>Specifically, TSA funds may not be used to&nbsp;</p><ul><li>exempt a Member of Congress from&nbsp;TSA passenger and baggage screening, or</li><li>provide a Member of Congress with priority or expedited access to a screening location based on their position.</li></ul><p>TSA must update its policies and procedures to ensure compliance with this&nbsp;bill.</p>",
+      "updateDate": "2026-04-20T15:23:39Z",
+      "versionCode": "55"
+    }
+  ]
+}

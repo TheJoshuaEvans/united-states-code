@@ -1,0 +1,148 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Indian Affairs on July 31, 2025",
+        "pubDate": "2025-08-29T15:56:00Z",
+        "title": "S. 390, BADGES for Native Communities Act",
+        "url": "https://www.cbo.gov/publication/61715"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-53",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/53?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "actionTime": "16:18:15",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/390",
+    "number": "390",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001113",
+        "firstName": "Catherine",
+        "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Cortez Masto",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/C001113?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/text?format=json"
+    },
+    "title": "BADGES for Native Communities Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/390/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-08T15:34:30Z",
+    "updateDateIncludingText": "2026-07-17T07:27:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001061",
+      "firstName": "John",
+      "fullName": "Sen. Hoeven, John [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hoeven",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/H001061?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2025-02-04",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-31T17:19:43Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T19:30:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-04T19:43:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act</strong></p><p>This bill revises federal policies and procedures related to information sharing, reporting, and investigating cases of missing, unidentified,&nbsp;or murdered Indians.</p><p>Among other elements, the bill requires the Department of Justice to (1) establish a grant program for specified entities (e.g., tribes) to implement changes to enhance their responses to missing person cases and death investigations of interest to tribes, and (2) work with the Department of Health and Human Services to ensure that federal training resources and culturally appropriate mental health and wellness programs are available to tribal and Bureau of Indian Affairs (BIA) law enforcement officers.</p><p>The Department of the Interior must establish a five-year demonstration program for the purpose of conducting or adjudicating personnel background investigations for applicants for law enforcement positions in the BIA.</p><p>The bill also requires the Government Accountability Office to conduct specified studies, including a study on the evidence collection, handling,&nbsp;response times, and processing procedures and practices of federal law enforcement agencies.</p>",
+      "updateDate": "2025-04-03T21:31:55Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on December 17, 2025",
+        "pubDate": "2026-02-17T21:30:00Z",
+        "title": "S. 1377, Theodore Roosevelt National Park Wild Horses Protection Act",
+        "url": "https://www.cbo.gov/publication/62138"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-09",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "actionTime": "10:49:32",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1377",
+    "number": "1377",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001061",
+        "firstName": "John",
+        "fullName": "Sen. Hoeven, John [R-ND]",
+        "isByRequest": "N",
+        "lastName": "Hoeven",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/H001061?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/text?format=json"
+    },
+    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1377/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-23T02:53:33Z",
+    "updateDateIncludingText": "2026-07-16T20:35:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-09",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T17:13:48Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-12-17T14:30:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-09T17:11:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-12-09T18:13:03Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "National Parks Subcommittee",
+          "systemCode": "sseg04",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg04?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-09",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Theodore Roosevelt National Park Wild Horses Protection Act</strong></p><p>This bill directs the Department of the Interior to maintain a genetically diverse herd of horses, with a population of no fewer than 150 horses, in the South Unit of Theodore Roosevelt National Park in North Dakota. Interior must develop a management plan to protect the horses while ensuring that the natural resources within the park are not adversely impacted.</p><p>The bill also prohibits Interior from removing horses from the park unless the removal is (1) to maintain a genetically diverse herd of horses, (2) in the case of an emergency, or (3) to protect public health and safety.</p><p>Interior must annually monitor, assess, and publish findings regarding the population, structure, and health of the horses in the park.</p>",
+      "updateDate": "2026-02-10T00:13:00Z",
+      "versionCode": "00"
+    }
+  ]
+}

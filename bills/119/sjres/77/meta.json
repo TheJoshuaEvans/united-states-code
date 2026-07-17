@@ -1,0 +1,280 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-16",
+    "latestAction": {
+      "actionDate": "2025-10-31",
+      "actionTime": "13:15:12",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/77",
+    "number": "77",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000384",
+        "firstName": "Timothy",
+        "fullName": "Sen. Kaine, Tim [D-VA]",
+        "isByRequest": "N",
+        "lastName": "Kaine",
+        "middleName": "M.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/K000384?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/text?format=json"
+    },
+    "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Canada.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/77/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2025-12-05T21:44:25Z",
+    "updateDateIncludingText": "2026-07-17T07:45:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000603",
+      "firstName": "Rand",
+      "fullName": "Sen. Paul, Rand [R-KY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Paul",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/P000603?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000805?format=json"
+    },
+    {
+      "bioguideId": "S000148",
+      "firstName": "Charles",
+      "fullName": "Sen. Schumer, Charles E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schumer",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S000148?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-09-16",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-09-16",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-09-16",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "S000033",
+      "firstName": "Bernie",
+      "fullName": "Sen. Sanders, Bernard [I-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sanders",
+      "party": "I",
+      "sponsorshipDate": "2025-10-01",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/S000033?format=json"
+    },
+    {
+      "bioguideId": "S001194",
+      "firstName": "Brian",
+      "fullName": "Sen. Schatz, Brian [D-HI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schatz",
+      "party": "D",
+      "sponsorshipDate": "2025-10-07",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/S001194?format=json"
+    },
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-10-28",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-29T19:33:47Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-16T20:58:31Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-16",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This joint resolution terminates the national emergency declared by President Donald J. Trump on February 1, 2025, which imposed an additional 25% tariff on most imports from Canada (except for Canadian energy or energy resources, which have an additional 10% tariff).</p>",
+      "updateDate": "2025-09-22T12:50:38Z",
+      "versionCode": "00"
+    }
+  ]
+}

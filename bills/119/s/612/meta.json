@@ -1,0 +1,126 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Indian Affairs on March 5, 2025",
+        "pubDate": "2025-03-27T18:43:00Z",
+        "title": "S. 612, a bill to amend the Native American Tourism and Improving Visitor Experience Act to authorize grants to Indian tribes, tribal organizations, and Native Hawaiian organizations, and for other purposes",
+        "url": "https://www.cbo.gov/publication/61269"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-20",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/20?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:21:40",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/612",
+    "number": "612",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001194",
+        "firstName": "Brian",
+        "fullName": "Sen. Schatz, Brian [D-HI]",
+        "isByRequest": "N",
+        "lastName": "Schatz",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/S001194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/text?format=json"
+    },
+    "title": "A bill to amend the Native American Tourism and Improving Visitor Experience Act to authorize grants to Indian tribes, tribal organizations, and Native Hawaiian organizations, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/612/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T05:06:25Z",
+    "updateDateIncludingText": "2026-07-17T07:39:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-02-18",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-08T15:10:08Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T19:30:22Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-18T22:28:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-18",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This bill authorizes grants to Indian tribes, tribal organizations, and Native Hawaiian organizations for activities related to recreational travel and tourism.</p> <p>Specifically, the bill authorizes (1) the Bureau of Indian Affairs to make these grants to and enter into agreements with Indian tribes and tribal organizations; (2) the Office of Native Hawaiian Relations to make these grants to and enter into agreements with Native Hawaiian organizations; and (3) other federal agencies to make these grants to and enter into agreements with tribes, tribal organizations, and Native Hawaiian organizations.</p>",
+      "updateDate": "2025-06-12T20:18:01Z",
+      "versionCode": "00"
+    }
+  ]
+}

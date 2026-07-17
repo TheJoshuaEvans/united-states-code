@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/2074/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2074/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2074/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2026-03-16",
+      "actionTime": "15:06:10",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2074",
+    "number": "2074",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000367",
+        "firstName": "Amy",
+        "fullName": "Sen. Klobuchar, Amy [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Klobuchar",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/K000367?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2074/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2074/text?format=json"
+    },
+    "title": "Servicemembers\u2019 Credit Monitoring Enhancement Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2074/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-17T11:29:12Z",
+    "updateDateIncludingText": "2026-07-17T07:58:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-06-12",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "K000394",
+      "firstName": "Andy",
+      "fullName": "Sen. Kim, Andy [D-NJ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kim",
+      "party": "D",
+      "sponsorshipDate": "2025-06-12",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/K000394?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-06-12",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-05T21:26:45Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-06-12T19:39:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

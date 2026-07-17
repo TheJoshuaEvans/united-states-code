@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nFebruary 12, 2026\n",
+        "pubDate": "2026-03-16T14:57:00Z",
+        "title": "S. 2585, MAP for Broadband Funding Act",
+        "url": "https://www.cbo.gov/publication/62224"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-121",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/121?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-31",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "actionTime": "12:12:11",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2585",
+    "number": "2585",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000463",
+        "firstName": "Deb",
+        "fullName": "Sen. Fischer, Deb [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Fischer",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000463?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/text?format=json"
+    },
+    "title": "MAP for Broadband Funding Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-24T11:48:59Z",
+    "updateDateIncludingText": "2026-07-17T02:29:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2025-07-31",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/C001113?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-11T22:58:59Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-12T15:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-31T17:54:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-31",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Modernization, Accountability, and Planning for Broadband Funding Act or the MAP for Broadband Funding Act</strong></p><p>This bill requires the Federal Communications Commission (FCC) to coordinate with the National Telecommunications and Information Administration to collect data for the Broadband Funding Map on a reasonable and timely basis. It also requires information collection and reporting on the map\u2019s functionality and management. (The map documents the location of each federally funded broadband project.)</p><p>Specifically, the FCC must seek public comment on the functionality and transparency of the map and the quality and completeness of the data within the map. Further, the Government Accountability Office must report on the management and use of the map, as well as the extent to which federal agencies are complying with obligations to submit information for the map.</p>",
+      "updateDate": "2026-04-14T12:54:59Z",
+      "versionCode": "00"
+    }
+  ]
+}

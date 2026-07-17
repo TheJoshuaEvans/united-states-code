@@ -1,0 +1,106 @@
+{
+  "status": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4171/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Financial Services on March 25, 2026",
+        "pubDate": "2026-07-16T16:45:00Z",
+        "title": "H.R. 4171, SEED Act of 2025",
+        "url": "https://www.cbo.gov/publication/62580"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-572",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/572?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4171/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 110 (Thursday, June 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GARBARINO:\nH.R. 4171.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3012]\n</pre>",
+    "introducedDate": "2025-06-26",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Placed on the Union Calendar, Calendar No. 492."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4171",
+    "number": "4171",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000597",
+        "district": 2,
+        "firstName": "Andrew",
+        "fullName": "Rep. Garbarino, Andrew R. [R-NY-2]",
+        "isByRequest": "N",
+        "lastName": "Garbarino",
+        "middleName": "R.",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/G000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4171/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4171/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4171/text?format=json"
+    },
+    "title": "SEED Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4171/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T16:50:19Z",
+    "updateDateIncludingText": "2026-07-16T16:50:19Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-25T18:46:47Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-04T16:06:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-26T14:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsba00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-25",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>Small Entrepreneurs' Empowerment and Development Act of 2025 or the SEED Act of 2025 </strong></p><p>This bill creates an exemption to securities registration requirements for a micro-offering of securities. In general, the Securities and Exchange Commission (SEC) prohibits the offering or selling of securities unless the offering is registered with the SEC or the offering qualifies for an exemption from registration requirements.</p><p>The bill defines a <em>micro-offering </em>as an aggregate amount of securities offered or sold by an issuer that does not exceed $500,000 in a 12-month period. This exemption does not apply to issuers who are convicted of specified financial crimes or are subject to specified professional disciplinary actions.</p>",
+      "updateDate": "2026-07-09T20:16:10Z",
+      "versionCode": "07"
+    }
+  ]
+}

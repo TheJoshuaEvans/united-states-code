@@ -1,0 +1,117 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on May 21, 2025",
+        "pubDate": "2025-07-11T16:32:00Z",
+        "title": "S. 1626, National Landslide Preparedness Act Reauthorization Act of 2025",
+        "url": "https://www.cbo.gov/publication/61554"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-92",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/92?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-06",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "actionTime": "12:07:54",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1626",
+    "number": "1626",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001153",
+        "firstName": "Lisa",
+        "fullName": "Sen. Murkowski, Lisa [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Murkowski",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/M001153?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/text?format=json"
+    },
+    "title": "National Landslide Preparedness Act Reauthorization Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1626/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T05:06:24Z",
+    "updateDateIncludingText": "2026-07-16T20:38:44Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C000127",
+      "firstName": "Maria",
+      "fullName": "Sen. Cantwell, Maria [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cantwell",
+      "party": "D",
+      "sponsorshipDate": "2025-05-06",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/C000127?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-03T21:08:19Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-21T16:04:47Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-06T21:15:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

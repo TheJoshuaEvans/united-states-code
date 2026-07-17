@@ -1,0 +1,204 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-21",
+    "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Became Public Law No: 119-18."
+    },
+    "laws": [
+      {
+        "number": "119-18",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/160",
+    "number": "160",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001232",
+        "firstName": "Tim",
+        "fullName": "Sen. Sheehy, Tim [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Sheehy",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/S001232?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/text?format=json"
+    },
+    "title": "Aerial Firefighting Enhancement Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/160/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-07T20:45:12Z",
+    "updateDateIncludingText": "2026-07-16T20:38:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "M001190",
+      "firstName": "Markwayne",
+      "fullName": "Sen. Mullin, Markwayne [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mullin",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/M001190?format=json"
+    },
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-03",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2025-02-19",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/C000880?format=json"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": false,
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/R000584?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2025-04-01",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-08T23:23:13Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-21T19:40:57Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Armed Services Committee",
+      "systemCode": "ssas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssas00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-21",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Aerial Firefighting Enhancement Act of 2025</strong></p><p>This bill reauthorizes the Department of Defense to sell its excess aircraft and aircraft parts that are acceptable for commercial sale for wildfire suppression purposes. Such authority begins October 1, 2025, and ends October 1, 2035.</p><p>The bill also provides that such aircraft may be used to deliver water by air in order to suppress wildfire (the previous authority only provided for the delivery of fire retardant).</p><p>The bill removes the previous limitation on providing international wildfire suppression assistance with such purchased aircraft.</p>",
+      "updateDate": "2025-03-18T15:59:17Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-06-12",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Aerial Firefighting Enhancement Act of 2025</strong></p><p>This act reauthorizes the Department of Defense to sell its excess aircraft and aircraft parts that are acceptable for commercial sale for wildfire suppression purposes. Such authority begins June 12, 2025, and ends October 1, 2035.</p><p>The act also provides that such aircraft may be used to deliver water by air in order to suppress wildfire (the previous authority only provided for the delivery of fire retardant).</p><p>The act removes the previous limitation on providing international wildfire suppression assistance with such purchased aircraft.</p>",
+      "updateDate": "2026-06-24T19:12:52Z",
+      "versionCode": "49"
+    }
+  ]
+}

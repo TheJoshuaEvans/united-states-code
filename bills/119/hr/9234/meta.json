@@ -1,0 +1,101 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9234/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9234/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 97 (Tuesday, June 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VASQUEZ:\nH.R. 9234.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8, Clauses 1 and 18 of the United States\nConstitution, to provide for the general welfare and make all\nlaws necessary and proper to carry out the powers of the\nCongress.\n[Page H4054]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9234/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-09",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9234",
+    "number": "9234",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000136",
+        "district": 2,
+        "firstName": "Gabe",
+        "fullName": "Rep. Vasquez, Gabe [D-NM-2]",
+        "isByRequest": "N",
+        "lastName": "Vasquez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/V000136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9234/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9234/text?format=json"
+    },
+    "title": "Careworker Visa Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9234/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T14:28:04Z",
+    "updateDateIncludingText": "2026-07-16T14:28:04Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001085",
+      "district": 6,
+      "firstName": "Chrissy",
+      "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houlahan",
+      "party": "D",
+      "sponsorshipDate": "2026-06-09",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/H001085?format=json"
+    },
+    {
+      "bioguideId": "W000797",
+      "district": 25,
+      "firstName": "Debbie",
+      "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+      "isOriginalCosponsor": false,
+      "lastName": "Wasserman Schultz",
+      "party": "D",
+      "sponsorshipDate": "2026-06-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000797?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-09T14:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsju00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2480/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-28",
+    "latestAction": {
+      "actionDate": "2025-07-29",
+      "actionTime": "17:42:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2480",
+    "number": "2480",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/W000779?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2480/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2480/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2480/text?format=json"
+    },
+    "title": "Telecom Cybersecurity Transparency Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2480/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T13:52:16Z",
+    "updateDateIncludingText": "2026-07-17T02:28:27Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-07-28",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Telecom Cybersecurity Transparency Act</strong></p><p>This bill requires the Department of Homeland Security to publicly release the complete unclassified report titled <em>U.S. Telecommunications Insecurity 2022</em>. The report outlines threats to U.S. telecommunications networks.</p>",
+      "updateDate": "2026-04-09T13:51:49Z",
+      "versionCode": "55"
+    }
+  ]
+}

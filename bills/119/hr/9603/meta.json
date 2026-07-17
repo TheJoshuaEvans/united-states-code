@@ -1,0 +1,83 @@
+{
+  "status": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9603/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9603/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 112 (Thursday, July 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILSON of South Carolina:\nH.R. 9603.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H4380]\n</pre>",
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9603",
+    "number": "9603",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000795",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Wilson, Joe [R-SC-2]",
+        "isByRequest": "N",
+        "lastName": "Wilson",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/W000795?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9603/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9603/text?format=json"
+    },
+    "title": "Less Bureaucracy, Better International Education Oversight Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9603/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T14:32:55Z",
+    "updateDateIncludingText": "2026-07-16T14:32:55Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:02:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:02:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

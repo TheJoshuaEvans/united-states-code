@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-05",
+    "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Became Public Law No: 119-30."
+    },
+    "laws": [
+      {
+        "number": "119-30",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1596",
+    "number": "1596",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/text?format=json"
+    },
+    "title": "Jocelyn Nungaray National Wildlife Refuge Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1596/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-15T19:09:27Z",
+    "updateDateIncludingText": "2026-07-16T20:38:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-13T21:01:31Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-05T22:35:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-05",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Jocelyn Nungaray National Wildlife Refuge Act</strong></p><p>This bill renames the Anahuac National Wildlife Refuge located in Anahuac, Texas, as the Jocelyn Nungaray National Wildlife Refuge.</p>",
+      "updateDate": "2025-07-01T20:16:27Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-07-24",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Jocelyn Nungaray National Wildlife Refuge Act</strong></p><p>This act renames the Anahuac National Wildlife Refuge located in Anahuac, Texas, as the Jocelyn Nungaray National Wildlife Refuge.</p><p>The act provides statutory authority for <a href=\"https://www.federalregister.gov/documents/2025/03/10/2025-03869/honoring-jocelyn-nungaray\">Executive Order 14229</a>, which also renamed&nbsp;the refuge as the Jocelyn Nungaray National Wildlife Refuge.</p>",
+      "updateDate": "2026-06-15T19:09:14Z",
+      "versionCode": "49"
+    }
+  ]
+}

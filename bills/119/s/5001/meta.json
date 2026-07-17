@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5001/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5001/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on Rules and Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5001",
+    "number": "5001",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "M001244",
+        "firstName": "Ashley",
+        "fullName": "Sen. Moody, Ashley [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Moody",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001244?format=json"
+      }
+    ],
+    "title": "A bill to amend the Help America Vote Act of 2002 to require ballots in elections for Federal office to be received by the close of the polls on the date of election.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5001/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:23Z",
+    "updateDateIncludingText": "2026-07-16T10:56:23Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T20:34:02Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Rules and Administration Committee",
+      "systemCode": "ssra00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssra00?format=json"
+    }
+  ]
+}

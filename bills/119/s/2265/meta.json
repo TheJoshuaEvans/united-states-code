@@ -10,8 +10,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 64,
-      "countIncludingWithdrawnCosponsors": 64,
+      "count": 68,
+      "countIncludingWithdrawnCosponsors": 68,
       "url": "https://api.congress.gov/v3/bill/119/s/2265/cosponsors?format=json"
     },
     "introducedDate": "2025-07-14",
@@ -56,8 +56,8 @@
       "url": "https://api.congress.gov/v3/bill/119/s/2265/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-14T11:00:36Z",
-    "updateDateIncludingText": "2026-07-14T11:00:36Z"
+    "updateDate": "2026-07-16T11:01:06Z",
+    "updateDateIncludingText": "2026-07-16T11:01:06Z"
   },
   "cosponsors": [
     {
@@ -783,6 +783,50 @@
       "sponsorshipDate": "2026-07-13",
       "state": "PA",
       "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "B001261",
+      "firstName": "John",
+      "fullName": "Sen. Barrasso, John [R-WY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrasso",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    },
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": false,
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/C000880?format=json"
+    },
+    {
+      "bioguideId": "H001104",
+      "firstName": "Jon",
+      "fullName": "Sen. Husted, Jon [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Husted",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/H001104?format=json"
     }
   ],
   "committees": [

@@ -1,0 +1,342 @@
+{
+  "status": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-29",
+    "latestAction": {
+      "actionDate": "2026-02-24",
+      "actionTime": "14:05:16",
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 264 - 133 (Roll no. 72)."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2503",
+    "number": "2503",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/text?format=json"
+    },
+    "title": "ROTOR Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/2503/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-10T14:46:40Z",
+    "updateDateIncludingText": "2026-07-17T02:28:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "C000127",
+      "firstName": "Maria",
+      "fullName": "Sen. Cantwell, Maria [D-WA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cantwell",
+      "party": "D",
+      "sponsorshipDate": "2025-11-18",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/C000127?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2025-11-18",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-18",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-18",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000805?format=json"
+    },
+    {
+      "bioguideId": "M000133",
+      "firstName": "Edward",
+      "fullName": "Sen. Markey, Edward J. [D-MA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Markey",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-18",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000133?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-11-20",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-11-20",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-12-01",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Curtis",
+      "party": "R",
+      "sponsorshipDate": "2026-02-23",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    },
+    {
+      "bioguideId": "V000128",
+      "firstName": "Chris",
+      "fullName": "Sen. Van Hollen, Chris [D-MD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Van Hollen",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/V000128?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "B001303",
+      "firstName": "Lisa",
+      "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blunt Rochester",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/B001303?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-24",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-18T21:27:43Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-21T14:00:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-29T18:34:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-17",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Rotorcraft Operations Transparency and Oversight Reform Act or the ROTOR Act</strong></p><p>This bill addresses aviation safety by increasing&nbsp;requirements for aircraft tracking and communication using Automatic Dependent Surveillance-Broadcast (ADS-B) technology and expanding oversight.</p><p>As background, ADS-B for broadcasting (Out) and receiving (In) transmits information (e.g., location and weather information) between aircraft and air traffic control.</p><p>Under the bill, aircraft must generally operate with ADS-B In equipment to provide the aircraft with location information of other aircraft and traffic advisories. Current law does not require this equipment.</p><p>Current&nbsp;Federal Aviation Administration (FAA) regulations&nbsp;allow aircraft performing a sensitive government mission to&nbsp;be excepted from requirements for using ADS-B Out equipment. This bill limits which flights may be considered sensitive government missions (e.g., not training flights)&nbsp;and requires&nbsp;additional&nbsp;reporting and notifications&nbsp;for the exception.</p><p>The Government Accountability Office must review the use of the ADS-B Out exception and the Office of the Inspector General (OIG) of the Department of Transportation must annually audit FAA oversight of operations that use the exception.</p><p>Further, the bill repeals a 2025 law that exempts certain&nbsp;military helicopters&nbsp;from the ADS-B Out requirements for the Washington, DC, metropolitan area.</p><p>The bill also requires</p><ul><li>the OIG of the Army to audit the Army\u2019s coordination with the FAA,</li><li>the FAA to establish an office to coordinate airspace usage of military aircraft and review the safety of flight operations and routes around airports, and</li><li>the FAA to enter into memoranda of understanding with military agencies for safety information sharing.</li></ul>",
+      "updateDate": "2026-02-20T19:25:06Z",
+      "versionCode": "55"
+    }
+  ]
+}

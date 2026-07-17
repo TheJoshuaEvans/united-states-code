@@ -1,0 +1,185 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-05-26",
+      "actionTime": "09:16:09",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/129",
+    "number": "129",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/text?format=json"
+    },
+    "title": "No Tax on Tips Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/129/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-05-27T08:05:17Z",
+    "updateDateIncludingText": "2026-07-16T20:34:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "R000608",
+      "firstName": "Jacklyn",
+      "fullName": "Sen. Rosen, Jacky [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rosen",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/R000608?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/C001113?format=json"
+    },
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-01-27",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-20T20:13:07Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-16T20:23:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-16",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>No Tax on Tips Act</strong></p><p>This bill establishes a new tax deduction of up to $25,000 for tips, subject to limitations. The bill also expands the business tax credit for the portion of payroll taxes an employer pays on certain tips to include payroll taxes paid on tips received in connection with certain beauty services.</p><p>Under the bill, the new tax deduction for tips is limited to cash tips (1) received by an employee during the course of employment in an occupation that customarily receives tips, and (2) reported by the employee to the employer for purposes of withholding payroll taxes. (Under current law, an employee is required to report tips exceeding $20 per month to their employer.)</p><p>Further, an employee with compensation exceeding a specified threshold ($160,000&nbsp;in 2025 and adjusted annually for inflation) in the prior tax year may not claim the new tax deduction for tips.</p><p>Finally, the bill expands the business tax credit for the portion of payroll taxes that an employer pays on certain tips to include payroll taxes paid on tips received in connection with barbering and hair care, nail care, esthetics, and body and spa treatments. (Under current law, an employer is allowed a business tax credit for the amount of payroll taxes paid on certain tips received by an employee in connection with providing, delivering, or serving food or beverages.)&nbsp;&nbsp;</p>",
+      "updateDate": "2025-03-17T18:06:31Z",
+      "versionCode": "00"
+    }
+  ]
+}

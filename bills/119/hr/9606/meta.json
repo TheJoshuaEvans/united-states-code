@@ -1,0 +1,71 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9606/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9606/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 112 (Thursday, July 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ONDER:\nH.R. 9606.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4380]\n</pre>",
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9606",
+    "number": "9606",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Families"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000177",
+        "district": 3,
+        "firstName": "Robert",
+        "fullName": "Rep. Onder, Robert F. [R-MO-3]",
+        "isByRequest": "N",
+        "lastName": "Onder",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/O000177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9606/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9606/text?format=json"
+    },
+    "title": "Less Bureaucracy, Better Child Care for Student Parents Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9606/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T14:33:47Z",
+    "updateDateIncludingText": "2026-07-16T14:33:47Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:02:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

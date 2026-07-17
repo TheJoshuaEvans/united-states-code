@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8705/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8705/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 78 (Thursday, May 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OWENS:\nH.R. 8705.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of Article I of the Constitution\n[Page H3343]\n</pre>",
+    "introducedDate": "2026-05-07",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 15."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8705",
+    "number": "8705",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000086",
+        "district": 4,
+        "firstName": "Burgess",
+        "fullName": "Rep. Owens, Burgess [R-UT-4]",
+        "isByRequest": "N",
+        "lastName": "Owens",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/O000086?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8705/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8705/text?format=json"
+    },
+    "title": "CHARLIE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8705/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T19:06:22Z",
+    "updateDateIncludingText": "2026-07-16T19:06:22Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-21T20:07:26Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-07T13:01:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nMay 21, 2025\n",
+        "pubDate": "2025-08-14T19:04:00Z",
+        "title": "S. 503, NET Act",
+        "url": "https://www.cbo.gov/publication/61676"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-66",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/66?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-11-10",
+      "actionTime": "12:03:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/503",
+    "number": "503",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H000273",
+        "firstName": "John",
+        "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Hickenlooper",
+        "middleName": "W.",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/text?format=json"
+    },
+    "title": "NET Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T14:21:08Z",
+    "updateDateIncludingText": "2026-07-17T07:37:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-02-10",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-29T19:36:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-21T16:04:27Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-11T00:02:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-10",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Network Equipment Transparency Act or the NET Act</strong></p><p>This bill requires the Federal Communications Commission (FCC) to report biennially on the impact of network equipment availability on the deployment of advanced telecommunications capabilities (i.e., broadband). This assessment must be included in the FCC\u2019s reports on the state of the communications marketplace, which are submitted to Congress and published publicly every other year.&nbsp;</p>",
+      "updateDate": "2025-03-28T10:29:23Z",
+      "versionCode": "00"
+    }
+  ]
+}

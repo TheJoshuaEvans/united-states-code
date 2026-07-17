@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Indian Affairs on March 5, 2025",
+        "pubDate": "2025-04-03T16:53:00Z",
+        "title": "S. 550, a bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes",
+        "url": "https://www.cbo.gov/publication/61298"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-76",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/76?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-12",
+    "latestAction": {
+      "actionDate": "2025-12-16",
+      "actionTime": "12:21:28",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/550",
+    "number": "550",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001190",
+        "firstName": "Markwayne",
+        "fullName": "Sen. Mullin, Markwayne [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Mullin",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/M001190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/text?format=json"
+    },
+    "title": "A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/550/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-04T05:06:24Z",
+    "updateDateIncludingText": "2026-07-17T07:38:39Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "D000563",
+      "firstName": "Richard",
+      "fullName": "Sen. Durbin, Richard J. [D-IL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Durbin",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-12",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000563?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-14T19:47:56Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T19:30:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-12T21:18:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-12",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This bill confers jurisdiction to the U.S. Court of Federal Claims for the Miami Tribe of Oklahoma's land claim arising under the Treaty of Grouseland. The court must render judgement without regard to the statute of limitations or any delay-based defense. This jurisdiction expires unless such a claim is filed within one year.</p> All other claims, including any future claims, of the tribe to land in Illinois are extinguished.",
+      "updateDate": "2025-05-28T01:09:02Z",
+      "versionCode": "00"
+    }
+  ]
+}

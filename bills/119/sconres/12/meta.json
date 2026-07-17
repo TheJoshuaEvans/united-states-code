@@ -1,0 +1,68 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/12/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/12/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-05",
+    "latestAction": {
+      "actionDate": "2025-05-08",
+      "actionTime": "10:48:54",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/12",
+    "number": "12",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000355",
+        "firstName": "Mitch",
+        "fullName": "Sen. McConnell, Mitch [R-KY]",
+        "isByRequest": "N",
+        "lastName": "McConnell",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M000355?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/12/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/12/text?format=json"
+    },
+    "title": "A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal, collectively, to the United States Army Rangers Veterans of World War II.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/12/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2025-05-12T12:51:21Z",
+    "updateDateIncludingText": "2026-07-17T07:43:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2025-05-05",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    }
+  ]
+}

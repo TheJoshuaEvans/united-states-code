@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-14",
+    "latestAction": {
+      "actionDate": "2026-05-29",
+      "text": "Became Public Law No: 119-95."
+    },
+    "laws": [
+      {
+        "number": "119-95",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4530",
+    "number": "4530",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000355",
+        "firstName": "Mitch",
+        "fullName": "Sen. McConnell, Mitch [R-KY]",
+        "isByRequest": "N",
+        "lastName": "McConnell",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M000355?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/text?format=json"
+    },
+    "title": "A bill to amend chapters 83 and 84 of title 5, United States Code, to authorize an increase of the retirement age for members of the Capitol Police.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4530/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-30T13:20:06Z",
+    "updateDateIncludingText": "2026-07-17T07:33:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-05-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-14",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This bill authorizes the Capitol Police Board to waive the mandatory retirement age for members of the Capitol Police up to age 62. (Under current law, a member of the Capitol Police is generally subject to mandatory retirement at age 57 but may receive a waiver from the board authorizing later retirement up to age 60.)&nbsp;</p>",
+      "updateDate": "2026-06-29T17:38:42Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-05-29",
+      "actionDesc": "Public Law",
+      "text": "<p>This act authorizes the Capitol Police Board to increase the mandatory retirement age for a member of the Capitol Police to up to age 62 when the board determines such waiver is in the public interest.</p><p>Under current law, members of the Capitol Police are generally subject to mandatory retirement at (1) age 57; or (2) upon completing 20 years of service&nbsp;if the member is older than 57.&nbsp;Previously, a waiver from the board would authorize a member to continue working until age 60.</p><p>The act authorizes the board to issue a waiver specifying a retirement age between 57 and 62.</p>",
+      "updateDate": "2026-06-30T13:19:29Z",
+      "versionCode": "49"
+    }
+  ]
+}

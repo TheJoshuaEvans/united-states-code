@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 18,
+      "count": 19,
       "url": "https://api.congress.gov/v3/bill/119/hr/7831/actions?format=json"
     },
     "committeeReports": [
@@ -23,8 +23,8 @@
     },
     "introducedDate": "2026-03-05",
     "latestAction": {
-      "actionDate": "2026-06-03",
-      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+      "actionDate": "2026-07-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7831",
     "number": "7831",
@@ -64,8 +64,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/7831/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-06-09T05:23:22Z",
-    "updateDateIncludingText": "2026-07-13T21:30:03Z"
+    "updateDate": "2026-07-16T10:56:31Z",
+    "updateDateIncludingText": "2026-07-16T10:56:31Z"
   },
   "cosponsors": [
     {
@@ -117,6 +117,19 @@
       ],
       "chamber": "Senate",
       "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-15T18:30:10Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
       "systemCode": "sseg00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"

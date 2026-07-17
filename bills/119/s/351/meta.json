@@ -1,0 +1,136 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Environment and Public Works on February 5, 2025",
+        "pubDate": "2025-02-24T17:07:00Z",
+        "title": "S. 351, STEWARD Act of 2025",
+        "url": "https://www.cbo.gov/publication/61217"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-30",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "actionTime": "18:18:27",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/351",
+    "number": "351",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001047",
+        "firstName": "Shelley",
+        "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Capito",
+        "middleName": "Moore",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/C001047?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/text?format=json"
+    },
+    "title": "STEWARD Act of 2025",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/351/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-08T11:03:25Z",
+    "updateDateIncludingText": "2026-07-17T07:24:01Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-05T19:08:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-05T17:32:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-05T15:30:42Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-30T23:40:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-05",
+      "actionDesc": "Reported to Senate",
+      "text": "<p><strong>Strategies To Eliminate Waste and Accelerate Recycling Development Act of 2025 or the STEWARD Act of 2025</strong></p><p>This bill establishes requirements to expand recycling and composting efforts, including by creating (1) a pilot grant program, and (2) data collection and reporting requirements.</p><p>The bill directs the Environmental Protection Agency (EPA) to establish a pilot program that awards grants for improving recycling accessibility in communities, particularly in underserved communities. States, local governments, Indian tribes, and public-private partnerships may apply for those grants.</p><p>The bill also directs the EPA to&nbsp;collect&nbsp;data related to composting and recycling infrastructure from states, local governments, and Indian tribes. Within three years and every four years thereafter, the EPA must prepare an inventory of certain recycling facilities in the United States. The EPA must also develop a metric for determining the proportion of recyclable materials in commercial and municipal waste streams that are being diverted from a circular market.</p><p>The bill allows the EPA to develop (1) a standardized estimated rate of recyclable materials that have been brought to recycling or composting facilities, and (2) an estimated national recycling rate. The EPA may&nbsp;use the rates and information collected to provide states, local government, and Indian tribes data and technical assistance, such as assistance to reduce their overall waste and to increase their recycling and composting rates.</p><p>The bill establishes a variety of reporting requirements for the EPA and directs the&nbsp;Government Accountability Office to publish a report on certain federal agency activities related to recycling.</p>",
+      "updateDate": "2026-02-26T01:00:49Z",
+      "versionCode": "25"
+    }
+  ]
+}

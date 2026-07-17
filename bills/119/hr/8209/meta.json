@@ -1,0 +1,187 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-726",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/726?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 62 (Monday, April 6, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TONKO:\nH.R. 8209.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\n[Page H2825]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-06",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Placed on the Union Calendar, Calendar No. 631."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8209",
+    "number": "8209",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000469",
+        "district": 20,
+        "firstName": "Paul",
+        "fullName": "Rep. Tonko, Paul [D-NY-20]",
+        "isByRequest": "N",
+        "lastName": "Tonko",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/text?format=json"
+    },
+    "title": "To amend the Public Health Service Act to reauthorize the school-based health centers grant program.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8209/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T19:41:31Z",
+    "updateDateIncludingText": "2026-07-16T19:41:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2026-04-06",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
+    },
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2026-04-06",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    },
+    {
+      "bioguideId": "P000617",
+      "district": 7,
+      "firstName": "Ayanna",
+      "fullName": "Rep. Pressley, Ayanna [D-MA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pressley",
+      "party": "D",
+      "sponsorshipDate": "2026-04-09",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/P000617?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-15",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "M001227",
+      "district": 4,
+      "firstName": "Jennifer",
+      "fullName": "Rep. McClellan, Jennifer L. [D-VA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "McClellan",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-21",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/M001227?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-02T14:25:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-05-21T13:44:25Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-04-06T14:00:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-05-13T15:02:39Z",
+              "name": "Reported by"
+            },
+            {
+              "date": "2026-05-13T15:02:16Z",
+              "name": "Markup by"
+            },
+            {
+              "date": "2026-04-06T15:01:54Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Health Subcommittee",
+          "systemCode": "hsif14",
+          "url": "https://api.congress.gov/v3/committee/house/hsif14?format=json"
+        }
+      ],
+      "systemCode": "hsif00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-07-02",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill reauthorizes through FY2031 grants from the Health Resources and Services Administration for school-based health centers. <em>School-based health centers</em> are health clinics that are located in or near school facilities, provide primary health care services to children and adolescents during school hours, and are administered by a hospital or certain public or nonprofit entities.</p>",
+      "updateDate": "2026-07-16T19:40:59Z",
+      "versionCode": "07"
+    }
+  ]
+}

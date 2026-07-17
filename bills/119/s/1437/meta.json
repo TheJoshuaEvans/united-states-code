@@ -1,0 +1,123 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on April 30, 2025",
+        "pubDate": "2025-08-13T18:16:00Z",
+        "title": "S. 1437, ASCEND Act",
+        "url": "https://www.cbo.gov/publication/61669"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-68",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/68?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "actionTime": "12:25:43",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1437",
+    "number": "1437",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H000273",
+        "firstName": "John",
+        "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Hickenlooper",
+        "middleName": "W.",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/text?format=json"
+    },
+    "title": "ASCEND Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1437/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T23:26:36Z",
+    "updateDateIncludingText": "2026-07-16T20:35:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-04-10",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-29T19:44:52Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-30T14:00:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-10T17:40:20Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-09",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Accessing Satellite Capabilities to Enable New Discoveries Act or the ASCEND Act</strong></p><p>This bill provides statutory authority for the Commercial SmallSat Data Acquisition (CSDA) program run by the National Aeronautics and Space Administration (NASA). Through the CSDA program, NASA acquires remote sensing data and imagery from commercial satellites to support its Earth science research. (<em>Remote sensing</em> generally refers to the collection of data by instruments in Earth\u2019s orbit, such as satellites, that can be processed into imagery of Earth\u2019s surface.)</p><p>Under the bill, NASA may establish or modify end-use agreements to allow for broad use of data and imagery acquired under the program, including by individuals outside of NASA (e.g., other federal agencies). The terms of any data or imagery acquisition may not prevent the publication of such data or imagery for scientific purposes or the publication of information derived from it. To the extent practicable, NASA must acquire such data and imagery from U.S. vendors. &nbsp;</p>",
+      "updateDate": "2026-04-20T19:43:06Z",
+      "versionCode": "55"
+    }
+  ]
+}

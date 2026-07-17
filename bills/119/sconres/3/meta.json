@@ -1,0 +1,81 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/3/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/3/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "18:24:51",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/3",
+    "number": "3",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000367",
+        "firstName": "Amy",
+        "fullName": "Sen. Klobuchar, Amy [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Klobuchar",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/K000367?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/3/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/3/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/3/text?format=json"
+    },
+    "title": "A concurrent resolution authorizing the use of the rotunda of the Capitol for the lying in state of the remains of the late James Earl Carter, Jr., 39th President of the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/3/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2025-01-21T13:55:33Z",
+    "updateDateIncludingText": "2026-07-17T07:44:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2025-01-03",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This concurrent resolution authorizes the Capitol rotunda to be used for the lying in state of the remains of Jimmy Carter, the 39th President of the United States. The lying in state shall take place&nbsp;from January 7, 2025, until January 9, 2025.</p>",
+      "updateDate": "2025-01-14T17:04:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

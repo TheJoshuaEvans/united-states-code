@@ -1,0 +1,210 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Health, Education, Labor, and Pensions on January 28, 2026",
+        "pubDate": "2026-03-02T21:54:00Z",
+        "title": "S. 272, Protect Infant Formula from Contamination Act",
+        "url": "https://www.cbo.gov/publication/62204"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "actionTime": "10:33:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/272",
+    "number": "272",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/text?format=json"
+    },
+    "title": "Protect Infant Formula from Contamination Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/272/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-05T08:05:57Z",
+    "updateDateIncludingText": "2026-07-17T02:30:05Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001061",
+      "firstName": "John",
+      "fullName": "Sen. Hoeven, John [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hoeven",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/H001061?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-03-03",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-03-12",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-09-03",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-12",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "B001230",
+      "firstName": "Tammy",
+      "fullName": "Sen. Baldwin, Tammy [D-WI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Baldwin",
+      "party": "D",
+      "sponsorshipDate": "2026-01-13",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/B001230?format=json"
+    },
+    {
+      "bioguideId": "M001111",
+      "firstName": "Patty",
+      "fullName": "Sen. Murray, Patty [D-WA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Murray",
+      "party": "D",
+      "sponsorshipDate": "2026-01-29",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/M001111?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2026-02-10",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-28T19:52:51Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-01-15T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-28T19:28:36Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-01-28T19:28:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Protect Infant Formula from Contamination Act</strong></p><p>This bill imposes certain new requirements on infant formula manufacturers and the Food and Drug Administration (FDA) following the discovery of contaminated, adulterated, or misbranded infant formula.&nbsp;</p><p>Specifically, the bill requires infant formula manufacturers to report to the&nbsp;FDA&nbsp;within one business day of learning that formula that was&nbsp;processed by the manufacturer but that is&nbsp;no longer within the manufacturer\u2019s control may not provide required nutrients or may be otherwise adulterated or misbranded.&nbsp;</p><p>Further, if any testing of finished infant formula reveals the presence of specified microorganisms (e.g., salmonella), the manufacturer must notify the FDA&nbsp;within one business day. (Under current law, manufacturers are only required to report contamination to the FDA&nbsp;if the affected formula has left the manufacturer\u2019s control.) The manufacturer must also promptly provide the test results  to the FDA and consult with the FDA on proper isolation and disposal of the affected product. The FDA must respond to such a notification and begin discussing proper investigative and corrective action with the manufacturer within one business day.&nbsp;</p><p>Within 90 days of a report of adulterated, misbranded, or contaminated infant formula, the FDA must determine whether the manufacturer that reported the problem has performed, or is performing, appropriate investigative and corrective action.&nbsp;</p><p>Finally, the FDA is required to periodically report on the infant formula supply chain and efforts to improve the safety and supply of infant formula, and must consult with other federal agencies and infant formula stakeholders on these issues. &nbsp;</p>",
+      "updateDate": "2025-03-21T18:35:14Z",
+      "versionCode": "00"
+    }
+  ]
+}

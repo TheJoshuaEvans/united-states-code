@@ -48,6 +48,10 @@
       "count": 7,
       "url": "https://api.congress.gov/v3/bill/119/hr/4541/subjects?format=json"
     },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4541/summaries?format=json"
+    },
     "textVersions": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/4541/text?format=json"
@@ -58,8 +62,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/4541/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T21:25:23Z",
-    "updateDateIncludingText": "2026-07-15T21:25:23Z"
+    "updateDate": "2026-07-16T20:13:00Z",
+    "updateDateIncludingText": "2026-07-16T20:13:00Z"
   },
   "cosponsors": [
     {
@@ -353,6 +357,15 @@
       "systemCode": "hsif00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-07-13",
+      "actionDesc": "Reported to House",
+      "text": "<p>This bill reauthorizes and revises programs of the Centers for Disease Control and Prevention (CDC) that support services and education addressing breast and cervical cancer.</p><p>The bill reauthorizes through FY2030 and makes changes to the&nbsp;CDC\u2019s National Breast and Cervical Cancer Early Detection Program. This program provides grants to states for breast and cervical cancer screening, diagnostic, and treatment services for individuals who have low incomes, are uninsured, or otherwise lack access to such services. The bill increases flexibility in how states may spend grant funds under the program.</p><p>The Government Accountability Office must report to Congress on the work of the National Breast and Cervical Cancer Early Detection Program, including the number of individuals served and barriers to accessing screenings.</p><p>Also, the bill reauthorizes through FY2031 CDC programs relating to young women\u2019s awareness of breast health and breast cancer. These programs include campaigns to educate young women and health care professionals, research on preventing breast cancer in younger women, and grants for resources and services to young women diagnosed with breast cancer and precancerous conditions.</p>",
+      "updateDate": "2026-07-16T20:11:51Z",
+      "versionCode": "07"
     }
   ]
 }

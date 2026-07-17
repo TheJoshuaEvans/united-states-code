@@ -1,0 +1,111 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-20",
+    "latestAction": {
+      "actionDate": "2026-04-20",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S1841-1842)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4347",
+    "number": "4347",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000563",
+        "firstName": "Richard",
+        "fullName": "Sen. Durbin, Richard J. [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Durbin",
+        "middleName": "J.",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000563?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/text?format=json"
+    },
+    "title": "America Grows Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4347/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T11:03:22Z",
+    "updateDateIncludingText": "2026-07-16T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "S001208",
+      "firstName": "Elissa",
+      "fullName": "Sen. Slotkin, Elissa [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Slotkin",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-20T21:29:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Agriculture, Nutrition, and Forestry Committee",
+      "systemCode": "ssaf00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-04-20",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>America Grows Act of 2026</strong></p><p>This bill permanently funds several agencies that perform agriculture research.</p><p>The bill provides specified funding for the following agencies within the Department of Agriculture:</p><ul><li>the Agricultural Research Service,</li><li>the Economic Research Service,</li><li>the National Agricultural Statistics Service, and</li><li>the National Institute of Food and Agriculture.</li></ul><p>The bill exempts the funding from sequestration, which is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.</p><p>It also exempts the budgetary effects of the funding from the Statutory Pay-As-You-Go Act of 2010 (PAYGO) and the Senate PAYGO rule.</p>",
+      "updateDate": "2026-05-12T10:27:16Z",
+      "versionCode": "00"
+    }
+  ]
+}

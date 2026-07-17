@@ -1,0 +1,98 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4605",
+    "number": "4605",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000574",
+        "firstName": "Ruben",
+        "fullName": "Sen. Gallego, Ruben [D-AZ]",
+        "isByRequest": "N",
+        "lastName": "Gallego",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000574?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/text?format=json"
+    },
+    "title": "Geothermal Cost-Recovery Authority Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4605/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T11:03:22Z",
+    "updateDateIncludingText": "2026-07-16T11:03:22Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T20:52:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-15T18:30:26Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-20",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Geothermal Cost-Recovery Authority Act of 2026</strong></p><p>This bill expands the Geothermal Steam Act of 1970 to give the Department of the Interior the authority to collect certain fees from&nbsp;applicants for, or holders of, geothermal leases through September 30, 2032. Specifically, Interior may direct those applicants or&nbsp;leaseholders to reimburse the United States for costs from (1) processing applications for geothermal leases on federal land, such as applications for geothermal drilling permits; and (2) inspecting and monitoring geothermal exploration and development activities, including reclamation activities.</p><p>Interior may reduce the amount of the fee if it determines that (1) the full reimbursement would impose an economic hardship on the applicant, or (2) a less than full reimbursement is necessary to promote the greatest use of geothermal resources.</p><p>Interior&nbsp;may use those fees only&nbsp;to the extent that they are provided in advance in appropriations acts&nbsp;for (1) processing applications for geothermal leases, and (2) inspecting and monitoring related&nbsp;exploration and development activities.</p><p>Within five years of the bill's enactment, Interior must submit to Congress a report that includes an assessment of how the fees affect Interior's geothermal leasing program and any recommendations for updates to the fees and the program.&nbsp;</p>",
+      "updateDate": "2026-06-29T12:31:15Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/433/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science and Transportation on \nMarch 12, 2025\n",
+        "pubDate": "2025-05-29T17:55:00Z",
+        "title": "S. 433, National Manufacturing Advisory Council Act",
+        "url": "https://www.cbo.gov/publication/61448"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-27",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/27?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/433/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/433/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-07-15",
+      "actionTime": "12:12:33",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/433",
+    "number": "433",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/433/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/433/text?format=json"
+    },
+    "title": "National Manufacturing Advisory Council Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/433/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T14:14:00Z",
+    "updateDateIncludingText": "2026-07-17T07:31:50Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-02-05",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-02T20:41:17Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-12T14:00:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-06T00:14:33Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

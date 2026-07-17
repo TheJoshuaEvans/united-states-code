@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-15",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Became Public Law No: 119-59."
+    },
+    "laws": [
+      {
+        "number": "119-59",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2283",
+    "number": "2283",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000575",
+        "firstName": "James",
+        "fullName": "Sen. Lankford, James [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Lankford",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/text?format=json"
+    },
+    "title": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2283/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-16T16:36:37Z",
+    "updateDateIncludingText": "2026-07-17T08:45:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001190",
+      "firstName": "Markwayne",
+      "fullName": "Sen. Mullin, Markwayne [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mullin",
+      "party": "R",
+      "sponsorshipDate": "2025-09-08",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/M001190?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-10T01:41:25Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-15T19:38:39Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-07-15",
+      "actionDesc": "Introduced in Senate",
+      "text": "This bill designates the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+      "updateDate": "2025-08-01T21:32:45Z",
+      "versionCode": "00"
+    }
+  ]
+}

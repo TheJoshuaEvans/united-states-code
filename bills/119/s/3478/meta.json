@@ -1,0 +1,128 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-15",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "text": "Read twice and referred to the Committee on Indian Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3478",
+    "number": "3478",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001046",
+        "firstName": "Martin",
+        "fullName": "Sen. Heinrich, Martin [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Heinrich",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/H001046?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/text?format=json"
+    },
+    "title": "Indian Buffalo Management Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3478/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T11:03:21Z",
+    "updateDateIncludingText": "2026-07-16T11:03:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001190",
+      "firstName": "Markwayne",
+      "fullName": "Sen. Mullin, Markwayne [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mullin",
+      "party": "R",
+      "sponsorshipDate": "2025-12-15",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/M001190?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2026-02-25",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2026-02-25",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "A000383",
+      "firstName": "Alan",
+      "fullName": "Sen. Armstrong, Alan [R-OK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Armstrong",
+      "middleName": "Stuart",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/A000383?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-15T22:39:35Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-12-15T22:39:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ]
+}

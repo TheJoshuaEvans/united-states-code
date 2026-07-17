@@ -1,0 +1,188 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "actionTime": "18:23:38",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1837",
+    "number": "1837",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000563",
+        "firstName": "Richard",
+        "fullName": "Sen. Durbin, Richard J. [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Durbin",
+        "middleName": "J.",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000563?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/text?format=json"
+    },
+    "title": "DEFIANCE Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1837/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-06T20:26:29Z",
+    "updateDateIncludingText": "2026-07-17T07:07:00Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000359",
+      "firstName": "Lindsey",
+      "fullName": "Sen. Graham, Lindsey [R-SC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graham",
+      "party": "R",
+      "sponsorshipDate": "2025-05-21",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/G000359?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-05-21",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-05-21",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "W000800",
+      "firstName": "Peter",
+      "fullName": "Sen. Welch, Peter [D-VT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Welch",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "VT",
+      "url": "https://api.congress.gov/v3/member/W000800?format=json"
+    },
+    {
+      "bioguideId": "S000148",
+      "firstName": "Charles",
+      "fullName": "Sen. Schumer, Charles E. [D-NY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schumer",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-21",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S000148?format=json"
+    },
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2025-05-21",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-13T16:03:26Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-05-21T18:24:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-13",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Disrupt Explicit Forged Images And Non-Consensual Edits Act of 2025 or the DEFIANCE Act of 2025</strong></p><p>This bill expands civil remedies for the nonconsensual disclosure of intimate images (i.e., nonconsensual pornography). The bill also establishes a new federal civil action for nonconsensual conduct involving intimate digital forgeries (i.e.,&nbsp;deepfakes).&nbsp;The term <em>intimate digital forgery</em> means any intimate visual depiction of an identifiable individual created using software, machine learning, artificial intelligence, or other computer-generated or technological means that looks authentic.</p><p>With respect to the nonconsensual disclosure of intimate images, current law allows an identifiable individual to recover civil remedies, including litigation costs, damages, and injunctive relief. This bill increases the available damages by allowing the individual to recover punitive damages and by including, as part of actual damages, profits of the defendant that are attributable to the conduct at issue.</p><p>The bill also allows an identifiable individual who is the subject of an intimate digital forgery to file a federal civil action against anyone who knowingly discloses, produces&nbsp;or possesses with intent to disclose, or solicits and receives the intimate digital forgery without the individual's consent. Under the bill, the identifiable individual may recover the same expanded civil remedies that are available for the nonconsensual disclosure of intimate images.</p><p>Finally, the bill establishes a 10-year statute of limitations for filing civil actions involving nonconsensual intimate digital forgeries or nonconsensual disclosure of intimate images. The statute begins to run when the individual discovers the violation or turns 18, whichever is later.</p>",
+      "updateDate": "2026-07-06T20:24:41Z",
+      "versionCode": "55"
+    }
+  ]
+}

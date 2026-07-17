@@ -1,0 +1,63 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/1/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "18:21:55",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/1",
+    "number": "1",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000250",
+        "firstName": "John",
+        "fullName": "Sen. Thune, John [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Thune",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/T000250?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/1/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/1/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/1/text?format=json"
+    },
+    "title": "A concurrent resolution extending the life of the Joint Congressional Committee on Inaugural Ceremonies.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/1/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2025-05-27T14:12:53Z",
+    "updateDateIncludingText": "2026-07-17T07:43:33Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This concurrent resolution reauthorizes the Joint Congressional Committee on Inaugural Ceremonies&nbsp;relating to the January 20, 2025, Presidential inauguration. The reauthorization is effective beginning January 3, 2025.</p><p>The joint committee is authorized to make the necessary arrangements for the&nbsp;inauguration of the President-elect and the Vice President-elect of the United States, including using the&nbsp;Capitol&nbsp;rotunda and Emancipation Hall for such proceedings and ceremonies.</p><p>The joint committee was established during the 118th Congress and consists of three Senators and three Members of the House of Representatives.</p>",
+      "updateDate": "2025-01-14T15:07:24Z",
+      "versionCode": "00"
+    }
+  ]
+}

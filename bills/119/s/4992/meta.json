@@ -1,0 +1,75 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4992/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4992/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4992/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4992",
+    "number": "4992",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "D000618",
+        "firstName": "Steve",
+        "fullName": "Sen. Daines, Steve [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Daines",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000618?format=json"
+      }
+    ],
+    "title": "A bill to require the Secretary of the Army to issue guidance relating to the review of applications for alteration or temporary or permanent occupation or use of certain hydropower projects, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4992/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:24Z",
+    "updateDateIncludingText": "2026-07-16T10:56:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T18:28:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Environment and Public Works Committee",
+      "systemCode": "ssev00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssev00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-31",
+    "latestAction": {
+      "actionDate": "2025-12-19",
+      "actionTime": "14:40:31",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1204",
+    "number": "1204",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001076",
+        "firstName": "Maggie",
+        "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Hassan",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/H001076?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/text?format=json"
+    },
+    "title": "Gold Star and Surviving Spouse Career Services Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1204/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-10T12:53:53Z",
+    "updateDateIncludingText": "2026-07-16T20:33:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "S001203",
+      "firstName": "Tina",
+      "fullName": "Sen. Smith, Tina [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    },
+    {
+      "bioguideId": "L000575",
+      "firstName": "James",
+      "fullName": "Sen. Lankford, James [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lankford",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/L000575?format=json"
+    },
+    {
+      "bioguideId": "H000273",
+      "firstName": "John",
+      "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hickenlooper",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-19T00:46:06Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-31T20:49:48Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-18",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Gold Star and Surviving Spouse Career Services Act</strong></p><p>This bill expands eligibility for the Disabled Veterans\u2019 Outreach Program to the spouses of certain veterans and members of the Armed Forces. Such program is administered by the Department of Labor and generally provides career and employment services to disabled veterans.</p><p>The bill expands eligibility for the program to spouses of</p><ul><li>persons who died while members of the Armed Forces;</li><li>persons who died of a service-connected disability;</li><li>members of the Armed Forces serving on active duty who, for more than 90 days, are listed as missing in action, captured by a hostile force, or forcibly detained or interned in the line of duty by a foreign government power;</li><li>persons who have a total permanent disability resulting from a service-connected disability; and</li><li>persons who died while an evaluated total disability was in existence.</li></ul>",
+      "updateDate": "2026-04-10T12:53:48Z",
+      "versionCode": "55"
+    }
+  ]
+}

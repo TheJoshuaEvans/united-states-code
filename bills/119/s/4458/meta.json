@@ -1,0 +1,104 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-30",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4458",
+    "number": "4458",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001046",
+        "firstName": "Martin",
+        "fullName": "Sen. Heinrich, Martin [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Heinrich",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/H001046?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/text?format=json"
+    },
+    "title": "Caja del Rio Protection Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4458/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T11:03:22Z",
+    "updateDateIncludingText": "2026-07-16T11:03:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-30",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-30T17:19:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-15T18:30:22Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

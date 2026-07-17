@@ -1,0 +1,116 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on \nJuly 30, 2025\n",
+        "pubDate": "2025-08-28T21:24:00Z",
+        "title": "S. 594, HELP Response and Recovery Act",
+        "url": "https://www.cbo.gov/publication/61714"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:21:35",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/594",
+    "number": "594",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/text?format=json"
+    },
+    "title": "HELP Response and Recovery Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/594/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-18T12:52:12Z",
+    "updateDateIncludingText": "2026-07-17T07:39:15Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-03T22:00:41Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-13T20:05:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Helping Eliminate Limitations for Prompt Response and Recovery Act or the HELP Response and Recovery Act</strong></p><p>This bill extends the maximum duration of noncompetitive Department of Homeland Security (DHS) contracts for disaster response and recovery from 150 days to one year by repealing a current limitation on such DHS contracts so that standard procurement regulations apply regarding urgent needs. It also requires&nbsp;DHS to report to Congress annually for five years to review how this repeal has prevented waste and provide information on noncompetitive Federal Emergency Management Agency contracts.</p>",
+      "updateDate": "2025-06-24T13:00:05Z",
+      "versionCode": "00"
+    }
+  ]
+}

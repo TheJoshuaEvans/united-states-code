@@ -1,0 +1,63 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/2/actions?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "actionTime": "18:23:19",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/2",
+    "number": "2",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000250",
+        "firstName": "John",
+        "fullName": "Sen. Thune, John [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Thune",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/T000250?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/2/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/2/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/2/text?format=json"
+    },
+    "title": "A concurrent resolution to provide for the counting on January 6, 2025, of the electoral votes for President and Vice President of the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/2/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2025-01-30T17:44:41Z",
+    "updateDateIncludingText": "2026-07-17T07:43:40Z"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-03",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This concurrent resolution establishes the day, time, and manner for counting electoral votes for President and Vice President as January 6, 2025, at 1:00 pm. The concurrent resolution provides that the results of the count shall be delivered to the President of the Senate and entered on the journals of Congress.</p>",
+      "updateDate": "2025-01-30T17:44:18Z",
+      "versionCode": "00"
+    }
+  ]
+}

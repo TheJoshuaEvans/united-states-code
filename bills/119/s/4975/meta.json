@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/s/4975/actions?format=json"
     },
     "committees": {
@@ -16,8 +16,8 @@
     },
     "introducedDate": "2026-07-14",
     "latestAction": {
-      "actionDate": "2026-07-14",
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+      "actionDate": "2026-07-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4975",
     "number": "4975",
@@ -41,8 +41,8 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4975/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-15T10:56:21Z",
-    "updateDateIncludingText": "2026-07-15T10:56:21Z"
+    "updateDate": "2026-07-16T10:56:25Z",
+    "updateDateIncludingText": "2026-07-16T10:56:25Z"
   },
   "cosponsors": [
     {
@@ -67,6 +67,19 @@
       ],
       "chamber": "Senate",
       "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-15T18:30:00Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
       "systemCode": "sseg00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"

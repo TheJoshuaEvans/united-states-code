@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-24",
+    "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S4701)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2446",
+    "number": "2446",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000145",
+        "firstName": "Alex",
+        "fullName": "Sen. Padilla, Alex [D-CA]",
+        "isByRequest": "N",
+        "lastName": "Padilla",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/P000145?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/text?format=json"
+    },
+    "title": "Mental Health for Latinos Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2446/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T16:12:19Z",
+    "updateDateIncludingText": "2026-07-16T16:12:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2025-07-24",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2025-07-24",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-24",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/H001042?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-24T17:32:54Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

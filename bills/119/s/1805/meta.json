@@ -1,0 +1,175 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-19",
+    "latestAction": {
+      "actionDate": "2025-05-19",
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2973-2974)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1805",
+    "number": "1805",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001035",
+        "firstName": "Susan",
+        "fullName": "Sen. Collins, Susan M. [R-ME]",
+        "isByRequest": "N",
+        "lastName": "Collins",
+        "middleName": "M.",
+        "party": "R",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/C001035?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/text?format=json"
+    },
+    "title": "Promoting Access to Diabetic Shoes Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1805/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T16:13:13Z",
+    "updateDateIncludingText": "2026-07-16T16:13:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-05-19",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-03",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-12-10",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2026-02-26",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2026-04-27",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "D000622",
+      "firstName": "Tammy",
+      "fullName": "Sen. Duckworth, Tammy [D-IL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Duckworth",
+      "party": "D",
+      "sponsorshipDate": "2026-06-11",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/D000622?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-19T21:18:07Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-05-19T21:18:07Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-19",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Promoting Access to Diabetic Shoes Act</strong></p> <p>This bill allows a nurse practitioner or physician assistant to fulfill documentation requirements for coverage, under Medicare,&nbsp;of special shoes for diabetic individuals. Under current law, such requirements may be satisfied only by a physician.</p>",
+      "updateDate": "2025-06-06T20:07:42Z",
+      "versionCode": "00"
+    }
+  ]
+}

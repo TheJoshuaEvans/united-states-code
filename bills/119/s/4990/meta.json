@@ -1,0 +1,108 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4990/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4990/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4990/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4990",
+    "number": "4990",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "M001176",
+        "firstName": "Jeff",
+        "fullName": "Sen. Merkley, Jeff [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Merkley",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/M001176?format=json"
+      }
+    ],
+    "title": "A bill to require the Administrator of the Federal Aviation Administration to review and update Federal Aviation Administration regulations, policies, and guidance related to low-altitude airspace safety, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4990/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:21Z",
+    "updateDateIncludingText": "2026-07-16T10:56:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000779",
+      "firstName": "Ron",
+      "fullName": "Sen. Wyden, Ron [D-OR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wyden",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Curtis",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T17:18:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

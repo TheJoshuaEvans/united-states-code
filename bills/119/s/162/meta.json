@@ -1,0 +1,146 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-21",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "actionTime": "10:48:50",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/162",
+    "number": "162",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Families"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000386",
+        "firstName": "Chuck",
+        "fullName": "Sen. Grassley, Chuck [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Grassley",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/G000386?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/text?format=json"
+    },
+    "title": "Recruiting Families Using Data Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/162/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-16T17:48:45Z",
+    "updateDateIncludingText": "2026-07-16T20:38:47Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-07-21",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-11T19:39:35Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-21T20:29:01Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-21",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Recruiting Families Using Data Act of 2025</strong></p><p>This bill requires state plans for child welfare services to provide for the development and implementation of a family partnership plan to improve foster care placement stability, increase rates of kinship placements, and align the composition of foster and adoptive families with the needs of children in or entering foster care.</p><p>The Children's Bureau of the Administration for Children and&nbsp;Families also must include in its annual report information from states about the number, demographics, and characteristics of foster and adoptive families as well as a summary of the challenges related to recruiting and being foster or adoptive parents.</p>",
+      "updateDate": "2025-05-01T16:20:19Z",
+      "versionCode": "00"
+    }
+  ]
+}

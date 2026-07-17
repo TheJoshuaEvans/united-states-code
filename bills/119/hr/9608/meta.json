@@ -1,0 +1,71 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9608/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9608/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 112 (Thursday, July 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. MILLER of Illinois:\nH.R. 9608.\nCongress has the power to enact this legislation pursuant\nto the following:\nNecessary and Proper Clause\nCommerce Clause\n[Page H4380]\n</pre>",
+    "introducedDate": "2026-07-09",
+    "latestAction": {
+      "actionDate": "2026-07-09",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9608",
+    "number": "9608",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001211",
+        "district": 15,
+        "firstName": "Mary",
+        "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+        "isByRequest": "N",
+        "lastName": "Miller",
+        "middleName": "E.",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/M001211?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9608/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9608/text?format=json"
+    },
+    "title": "Less Bureaucracy, Better Family Engagement Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9608/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T15:18:52Z",
+    "updateDateIncludingText": "2026-07-16T15:18:52Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-09T19:01:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

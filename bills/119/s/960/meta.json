@@ -1,0 +1,96 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-14",
+      "actionTime": "09:03:30",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/960",
+    "number": "960",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000386",
+        "firstName": "Chuck",
+        "fullName": "Sen. Grassley, Chuck [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Grassley",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/G000386?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/text?format=json"
+    },
+    "title": "Justice for Murder Victims Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/960/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-07T19:59:20Z",
+    "updateDateIncludingText": "2026-07-17T07:43:06Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-03-11",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Passed Senate",
+      "text": "<p><b>Justice for Murder Victims Act</b></p> <p>This bill allows a prosecution to be instituted for any federal homicide offense without regard to the time that elapsed between the act or omission that caused the death of the victim and the death of the victim. </p>",
+      "updateDate": "2026-04-07T19:59:01Z",
+      "versionCode": "55"
+    }
+  ]
+}

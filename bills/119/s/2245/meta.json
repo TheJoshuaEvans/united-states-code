@@ -1,0 +1,133 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on October 21, 2025",
+        "pubDate": "2025-12-16T19:08:00Z",
+        "title": "S. 2245, a bill to amend the Digital Coast Act to improve the acquisition, integration, and accessibility of data of the Digital Coast program and to extend the program",
+        "url": "https://www.cbo.gov/publication/61961"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-100",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/100?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2026-03-03",
+      "actionTime": "12:10:29",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2245",
+    "number": "2245",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001230",
+        "firstName": "Tammy",
+        "fullName": "Sen. Baldwin, Tammy [D-WI]",
+        "isByRequest": "N",
+        "lastName": "Baldwin",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/B001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/text?format=json"
+    },
+    "title": "A bill to amend the Digital Coast Act to improve the acquisition, integration, and accessibility of data of the Digital Coast program and to extend the program.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2245/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T23:26:35Z",
+    "updateDateIncludingText": "2026-07-17T08:45:27Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2025-07-22",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-01-30T16:58:28Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-21T14:00:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-10T17:10:58Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-02-26",
+      "actionDesc": "Passed Senate",
+      "text": "<p>This bill reauthorizes through FY2030 the Digital Coast program managed by the National Oceanic and Atmospheric Administration (NOAA) and makes other changes to the program. Through the program, NOAA administers a digital platform with data, tools, training, and other information to support coastal management needs.</p><p>The bill requires NOAA to ensure that data and resulting integrated products developed under the program are fully and freely available on the program website and via other sources. Further, NOAA must support existing efforts to acquire and integrate data related to underground infrastructure and subsurface utilities.</p><p>Finally, NOAA must limit trainings carried out under the program to technical instruction on the use of data and tools provided by the program.</p>",
+      "updateDate": "2026-04-20T19:32:34Z",
+      "versionCode": "55"
+    }
+  ]
+}

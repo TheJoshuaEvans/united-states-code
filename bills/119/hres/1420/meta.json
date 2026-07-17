@@ -1,0 +1,165 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1420/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1420/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1420/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-06",
+    "latestAction": {
+      "actionDate": "2026-07-06",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1420",
+    "number": "1420",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000788",
+        "district": 5,
+        "firstName": "Nikema",
+        "fullName": "Rep. Williams, Nikema [D-GA-5]",
+        "isByRequest": "N",
+        "lastName": "Williams",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/W000788?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1420/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1420/text?format=json"
+    },
+    "title": "Honoring the 31st International President and CEO of Alpha Kappa Alpha Sorority, Inc., Danette Anthony Reed.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1420/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-16T15:19:23Z",
+    "updateDateIncludingText": "2026-07-16T15:19:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001185",
+      "district": 7,
+      "firstName": "Terri",
+      "fullName": "Rep. Sewell, Terri A. [D-AL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sewell",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-06",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/S001185?format=json"
+    },
+    {
+      "bioguideId": "W000808",
+      "district": 24,
+      "firstName": "Frederica",
+      "fullName": "Rep. Wilson, Frederica S. [D-FL-24]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wilson",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-06",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/W000808?format=json"
+    },
+    {
+      "bioguideId": "S001223",
+      "district": 13,
+      "firstName": "Emilia",
+      "fullName": "Rep. Sykes, Emilia Strong [D-OH-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sykes",
+      "middleName": "Strong",
+      "party": "D",
+      "sponsorshipDate": "2026-07-06",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/S001223?format=json"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": 12,
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2026-07-06",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/W000822?format=json"
+    },
+    {
+      "bioguideId": "A000370",
+      "district": 12,
+      "firstName": "Alma",
+      "fullName": "Rep. Adams, Alma S. [D-NC-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Adams",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-06",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/A000370?format=json"
+    },
+    {
+      "bioguideId": "U000040",
+      "district": 14,
+      "firstName": "Lauren",
+      "fullName": "Rep. Underwood, Lauren [D-IL-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Underwood",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/U000040?format=json"
+    },
+    {
+      "bioguideId": "B001326",
+      "district": 5,
+      "firstName": "Janelle",
+      "fullName": "Rep. Bynum, Janelle S. [D-OR-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bynum",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-09",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/B001326?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-06T14:30:45Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ]
+}

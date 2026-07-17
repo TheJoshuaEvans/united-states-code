@@ -1,0 +1,75 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4991/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4991/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4991/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4991",
+    "number": "4991",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "R000605",
+        "firstName": "Mike",
+        "fullName": "Sen. Rounds, Mike [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Rounds",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/R000605?format=json"
+      }
+    ],
+    "title": "A bill to direct the Secretary of Energy to establish an extremophile whole genome sequencing initiative, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4991/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:23Z",
+    "updateDateIncludingText": "2026-07-16T10:56:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T17:19:18Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

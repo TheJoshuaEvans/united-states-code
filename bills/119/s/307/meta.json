@@ -1,0 +1,127 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-29",
+    "latestAction": {
+      "actionDate": "2025-05-05",
+      "actionTime": "14:28:27",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/307",
+    "number": "307",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001243",
+        "firstName": "Marsha",
+        "fullName": "Sen. Blackburn, Marsha [R-TN]",
+        "isByRequest": "N",
+        "lastName": "Blackburn",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001243?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/text?format=json"
+    },
+    "title": "Prison Staff Safety Enhancement Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/307/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T15:41:22Z",
+    "updateDateIncludingText": "2026-07-17T02:33:00Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-01-29",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-19",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": false,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2025-02-19",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-30T01:25:34Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-29T19:39:15Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-29",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Prison Staff Safety Enhancement Act</strong></p><p>This bill establishes requirements for the Department of Justice (DOJ) and component agencies to assess and respond to incidents of sexual harassment and sexual assault by incarcerated individuals against Bureau of Prisons (BOP) staff.</p><p>Specifically, the&nbsp;bill requires DOJ&nbsp;to adopt national standards for the prevention, reduction, and punishment of sexual harassment and sexual assault by incarcerated individuals against correctional officers or other employees of the BOP.</p><p>Additionally, the bill requires the BOP to fully implement the recommendations of the DOJ Inspector General&nbsp;contained in the report titled <em>Evaluation of the Federal Bureau of Prisons\u2019 Efforts to Address Sexual Harassment and Sexual Assault Committed by Inmates Toward Staff</em>.</p>",
+      "updateDate": "2025-09-16T20:46:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

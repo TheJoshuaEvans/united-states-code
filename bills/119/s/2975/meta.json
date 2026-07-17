@@ -1,0 +1,135 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation \non October 21, 2025\n",
+        "pubDate": "2026-01-21T19:55:00Z",
+        "title": "S. 2975, PIPELINE Safety Act of 2025",
+        "url": "https://www.cbo.gov/publication/62027"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-102",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/102?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-06",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "actionTime": "10:33:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2975",
+    "number": "2975",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 45,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/text?format=json"
+    },
+    "title": "PIPELINE Safety Act of 2025",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/2975/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T23:26:36Z",
+    "updateDateIncludingText": "2026-07-17T02:32:00Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C000127",
+      "firstName": "Maria",
+      "fullName": "Sen. Cantwell, Maria [D-WA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cantwell",
+      "party": "D",
+      "sponsorshipDate": "2025-10-06",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/C000127?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-10-06",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-10-06",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-11T19:29:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-21T14:00:14Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-10-06T20:04:36Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

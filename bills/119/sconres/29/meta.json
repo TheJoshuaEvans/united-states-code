@@ -1,0 +1,69 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/29/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/29/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-23",
+    "latestAction": {
+      "actionDate": "2026-04-20",
+      "actionTime": "19:32:18",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/29",
+    "number": "29",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001042",
+        "firstName": "Mazie",
+        "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+        "isByRequest": "N",
+        "lastName": "Hirono",
+        "middleName": "K.",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/H001042?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/29/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/29/text?format=json"
+    },
+    "title": "A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha I.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/29/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2026-04-22T08:05:52Z",
+    "updateDateIncludingText": "2026-07-17T07:43:38Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001194",
+      "firstName": "Brian",
+      "fullName": "Sen. Schatz, Brian [D-HI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schatz",
+      "party": "D",
+      "sponsorshipDate": "2026-03-23",
+      "state": "HI",
+      "url": "https://api.congress.gov/v3/member/S001194?format=json"
+    }
+  ]
+}

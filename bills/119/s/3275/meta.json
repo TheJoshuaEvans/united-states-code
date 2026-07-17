@@ -1,0 +1,102 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3275/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3275/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3275/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3275",
+    "number": "3275",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001075?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3275/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3275/text?format=json"
+    },
+    "title": "Humanoid ROBOT Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3275/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T11:03:21Z",
+    "updateDateIncludingText": "2026-07-16T11:03:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001088",
+      "firstName": "Christopher",
+      "fullName": "Sen. Coons, Christopher A. [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Coons",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-11-20",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/C001088?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-20T20:38:23Z",
+          "name": "Referred To"
+        },
+        {
+          "date": "2025-11-20T20:38:23Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

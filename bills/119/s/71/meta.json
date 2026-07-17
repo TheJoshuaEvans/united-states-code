@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 12, 2026",
+        "pubDate": "2026-02-27T19:07:00Z",
+        "title": "S. 71, Baby Changing on Board Act",
+        "url": "https://www.cbo.gov/publication/62192"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-118",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/118?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2026-05-12",
+      "actionTime": "15:11:30",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/71",
+    "number": "71",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/text?format=json"
+    },
+    "title": "Baby Changing on Board Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/71/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T23:41:33Z",
+    "updateDateIncludingText": "2026-07-17T07:40:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-13",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-22T17:06:11Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-02-12T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-13T22:21:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-13",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Baby Changing on Board Act</strong></p><p>This bill requires Amtrak passenger rail trains to have a baby changing table in at least one restroom in each car,&nbsp;including in an Americans with Disabilities Act of 1990-compliant&nbsp;restroom.&nbsp;The bill applies to passenger rail trains that are (1) owned and operated by Amtrak, and (2) solicited for purchase after the bill's enactment&nbsp;for use by Amtrak.</p>",
+      "updateDate": "2025-02-12T19:26:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

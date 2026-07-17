@@ -1,0 +1,99 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-10-17",
+      "actionTime": "14:22:43",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1440",
+    "number": "1440",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000622",
+        "firstName": "Tammy",
+        "fullName": "Sen. Duckworth, Tammy [D-IL]",
+        "isByRequest": "N",
+        "lastName": "Duckworth",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/D000622?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/text?format=json"
+    },
+    "title": "Uniformed Services Leave Parity Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1440/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-16T16:37:08Z",
+    "updateDateIncludingText": "2026-07-16T20:35:55Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-04-10",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-08T21:32:45Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-10T17:46:13Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-12-26",
+      "text": "Became Public Law No: 119-66."
+    },
+    "laws": [
+      {
+        "number": "119-66",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/284",
+    "number": "284",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000571",
+        "firstName": "Cynthia",
+        "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+        "isByRequest": "N",
+        "lastName": "Lummis",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/L000571?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/text?format=json"
+    },
+    "title": "Congressional Award Program Reauthorization Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/284/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-29T19:03:26Z",
+    "updateDateIncludingText": "2026-07-17T02:30:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-18",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "H000273",
+      "firstName": "John",
+      "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hickenlooper",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-24",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    },
+    {
+      "bioguideId": "B001261",
+      "firstName": "John",
+      "fullName": "Sen. Barrasso, John [R-WY]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrasso",
+      "party": "R",
+      "sponsorshipDate": "2025-07-28",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-20T22:31:33Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-28T21:48:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Congressional Award Program Reauthorization Act</strong></p><p>This bill reauthorizes through FY2028 the board that administers the Congressional Award Program, which promotes and recognizes service, initiative, and achievement in America's youth. The reauthorization is effective as if enacted on October 1, 2023. The bill also removes a requirement for program medals to consist of gold-plate over bronze, rhodium over bronze, or bronze.</p>",
+      "updateDate": "2025-07-15T18:51:55Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-26",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Congressional Award Program Reauthorization Act</strong></p><p>This act reauthorizes through FY2028 the Congressional Award Board, the board that administers the Congressional Award Program, and modifies&nbsp;program medals.</p><p>(The program, established by law in 1979, awards medals to youth ages 14 to 23 who satisfy standards of achievement set by the board. The program aims to promote initiative, achievement, and excellence among youth in the areas of public service, personal development, and physical fitness.)</p><p>The act removes a requirement for program medals to consist of gold-plate over bronze, rhodium over bronze, or bronze.</p><p>The reauthorization is effective as if enacted on October 1, 2023 (the date on which a prior reauthorization expired).</p>",
+      "updateDate": "2026-06-29T19:03:09Z",
+      "versionCode": "49"
+    }
+  ]
+}

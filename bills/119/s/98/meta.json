@@ -1,0 +1,173 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nFebruary 5, 2025\n",
+        "pubDate": "2025-03-10T18:04:00Z",
+        "title": "S. 98, Rural Broadband Protection Act of 2025",
+        "url": "https://www.cbo.gov/publication/61245"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-14",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/14?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2026-05-11",
+      "text": "Became Public Law No: 119-89."
+    },
+    "laws": [
+      {
+        "number": "119-89",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/98",
+    "number": "98",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001047",
+        "firstName": "Shelley",
+        "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Capito",
+        "middleName": "Moore",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/C001047?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/text?format=json"
+    },
+    "title": "Rural Broadband Protection Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-22T13:13:57Z",
+    "updateDateIncludingText": "2026-07-17T07:43:19Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-01-15",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Curtis",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    },
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": false,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-03-11",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-12-16",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/W000790?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-04-28T20:26:58Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-05T15:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-15T19:21:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Rural Broadband Protection Act of 2025</strong></p><p>This bill requires the Federal Communications Commission (FCC) to establish a process to vet applicants for certain funding programs that support affordable broadband deployment in high-cost areas, including rural communities.</p><p>Specifically, the FCC must conduct a rulemaking to develop a vetting process for applicants seeking funding under high-cost universal service programs for the deployment of a broadband-capable network and the provision of supported services over the network. The FCC must require applications for such funding to document each applicant\u2019s technical, financial, and operational capabilities related to the proposed deployment, as well as a reasonable business plan.&nbsp;</p><p>The FCC must evaluate applications against reasonable and well-established standards and must consider each applicant\u2019s history of compliance with the requirements of other government broadband funding programs. After the rulemaking is finalized, funds may only be awarded to applicants that satisfy the standards established therein.&nbsp;</p><p>Finally, the FCC must set financial penalties for applicants that default in some manner during the evaluation process before they are authorized to begin receiving support. &nbsp;</p>",
+      "updateDate": "2025-02-14T13:45:36Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-05-11",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Rural Broadband Protection Act of 2025</strong></p><p>This act requires the Federal Communications Commission (FCC) to vet the qualifications of applicants for certain funding programs that support affordable broadband deployment in high-cost areas (e.g., rural communities).</p><p>Specifically, the FCC must develop a vetting process for applicants seeking funding under high-cost universal service programs for the deployment of a broadband-capable network and the provision of supported services over the network. The FCC must require applicants to submit a proposal that contains sufficient detail and documentation for the FCC to ascertain that the applicant possesses the technical, financial, and operational capabilities related to the proposed deployment and has a reasonable business plan. The FCC must evaluate applications against reasonable and well-established standards and must consider each applicant\u2019s history of compliance with the requirements of other government broadband funding programs.</p><p>The FCC must establish this vetting process through a rulemaking proceeding. After the rule is finalized, funds may only be awarded to applicants that satisfy the standards established therein.</p><p>Finally, the FCC must set financial penalties for applicants that default in some manner during the evaluation process before they are authorized to begin receiving support.</p>",
+      "updateDate": "2026-06-22T13:13:08Z",
+      "versionCode": "49"
+    }
+  ]
+}

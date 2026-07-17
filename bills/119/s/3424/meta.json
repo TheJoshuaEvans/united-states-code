@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-10",
+    "latestAction": {
+      "actionDate": "2026-02-06",
+      "text": "Became Public Law No: 119-76."
+    },
+    "laws": [
+      {
+        "number": "119-76",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3424",
+    "number": "3424",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001088",
+        "firstName": "Christopher",
+        "fullName": "Sen. Coons, Christopher A. [D-DE]",
+        "isByRequest": "N",
+        "lastName": "Coons",
+        "middleName": "A.",
+        "party": "D",
+        "state": "DE",
+        "url": "https://api.congress.gov/v3/member/C001088?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/text?format=json"
+    },
+    "title": "Bankruptcy Administration Improvement Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3424/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-24T19:15:50Z",
+    "updateDateIncludingText": "2026-07-17T07:22:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000359",
+      "firstName": "Lindsey",
+      "fullName": "Sen. Graham, Lindsey [R-SC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graham",
+      "party": "R",
+      "sponsorshipDate": "2025-12-10",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/G000359?format=json"
+    },
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2025-12-10",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-12-10",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-10",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Bankruptcy Administration Improvement Act of 2025</strong></p><p>This bill makes several changes to the administration of bankruptcy cases, particularly by increasing certain fees, extending the sunset date of various fees, and extending the term of specified bankruptcy judgeships.</p><p>The bill increases the fees paid to the trustee in Chapter 7 (liquidation) cases.</p><p>The bill extends for an additional five years the fees paid quarterly to the U.S. trustee in Chapter 11 (reorganization) cases. The bill also increases the fee percentage for cases with large disbursements, subject to limitations.&nbsp;</p><p>Finally, temporary bankruptcy judgeships in various districts are extended for an additional five years.</p>",
+      "updateDate": "2026-01-09T19:49:37Z",
+      "versionCode": "55"
+    },
+    {
+      "actionDate": "2026-02-06",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Bankruptcy Administration Improvement Act of 2025</strong></p><p>This act makes several changes to the administration of bankruptcy cases, particularly by increasing amounts received by certain&nbsp;trustees, extending the sunset date of various fees, and extending the term of specified bankruptcy judgeships.</p><p>(Sec. 3) The act increases the amounts paid out of fees to the trustee in Chapter 7 (liquidation) cases.</p><p>(Sec. 4) The act extends for an additional five years the fees paid quarterly to the U.S. trustee in Chapter 11 (reorganization) cases. The act also increases the fee percentage for cases with large disbursements, subject to limitations.&nbsp;</p><p>(Sec. 5) Finally, temporary bankruptcy judgeships in various districts are extended for an additional five years.</p>",
+      "updateDate": "2026-06-24T19:14:54Z",
+      "versionCode": "49"
+    }
+  ]
+}

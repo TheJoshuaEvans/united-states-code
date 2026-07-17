@@ -1,0 +1,137 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on March 12, 2025\n",
+        "pubDate": "2025-04-10T16:24:00Z",
+        "title": "S. 97, Securing Semiconductor Supply Chains Act",
+        "url": "https://www.cbo.gov/publication/61330"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-18",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/18?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2025-05-26",
+      "actionTime": "09:15:54",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/97",
+    "number": "97",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000595",
+        "firstName": "Gary",
+        "fullName": "Sen. Peters, Gary C. [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Peters",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/P000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/text?format=json"
+    },
+    "title": "Securing Semiconductor Supply Chains Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/97/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-20T02:06:17Z",
+    "updateDateIncludingText": "2026-07-17T07:43:14Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-01-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-06T14:47:43Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-12T14:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-15T19:07:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-15",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Securing Semiconductor Supply Chains Act</strong></p><p>This bill requires the SelectUSA program to solicit comments from state economic development organizations regarding federal efforts to increase foreign direct investment in semiconductor-related manufacturing and production. SelectUSA must then report to Congress on such comments and the strategies that SelectUSA may employ to increase such investment and to secure the U.S. semiconductor supply chain.</p><p>SelectUSA is a Department of Commerce program established to coordinate federal efforts to attract and retain business investment in the United States.</p>",
+      "updateDate": "2025-04-24T19:06:50Z",
+      "versionCode": "00"
+    }
+  ]
+}

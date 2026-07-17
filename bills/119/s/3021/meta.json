@@ -1,0 +1,130 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-21",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:22:12",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3021",
+    "number": "3021",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/text?format=json"
+    },
+    "title": "ENFORCE Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3021/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-03T21:21:43Z",
+    "updateDateIncludingText": "2026-07-17T02:32:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-10-21",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-10-21",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-10-21",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-16T17:18:14Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-10-21T19:15:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-16",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Enhancing Necessary Federal Offenses Regarding Child Exploitation Act or the ENFORCE Act</strong></p><p>This bill broadens the scope of prohibited conduct and increases criminal penalties for child pornography offenses involving the production or distribution of an adapted or modified depiction of an identifiable minor. The bill also expands federal enforcement of criminal offenses involving the possession, receipt, distribution, or production of obscene visual representations of the sexual abuse of children.&nbsp;</p>",
+      "updateDate": "2026-06-03T21:21:25Z",
+      "versionCode": "55"
+    }
+  ]
+}

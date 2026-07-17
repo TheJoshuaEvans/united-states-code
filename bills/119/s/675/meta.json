@@ -1,0 +1,106 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-20",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "actionTime": "12:11:59",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/675",
+    "number": "675",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001061",
+        "firstName": "John",
+        "fullName": "Sen. Hoeven, John [R-ND]",
+        "isByRequest": "N",
+        "lastName": "Hoeven",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/H001061?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/text?format=json"
+    },
+    "title": "Theodore Roosevelt Presidential Library Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/675/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-30T21:21:21Z",
+    "updateDateIncludingText": "2026-07-17T07:40:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-02-20",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-02-20",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-22T21:22:14Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-20T23:25:25Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

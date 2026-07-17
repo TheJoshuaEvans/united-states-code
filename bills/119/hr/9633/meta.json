@@ -24,6 +24,9 @@
     "number": "9633",
     "originChamber": "House",
     "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
     "sponsors": [
       {
         "bioguideId": "M001239",
@@ -38,6 +41,10 @@
         "url": "https://api.congress.gov/v3/member/M001239?format=json"
       }
     ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9633/subjects?format=json"
+    },
     "textVersions": {
       "count": 1,
       "url": "https://api.congress.gov/v3/bill/119/hr/9633/text?format=json"
@@ -48,8 +55,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/9633/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-16T08:07:12Z",
-    "updateDateIncludingText": "2026-07-16T08:07:12Z"
+    "updateDate": "2026-07-16T13:10:24Z",
+    "updateDateIncludingText": "2026-07-16T13:10:24Z"
   },
   "cosponsors": [
     {

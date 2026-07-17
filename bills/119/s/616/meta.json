@@ -1,0 +1,116 @@
+{
+  "status": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-12-12",
+      "text": "Became Public Law No: 119-57."
+    },
+    "laws": [
+      {
+        "number": "119-57",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/616",
+    "number": "616",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Law"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000393",
+        "firstName": "John",
+        "fullName": "Sen. Kennedy, John [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/K000393?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/text?format=json"
+    },
+    "title": "Foundation of the Federal Bar Association Charter Amendments Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/616/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-27T20:59:08Z",
+    "updateDateIncludingText": "2026-07-17T07:39:30Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-02-18",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-01T01:16:27Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-18T22:54:46Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-18",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Foundation of the Federal Bar Association Charter Amendments Act of 2025</strong></p><p>This bill revises the federal charter for the Foundation of the Federal Bar Association to shift authority from the charter to the bylaws.</p><p>Specifically, it makes the following changes:</p><ul><li>removes the requirement for&nbsp;the foundation to be incorporated and domiciled in the District of Columbia;</li><li>requires the board of directors to decide, and specify in the bylaws, the location of the principal office;</li><li>specifies that the bylaws\u2014not the charter\u2014must provide for the terms of membership, the responsibilities of the board of directors, and the election of officers;</li><li>prohibits a director or officer, in his or her corporate capacity, from contributing to, supporting, or participating in political activities;</li><li>allows income and assets of the corporation to be used to reasonably compensate or reimburse expenses of an officer, director, or member; to award a grant to the Federal Bar Association chapter of an officer, director, or member; and to reasonably compensate employees;</li><li>expands a prohibition on loans for directors and officers to include members and employees; and</li><li>specifies that on dissolution or final liquidation, any remaining assets must be distributed as provided by the board of directors instead of deposited in the Treasury.</li></ul>",
+      "updateDate": "2025-11-25T16:15:05Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-12-12",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Foundation of the Federal Bar Association Charter Amendments Act of 2025</strong></p><p>This act revises the federal charter for the Foundation of the Federal Bar Association to shift authority from the charter to the bylaws.</p><p>Specifically, it makes the following changes:</p><ul><li>removes the requirement for&nbsp;the foundation to be incorporated and domiciled in the District of Columbia;</li><li>requires the board of directors to decide, and specify in the bylaws, the location of the principal office;</li><li>specifies that the bylaws\u2014not the charter\u2014must provide for the terms of membership, the responsibilities of the board of directors, and the election of officers;</li><li>prohibits a director or officer, in his or her corporate capacity, from contributing to, supporting, or participating in political activities;</li><li>allows income and assets of the corporation to be used to reasonably compensate or reimburse expenses of an officer, director, or member; to award a grant to the Federal Bar Association chapter of an officer, director, or member; and to reasonably compensate employees;</li><li>expands a prohibition on loans for directors and officers to include members and employees; and</li><li>specifies that on dissolution or final liquidation, any remaining assets must be distributed as provided by the board of directors instead of deposited in the Treasury.</li></ul>",
+      "updateDate": "2026-05-27T20:58:48Z",
+      "versionCode": "49"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the Senate on October 9, 2025",
+        "pubDate": "2026-06-24T18:36:00Z",
+        "title": "S. 1728, Employee Ownership Representation Act of 2025",
+        "url": "https://www.cbo.gov/publication/62541"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-13",
+    "latestAction": {
+      "actionDate": "2025-10-17",
+      "actionTime": "14:22:54",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1728",
+    "number": "1728",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001075?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/text?format=json"
+    },
+    "title": "Employee Ownership Representation Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1728/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-24T18:50:22Z",
+    "updateDateIncludingText": "2026-07-17T04:29:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "H000273",
+      "firstName": "John",
+      "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hickenlooper",
+      "middleName": "W.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/H000273?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-11T19:14:30Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-13T16:22:11Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-13",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Employee Ownership Representation Act of 2025</strong></p><p>This bill expands the membership of the Advisory Council on Employee Welfare and Pension Benefit Plans to include two representatives of employee ownership organizations.</p><p>The advisory council generally advises and makes recommendations to the Department of Labor about the department's functions under the Employee Retirement Income Security Act of 1974 (ERISA).</p>",
+      "updateDate": "2025-06-05T18:32:39Z",
+      "versionCode": "00"
+    }
+  ]
+}

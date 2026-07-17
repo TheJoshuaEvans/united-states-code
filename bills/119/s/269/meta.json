@@ -1,0 +1,173 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2026-02-10",
+      "text": "Became Public Law No: 119-77."
+    },
+    "laws": [
+      {
+        "number": "119-77",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/269",
+    "number": "269",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Social Welfare"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000393",
+        "firstName": "John",
+        "fullName": "Sen. Kennedy, John [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/K000393?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/text?format=json"
+    },
+    "title": "Ending Improper Payments to Deceased People Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/269/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-25T19:07:46Z",
+    "updateDateIncludingText": "2026-07-17T02:29:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    },
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000805?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-03-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-19T18:33:51Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-30T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-28T17:41:02Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Ending Improper Payments to Deceased People Act</strong></p><p>This bill permanently allows the Department of the Treasury to access certain death records maintained by the Social Security Administration (SSA) in order to facilitate the identification&nbsp;and prevention of improper payments (e.g., payments&nbsp;to deceased individuals).&nbsp;</p><p>Current law requires the SSA to share its Death Master File with the Do Not Pay system maintained by Treasury for three years.&nbsp;The bill makes this requirement permanent.</p>",
+      "updateDate": "2025-03-18T20:53:32Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-02-10",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Ending Improper Payments to Deceased People Act</strong></p><p>This act permanently allows the Department of the Treasury to access certain death records maintained by the Social Security Administration (SSA) to help prevent and recover improper payments (e.g., payments&nbsp;to deceased individuals).&nbsp;The act also establishes evidentiary requirements the SSA must meet before identifying an individual as deceased.</p><p>Current law requires the&nbsp;SSA to share its Death Master File with the Do Not Pay system maintained by Treasury for three years.&nbsp;The act makes this requirement permanent.&nbsp;Treasury must enter into an agreement with the SSA related to Treasury's share of the cost of state death data.</p><p>The act also prohibits the SSA from recording a death in the master file unless the SSA has clear and convincing evidence that the individual should be presumed deceased. If an individual is incorrectly identified as deceased and provides the SSA with supporting documentation, the SSA may notify certain agencies that have access to the master file, including Treasury and federal or state agencies that provide or disburse federally funded benefits.</p>",
+      "updateDate": "2026-06-25T19:06:32Z",
+      "versionCode": "49"
+    }
+  ]
+}

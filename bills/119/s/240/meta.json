@@ -1,0 +1,118 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-93",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/93?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-24",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "actionTime": "16:18:07",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/240",
+    "number": "240",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000618",
+        "firstName": "Steve",
+        "fullName": "Sen. Daines, Steve [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Daines",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/text?format=json"
+    },
+    "title": "Crow Tribe Water Rights Settlement Amendments Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/240/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-04T05:06:23Z",
+    "updateDateIncludingText": "2026-07-17T02:27:59Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001232",
+      "firstName": "Tim",
+      "fullName": "Sen. Sheehy, Tim [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sheehy",
+      "party": "R",
+      "sponsorshipDate": "2025-01-24",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-11-04T16:12:20Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T19:30:04Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-24T15:30:23Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-24",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Crow Tribe Water Rights Settlement Amendments Act of 2025</strong></p><p>This bill revises the water rights settlement agreement entered into by the Crow Tribe of Montana and Montana.</p><p>The Crow Tribe Water Rights Settlement Act of 2010 ratified, authorized, and confirmed the water rights compact between the tribe and Montana. Among other provisions, this settlement act authorized the Bureau of Reclamation to plan, design and construct the following two major projects on the Crow Reservation: (1) the rehabilitation and improvement of the Crow Irrigation Project (CIP); and (2) the planning, design, and construction of the MR&amp;I System (the municipal, rural, and industrial water system of the Crow Reservation).</p><p>Among other provisions, the bill revises the settlement act to</p><ul><li>replace references to the <em>MR&amp;I System</em> with <em>MR&amp;I Projects</em>;&nbsp;</li><li>establish a nontrust, interest-bearing account&nbsp;(to be known as the Crow&nbsp;CIP Implementation Account) to allow Reclamation to continue to work on the rehabilitation of the CIP;&nbsp;</li><li>create a new MR&amp;I Projects Account, through which the tribe must use funds for activities related to water production, treatment, or delivery infrastructure; and</li><li>extend by five years (to 2030) the period during which the tribe has the exclusive right to construct hydropower facilities on the Yellowtail&nbsp;Afterbay Dam in Montana.</li></ul>",
+      "updateDate": "2025-06-09T19:39:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "status": {
+    "actions": {
+      "count": 25,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on July 30, 2025",
+        "pubDate": "2025-09-10T18:52:00Z",
+        "title": "S. 2393, Fiscal Year 2026 Veterans Affairs Major Medical Facility Authorization Act ",
+        "url": "https://www.cbo.gov/publication/61661"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Became Public Law No: 119-97."
+    },
+    "laws": [
+      {
+        "number": "119-97",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2393",
+    "number": "2393",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000934",
+        "firstName": "Jerry",
+        "fullName": "Sen. Moran, Jerry [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Moran",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M000934?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/text?format=json"
+    },
+    "title": "Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2393/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-23T20:01:53Z",
+    "updateDateIncludingText": "2026-07-17T02:27:53Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T19:37:52Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T20:00:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T15:46:46Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-12-17",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act</strong></p><p>This bill authorizes the Department of Veterans Affairs to carry out a major medical facility project in St. Louis, Missouri, during FY2026.</p><p>The bill specifies the maximum amount that may be spent on the project and details that the project consists of the construction of a new bed tower, clinical building expansion, consolidated administrative building and warehouse, utility plant, and parking garages.</p>",
+      "updateDate": "2026-05-13T21:49:44Z",
+      "versionCode": "55"
+    },
+    {
+      "actionDate": "2026-06-09",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act</strong></p><p>This act authorizes the Department of Veterans Affairs to carry out a major medical facility project in St. Louis, Missouri, during FY2026.</p><p>The act specifies the maximum amount that may be spent on the project and details that the project consists of the construction of a new bed tower, clinical building expansion, consolidated administrative building and warehouse, utility plant, and parking garages.</p>",
+      "updateDate": "2026-06-23T20:01:44Z",
+      "versionCode": "49"
+    }
+  ]
+}

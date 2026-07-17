@@ -1,0 +1,93 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/603/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/603/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/603/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "actionTime": "16:38:45",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/603",
+    "number": "603",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000384",
+        "firstName": "Timothy",
+        "fullName": "Sen. Kaine, Tim [D-VA]",
+        "isByRequest": "N",
+        "lastName": "Kaine",
+        "middleName": "M.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/K000384?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/603/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/603/text?format=json"
+    },
+    "title": "A bill to designate the General George C. Marshall House in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/603/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-28T20:03:32Z",
+    "updateDateIncludingText": "2026-07-17T07:39:21Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-13",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000805?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T16:16:55Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-13T20:41:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ]
+}

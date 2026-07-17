@@ -1,0 +1,144 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-21",
+    "latestAction": {
+      "actionDate": "2025-06-23",
+      "actionTime": "15:28:39",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/154",
+    "number": "154",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H000273",
+        "firstName": "John",
+        "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Hickenlooper",
+        "middleName": "W.",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/text?format=json"
+    },
+    "title": "Colorado River Basin System Conservation Extension Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/154/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-07-16T20:37:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001261",
+      "firstName": "John",
+      "fullName": "Sen. Barrasso, John [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrasso",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    },
+    {
+      "bioguideId": "C001114",
+      "firstName": "John",
+      "fullName": "Sen. Curtis, John R. [R-UT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Curtis",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/C001114?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "B001267",
+      "firstName": "Michael",
+      "fullName": "Sen. Bennet, Michael F. [D-CO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Bennet",
+      "party": "D",
+      "sponsorshipDate": "2025-01-21",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B001267?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-18T17:23:05Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-21T16:27:30Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-21",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Colorado River Basin System Conservation Extension Act</strong></p><p>This bill extends through FY2026 the Bureau of Reclamation's pilot projects&nbsp;to increase water levels in the Upper Colorado River Basin and Lake Mead due to drought conditions.</p>",
+      "updateDate": "2025-05-02T14:12:32Z",
+      "versionCode": "00"
+    }
+  ]
+}

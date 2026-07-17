@@ -1,0 +1,289 @@
+{
+  "status": {
+    "actions": {
+      "count": 30,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-05-09",
+      "text": "Became Public Law No: 119-10."
+    },
+    "laws": [
+      {
+        "number": "119-10",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/18",
+    "number": "18",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001184",
+        "firstName": "Tim",
+        "fullName": "Sen. Scott, Tim [R-SC]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/S001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/text?format=json"
+    },
+    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/18/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-02-25T09:06:18Z",
+    "updateDateIncludingText": "2026-07-17T07:44:54Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    },
+    {
+      "bioguideId": "H000601",
+      "firstName": "Bill",
+      "fullName": "Sen. Hagerty, Bill [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hagerty",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/H000601?format=json"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/C000880?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/R000584?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    },
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2025-02-13",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-02-19",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "T000250",
+      "firstName": "John",
+      "fullName": "Sen. Thune, John [R-SD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thune",
+      "party": "R",
+      "sponsorshipDate": "2025-03-12",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/T000250?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-26T20:23:35Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-13T16:08:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau titled <em>Overdraft Lending: Very Large Financial Institutions</em> and published on December 30, 2024. The rule revises provisions regarding charges for insufficient funds in a customer\u2019s bank account (i.e., overdrafts) at very large financial institutions. Under&nbsp;the rule, these institutions must (1) cap overdraft charges at $5; (2) with justification, cap charges at a higher amount; or (3) handle overdrafts as credit and comply with applicable Truth in Lending Act disclosure requirements.</p>",
+      "updateDate": "2025-03-28T15:10:11Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-05-09",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau titled <em>Overdraft Lending: Very Large Financial Institutions</em> and published on December 30, 2024. The rule revises provisions regarding charges for insufficient funds in a customer\u2019s bank account (i.e., overdrafts) at very large financial institutions. Under&nbsp;the rule, these institutions must (1) cap overdraft charges at $5; (2) with justification, cap charges at a higher amount; or (3) handle overdrafts as credit and comply with applicable Truth in Lending Act disclosure requirements.</p>",
+      "updateDate": "2025-08-26T19:05:52Z",
+      "versionCode": "49"
+    }
+  ]
+}

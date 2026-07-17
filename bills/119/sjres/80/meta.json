@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 28,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-18",
+    "latestAction": {
+      "actionDate": "2025-12-05",
+      "text": "Became Public Law No: 119-47."
+    },
+    "laws": [
+      {
+        "number": "119-47",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
+    "number": "80",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/text?format=json"
+    },
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/80/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-06-16T19:15:34Z",
+    "updateDateIncludingText": "2026-07-17T07:45:35Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-09-18",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-28T23:00:27Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-09-18T14:31:17Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-30",
+      "actionDesc": "Passed Senate",
+      "text": "<p>This joint resolution nullifies the rule submitted by the Bureau of Land Management (BLM) titled <em>National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision&nbsp;</em>and issued on April 25, 2022. BLM's plan provides for the management of the National Petroleum Reserve in Alaska, which is an approximately 23-million-acre area on Alaska\u2019s North Slope. The&nbsp;2022 plan replaced the 2020 plan and closed approximately 48% of the reserve to oil and gas leasing&nbsp;in order to protect certain surface resources and uses, such as protecting wildlife and providing subsistence&nbsp;for communities. Thus, the joint resolution removes the protections provided under the 2022 plan and reverts to the 2020 plan.</p>",
+      "updateDate": "2025-11-17T18:05:01Z",
+      "versionCode": "55"
+    },
+    {
+      "actionDate": "2025-12-05",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution reopens portions of the National Petroleum Reserve for oil and gas leasing. (The reserve is an approximately 23-million-acre area on Alaska\u2019s North Slope.)</p><p>Specifically, the joint resolution nullifies a plan submitted by the Bureau of Land Management&nbsp;in a rule titled <em>National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision&nbsp;</em>and issued on April 25, 2022. The&nbsp;2022 plan replaced the 2020 plan and closed approximately 48% of the reserve to oil and gas leasing&nbsp;in order to protect certain surface resources and uses, such as protecting wildlife and providing subsistence&nbsp;for communities. Thus, the joint resolution removes the protections provided under the 2022 plan and reverts to the 2020 plan.</p>",
+      "updateDate": "2026-06-16T19:15:29Z",
+      "versionCode": "49"
+    }
+  ]
+}

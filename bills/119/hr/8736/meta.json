@@ -1,0 +1,154 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 80 (Tuesday, May 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GROTHMAN:\nH.R. 8736.\nCongress has the power to enact this legislation pursuant\nto the following:\nArtl.S8.C1.2.7\n[Page H3393]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8736",
+    "number": "8736",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000576",
+        "district": 6,
+        "firstName": "Glenn",
+        "fullName": "Rep. Grothman, Glenn [R-WI-6]",
+        "isByRequest": "N",
+        "lastName": "Grothman",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/G000576?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/text?format=json"
+    },
+    "title": "Restoration of Employment Choice for Adults with Disabilities Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8736/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T19:06:22Z",
+    "updateDateIncludingText": "2026-07-16T19:06:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000812",
+      "district": 2,
+      "firstName": "Ann",
+      "fullName": "Rep. Wagner, Ann [R-MO-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wagner",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/W000812?format=json"
+    },
+    {
+      "bioguideId": "O000086",
+      "district": 4,
+      "firstName": "Burgess",
+      "fullName": "Rep. Owens, Burgess [R-UT-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Owens",
+      "party": "R",
+      "sponsorshipDate": "2026-05-12",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/O000086?format=json"
+    },
+    {
+      "bioguideId": "F000471",
+      "district": 5,
+      "firstName": "Scott",
+      "fullName": "Rep. Fitzgerald, Scott [R-WI-5]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fitzgerald",
+      "party": "R",
+      "sponsorshipDate": "2026-05-13",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/F000471?format=json"
+    },
+    {
+      "bioguideId": "S001213",
+      "district": 1,
+      "firstName": "Bryan",
+      "fullName": "Rep. Steil, Bryan [R-WI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Steil",
+      "party": "R",
+      "sponsorshipDate": "2026-05-19",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/S001213?format=json"
+    },
+    {
+      "bioguideId": "B001301",
+      "district": 1,
+      "firstName": "Jack",
+      "fullName": "Rep. Bergman, Jack [R-MI-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bergman",
+      "party": "R",
+      "sponsorshipDate": "2026-06-02",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001301?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-21T20:06:21Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2026-05-12T16:04:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsed00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-05-12",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Restoration of Employment Choice for Adults with Disabilities Act</strong></p><p>This bill relaxes requirements that allow entities with a special wage certificate to pay subminimum wages to individuals with disabilities.</p><p>Specifically, the bill eliminates a requirement that an individual with a disability who is age 24 or younger receive pre-employment transition services and meet specified vocational rehabilitation criteria before beginning subminimum wage work.</p><p>The bill also relaxes career counseling and service referral requirements that apply to an individual with a disability who is paid at a subminimum wage. Current law requires an entity to ensure that an individual employed at subminimum wage receives periodic career counseling, information, and referrals to other services from the designated state agency. Under the bill, this requirement is met if the employer makes a documented effort to contact the state agency for those resources on behalf of the employee, and the state agency subsequently fails to provide the counseling, information, and referrals.</p>",
+      "updateDate": "2026-06-08T19:25:29Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-01-16",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/145",
+    "number": "145",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000584",
+        "firstName": "James",
+        "fullName": "Sen. Risch, James E. [R-ID]",
+        "isByRequest": "N",
+        "lastName": "Risch",
+        "middleName": "E.",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/R000584?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/text?format=json"
+    },
+    "title": "Dismantle Iran\u2019s Proxy Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/145/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-04-05T11:03:16Z",
+    "updateDateIncludingText": "2026-07-16T20:36:02Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000437",
+      "firstName": "Roger",
+      "fullName": "Sen. Wicker, Roger F. [R-MS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wicker",
+      "middleName": "F.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    },
+    {
+      "bioguideId": "C001095",
+      "firstName": "Tom",
+      "fullName": "Sen. Cotton, Tom [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cotton",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001095?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "G000359",
+      "firstName": "Lindsey",
+      "fullName": "Sen. Graham, Lindsey [R-SC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graham",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/G000359?format=json"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "ID",
+      "url": "https://api.congress.gov/v3/member/C000880?format=json"
+    },
+    {
+      "bioguideId": "H000601",
+      "firstName": "Bill",
+      "fullName": "Sen. Hagerty, Bill [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hagerty",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/H000601?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "C001075",
+      "firstName": "Bill",
+      "fullName": "Sen. Cassidy, Bill [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cassidy",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/C001075?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "B001236",
+      "firstName": "John",
+      "fullName": "Sen. Boozman, John [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boozman",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/B001236?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2025-01-17",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "H001061",
+      "firstName": "John",
+      "fullName": "Sen. Hoeven, John [R-ND]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hoeven",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/H001061?format=json"
+    },
+    {
+      "bioguideId": "T000250",
+      "firstName": "John",
+      "fullName": "Sen. Thune, John [R-SD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thune",
+      "party": "R",
+      "sponsorshipDate": "2025-01-21",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/T000250?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-01-22",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "H001104",
+      "firstName": "Jon",
+      "fullName": "Sen. Husted, Jon [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Husted",
+      "party": "R",
+      "sponsorshipDate": "2025-04-04",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/H001104?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-01-16T22:26:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Foreign Relations Committee",
+      "systemCode": "ssfr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-16",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Dismantle Iran\u2019s Proxy Act of 2025</strong></p><p>This bill requires the President to take actions against Ansarallah, the Iran-backed movement in Yemen also known as the Houthis.</p><p>Specifically, the bill requires the President to designate Ansarallah as a foreign terrorist organization. (Among other things, such a designation allows the Department of the Treasury to require U.S. financial institutions to block transactions involving the organization.) &nbsp;</p><p>The President must also (1) impose property blocking sanctions on Ansarallah and any foreign person who is an official, agent, or affiliate of the organization; (2) submit to Congress a determination as to whether three specified individuals are officials, agents, or affiliates of Ansarallah; and (3) submit to Congress a strategy to degrade the offensive capabilities of Ansarallah and to restore freedom of navigation in the Red Sea and nearby waterways.</p>",
+      "updateDate": "2025-04-02T17:02:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

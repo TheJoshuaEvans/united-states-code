@@ -1,0 +1,124 @@
+{
+  "status": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 69 (Thursday, April 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MACE:\nH.R. 2985.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution.\n[Page H1624]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-24",
+    "latestAction": {
+      "actionDate": "2026-02-04",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2985",
+    "number": "2985",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000194",
+        "district": 1,
+        "firstName": "Nancy",
+        "fullName": "Rep. Mace, Nancy [R-SC-1]",
+        "isByRequest": "N",
+        "lastName": "Mace",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/M000194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/text?format=json"
+    },
+    "title": "Modernizing Government Technology Reform Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2985/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T22:29:45Z",
+    "updateDateIncludingText": "2026-07-16T22:29:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001078",
+      "district": 11,
+      "firstName": "Gerald",
+      "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Connolly",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-24",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/C001078?format=json"
+    },
+    {
+      "bioguideId": "B001313",
+      "district": 11,
+      "firstName": "Shontel",
+      "fullName": "Rep. Brown, Shontel M. [D-OH-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brown",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-07",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001313?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-02-04T14:56:22Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-04-24T15:00:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsgo00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-24",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Modernizing Government Technology Reform Act</strong></p><p>This bill reauthorizes through 2032 and revises the Technology Modernization Fund (TMF). (The TMF is a revolving fund administered by the General Services Administration to  improve information technology and enhance cybersecurity across the federal government.)&nbsp;</p><p>Changes to the TMF include</p><ul><li>requiring the Office of the Federal Chief Information Officer to annually submit to Congress (1) a list of the 10 legacy information technology (IT) systems that present the greatest security, privacy, and operational risks to the federal government; and (2) each federal agency's list of high-risk legacy IT systems;</li><li>authorizing TMF funding for IT projects that improve the ability of the agency to perform its mission and deliver services to the public;</li><li>additional requirements for agencies that receive funds to reimburse the TMF (for example, funds used for services or work in direct support of a project must be fully reimbursed); and</li><li>revising the criteria by which agency proposals for TMF funding are evaluated to include the (1) impact of modernizing, retiring, or replacing legacy IT systems; and (2) ability of an agency to repay funds provided.</li></ul>",
+      "updateDate": "2026-07-16T22:28:47Z",
+      "versionCode": "00"
+    }
+  ]
+}

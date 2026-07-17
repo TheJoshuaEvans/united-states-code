@@ -1,0 +1,138 @@
+{
+  "status": {
+    "actions": {
+      "count": 25,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on June 25, 2025",
+        "pubDate": "2025-08-15T20:02:00Z",
+        "title": "S. 254, ARTIST Act",
+        "url": "https://www.cbo.gov/publication/61684"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-73",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/73?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-24",
+    "latestAction": {
+      "actionDate": "2026-06-12",
+      "text": "Became Public Law No: 119-99."
+    },
+    "laws": [
+      {
+        "number": "119-99",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/254",
+    "number": "254",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/text?format=json"
+    },
+    "title": "ARTIST Act",
+    "titles": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/254/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-22T16:55:33Z",
+    "updateDateIncludingText": "2026-07-17T02:28:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-01-24",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-06T19:39:26Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T14:38:12Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-24T21:44:01Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-24",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Alaska\u2019s Right To Ivory Sales and Tradition Act or the ARTIST Act</strong></p><p>This bill prohibits states from imposing bans on marine mammal products produced by Alaska Natives.</p><p>Specifically, states may not prohibit the importation, sale, transfer, trade, barter, or possession of marine mammal ivory, marine mammal bone, or baleen legally produced by an Alaska Native as an authentic Alaska Native article of handicrafts and clothing.</p>",
+      "updateDate": "2025-06-04T18:38:56Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2026-06-12",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Alaska\u2019s Right to Ivory Sales and Tradition Act or the ARTIST Act</strong></p><p>This act prohibits states from imposing bans on marine mammal products produced by Alaska Natives.</p><p>Specifically, states may not prohibit the interstate commerce, importation, sale, transfer, trade, barter, or possession of marine mammal ivory, marine mammal bone, or baleen legally produced by an Alaska Native as an authentic Alaska Native article of handicrafts and clothing.</p>",
+      "updateDate": "2026-06-22T16:54:58Z",
+      "versionCode": "49"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4265/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4265/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-26",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4265",
+    "number": "4265",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4265/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H000601",
+        "firstName": "Bill",
+        "fullName": "Sen. Hagerty, Bill [R-TN]",
+        "isByRequest": "N",
+        "lastName": "Hagerty",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/H000601?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4265/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4265/text?format=json"
+    },
+    "title": "Freedom to Build Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4265/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T14:14:39Z",
+    "updateDateIncludingText": "2026-07-16T14:14:39Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-26T21:15:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ]
+}

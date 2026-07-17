@@ -1,0 +1,75 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5004/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5004/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5004/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5004",
+    "number": "5004",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "S001203",
+        "firstName": "Tina",
+        "fullName": "Sen. Smith, Tina [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001203?format=json"
+      }
+    ],
+    "title": "A bill to amend the Employee Retirement Income Security Act of 1974 to require a group health plan (or health insurance coverage offered in connection with such a plan) to provide for cost-sharing for oral anticancer drugs on terms no less favorable than the cost-sharing provided for anticancer medications administered by a health care provider.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5004/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:25Z",
+    "updateDateIncludingText": "2026-07-16T10:56:25Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000934?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T21:24:23Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "status": {
+    "actions": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-27",
+    "latestAction": {
+      "actionDate": "2026-02-18",
+      "text": "Became Public Law No: 119-79."
+    },
+    "laws": [
+      {
+        "number": "119-79",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3705",
+    "number": "3705",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000476",
+        "firstName": "Thomas",
+        "fullName": "Sen. Tillis, Thomas [R-NC]",
+        "isByRequest": "N",
+        "lastName": "Tillis",
+        "middleName": "Roland",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/T000476?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/text?format=json"
+    },
+    "title": "Semiquincentennial Congressional Time Capsule Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3705/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-29T19:10:37Z",
+    "updateDateIncludingText": "2026-07-17T07:25:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2026-01-27",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2026-01-27",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "P000145",
+      "firstName": "Alex",
+      "fullName": "Sen. Padilla, Alex [D-CA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Padilla",
+      "party": "D",
+      "sponsorshipDate": "2026-01-27",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/P000145?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-27",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Semiquincentennial Congressional Time Capsule Act</strong></p><p>This bill requires the Architect of the Capitol to create a congressional time capsule in honor of the 250<sup>th</sup> anniversary of the Declaration of Independence to be buried in the Capitol Visitor Center on or before July 4, 2026. The time capsule shall contain a joint letter from congressional leadership and such other contents as they shall determine. The time capsule shall be sealed until July 4, 2276.&nbsp;</p>",
+      "updateDate": "2026-02-05T20:16:06Z",
+      "versionCode": "55"
+    },
+    {
+      "actionDate": "2026-02-18",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Semiquincentennial Congressional Time Capsule Act</strong></p><p>This act requires the Architect of the Capitol to create a congressional time capsule in honor of the 250<sup>th</sup> anniversary of the Declaration of Independence to be buried in the Capitol Visitor Center on or before July 4, 2026.</p><p>The time capsule shall contain a joint letter from congressional leadership (the Speaker and Minority Leader of the House of Representatives and the Majority and Minority Leaders of the Senate)&nbsp;and such other contents as they shall determine.&nbsp;</p><p>The act directs the Architect of the Capitol to also install a plaque about the time capsule, subject to the approval of the Committee on House Administration of the House&nbsp;and the&nbsp;Committee on Rules and Administration of the Senate.</p><p>The time capsule shall be sealed until July 4, 2276. On that date, the Speaker of the House and the Senate Majority Leader&nbsp;shall present the time capsule to the 244th Congress.&nbsp;</p>",
+      "updateDate": "2026-06-29T19:10:20Z",
+      "versionCode": "49"
+    }
+  ]
+}

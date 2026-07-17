@@ -1,0 +1,78 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2232/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2232/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-09",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "actionTime": "10:33:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2232",
+    "number": "2232",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000133",
+        "firstName": "Edward",
+        "fullName": "Sen. Markey, Edward J. [D-MA]",
+        "isByRequest": "N",
+        "lastName": "Markey",
+        "middleName": "J.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/2232/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2232/text?format=json"
+    },
+    "title": "Expanding the Surety Bond Program Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2232/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-05T08:05:49Z",
+    "updateDateIncludingText": "2026-07-17T08:45:19Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-07-30T22:50:23Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-16T18:40:56Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-09T22:18:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    }
+  ]
+}

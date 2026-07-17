@@ -6,8 +6,8 @@
     },
     "congress": 119,
     "cosponsors": {
-      "count": 19,
-      "countIncludingWithdrawnCosponsors": 19,
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
       "url": "https://api.congress.gov/v3/bill/119/s/4378/cosponsors?format=json"
     },
     "introducedDate": "2026-04-22",
@@ -52,8 +52,8 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4378/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-15T11:03:24Z",
-    "updateDateIncludingText": "2026-07-15T11:03:24Z"
+    "updateDate": "2026-07-16T11:03:22Z",
+    "updateDateIncludingText": "2026-07-16T11:03:22Z"
   },
   "cosponsors": [
     {
@@ -268,6 +268,28 @@
       "sponsorshipDate": "2026-07-14",
       "state": "WY",
       "url": "https://api.congress.gov/v3/member/B001261?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
     }
   ]
 }

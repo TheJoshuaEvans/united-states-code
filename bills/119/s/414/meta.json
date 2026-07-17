@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/414/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Commerce, Science, and Transportation on \nJune 24, 2025\n",
+        "pubDate": "2025-07-29T18:45:00Z",
+        "title": "S. 414, ADS for Mental Health Services Act",
+        "url": "https://www.cbo.gov/publication/61599"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-32",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/32?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/414/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/414/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "actionTime": "12:25:33",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/414",
+    "number": "414",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/414/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/414/text?format=json"
+    },
+    "title": "ADS for Mental Health Services Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/414/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-04T04:11:38Z",
+    "updateDateIncludingText": "2026-07-17T07:29:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-02-05",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-24T19:08:08Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-12T14:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-05T19:44:44Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

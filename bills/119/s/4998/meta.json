@@ -1,0 +1,57 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4998/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4998/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4998",
+    "number": "4998",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "P000603",
+        "firstName": "Rand",
+        "fullName": "Sen. Paul, Rand [R-KY]",
+        "isByRequest": "N",
+        "lastName": "Paul",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/P000603?format=json"
+      }
+    ],
+    "title": "A bill to amend the Foreign Intelligence Surveillance Act of 1978 to prohibit the use of authorities under such Act to surveil United States persons and to prohibit the use of information acquired under such Act in any criminal, civil, or administrative proceeding or as part of any criminal, civil, or administrative investigation.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4998/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:20Z",
+    "updateDateIncludingText": "2026-07-16T10:56:20Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T20:29:59Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-08",
+    "latestAction": {
+      "actionDate": "2025-10-10",
+      "actionTime": "12:33:05",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1333",
+    "number": "1333",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001056",
+        "firstName": "John",
+        "fullName": "Sen. Cornyn, John [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cornyn",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/text?format=json"
+    },
+    "title": "Strengthening Child Exploitation Enforcement Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1333/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-24T19:35:52Z",
+    "updateDateIncludingText": "2026-07-16T20:34:58Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2025-04-08",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/B001288?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-09-19",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-30T01:49:10Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-08T16:46:19Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-29",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>Strengthening Child Exploitation Enforcement Act</strong></p><p>This bill makes changes to federal criminal laws related to various offenses, particularly sexual abuse offenses against minors.</p><p>The bill revises the federal kidnapping statute by specifying that obtaining a victim by defrauding or deceiving a third party constitutes the offense of kidnapping.&nbsp;Additionally, for a kidnapping offense that involves a victim who has not attained the age of 16, the bill specifies that it is not a defense that the victim consented to the conduct of the offender, unless the offender establishes by a preponderance of the evidence that the offender reasonably believed that the victim had attained the age of 16.</p><p>The bill also revises statutes related to sexual abuse offenses against minors to specify the following:</p><ul><li>that crossing international lines with the intent to engage in a sexual act with a child who has not attained the age of 12 constitutes aggravated sexual abuse (currently, the statute only references crossing state lines),</li><li>that the offense of sexual abuse of a minor also includes knowingly causing the intentional touching of any person by a person who has not attained the age of 16, and</li><li>that attempting to commit abusive sexual contact is also a crime that is subject to the same penalty as the completed offense.</li></ul>",
+      "updateDate": "2026-03-24T19:35:06Z",
+      "versionCode": "55"
+    }
+  ]
+}

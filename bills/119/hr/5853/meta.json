@@ -48,6 +48,10 @@
       "count": 5,
       "url": "https://api.congress.gov/v3/bill/119/hr/5853/subjects?format=json"
     },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5853/summaries?format=json"
+    },
     "textVersions": {
       "count": 1,
       "url": "https://api.congress.gov/v3/bill/119/hr/5853/text?format=json"
@@ -58,8 +62,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/5853/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-14T21:53:19Z",
-    "updateDateIncludingText": "2026-07-14T21:53:19Z"
+    "updateDate": "2026-07-16T13:08:00Z",
+    "updateDateIncludingText": "2026-07-16T13:08:00Z"
   },
   "cosponsors": [
     {
@@ -105,6 +109,15 @@
       "systemCode": "hsfa00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsfa00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-10-28",
+      "actionDesc": "Introduced in House",
+      "text": "<p>This bill increases civil penalties for&nbsp;violations of U.S. export control laws.&nbsp;</p><p>Specifically, the bill increases the maximum statutory civil penalty for each violation of any regulation, order, or license issued under the Export Control Reform Act of 2018 (ECRA) to $1.2 million or four times the value of the transaction, whichever is greater. (Currently, the maximum statutory civil penalty for each violation of ECRA is&nbsp;$300,000 or twice the value of the transaction, whichever is greater. The Department of Commerce's Bureau of Industry and Security adjusts this maximum amount annually for inflation.)</p>",
+      "updateDate": "2026-07-16T13:07:42Z",
+      "versionCode": "00"
     }
   ]
 }

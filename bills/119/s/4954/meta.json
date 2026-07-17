@@ -9,6 +9,11 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4954/committees?format=json"
     },
     "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4954/cosponsors?format=json"
+    },
     "introducedDate": "2026-07-13",
     "latestAction": {
       "actionDate": "2026-07-13",
@@ -36,9 +41,33 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4954/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-14T10:56:20Z",
-    "updateDateIncludingText": "2026-07-14T10:56:20Z"
+    "updateDate": "2026-07-16T10:56:26Z",
+    "updateDateIncludingText": "2026-07-16T10:56:26Z"
   },
+  "cosponsors": [
+    {
+      "bioguideId": "T000278",
+      "firstName": "Tommy",
+      "fullName": "Sen. Tuberville, Tommy [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tuberville",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/T000278?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    }
+  ],
   "committees": [
     {
       "activities": [

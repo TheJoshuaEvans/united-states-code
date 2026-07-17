@@ -1,0 +1,164 @@
+{
+  "status": {
+    "actions": {
+      "count": 31,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-05-09",
+      "text": "Became Public Law No: 119-11."
+    },
+    "laws": [
+      {
+        "number": "119-11",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/28",
+    "number": "28",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000618",
+        "firstName": "Pete",
+        "fullName": "Sen. Ricketts, Pete [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Ricketts",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/R000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/text?format=json"
+    },
+    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/28/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2025-12-05T21:43:54Z",
+    "updateDateIncludingText": "2026-07-17T07:45:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-02-27",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    },
+    {
+      "bioguideId": "H000601",
+      "firstName": "Bill",
+      "fullName": "Sen. Hagerty, Bill [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hagerty",
+      "party": "R",
+      "sponsorshipDate": "2025-03-03",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/H000601?format=json"
+    },
+    {
+      "bioguideId": "F000463",
+      "firstName": "Deb",
+      "fullName": "Sen. Fischer, Deb [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fischer",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000463?format=json"
+    },
+    {
+      "bioguideId": "S001184",
+      "firstName": "Tim",
+      "fullName": "Sen. Scott, Tim [R-SC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-03-04",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/S001184?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-04T20:39:11Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-27T19:07:04Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau (CFPB) titled <em>Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications</em> and published on December 10, 2024. The rule defines larger participants in the general-use digital consumer payment application market (i.e., payment apps) that are subject to&nbsp;CFPB supervisory authority. The rule defines larger participants in this market as nonbanks (1) with an annual volume of at least 50 million transactions, and (2) that are not small business concerns.</p>",
+      "updateDate": "2025-03-04T17:08:42Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-05-09",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau (CFPB) titled <em>Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications</em> and published on December 10, 2024. The rule defines larger participants in the general-use digital consumer payment application market (i.e., payment apps) that are subject to&nbsp;CFPB supervisory authority. The rule defines larger participants in this market as nonbanks (1) with an annual volume of at least 50 million transactions, and (2) that are not small business concerns.</p>",
+      "updateDate": "2025-08-26T19:06:49Z",
+      "versionCode": "49"
+    }
+  ]
+}

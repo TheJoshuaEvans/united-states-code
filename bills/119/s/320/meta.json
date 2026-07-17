@@ -1,0 +1,126 @@
+{
+  "status": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on April 30, 2025",
+        "pubDate": "2025-06-24T19:55:00Z",
+        "title": "S. 320, National Earthquake Hazard Reduction Program Reauthorization Act of 2025",
+        "url": "https://www.cbo.gov/publication/61513"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-74",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/74?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-29",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "actionTime": "12:07:50",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/320",
+    "number": "320",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000145",
+        "firstName": "Alex",
+        "fullName": "Sen. Padilla, Alex [D-CA]",
+        "isByRequest": "N",
+        "lastName": "Padilla",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/P000145?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/text?format=json"
+    },
+    "title": "National Earthquake Hazards Reduction Program Reauthorization Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/320/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T05:06:23Z",
+    "updateDateIncludingText": "2026-07-17T02:33:45Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001153",
+      "firstName": "Lisa",
+      "fullName": "Sen. Murkowski, Lisa [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Murkowski",
+      "party": "R",
+      "sponsorshipDate": "2025-01-29",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/M001153?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-14T19:23:25Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-04-30T14:00:02Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-29T22:40:21Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-01-05",
+      "actionDesc": "Passed Senate",
+      "text": "<p><strong>National Earthquake Hazards Reduction Program Reauthorization Act of 2025</strong></p><p>This bill reauthorizes through FY2028 the National Earthquake Hazards Reduction Program (NEHRP) and expands the activities federal agencies must conduct under the program, including activities relating to secondary effects of earthquakes and post-earthquake infrastructure performance.&nbsp;</p><p>NEHRP is a coordinated earthquake hazards reduction program of four federal agencies: the National Institute of Standards and Technology, the U.S. Geological Survey, the Federal Emergency Management Agency, and the National Science Foundation. Under NEHRP, these agencies are required to conduct various activities relating to earthquakes, including advancing warning systems, hazard reduction measures, and research to improve understanding of earthquakes and their effects.</p><p>The bill expands the scope of the activities under NEHRP, including requiring the agencies to&nbsp;</p><ul><li>improve understanding of and develop resilience measures for secondary effects and multiple hazards associated with earthquakes, such as tsunamis and fires;</li><li>improve post-earthquake functional recovery, which means maintaining or restoring the pre-earthquake functionality of buildings and lifeline infrastructure systems (e.g., infrastructure for water, electricity, and transportation); and</li><li>assist public entities with developing an inventory, and conducting seismic performance evaluation, of infrastructure with high seismic risk.&nbsp;</li></ul><p>Additionally, the bill specifically includes tribal governments in the activities conducted under NEHRP.</p>",
+      "updateDate": "2026-04-13T12:08:48Z",
+      "versionCode": "55"
+    }
+  ]
+}

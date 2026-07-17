@@ -1,0 +1,99 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/s/4138/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4138/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-18",
+    "latestAction": {
+      "actionDate": "2026-03-20",
+      "text": "Became Public Law No: 119-80."
+    },
+    "laws": [
+      {
+        "number": "119-80",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4138",
+    "number": "4138",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000437",
+        "firstName": "Roger",
+        "fullName": "Sen. Wicker, Roger F. [R-MS]",
+        "isByRequest": "N",
+        "lastName": "Wicker",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/W000437?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4138/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4138/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/4138/text?format=json"
+    },
+    "title": "A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States Army.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4138/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-08T20:56:00Z",
+    "updateDateIncludingText": "2026-07-17T07:29:52Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-18",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    },
+    {
+      "bioguideId": "S001217",
+      "firstName": "Rick",
+      "fullName": "Sen. Scott, Rick [R-FL]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2026-03-18",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001217?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-03-20",
+      "actionDesc": "Public Law",
+      "text": "<p>This act allows for the posthumous honorary promotion of Captain Cody Khork to the rank of major in the Army without the required 60-day notice to Congress.</p>",
+      "updateDate": "2026-04-08T20:53:10Z",
+      "versionCode": "49"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5007/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5007/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5007/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5007",
+    "number": "5007",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "K000367",
+        "firstName": "Amy",
+        "fullName": "Sen. Klobuchar, Amy [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Klobuchar",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/K000367?format=json"
+      }
+    ],
+    "title": "A bill to restore competition in online search and digital advertising markets, to prevent exclusionary conduct by covered platforms, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5007/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T10:56:23Z",
+    "updateDateIncludingText": "2026-07-16T10:56:23Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T22:23:32Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

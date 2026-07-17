@@ -1,0 +1,113 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "actionTime": "15:30:23",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1473",
+    "number": "1473",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000605",
+        "firstName": "Mike",
+        "fullName": "Sen. Rounds, Mike [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Rounds",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/R000605?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/text?format=json"
+    },
+    "title": "Stop Stealing our Chips Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1473/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-27T11:22:16Z",
+    "updateDateIncludingText": "2026-07-16T20:36:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-10",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000805?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-05-20T22:00:12Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-04-10T20:16:00Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-04-10",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Stop Stealing our Chips Act</strong></p><p>This bill creates a&nbsp;whistleblower incentive program and establishes whistleblower protections for individuals who provide information to the Department of Commerce's Bureau of Industry and Security (BIS) related to violations of U.S. export control laws.&nbsp;</p><p>Currently, BIS administers and enforces controls on the export of dual-use goods (e.g., items with both civilian and military uses) and certain military parts and components. These export controls are implemented primarily under the Export Control Reform Act of 2018 (ECRA) through the Export Administration Regulations.</p><p>Under the bill, BIS&nbsp;must establish a&nbsp;whistleblower incentive program to reward individuals who voluntarily report original information that results in BIS imposing fines under ECRA&nbsp;on persons that violate, attempt to violate, conspire to violate, or cause a violation of ECRA or any related regulation, order, license, or authorization.</p><p>Additionally, BIS must establish a secure online portal for whistleblowers to report violations of ECRA. The bill outlines requirements for BIS to review, investigate, and provide status updates related to these reports.</p><p>The bill authorizes&nbsp;BIS to pay an award to any whistleblower&nbsp;who voluntarily reported original information that led to the imposition of a fine under&nbsp;ECRA. The bill establishes the Export Compliance Accountability Fund for paying these awards and funding related activities.</p><p>The bill also sets forth&nbsp;whistleblower protections by (1) prohibiting retaliation against individuals who act as&nbsp;whistleblowers, and (2) establishing confidentiality requirements.</p>",
+      "updateDate": "2026-02-25T19:13:11Z",
+      "versionCode": "00"
+    }
+  ]
+}

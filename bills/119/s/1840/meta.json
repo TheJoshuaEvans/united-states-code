@@ -1,0 +1,103 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2025-05-21",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1840",
+    "number": "1840",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001076",
+        "firstName": "Maggie",
+        "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Hassan",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/H001076?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/text?format=json"
+    },
+    "title": "Retirement Investment in Small Employers Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1840/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-16T14:14:31Z",
+    "updateDateIncludingText": "2026-07-16T14:14:31Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001305",
+      "firstName": "Ted",
+      "fullName": "Sen. Budd, Ted [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Budd",
+      "party": "R",
+      "sponsorshipDate": "2025-05-21",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/B001305?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-21T18:46:51Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-05-21",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Retirement Investment in Small Employers Act&nbsp;</strong></p><p>This bill increases the federal tax credit limit for startup costs incurred by certain small businesses to establish a qualified retirement plan.</p><p>As background, a federal tax credit is allowed for 50% of the costs incurred by a small business with no more than 100 qualified employees (or 100% of such costs for a small business with no more than 50 qualified employees) to establish a qualified retirement plan. Under current law, the tax credit is limited to the greater of (1) $500, or (2) the lesser of $250 per eligible employee or $5,000. (Additional limits may apply.)</p><p>The bill increases the limit on the tax credit for retirement plan startup costs for employers with no more than 10 employees to the greater of (1) $2,500, or (2) the lesser of $250 per employee or $5,000.</p><p>For the increased tax credit limit to apply, the retirement plan established by the business must accept payment of the matching contribution under the Saver\u2019s Match program. Under the Saver's Match program, beginning in 2027, individuals that meet certain requirements are eligible to have a federal matching contribution of up to $1,000 (or $2,000 for married joint filers) deposited into a qualified retirement account.</p>",
+      "updateDate": "2026-07-16T14:12:45Z",
+      "versionCode": "00"
+    }
+  ]
+}

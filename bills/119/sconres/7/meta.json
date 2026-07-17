@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/actions?format=json"
+    },
+    "amendments": {
+      "count": 1131,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-02-21",
+      "text": "Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 48. Record Vote Number: 87. (text: CR S1119-1125)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/7",
+    "number": "7",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Economics and Public Finance"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000359",
+        "firstName": "Lindsey",
+        "fullName": "Sen. Graham, Lindsey [R-SC]",
+        "isByRequest": "N",
+        "lastName": "Graham",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/G000359?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/text?format=json"
+    },
+    "title": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/7/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2026-06-10T08:07:28Z",
+    "updateDateIncludingText": "2026-07-17T07:44:04Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-02-13T20:09:43Z",
+          "name": "Reported Original Measure"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Budget Committee",
+      "systemCode": "ssbu00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbu00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-13",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This concurrent resolution establishes the congressional budget for the federal government for FY2025, sets forth budgetary levels for FY2026-FY2034, and provides reconciliation instructions for legislation that increases or decreases the deficit by specified amounts.&nbsp;</p><p>The resolution recommends levels and amounts for FY2025-FY2034 for</p><ul><li>federal revenues,</li><li>new budget authority,</li><li>budget outlays,</li><li>deficits,</li><li>public debt,</li><li>debt held by the public, and</li><li>the major functional categories of spending.</li></ul><p>It also recommends levels and amounts for Social Security and Postal Service discretionary administrative expenses for the purpose of budget enforcement in the Senate.</p><p>The resolution includes reconciliation instructions that direct several House and Senate committees to report legislation that will increase or decrease the deficit over FY2025-FY2034 by specified amounts. The committees must submit the legislation to the applicable congressional budget committee by March 7, 2025.&nbsp;</p><p>(Under current law, reconciliation bills are considered by Congress using expedited legislative procedures that prevent a filibuster and restrict amendments in the Senate.)</p><p>In addition, the resolution establishes reserve funds that allow certain adjustments to committee allocations and other budgetary levels to accommodate (1) reconciliation legislation, and (2) legislation that would not increase the deficit over FY2025-FY2034.&nbsp;The resolution also exempts reconciliation legislation that complies with this resolution from various budget points of order.</p><p>Finally, the resolution sets forth budget enforcement procedures that address issues such as adjustments to committee allocations and the budgetary treatment of the discretionary administrative expenses for the Social Security Administration and the U.S. Postal Service.&nbsp;</p>",
+      "updateDate": "2025-02-19T15:05:07Z",
+      "versionCode": "00"
+    }
+  ]
+}

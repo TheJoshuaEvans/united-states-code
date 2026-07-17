@@ -1,0 +1,74 @@
+{
+  "status": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4164/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4164/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-23",
+    "latestAction": {
+      "actionDate": "2026-03-24",
+      "actionTime": "14:11:58",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4164",
+    "number": "4164",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4164/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000437",
+        "firstName": "Roger",
+        "fullName": "Sen. Wicker, Roger F. [R-MS]",
+        "isByRequest": "N",
+        "lastName": "Wicker",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/W000437?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4164/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4164/text?format=json"
+    },
+    "title": "A bill to make technical corrections to the National Defense Authorization Act for Fiscal Year 2026.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4164/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-22T21:06:39Z",
+    "updateDateIncludingText": "2026-07-17T07:30:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000122",
+      "firstName": "John",
+      "fullName": "Sen. Reed, Jack [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reed",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-23",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/R000122?format=json"
+    }
+  ]
+}

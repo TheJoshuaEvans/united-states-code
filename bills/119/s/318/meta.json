@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on May 21, 2025",
+        "pubDate": "2025-07-14T20:18:00Z",
+        "title": "S. 318, ANCHOR Act",
+        "url": "https://www.cbo.gov/publication/61558"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-64",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/64?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-29",
+    "latestAction": {
+      "actionDate": "2025-10-10",
+      "actionTime": "12:33:05",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/318",
+    "number": "318",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000145",
+        "firstName": "Alex",
+        "fullName": "Sen. Padilla, Alex [D-CA]",
+        "isByRequest": "N",
+        "lastName": "Padilla",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/P000145?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/text?format=json"
+    },
+    "title": "ANCHOR Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/318/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-04T05:06:13Z",
+    "updateDateIncludingText": "2026-07-17T02:33:37Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2025-01-29",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-29T19:29:15Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-05-21T16:03:32Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-29T22:38:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-29",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act or the ANCHOR Act&nbsp;</strong></p><p>This bill requires the National Science Foundation (NSF) to develop a plan to improve the cybersecurity and telecommunications capabilities of the U.S. Academic Research Fleet (ARF).</p><p>ARF is comprised of U.S.-flagged vessels that provide at-sea laboratories where oceanographic scientists, educators, and students research and learn about marine science.&nbsp;</p><p>The bill requires the plan to include assessments of</p><ul><li>telecommunications and networking needs of ARF, consistent with typical scientific missions;</li><li>cybersecurity needs appropriate for the ownership of ARF vessels and their typical research functions;</li><li>the costs necessary to meet these needs; and</li><li>the time required to implement necessary upgrades.</li></ul><p>The plan must also include (1) a spending plan for the NSF, the Office of Naval Research, nonfederal&nbsp;owners of ARF vessels,&nbsp;and users of the vessels to cover identified costs; and (2) a proposal regarding the adoption of common solutions or&nbsp;consortial licensing agreements, or the centralization of cybersecurity, telecommunications, or data management at a single facility.&nbsp;</p><p>Among other factors specified in the bill, the&nbsp;NSF must consider the network capabilities necessary to meet mission needs (e.g., to upload data to shoreside servers), international standards and guidance for information security, and requirements for controlled unclassified or classified information.&nbsp;</p><p>The plan must be provided to Congress within one year of the bill's enactment.</p>",
+      "updateDate": "2025-04-01T16:56:25Z",
+      "versionCode": "00"
+    }
+  ]
+}

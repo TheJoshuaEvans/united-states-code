@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-15",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "actionTime": "10:33:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2280",
+    "number": "2280",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000312",
+        "firstName": "James",
+        "fullName": "Sen. Justice, James C. [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Justice",
+        "middleName": "C.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/J000312?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/text?format=json"
+    },
+    "title": "A bill to transfer administrative jurisdiction over certain parcels of Federal land in Harpers Ferry, West Virginia, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2280/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-27T15:07:09Z",
+    "updateDateIncludingText": "2026-07-17T08:00:43Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-07-15",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T19:33:56Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-07-15T19:13:55Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssga00?format=json"
+    }
+  ]
+}

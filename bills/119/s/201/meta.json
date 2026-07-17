@@ -1,0 +1,155 @@
+{
+  "status": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-08-14",
+      "text": "Became Public Law No: 119-32."
+    },
+    "laws": [
+      {
+        "number": "119-32",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/201",
+    "number": "201",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000377",
+        "firstName": "Mark",
+        "fullName": "Sen. Kelly, Mark [D-AZ]",
+        "isByRequest": "N",
+        "lastName": "Kelly",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/K000377?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/text?format=json"
+    },
+    "title": "ACES Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/201/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-08T11:03:19Z",
+    "updateDateIncludingText": "2026-07-17T08:43:18Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001095",
+      "firstName": "Tom",
+      "fullName": "Sen. Cotton, Tom [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cotton",
+      "party": "R",
+      "sponsorshipDate": "2025-01-23",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001095?format=json"
+    },
+    {
+      "bioguideId": "B001299",
+      "firstName": "Jim",
+      "fullName": "Sen. Banks, Jim [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Banks",
+      "party": "R",
+      "sponsorshipDate": "2025-05-07",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/B001299?format=json"
+    },
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-05-22",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/W000805?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-06-03T22:06:46Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-03-11T14:30:02Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-03-11T14:30:02Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-01-23T15:48:26Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-23",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>ACES Act</strong></p><p>This bill requires the Department of Veterans Affairs to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to study and report on the prevalence and mortality of cancers among veterans who served on active duty as aircrew members and regularly flew in fixed-wing aircraft.</p>",
+      "updateDate": "2025-03-04T16:11:00Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-08-14",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>ACES Act of 2025</strong></p><p>This act requires the Department of Veterans Affairs to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to study and report on the prevalence and mortality of cancers among veterans who served on active duty as aircrew members and regularly flew in fixed-wing aircraft.</p>",
+      "updateDate": "2026-06-26T21:39:03Z",
+      "versionCode": "49"
+    }
+  ]
+}

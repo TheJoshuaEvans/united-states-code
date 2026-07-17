@@ -1,0 +1,89 @@
+{
+  "status": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9159/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9159/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 95 (Thursday, June 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SOTO:\nH.R. 9159.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticel 1 Section 8 of the US Constitution\n[Page H3909]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9159/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-04",
+    "latestAction": {
+      "actionDate": "2026-06-04",
+      "text": "Referred to the House Committee on Small Business."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9159",
+    "number": "9159",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001200",
+        "district": 9,
+        "firstName": "Darren",
+        "fullName": "Rep. Soto, Darren [D-FL-9]",
+        "isByRequest": "N",
+        "lastName": "Soto",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001200?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9159/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9159/text?format=json"
+    },
+    "title": "Protect Our Homes Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9159/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T15:06:13Z",
+    "updateDateIncludingText": "2026-07-16T15:06:13Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000622",
+      "district": 1,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Patronis",
+      "party": "R",
+      "sponsorshipDate": "2026-06-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/P000622?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-04T14:02:10Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Small Business Committee",
+      "systemCode": "hssm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hssm00?format=json"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJune 25, 2025\n",
+        "pubDate": "2025-08-08T18:41:00Z",
+        "title": "S. 1872, Critical Infrastructure Manufacturing Feasibility Act",
+        "url": "https://www.cbo.gov/publication/61648"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-81",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/81?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-22",
+    "latestAction": {
+      "actionDate": "2025-11-10",
+      "actionTime": "12:03:07",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1872",
+    "number": "1872",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/text?format=json"
+    },
+    "title": "Critical Infrastructure Manufacturing Feasibility Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1872/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-13T21:01:37Z",
+    "updateDateIncludingText": "2026-07-17T07:56:11Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001303",
+      "firstName": "Lisa",
+      "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blunt Rochester",
+      "party": "D",
+      "sponsorshipDate": "2025-05-22",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/B001303?format=json"
+    },
+    {
+      "bioguideId": "O000174",
+      "firstName": "Jon",
+      "fullName": "Sen. Ossoff, Jon [D-GA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ossoff",
+      "party": "D",
+      "sponsorshipDate": "2025-10-30",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/O000174?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-16T18:26:37Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-06-25T14:38:16Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-05-22T16:53:49Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

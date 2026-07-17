@@ -1,7 +1,7 @@
 {
   "status": {
     "actions": {
-      "count": 15,
+      "count": 16,
       "url": "https://api.congress.gov/v3/bill/119/hr/6556/actions?format=json"
     },
     "committeeReports": [
@@ -11,7 +11,7 @@
       }
     ],
     "committees": {
-      "count": 1,
+      "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/6556/committees?format=json"
     },
     "congress": 119,
@@ -23,9 +23,8 @@
     },
     "introducedDate": "2025-12-10",
     "latestAction": {
-      "actionDate": "2026-07-14",
-      "actionTime": "15:16:22",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
+      "actionDate": "2026-07-15",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
     },
     "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6556",
     "number": "6556",
@@ -57,17 +56,17 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/6556/summaries?format=json"
     },
     "textVersions": {
-      "count": 2,
+      "count": 3,
       "url": "https://api.congress.gov/v3/bill/119/hr/6556/text?format=json"
     },
     "title": "Failing Bank Acquisition Fairness Act",
     "titles": {
-      "count": 4,
+      "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/6556/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T08:07:53Z",
-    "updateDateIncludingText": "2026-07-15T08:07:53Z"
+    "updateDate": "2026-07-16T14:29:23Z",
+    "updateDateIncludingText": "2026-07-17T09:25:48Z"
   },
   "cosponsors": [
     {
@@ -84,6 +83,19 @@
     }
   ],
   "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-07-15T19:13:03Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
     {
       "activities": [
         {

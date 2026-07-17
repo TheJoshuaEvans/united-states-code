@@ -1,0 +1,124 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Veterans\u2019 Affairs on July 30, 2025",
+        "pubDate": "2025-08-20T20:48:00Z",
+        "title": "S. 610, Ensuring VetSuccess On Campus Act of 2025",
+        "url": "https://www.cbo.gov/publication/61634"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "actionTime": "16:18:26",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/610",
+    "number": "610",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001277",
+        "firstName": "Richard",
+        "fullName": "Sen. Blumenthal, Richard [D-CT]",
+        "isByRequest": "N",
+        "lastName": "Blumenthal",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/B001277?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/text?format=json"
+    },
+    "title": "Ensuring VetSuccess On Campus Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/610/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-08T11:03:19Z",
+    "updateDateIncludingText": "2026-07-17T07:39:26Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-02-18",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-02T19:29:57Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T20:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-11T14:30:12Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-03-11T14:30:12Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-02-18T21:12:16Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssva00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-18",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Ensuring VetSuccess On Campus Act of 2025</strong></p><p>This bill requires the Department of Veterans Affairs to ensure that the VetSuccess on Campus (VSOC) program is located in every state. The program supports veterans, servicemembers, and qualified dependents who are transitioning from military service to college life.</p><p>The VA must ensure that at least one VSOC counselor is located in each state.</p>",
+      "updateDate": "2025-03-27T14:58:08Z",
+      "versionCode": "00"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "status": {
+    "actions": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/actions?format=json"
+    },
+    "amendments": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "actionTime": "10:33:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1199",
+    "number": "1199",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/text?format=json"
+    },
+    "title": "SBA Fraud Enforcement Extension Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/1199/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-05T08:05:39Z",
+    "updateDateIncludingText": "2026-07-16T20:33:35Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-18T18:30:04Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2026-02-25T19:30:00Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-12-10T19:30:00Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-07-30T15:48:05Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-16T18:40:52Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-03-27T20:06:56Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sssb00?format=json"
+    }
+  ]
+}

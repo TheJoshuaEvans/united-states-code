@@ -1,0 +1,58 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/804/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/804/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4117; text: CR S4109)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/804",
+    "number": "804",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "J000312",
+        "firstName": "James",
+        "fullName": "Sen. Justice, James C. [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Justice",
+        "middleName": "C.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/J000312?format=json"
+      }
+    ],
+    "title": "A resolution commemorating the tenth anniversary of the 2016 West Virginia floods.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/804/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-16T14:15:41Z",
+    "updateDateIncludingText": "2026-07-16T14:15:41Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    }
+  ]
+}

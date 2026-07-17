@@ -1,0 +1,204 @@
+{
+  "status": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-03",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "actionTime": "10:21:29",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/355",
+    "number": "355",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001288",
+        "firstName": "Cory",
+        "fullName": "Sen. Booker, Cory A. [D-NJ]",
+        "isByRequest": "N",
+        "lastName": "Booker",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/B001288?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/text?format=json"
+    },
+    "title": "FDA Modernization Act 3.0",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/355/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-24T17:14:32Z",
+    "updateDateIncludingText": "2026-07-17T07:24:22Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-02-03",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    },
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2025-02-03",
+      "state": "RI",
+      "url": "https://api.congress.gov/v3/member/W000802?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2025-02-03",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    },
+    {
+      "bioguideId": "P000603",
+      "firstName": "Rand",
+      "fullName": "Sen. Paul, Rand [R-KY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Paul",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/P000603?format=json"
+    },
+    {
+      "bioguideId": "L000570",
+      "firstName": "Ben",
+      "fullName": "Sen. Luj\u00e1n, Ben Ray [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Luj\u00e1n",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-03",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000570?format=json"
+    },
+    {
+      "bioguideId": "S001150",
+      "firstName": "Adam",
+      "fullName": "Sen. Schiff, Adam B. [D-CA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Schiff",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/S001150?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-12-17T00:52:52Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-03T20:55:42Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-03",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>FDA Modernization Act 3.0</strong></p><p>This bill requires the Food and Drug Administration (FDA) to publish an interim final rule implementing a provision of the Consolidated Appropriations Act of 2023 that authorized the use of certain alternatives to animal testing to support investigational use of a new drug.&nbsp;</p><p>The rule must replace references to animal tests, data, studies, models, and research with references to nonclinical tests, data, studies, models, and research throughout the FDA\u2019s regulations governing investigational new drug applications, and may make other changes to the regulations as appropriate.&nbsp;</p><p>The rule must be published within one year of the bill\u2019s enactment, and must take immediate effect as an interim final rule.&nbsp;</p>",
+      "updateDate": "2025-06-04T19:23:53Z",
+      "versionCode": "00"
+    }
+  ]
+}

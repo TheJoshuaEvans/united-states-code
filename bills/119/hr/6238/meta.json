@@ -4,6 +4,12 @@
       "count": 8,
       "url": "https://api.congress.gov/v3/bill/119/hr/6238/actions?format=json"
     },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-734",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/734?format=json"
+      }
+    ],
     "committees": {
       "count": 1,
       "url": "https://api.congress.gov/v3/bill/119/hr/6238/committees?format=json"
@@ -48,6 +54,10 @@
       "count": 6,
       "url": "https://api.congress.gov/v3/bill/119/hr/6238/subjects?format=json"
     },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6238/summaries?format=json"
+    },
     "textVersions": {
       "count": 2,
       "url": "https://api.congress.gov/v3/bill/119/hr/6238/text?format=json"
@@ -58,8 +68,8 @@
       "url": "https://api.congress.gov/v3/bill/119/hr/6238/titles?format=json"
     },
     "type": "HR",
-    "updateDate": "2026-07-15T19:52:20Z",
-    "updateDateIncludingText": "2026-07-15T19:52:20Z"
+    "updateDate": "2026-07-16T20:41:35Z",
+    "updateDateIncludingText": "2026-07-16T20:41:35Z"
   },
   "cosponsors": [
     {
@@ -135,6 +145,15 @@
       "systemCode": "hsif00",
       "type": "Standing",
       "url": "https://api.congress.gov/v3/committee/house/hsif00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2026-07-09",
+      "actionDesc": "Reported to House",
+      "text": "<p><strong>NIH Implementing a Maternal health and PRegnancy Outcomes Vision for Everyone Act or the NIH IMPROVE Act</strong></p><p>This bill provides statutory authority for the National Institutes of Health to provide grants and other support for research on improving health outcomes for pregnant and postpartum women,  especially in populations that are disproportionately affected.</p>",
+      "updateDate": "2026-07-16T19:47:44Z",
+      "versionCode": "07"
     }
   ]
 }

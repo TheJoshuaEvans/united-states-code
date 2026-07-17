@@ -1,0 +1,100 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-10-17",
+      "actionTime": "14:23:18",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2403",
+    "number": "2403",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001198",
+        "firstName": "Roger",
+        "fullName": "Sen. Marshall, Roger [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Marshall",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/text?format=json"
+    },
+    "title": "Retire through Ownership Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2403/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-16T16:38:39Z",
+    "updateDateIncludingText": "2026-07-17T02:27:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000384",
+      "firstName": "Timothy",
+      "fullName": "Sen. Kaine, Tim [D-VA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaine",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/K000384?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-09-11T19:15:30Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-07-30T14:00:06Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-23T17:08:14Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sshr00?format=json"
+    }
+  ]
+}

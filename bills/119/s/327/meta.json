@@ -1,0 +1,104 @@
+{
+  "status": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-30",
+    "latestAction": {
+      "actionDate": "2026-03-16",
+      "actionTime": "15:05:55",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/327",
+    "number": "327",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001113",
+        "firstName": "Catherine",
+        "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Cortez Masto",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/C001113?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/text?format=json"
+    },
+    "title": "HONOR Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/327/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-17T15:15:27Z",
+    "updateDateIncludingText": "2026-07-17T07:21:46Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-10T21:07:10Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-01-30T17:38:27Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-30",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Hindering Oppressive Nations from Obtaining Revenue Act or HONOR Act</strong></p><p>This bill prohibits a taxpayer from claiming the foreign tax credit (FTC) or an itemized tax deduction for taxes paid, accrued, or deemed paid to Russia.</p><p>Under current law, a taxpayer may claim the FTC for income, war profits, and excess profits taxes (or taxes imposed in lieu of these taxes) paid, accrued, or deemed paid to a foreign country (and certain U.S. possessions) or an itemized tax deduction for such taxes, both subject to limitations.</p><p>However, under current law, a taxpayer may not claim the FTC (but may claim an itemized tax deduction) for taxes paid to a foreign country if (1) the United States does not recognize the country\u2019s government, (2) the United States severs or does not conduct diplomatic relations with the country, or (3) the country is designated by the Department of State as supporting international terrorist acts. (Currently, the FTC is disallowed for taxes paid, accrued, or deemed paid to Iran, North Korea, Sudan, and Syria.)</p><p>Under the bill, a taxpayer may not claim the FTC for taxes paid, accrued, or deemed paid to Russia beginning 30 days after the date of enactment and until normal U.S. trade relations with Russia are restored (pursuant to requirements established by the Suspending Normal Trade Relations with Russia and Belarus Act).</p><p>The bill also disallows an itemized tax deduction for taxes paid, accrued, or deemed to be paid to Russia (effective 90 days after the date of enactment).</p>",
+      "updateDate": "2026-04-17T15:08:39Z",
+      "versionCode": "00"
+    }
+  ]
+}

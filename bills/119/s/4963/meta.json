@@ -9,6 +9,11 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4963/committees?format=json"
     },
     "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4963/cosponsors?format=json"
+    },
     "introducedDate": "2026-07-14",
     "latestAction": {
       "actionDate": "2026-07-14",
@@ -36,9 +41,22 @@
       "url": "https://api.congress.gov/v3/bill/119/s/4963/titles?format=json"
     },
     "type": "S",
-    "updateDate": "2026-07-15T10:56:22Z",
-    "updateDateIncludingText": "2026-07-15T10:56:22Z"
+    "updateDate": "2026-07-16T10:56:25Z",
+    "updateDateIncludingText": "2026-07-16T10:56:25Z"
   },
+  "cosponsors": [
+    {
+      "bioguideId": "B001277",
+      "firstName": "Richard",
+      "fullName": "Sen. Blumenthal, Richard [D-CT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blumenthal",
+      "party": "D",
+      "sponsorshipDate": "2026-07-15",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/B001277?format=json"
+    }
+  ],
   "committees": [
     {
       "activities": [

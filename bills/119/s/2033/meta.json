@@ -1,0 +1,115 @@
+{
+  "status": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on December 17, 2025",
+        "pubDate": "2026-03-19T19:57:00Z",
+        "title": "S. 2033, Cross-Boundary Wildfire Solutions Act",
+        "url": "https://www.cbo.gov/publication/62245"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-11",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "actionTime": "10:49:46",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2033",
+    "number": "2033",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000574",
+        "firstName": "Ruben",
+        "fullName": "Sen. Gallego, Ruben [D-AZ]",
+        "isByRequest": "N",
+        "lastName": "Gallego",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000574?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/text?format=json"
+    },
+    "title": "Cross-Boundary Wildfire Solutions Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2033/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-23T01:45:33Z",
+    "updateDateIncludingText": "2026-07-17T08:43:23Z"
+  },
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-06-08T22:26:19Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-12-17T14:30:08Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-06-11T17:57:05Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2025-12-02T20:00:44Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-06-11",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Cross-Boundary Wildfire Solutions Act</strong></p><p>This bill directs the Government Accountability Office to study wildfire mitigation across land ownership boundaries and make recommendations to simplify cross-boundary wildfire mitigation between federal land management agencies and state, local, and Indian tribal governments.</p>",
+      "updateDate": "2026-02-09T20:30:27Z",
+      "versionCode": "00"
+    }
+  ]
+}

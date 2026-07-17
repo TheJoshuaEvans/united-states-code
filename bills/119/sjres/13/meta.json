@@ -1,0 +1,165 @@
+{
+  "status": {
+    "actions": {
+      "count": 29,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-06-20",
+      "text": "Became Public Law No: 119-19."
+    },
+    "laws": [
+      {
+        "number": "119-19",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/13",
+    "number": "13",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000393",
+        "firstName": "John",
+        "fullName": "Sen. Kennedy, John [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/K000393?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/text?format=json"
+    },
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/13/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2025-10-09T03:26:15Z",
+    "updateDateIncludingText": "2026-07-17T07:44:28Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H000601",
+      "firstName": "Bill",
+      "fullName": "Sen. Hagerty, Bill [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hagerty",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/H000601?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "S001184",
+      "firstName": "Tim",
+      "fullName": "Sen. Scott, Tim [R-SC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Scott",
+      "party": "R",
+      "sponsorshipDate": "2025-02-06",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/S001184?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-03-31",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2025-04-29",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-05-06T14:38:17Z",
+          "name": "Discharged From"
+        },
+        {
+          "date": "2025-02-04T20:27:28Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-04",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This joint resolution nullifies the final rule issued by the Department of the Treasury\u2019s Office of the Comptroller of the Currency titled <em>Business Combinations Under the Bank Merger Act</em> and published on September 25, 2024. The rule revises procedures for reviewing applications for proposed bank mergers, such as by removing automatic approvals under an expedited review procedure and by discontinuing streamlined application forms.</p>",
+      "updateDate": "2025-05-06T16:58:09Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-06-20",
+      "actionDesc": "Public Law",
+      "text": "<p>This joint resolution nullifies the final rule issued by the Department of the Treasury\u2019s Office of the Comptroller of the Currency titled <em>Business Combinations Under the Bank Merger Act</em> and published on September 25, 2024. The rule revises procedures for reviewing applications for proposed bank mergers, such as by removing automatic approvals under an expedited review procedure and by discontinuing streamlined application forms.</p>",
+      "updateDate": "2025-08-25T14:32:27Z",
+      "versionCode": "49"
+    }
+  ]
+}

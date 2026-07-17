@@ -1,0 +1,109 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2563/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation \non October 21, 2025\n",
+        "pubDate": "2026-01-13T22:01:00Z",
+        "title": "S. 2563, Global Investment in American Jobs Act of 2025",
+        "url": "https://www.cbo.gov/publication/62017"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-116",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/116?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2563/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2563/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-31",
+    "latestAction": {
+      "actionDate": "2026-03-24",
+      "actionTime": "14:11:46",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2563",
+    "number": "2563",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "Y000064",
+        "firstName": "Todd",
+        "fullName": "Sen. Young, Todd [R-IN]",
+        "isByRequest": "N",
+        "lastName": "Young",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2563/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2563/text?format=json"
+    },
+    "title": "Global Investment in American Jobs Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2563/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-11T23:26:43Z",
+    "updateDateIncludingText": "2026-07-17T02:28:57Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "P000595",
+      "firstName": "Gary",
+      "fullName": "Sen. Peters, Gary C. [D-MI]",
+      "isOriginalCosponsor": true,
+      "lastName": "Peters",
+      "party": "D",
+      "sponsorshipDate": "2025-07-31",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/P000595?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-12T15:07:11Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-10-21T14:00:10Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-07-31T14:51:35Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ]
+}

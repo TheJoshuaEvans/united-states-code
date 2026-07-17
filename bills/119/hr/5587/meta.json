@@ -1,0 +1,184 @@
+{
+  "status": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-613",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/613?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 158 (Friday, September 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. KIM:\nH.R. 5587.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4502]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-26",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5587",
+    "number": "5587",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000397",
+        "district": 40,
+        "firstName": "Young",
+        "fullName": "Rep. Kim, Young [R-CA-40]",
+        "isByRequest": "N",
+        "lastName": "Kim",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000397?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/text?format=json"
+    },
+    "title": "HEATS Act",
+    "titles": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5587/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-16T10:56:32Z",
+    "updateDateIncludingText": "2026-07-16T10:56:32Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "G000605",
+      "district": 13,
+      "firstName": "Adam",
+      "fullName": "Rep. Gray, Adam [D-CA-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gray",
+      "party": "D",
+      "sponsorshipDate": "2025-09-26",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000605?format=json"
+    },
+    {
+      "bioguideId": "B001323",
+      "district": 0,
+      "firstName": "Nicholas",
+      "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Begich",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-15",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/B001323?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-28T21:18:42Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-07-15T18:30:06Z",
+              "name": "Hearings By (subcommittee)"
+            }
+          ],
+          "name": "Public Lands, Forests, and Mining Subcommittee",
+          "systemCode": "sseg03",
+          "url": "https://api.congress.gov/v3/committee/senate/sseg03?format=json"
+        }
+      ],
+      "systemCode": "sseg00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sseg00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2026-04-15T18:19:17Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2026-03-05T17:45:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-09-26T14:02:50Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "subcommittees": [
+        {
+          "activities": [
+            {
+              "date": "2026-03-05T15:00:00Z",
+              "name": "Discharged from"
+            },
+            {
+              "date": "2025-12-16T15:15:00Z",
+              "name": "Hearings By (subcommittee)"
+            },
+            {
+              "date": "2025-12-09T15:00:00Z",
+              "name": "Referred to"
+            }
+          ],
+          "name": "Energy and Mineral Resources Subcommittee",
+          "systemCode": "hsii06",
+          "url": "https://api.congress.gov/v3/committee/house/hsii06?format=json"
+        }
+      ],
+      "systemCode": "hsii00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-09-26",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Harnessing Energy At Thermal Sources Act or the HEATS Act</strong></p><p>This bill exempts certain geothermal activities on state and private lands (except Indian lands) from drilling permit requirements as well as environmental and historic preservation review requirements.</p><p>First, the bill prohibits the Department of the Interior from requiring an operator to obtain a drilling permit under the Geothermal Steam Act of 1970 for any geothermal exploration and production activity conducted on a nonfederal surface estate (i.e., the part of the estate that is above ground) if (1) the United States holds an ownership interest of less than 50% of the subsurface geothermal estate to be accessed by the proposed action, and (2) the operator submits to Interior a state permit to conduct the geothermal exploration and production activity on the nonfederal surface estate.&nbsp;</p><p>Next, the bill states that such geothermal exploration and production activity is not considered a major federal action under National Environmental Policy Act of 1969 (NEPA). Thus, such activity does not trigger NEPA's environmental review requirements.</p><p>In addition, the bill exempts such activity from the consultation requirements under the Endangered Species Act of 1973. It also exempts the activity from review under the National Historic Preservation Act unless the state in which the activity occurs does not have a state law that addresses the preservation of historic properties.</p>",
+      "updateDate": "2026-04-08T14:41:02Z",
+      "versionCode": "00"
+    }
+  ]
+}

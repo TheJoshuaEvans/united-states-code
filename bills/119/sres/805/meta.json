@@ -1,0 +1,56 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/805/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/805/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-15",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4117; text: CR S4109)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/805",
+    "number": "805",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "sponsors": [
+      {
+        "bioguideId": "W000800",
+        "firstName": "Peter",
+        "fullName": "Sen. Welch, Peter [D-VT]",
+        "isByRequest": "N",
+        "lastName": "Welch",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/W000800?format=json"
+      }
+    ],
+    "title": "A resolution celebrating the historic significance of the 2026 Federation Internationale de Football Association (FIFA) World Cup and welcoming the international community to North America for the first tournament hosted by 3 nations.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/805/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-16T14:16:24Z",
+    "updateDateIncludingText": "2026-07-16T14:16:24Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "ND",
+      "url": "https://api.congress.gov/v3/member/C001096?format=json"
+    }
+  ]
+}

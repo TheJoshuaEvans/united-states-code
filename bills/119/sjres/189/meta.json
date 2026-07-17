@@ -1,0 +1,90 @@
+{
+  "status": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-29",
+    "latestAction": {
+      "actionDate": "2026-04-29",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/189",
+    "number": "189",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000603",
+        "firstName": "Rand",
+        "fullName": "Sen. Paul, Rand [R-KY]",
+        "isByRequest": "N",
+        "lastName": "Paul",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/P000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/text?format=json"
+    },
+    "title": "A joint resolution proposing an amendment to the Constitution of the United States to protect United States citizenship.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/189/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-07-16T10:56:29Z",
+    "updateDateIncludingText": "2026-07-16T10:56:29Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "M001242",
+      "firstName": "Bernie",
+      "fullName": "Sen. Moreno, Bernie [R-OH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moreno",
+      "party": "R",
+      "sponsorshipDate": "2026-07-15",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/M001242?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-04-29T22:02:23Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ]
+}

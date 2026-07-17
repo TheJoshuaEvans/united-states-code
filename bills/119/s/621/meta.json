@@ -1,0 +1,122 @@
+{
+  "status": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Indian Affairs on March 5, 2025",
+        "pubDate": "2025-04-15T14:26:00Z",
+        "title": "S. 621, a bill to accept the request to revoke the charter of incorporation of the Lower Sioux Indian Community in the State of Minnesota at the request of that Community, and for other purposes",
+        "url": "https://www.cbo.gov/publication/61339"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-77",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/77?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-12-15",
+      "actionTime": "16:18:39",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/621",
+    "number": "621",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001203",
+        "firstName": "Tina",
+        "fullName": "Sen. Smith, Tina [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001203?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/text?format=json"
+    },
+    "title": "A bill to accept the request to revoke the charter of incorporation of the Lower Sioux Indian Community in the State of Minnesota at the request of that Community, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/621/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-04T05:06:25Z",
+    "updateDateIncludingText": "2026-07-17T07:39:33Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "K000367",
+      "firstName": "Amy",
+      "fullName": "Sen. Klobuchar, Amy [D-MN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Klobuchar",
+      "party": "D",
+      "sponsorshipDate": "2025-02-18",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/K000367?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-10-14T19:50:20Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-03-05T19:30:26Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-02-18T23:01:09Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Indian Affairs Committee",
+      "systemCode": "slia00",
+      "type": "Other",
+      "url": "https://api.congress.gov/v3/committee/senate/slia00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-02-18",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p>This bill accepts the request of the Lower Sioux Indian Community (a federally recognized Indian tribe in Minnesota) to revoke the community's charter of incorporation.</p>",
+      "updateDate": "2025-05-28T18:40:47Z",
+      "versionCode": "00"
+    }
+  ]
+}

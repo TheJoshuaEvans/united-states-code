@@ -1,0 +1,179 @@
+{
+  "status": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 5, 2025\n",
+        "pubDate": "2025-02-19T14:32:00Z",
+        "title": "S. 257, Promoting Resilient Supply Chains Act of 2025",
+        "url": "https://www.cbo.gov/publication/61206"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-16",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/16?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-27",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/257",
+    "number": "257",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000127",
+        "firstName": "Maria",
+        "fullName": "Sen. Cantwell, Maria [D-WA]",
+        "isByRequest": "N",
+        "lastName": "Cantwell",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/C000127?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/text?format=json"
+    },
+    "title": "Promoting Resilient Supply Chains Act of 2025",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/257/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-09T14:15:19Z",
+    "updateDateIncludingText": "2026-07-17T02:29:03Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-27",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "B001303",
+      "firstName": "Lisa",
+      "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+      "isOriginalCosponsor": true,
+      "lastName": "Blunt Rochester",
+      "party": "D",
+      "sponsorshipDate": "2025-01-27",
+      "state": "DE",
+      "url": "https://api.congress.gov/v3/member/B001303?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": false,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-03-11",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-09-30",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2026-03-26T14:00:00Z",
+          "name": "Hearings By (full committee)"
+        },
+        {
+          "date": "2025-02-11T19:34:37Z",
+          "name": "Hearings By (full committee)"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json"
+    },
+    {
+      "activities": [
+        {
+          "date": "2025-04-28T20:36:04Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-05T15:00:00Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-27T17:24:46Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Promoting Resilient Supply Chains Act of 2025</strong></p><p>This bill requires the Industry and Analysis office of the International Trade Administration of the Department of Commerce to monitor and respond to disruptions in critical industries and supply chains.</p><p>Specifically, the office must (1) establish the Supply Chain Resilience Working Group; (2) assess,&nbsp;map, and model critical supply chains; (3) identify high-priority supply chain gaps and vulnerabilities in critical industries; (4) identify and evaluate the effect of potential supply chain disruptions on market stability; and (5) collaborate with other governmental bodies and key international partners to identify opportunities to reduce supply chain gaps and vulnerabilities.</p><p>Additionally, the office, in consultation with the working group and specified nongovernmental entities, must&nbsp;make recommendations and implement a strategy to improve the security and resiliency of manufacturing capacity and supply chains for critical industries (including critical industries for emerging technologies).</p><p>The bill includes various reporting requirements.</p>",
+      "updateDate": "2025-05-28T00:15:54Z",
+      "versionCode": "00"
+    }
+  ]
+}

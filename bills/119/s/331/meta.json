@@ -1,0 +1,474 @@
+{
+  "status": {
+    "actions": {
+      "count": 42,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/actions?format=json"
+    },
+    "amendments": {
+      "count": 35,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on the Judiciary on March 3, 2025",
+        "pubDate": "2025-03-10T17:59:00Z",
+        "title": "S. 331, HALT Fentanyl Act",
+        "url": "https://www.cbo.gov/publication/61243"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 31,
+      "countIncludingWithdrawnCosponsors": 31,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-30",
+    "latestAction": {
+      "actionDate": "2025-07-16",
+      "text": "Became Public Law No: 119-26."
+    },
+    "laws": [
+      {
+        "number": "119-26",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/331",
+    "number": "331",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001075?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/text?format=json"
+    },
+    "title": "HALT Fentanyl Act",
+    "titles": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/331/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-12T15:04:04Z",
+    "updateDateIncludingText": "2026-07-17T07:22:07Z"
+  },
+  "cosponsors": [
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": true,
+      "lastName": "Heinrich",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/H001046?format=json"
+    },
+    {
+      "bioguideId": "G000386",
+      "firstName": "Chuck",
+      "fullName": "Sen. Grassley, Chuck [R-IA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Grassley",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/G000386?format=json"
+    },
+    {
+      "bioguideId": "M001198",
+      "firstName": "Roger",
+      "fullName": "Sen. Marshall, Roger [R-KS]",
+      "isOriginalCosponsor": true,
+      "lastName": "Marshall",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M001198?format=json"
+    },
+    {
+      "bioguideId": "Y000064",
+      "firstName": "Todd",
+      "fullName": "Sen. Young, Todd [R-IN]",
+      "isOriginalCosponsor": true,
+      "lastName": "Young",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/Y000064?format=json"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": true,
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "MT",
+      "url": "https://api.congress.gov/v3/member/D000618?format=json"
+    },
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    },
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/C001047?format=json"
+    },
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": true,
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    },
+    {
+      "bioguideId": "K000393",
+      "firstName": "John",
+      "fullName": "Sen. Kennedy, John [R-LA]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kennedy",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "LA",
+      "url": "https://api.congress.gov/v3/member/K000393?format=json"
+    },
+    {
+      "bioguideId": "G000574",
+      "firstName": "Ruben",
+      "fullName": "Sen. Gallego, Ruben [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gallego",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000574?format=json"
+    },
+    {
+      "bioguideId": "H001076",
+      "firstName": "Maggie",
+      "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hassan",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/H001076?format=json"
+    },
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "NV",
+      "url": "https://api.congress.gov/v3/member/C001113?format=json"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": true,
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": true,
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2025-01-30",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/K000383?format=json"
+    },
+    {
+      "bioguideId": "K000377",
+      "firstName": "Mark",
+      "fullName": "Sen. Kelly, Mark [D-AZ]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kelly",
+      "party": "D",
+      "sponsorshipDate": "2025-01-30",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/K000377?format=json"
+    },
+    {
+      "bioguideId": "C001056",
+      "firstName": "John",
+      "fullName": "Sen. Cornyn, John [R-TX]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cornyn",
+      "party": "R",
+      "sponsorshipDate": "2025-01-30",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001056?format=json"
+    },
+    {
+      "bioguideId": "H001089",
+      "firstName": "Josh",
+      "fullName": "Sen. Hawley, Josh [R-MO]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hawley",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/H001089?format=json"
+    },
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/T000476?format=json"
+    },
+    {
+      "bioguideId": "G000359",
+      "firstName": "Lindsey",
+      "fullName": "Sen. Graham, Lindsey [R-SC]",
+      "isOriginalCosponsor": false,
+      "lastName": "Graham",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/G000359?format=json"
+    },
+    {
+      "bioguideId": "C001098",
+      "firstName": "Ted",
+      "fullName": "Sen. Cruz, Ted [R-TX]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cruz",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001098?format=json"
+    },
+    {
+      "bioguideId": "B001319",
+      "firstName": "Katie",
+      "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Britt",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/B001319?format=json"
+    },
+    {
+      "bioguideId": "B001243",
+      "firstName": "Marsha",
+      "fullName": "Sen. Blackburn, Marsha [R-TN]",
+      "isOriginalCosponsor": false,
+      "lastName": "Blackburn",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001243?format=json"
+    },
+    {
+      "bioguideId": "L000577",
+      "firstName": "Mike",
+      "fullName": "Sen. Lee, Mike [R-UT]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lee",
+      "party": "R",
+      "sponsorshipDate": "2025-02-03",
+      "state": "UT",
+      "url": "https://api.congress.gov/v3/member/L000577?format=json"
+    },
+    {
+      "bioguideId": "M001244",
+      "firstName": "Ashley",
+      "fullName": "Sen. Moody, Ashley [R-FL]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moody",
+      "party": "R",
+      "sponsorshipDate": "2025-02-11",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001244?format=json"
+    },
+    {
+      "bioguideId": "M001243",
+      "firstName": "David",
+      "fullName": "Sen. McCormick, David [R-PA]",
+      "isOriginalCosponsor": false,
+      "lastName": "McCormick",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/M001243?format=json"
+    },
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": false,
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "ME",
+      "url": "https://api.congress.gov/v3/member/C001035?format=json"
+    },
+    {
+      "bioguideId": "S001198",
+      "firstName": "Dan",
+      "fullName": "Sen. Sullivan, Dan [R-AK]",
+      "isOriginalCosponsor": false,
+      "lastName": "Sullivan",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "AK",
+      "url": "https://api.congress.gov/v3/member/S001198?format=json"
+    },
+    {
+      "bioguideId": "J000312",
+      "firstName": "James",
+      "fullName": "Sen. Justice, James C. [R-WV]",
+      "isOriginalCosponsor": false,
+      "lastName": "Justice",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/J000312?format=json"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-03-06",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/R000618?format=json"
+    },
+    {
+      "bioguideId": "E000295",
+      "firstName": "Joni",
+      "fullName": "Sen. Ernst, Joni [R-IA]",
+      "isOriginalCosponsor": false,
+      "lastName": "Ernst",
+      "party": "R",
+      "sponsorshipDate": "2025-03-10",
+      "state": "IA",
+      "url": "https://api.congress.gov/v3/member/E000295?format=json"
+    },
+    {
+      "bioguideId": "H001079",
+      "firstName": "Cindy",
+      "fullName": "Sen. Hyde-Smith, Cindy [R-MS]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hyde-Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-03-11",
+      "state": "MS",
+      "url": "https://api.congress.gov/v3/member/H001079?format=json"
+    }
+  ],
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2025-03-03T21:28:30Z",
+          "name": "Reported By"
+        },
+        {
+          "date": "2025-02-27T17:07:19Z",
+          "name": "Markup By"
+        },
+        {
+          "date": "2025-01-30T18:13:22Z",
+          "name": "Referred To"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Judiciary Committee",
+      "systemCode": "ssju00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssju00?format=json"
+    }
+  ],
+  "summaries": [
+    {
+      "actionDate": "2025-01-30",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Halt All Lethal Trafficking of Fentanyl Act or the HALT Fentanyl Act</strong></p><p>This bill permanently places fentanyl-related substances as a class into schedule I of the Controlled Substances Act. A schedule I controlled substance is a drug, substance, or chemical that has a high potential for abuse; has no currently accepted medical value; and is subject to regulatory controls and administrative, civil, and criminal penalties under the Controlled Substances Act.</p><p>Under the bill, offenses involving fentanyl-related substances are triggered by the same quantity thresholds and subject to the same penalties as offenses involving fentanyl analogues (e.g., offenses involving 100 grams or more trigger a 10-year mandatory minimum prison term).</p><p>Additionally, the bill establishes a new, alternative registration process for certain schedule I research.</p><p>The bill also makes several other changes to registration requirements for conducting research with controlled substances, including</p><ul><li>permitting a single registration for related research sites in certain circumstances,</li><li>waiving the requirement for a new inspection in certain situations, and</li><li>allowing a registered researcher to perform certain manufacturing activities with small quantities of a substance without obtaining a manufacturing registration.</li></ul><p>Finally, the bill expresses the sense that Congress agrees with the interpretation of the Controlled Substances Act in <em>United States v. McCray</em>, a 2018 case decided by the U.S. District Court for the Western District of New York. In that case, the court held that butyryl fentanyl, a controlled substance, can be considered an analogue of fentanyl even though, under the Controlled Substances Act, the term <em>controlled substance analogue</em> specifically excludes a controlled substance.</p>",
+      "updateDate": "2025-03-05T15:36:42Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2025-07-17",
+      "actionDesc": "Public Law",
+      "text": "<p><strong>Halt All Lethal Trafficking of Fentanyl Act or the HALT Fentanyl Act</strong></p><p>This act permanently places fentanyl-related substances as a class into schedule I of the Controlled Substances Act. A schedule I controlled substance is a drug, substance, or chemical that has a high potential for abuse; has no currently accepted medical value; and is subject to regulatory controls and administrative, civil, and criminal penalties under the Controlled Substances Act.</p><p>Under the act, offenses involving fentanyl-related substances are triggered by the same quantity thresholds and subject to the same penalties as offenses involving fentanyl analogues (e.g., offenses involving 100 grams or more trigger a 10-year mandatory minimum prison term).</p><p>Additionally, the act establishes a new, alternative registration process for certain schedule I research.</p><p>The act also makes several other changes to registration requirements for conducting research with controlled substances, including</p><ul><li>permitting a single registration for related research sites in certain circumstances,</li><li>waiving the requirement for a new inspection in certain situations, and</li><li>allowing a registered researcher to perform certain manufacturing activities with small quantities of a substance without obtaining a manufacturing registration.</li></ul><p>Finally, the act expresses the sense that Congress agrees with the interpretation of the Controlled Substances Act in <em>United States v. McCray</em>, a 2018 case decided by the U.S. District Court for the Western District of New York. In that case, the court held that butyryl fentanyl, a controlled substance, can be considered an analogue of fentanyl even though, under the Controlled Substances Act, the term <em>controlled substance analogue</em> specifically excludes a controlled substance.</p>",
+      "updateDate": "2026-01-27T16:44:35Z",
+      "versionCode": "49"
+    }
+  ]
+}
